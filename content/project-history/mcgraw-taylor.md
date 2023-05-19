@@ -1,7 +1,7 @@
 ---
 draft: false
 slug: mcgraw-taylor
-imageFeatured: taylor-mcGraw.jpg
+imageFeatured: taylor-mcgraw.jpg
 name: Taylor McGraw
 org: The Bell
 jobtitle: Executive Director
