@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    {{ partial "head" . }}
+</head>
+    <body class="d-flex flex-column min-vh-100 d-print-block">
+        <div class="container-fluid  d-print-block">
+            <div class="row vh-100 d-print-block">
+            <div class="row flex-nowrap">
+                {{ partial "header-sidebar" . }}
+    <main class="col mt-3 ms-2">
+        <a href="#" data-bs-target="#sidebar" data-bs-toggle="collapse" class="btn btn-primary d-print-none" aria-expanded="true"><i class="bi bi-list bi-lg py-2 p-1"></i> Menu</a>
+        <div class="col-lg-12 mt-5 mx-auto d-print-block">
+        {{ block "main" . }}{{ end }}
+    </div>
+</div>  
+    </main>
+    </div>
+</div> 
+{{ partial "scriptfooter" .}}
+</body>
+<script type="text/javascript" src="/js/text-expand.js"></script>
+</html>

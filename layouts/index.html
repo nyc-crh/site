@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    {{ partial "head" . }}
+</head>
+<div class="container">
+    <div class="row py-5 g-5">
+        <div class="col-6">
+            <img src="/img/nyccrh-logo-lg.jpg" alt="" class="img-fluid d-block mx-auto">
+        </div>
+        <div class="col-6 order-lg-first">
+            <h1>{{ .Params.heading }}</h1>
+            <p>{{ .Content | markdownify }}</p>
+            <div>
+                {{ with .Params.btn1 }}
+                {{ if and .text .url }}
+                <a type="button" href="{{ .url }}" class="btn btn-lg btn-outline-danger interact px-4 me-2" role="button" >{{ .text }}</a>
+                {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </div>
+</div>

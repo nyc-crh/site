@@ -1,0 +1,15 @@
+<div class="">
+  {{ with .Params.imageFeatured }}
+  {{ $image := resources.Get (printf "/images/%s" .)}}
+    <div style="float:left;"><img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth mx-auto d-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+  {{end}}</div>
+    <div class="">
+        <h3>{{ .Params.name }}</h3>
+        <h4>{{ .Params.org }}</h4>
+        <h4>{{ .Params.jobtitle }}</h4></div>
+     <div class="py-2" style="clear:both;">
+        <p>{{ .Params.bio | safeHTML }}</p>
+        <p>{{ .Params.workonproject }}</p>
+    </div>
+  </div>
+  

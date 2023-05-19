@@ -1,0 +1,12 @@
+{{ range .Site.Data.people.people }}
+<div>{{ with .person.imageFeatured }}
+    {{ $image := resources.Get (printf "/images/%s" .)}}
+         <img src="{{ $image }}" class="responsive-figure-fullwidth mx-auto d-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+    {{end}}
+</div>
+<h3>{{ .person.person_name }}</h3>
+<h4>{{ .person.jobtitle }}</h4>
+<h4>{{ .person.jobtitle }}</h4>
+<p>{{ .person.bio }}</p>
+<p>{{ .person.workonproject }}</p>
+{{ end }}

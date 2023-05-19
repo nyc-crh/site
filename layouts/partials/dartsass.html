@@ -1,0 +1,12 @@
+
+<!-- sass options common to dev and production -->
+{{ $optsToCSS := (dict "transpiler" "dartsass" "outputStyle" "compressed" "includePaths" (slice "node_modules")) }}
+<!-- production options -->
+{{ if eq hugo.Environment "development" }}
+{{ $optsToCSS = (dict "transpiler" "dartsass" "enableSourceMap" true "includePaths" (slice "node_modules")) }}
+{{ end }}
+<!-- get source file and compile -->
+{{ $sass := resources.Get . | resources.ToCSS $optsToCSS | postCSS | fingerprint "md5" }}
+{{ $style := $sass | resources.ToCSS }}
+<!-- insert link into html -->
+<link rel="stylesheet" href="{{ $sass.RelPermalink }}" integrity="{{ $sass.Data.Integrity }}">

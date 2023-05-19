@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="col-lg-10 mx-auto justify-content-center py-5">
+        <h1>{{ .Title }}</h1>
+        {{ .Content | markdownify }}
+        </div>
+        <div class="footer-container">
+                <span class="d-flex justify-content-left">&copy;&nbsp; <span> <script>document.write( new Date().getFullYear() );</script>&nbsp; 
+                </span> {{ .Site.Title }}</span>
+              </div>
+{{ end }}

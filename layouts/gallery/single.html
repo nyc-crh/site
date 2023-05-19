@@ -1,0 +1,18 @@
+{{ define "main" }}
+<div class="col-lg-10 mx-auto justify-content-center py-5">
+    <p class="text-danger strong">DRAFT WORK IN PROGRESS. WE ARE SEEKING PERMISSION TO REPRODUCE COPYRIGHTED MATERIALS. YOU ARE WELCOME TO USE IN YOUR CLASSROOM, BUT PLEASE DO NOT SHARE PUBLICLY.</p>
+        <h1> {{ .Params.title | markdownify }}</h1>
+        {{ partial "content" . }}
+        <div class="col-lg-10 mx-auto d-flex justify-content-between py-5 d-print-none">
+          {{ with .PrevInSection }}
+                <div class="float-left g-5"><a class="previous btn btn-primary text-left" href="{{.Permalink}}"> Previous Item </a></div>
+                {{ end }}
+                {{ with .NextInSection }}
+                <div class="float-right g-5"></div><a class="next  btn btn-primary text-right" href="{{.Permalink}}"> Next Item </a></div>
+                {{ end }}
+        </div>
+        <!-- <div class="footer-container">
+          <span class="d-flex justify-content-left">&copy;&nbsp; <span> <script>document.write( new Date().getFullYear() );</script>&nbsp; 
+          </span> {{ .Site.Title }}</span>
+        </div>-->
+{{ end }}

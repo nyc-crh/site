@@ -1,0 +1,106 @@
+{{ define "main" }}
+        
+            <p class="text-danger strong">DRAFT WORK IN PROGRESS. WE ARE SEEKING PERMISSION TO REPRODUCE COPYRIGHTED MATERIALS. YOU ARE WELCOME TO USE IN YOUR CLASSROOM, BUT PLEASE DO NOT SHARE PUBLICLY.</p>
+                <h1>{{ .Page.Params.title }}</h1>
+                 <p>{{ .Content | markdownify }}</p>
+            {{with .Params.cards}}
+            <section>
+                <div class="container-lg">
+                    <div class="gy-3 row">
+                        {{ range $index,$card:= . }}
+                        <div class="col-md-4">
+                            <div class="h-100 card mb-3">
+                                {{$alt:= .alt}}  
+                                {{with .img}}
+                                {{ $image := resources.Get (printf "images/%s" .)}}
+                                {{ with $image }}
+                                <img src="{{ ($image.Fill "400x300 top").Permalink }}" class="card-img-top img-fluid" alt="{{$alt}}" />
+                                {{ end }}
+                                {{end}}
+                                <div class="card-body">
+                                    <h2 class="card-title">{{ .title }}</h2>
+                                    <p class="card-text">{{ .text }}</p>
+                                    {{ with .btn }}
+                                    {{ if and .url .text }}
+                                    <a href="{{ .url }}" class="btn btn-primary">{{ .text }}</a>
+                                    {{ end }}
+                                    {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+            </section>
+            {{end}}
+            <section class="timeline">
+                <div class="container-lg" style="text-align: left!important">
+                  {{ range .RegularPagesRecursive.ByDate}} 
+                    {{$alt:= .Params.imageFeaturedAlt}}
+                    {{$permalink:= .Permalink}}
+                    {{if .Params.hasContentInGallery}}
+                    {{$fileName:= .File.BaseFileName}}
+                    {{$galleryPage:= $.Site.GetPage (printf "gallery/%s" $fileName)}}
+                    {{with $galleryPage}}
+                    <div class="timeline-item">
+                        <div class="timeline-img"></div>
+                        <a href="{{$permalink}}">
+                        <div class="timeline-content">
+                            <div class="timeline-title"><h2>{{ .Params.Title}}</h2></div>
+                            {{ if .Params.Displaydate }}
+                            <div class="date">{{ .Params.Displaydate }}</div>
+                            {{ else }}
+                            <div class="date">{{ .Params.Date.Format "Jan 2, 2006"}}</div>{{ end }}
+                            <div class="timeline-imagewrapper">
+                                <div class="timeline-thumbnail">{{with .Params.imageFeatured}}
+                                    {{ $timelineimage := resources.GetMatch (printf "/images/%s" .)}}
+                                    {{ with $timelineimage }}
+                                    <img src="{{ ($timelineimage.Fill "160x120 top").Permalink }}"  alt="{{ .Params.imageFeaturedAlt }}"/>
+                                    {{ end }}{{end}}</div>
+                                    <div class="timeline-text p2"><p>{{.Params.Eventname}}<br>
+                                    </div>
+                            </div>
+                        </div></a>
+                    </div>
+                    {{end}} 
+                    {{else}}
+                    <div class="timeline-item">
+                        <div class="timeline-img"></div>
+                        {{ if .Params.hasContentInGallery }}<a href="{{$permalink}}">{{else}}
+                        <div class="timeline-content">
+                            <div class="timeline-title"><h2>{{ .Params.Title}}</h2></div>
+                            {{ if .Params.Displaydate }}
+                            <div class="date">{{ .Params.Displaydate }}</div>
+                            {{ else }}
+                            <div class="date">{{ .Params.Date.Format "Jan 2, 2006"}}</div>{{ end }}
+                            <div class="timeline-imagewrapper">
+                                <div class="timeline-thumbnail">{{with .Params.imageFeatured}}
+                                    {{ $timelineimage := resources.GetMatch (printf "/images/%s" .)}}
+                                    {{ with $timelineimage }}
+                                    <img src="{{ ($timelineimage.Fill "160x120 top").Permalink }}"  alt="{{ .Params.imageFeaturedAlt }}" />
+                                    {{ end }}{{end}}</div>
+                                    <div class="timeline-text p2"><p>{{.Params.Eventname}}<br>
+                                </div>
+                            </div>
+                        </div></a>{{end}}
+                    </div>
+                    {{end}}
+                  {{ end }}
+                    {{$allPages:= .Page.Parent.Pages}}
+                    {{$pages:= slice}}
+                    {{range $allPages }}
+                        {{if eq .Params.layout "docset-gallery"}} 
+                            {{$pages = $pages | append .}}
+                        {{end}}
+                    {{end}}
+                    {{$permalink:= .Permalink}}
+                    {{$lastIndex:= sub (len $pages) 1}}
+                    {{range $index, $page:= $pages}}
+                        {{if eq $page.Permalink $permalink}}
+                        {{end}}
+                    {{end}}
+                </div>
+            </section>
+    </div>
+    
+{{ end }}

@@ -1,0 +1,14 @@
+{{ define "main" }}
+  <a href="#" data-bs-target="#sidebar" data-bs-toggle="collapse" class="btn btn-primary"><i class="bi bi-list bi-lg py-2 p-1"></i> Menu</a>
+  <div class="container-lg">
+   <h2> {{ .Params.title | markdownify }}</h2>
+  <div class="row pack justify-content-center mx-auto">
+    <h1>{{ .Title }}</h1>
+    <ul>
+     {{ range $key, $value := .Site.Taxonomies.tags.ByCount }}
+      <li><a href="/tags/{{ $value.Name | urlize }}">{{ $value.Name | title }}</a> ({{ $value.Count }})</li>
+     {{ end }}
+    </ul>
+  </div>
+  </div>
+  {{ end }}

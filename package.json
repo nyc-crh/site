@@ -1,0 +1,36 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "site files for content contributors",
+  "main": "index.js",
+  "scripts": {
+    "dev": "exec-bin node_modules/.bin/hugo/hugo server --gc --disableFastRender",
+    "dev:preview": "exec-bin node_modules/.bin/hugo/hugo server --gc --disableFastRender --buildFuture --buildDrafts",
+    "build": "exec-bin node_modules/.bin/hugo/hugo --gc --cleanDestinationDir --minify",
+    "renderToDisk:dev": "exec-bin node_modules/.bin/hugo/hugo server --disableFastRender --renderToDisk --cleanDestinationDir",
+    "renderToDisk:preview": "exec-bin node_modules/.bin/hugo/hugo server --renderToDisk --cleanDestinationDir --disableFastRender --buildDrafts --buildFuture ",
+    "renderToDisk:production": "exec-bin node_modules/.bin/hugo/hugo server --renderToDisk --cleanDestinationDir --disableFastRender --gc --minify --environment production",
+    "npm-check": "npx npm-check -u",
+    "postinstall": "hugo-installer --version otherDependencies.hugo --extended --destination node_modules/.bin/hugo"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.14",
+    "bootstrap": "^5.2.3",
+    "bootstrap-print-css": "^1.0.1",
+    "exec-bin": "^1.0.0",
+    "fuse.js": "^6.6.2",
+    "hugo-installer": "^4.0.1",
+    "npm-check": "^6.0.1",
+    "postcss": "^8.4.23",
+    "postcss-cli": "^10.1.0"
+  },
+  "otherDependencies": {
+    "hugo": "0.111.3"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.6.0"
+  }
+}

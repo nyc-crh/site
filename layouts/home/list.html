@@ -1,0 +1,15 @@
+{{ define "main" }}
+        <h1>{{ .Title }}</h1>
+        <div class="py-3">{{ .Content | page.RenderString | safeHTML}}</div>
+        <div>
+                {{ with .Params.btn1 }}
+                {{ if and .text .url }}
+                <a type="button" href="{{ .url }}" class="btn btn-lg btn-outline-danger interact px-4 me-2" role="button" >{{ .text }}</a>
+                {{ end }}
+                {{ end }}
+                {{ with .Params.btn2 }}
+                {{ if and .text .url }}
+                <a type="button" href="{{ .url }}" class="btn btn-lg btn-outline-danger interact px-4 me-2" role="button" >{{ .text }}</a>
+                {{ end }}
+                {{ end }}</div>
+{{ end }} 

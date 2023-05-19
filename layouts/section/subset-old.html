@@ -1,0 +1,60 @@
+{{ define "main" }}
+{{ $paginator := .Paginate .Data.Pages }}
+<main class="posts">
+    <h1>{{ .Title }}</h1>
+
+    {{ if .Content }}
+    <div class="content">{{ .Content }}</div>
+    {{ end }}
+    
+  <div class="row">
+    {{ range .Pages.ByWeight }}
+      {{ $images := .Resources.ByType "image" }}
+      {{ $image := index $images 0 }}
+      {{ $image := $image.Fill "512x360 smart" }}
+
+      <div class="col-md-6 col-lg-4">
+        <div class="card">
+          <div class="card-body">
+            <h5 class="card-title">{{ .Title }}</h5>
+            {{ $image := resources.Get (printf "images/%s" .Params.featured_image)}}
+        {{ with $image }}
+         <a href="{{ .Permalink }}"><img src="{{ ( $image.Resize "400x" ).RelPermalink }}" /></a>
+          {{ end }}
+            <p class="card-text">{{ .Summary }}</p>
+          </div>
+        </div>
+      </div>
+    {{ end }}
+    <div class="footnotes" role="doc-endnotes"></div>
+  </div>
+
+  <section class="timeline">
+    <div class="container" style="text-align: left!important">
+      {{ range .Pages.ByDate  }} 
+
+      <div class="timeline-item">
+          <div class="timeline-img"><a href="{{.Permalink}}">
+            {{$title :=  .Title}}
+            {{with (.Resources.Get "image.*")}}.Resize "100x").Permalink}}" />
+            <img alt="{{$title}}"
+              loading="lazy"
+              src="{{.Permalink}}" />
+            {{end}}
+          </a></div>
+
+          <div class="timeline-content js--fadeInLeft">
+              <h2><a href="{{.Permalink}}"><span class="post-title">{{.Title}}</span></a></h2>
+              <div class="date">{{ .Date.Format "Jan 2, 2006"}}</div>
+              <p>
+                  {{.Params.Eventname}}<br>
+                  {{.Params.Eventlocation}}
+
+              </p> 
+          </div>
+      </div>  
+      {{ end }}   
+  </div>
+</section>
+{{ end }}
+
