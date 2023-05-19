@@ -54,12 +54,12 @@ jobs:
         run: echo "$GITHUB_WORKSPACE/sass" >> $GITHUB_PATH
       - name: Build site with Hugo
         run: hugo --gc --minify
-      - name: Publish to CFP
-        uses: cloudflare/pages-action@v1.0.0
-        with:
-          apiToken: ${{ secrets.CFP_API_TOKEN }}
-          accountID: ${{ secrets.CF_ACCOUNT_ID }}
-          projectName: 'hugo-site'
-          # use **your** CFP project's name above
-          directory: 'public'
-          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
+      # - name: Publish to CFP
+      #   uses: cloudflare/pages-action@v1.0.0
+      #   with:
+      #     apiToken: ${{ secrets.CFP_API_TOKEN }}
+      #     accountID: ${{ secrets.CF_ACCOUNT_ID }}
+      #     projectName: 'hugo-site'
+      #     # use **your** CFP project's name above
+      #     directory: 'public'
+      #     gitHubToken: ${{ secrets.GITHUB_TOKEN }}
