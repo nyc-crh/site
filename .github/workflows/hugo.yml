@@ -45,7 +45,7 @@ jobs:
       - name: Install Hugo v${{ env.HUGO_VERSION }}
         run: sudo dpkg -i hugo*.deb
       - name: Download Embedded Dart Sass v${{ env.DART_SASS_VERSION }}
-        run: curl -LJO https://github.com/sass/dart-sass-embedded/releases/download/${{ env.DART_SASS_VERSION }}/sass_embedded-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
+        run: curl -LJO https://github.com/sass/dart-sass/releases/download/${{ env.DART_SASS_VERSION }}/sass_embedded-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
       - name: Unpack Embedded Dart Sass v${{ env.DART_SASS_VERSION }}
         run: |
           tar -xvf sass_embedded-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
