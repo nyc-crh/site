@@ -49,9 +49,9 @@ jobs:
       - name: Unpack Embedded Dart Sass v${{ env.DART_SASS_VERSION }}
         run: |
           tar -xvf dart-sass-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
-          dart-sass/dart-sass --version          
+          dart-sass/sass --version          
       - name: Add to the PATH
-        run: echo "$GITHUB_WORKSPACE/dart-sass" >> $GITHUB_PATH
+        run: echo "$GITHUB_WORKSPACE/sass" >> $GITHUB_PATH
       - name: Build site with Hugo
         run: hugo --gc --minify
       - name: Publish to CFP
