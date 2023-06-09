@@ -1,5 +1,6 @@
 {
     "npm.enableRunFromFolder": true,
     "npm.enableTouchbar": false,
-    "npm.validate.enable": false
+    "npm.validate.enable": false,
+    "npm-scripts.showStartNotification": false
 }

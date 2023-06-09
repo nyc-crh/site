@@ -1,14 +1,14 @@
 --- 
 layout: gallery
 draft: false
-date: 1970-01-01
-displaydate: "1970"
-title: Evelina Antonetty and United Bronx Parents Protest School Lunch
-author: Irving Savlowitz
+date: 2011-02-01
+displaydate: "2011"
+title: Evelina López Antonetty Mural
+author: Tats Cru, Inc.
 citation: >
- "Evelina Antonetty and United Bronx Parents Protest School Lunch," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/united-bronx-parents/evelina-antonetty-ubp-protest-lunch.
-imageFeatured: evelina-antonetty-ubp-protest-lunch.jpg
-imageFeaturedAlt: Evelina Antonetty and parents protest poor lunch quality at schools. One woman is carrying a child, walking across Federal Plaza in Manhattan and other parents carry large plastic bags of food.
+ "Evelina López Antonetty Mural," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/united-bronx-parents/evelina-antonetty-mural.
+imageFeatured: evelina-antonetty-mural.jpg
+imageFeaturedAlt: Black and white mural of Evelina Lopez Antonetty, a Puerto Rican woman, pointing with her left hand and speaking. The rest of the mural shows two children dancing in a field of rubble and a quote by Antonetty. A Puerto Rican flag hangs on a school building, the only colorful object in the painting. 
 embed: 
 embedTitle: 
 text: 
@@ -17,12 +17,12 @@ audio:
 audioTitle: 
 video: 
 videoTitle: 
-eventname: United Bronx Parents protest poor quality school lunch. 
-caption: This photo shows Evelina Antonetty and two women, one carrying a child, walking across Federal Plaza in Manhattan and holding large plastic bags of food.
-archive_source: > 
- Family of Evelina Antonetty, reprinted in Lana Dee Povitz, *Stirrings: How Activist New Yorkers Ignited a Movement for Food Justice* (Chicago: University of Chicago Press, 2019).
+eventname: Tats Cru paints a mural to commemorate the life and work of Evelina López Antonetty. 
+caption: >
+ "Painted by the graffiti artist group Tats Cru in 2011, this mural of Evelina López Antonetty is at 773 Prospect Ave in the South Bronx. The quote reads, "We will never stop struggling here in The Bronx, even though they've destroyed it around us. We would pitch tents if we had to rather than move from here. We would fight back, there is nothing we would not do. They will never take us away from here. I feel very much a part of this and I'm never going to leave, and, after me, my children will be here to carry on. I have very strong children and very strong grandchildren.""
+archive_source: Photograph by [@tatscru](https://www.instagram.com/tatscru/?hl=−)
 source_link: 
-copyright: Under copyright.
+copyright: Under copyright. Used with permission. 
 categories: 
 - Bronx
 - K-12 education
@@ -30,13 +30,11 @@ categories:
 - community activism
 tags: 
 - Latinx people
-- Black people
 - women's activism 
-- school facilities
 questions: 
-- Why do you think the issue of school lunches were so important to parents in the South Bronx?
-- How did Antonetty help the parents organize? What do you think made them effective?
-- How are school lunches today? How would you change your school’s lunch program?
+- How did the artists choose to represent Antonetty? What do her expression and gesture mean to you? What are the artists trying to convey by painting her this way?
+- Read the quote on the right side of the mural. What is the tone and message of the quote? Why might the artists have chosen that quote for this mural?
+- The mural is filled with multiple images, a quote from Antonetty, and a list of her various roles, responsibilities, and commitments. How do you think these different parts of the mural connect  to one another? How do these different parts relate to your understanding of Antonetty?
 --- 
 
 This mural of Evelina López Antonetty was painted by graffiti artist group Tats Cru in 2011. It was at 773 Prospect Ave in the South Bronx. In the mural, the artists refer to some of the terms that local residents used to refer to Antonetty. She was affectionately nicknamed the “mother of the Puerto Rican Community” and the “hell lady of the Bronx” for her unyielding activism and support of the Puerto Rican community.

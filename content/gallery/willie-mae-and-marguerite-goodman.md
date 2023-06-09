@@ -1,47 +1,45 @@
----
+--- 
 layout: gallery
 draft: false
-date: 2015-08-05
-displaydate: 
-title: Women of the Young Lords Party
-author: Bronx Museum of the Arts
+date: 1980-05-01
+displaydate: "undated"
+title: Willie Mae Goodman and Marguerite Goodman
+author: 
 citation: >
- "Women of the Young Lords Party," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/young-lords/women-of-the-young-lords-party.
-imageFeatured: women-of-the-young-lords-party.jpg
-imageFeaturedAlt: Still image from a videotaped event at the Bronx Museum showing a panel of women from the Young Lords sitting at a table and a speaker at a podium
+ "Willie Mae Goodman and Marguerite Goodman," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/gouverneur-parents-association/willie-mae-and-marguerite-goodman.
+imageFeatured: willie-mae-and-marguerite-goodman.jpg
+imageFeaturedAlt: Marguerite Goodman and Willie Mae Goodman sit next to each other. Both are smiling. 
 embed: 
 embedTitle: 
-text: 
+text: willie-mae-and-marguerite-goodman
 mapembed: 
 audio: 
 audioTitle: 
 video: 
-  srcType: youtube
-  srcLink: xLs4dsG4DQc?t=1204
-videoTitle: Women of the Young Lords Party
-eventname: Denise Oliver and other Young Lords members reflect on their years in the party and what they learned.
-caption: This video clip comes from an event at the Bronx Museum of Arts in 2015. At the event women in the Young Lords described the political climate in which the party emerged, why they joined, and how they navigated racism and sexism within the movement. In this clip, Denise Oliver describes the political context in which she and her fellow young activists forged new paths. 
-archive_source: Bronx Museum of Arts
-source_link: https://youtu.be/xLs4dsG4DQc?t=1204
-copyright: Under copyright
+videoTitle: 
+eventname: Willie Mae Goodman and her daughter Marguerite Goodman are photographed together.
+caption: Willie Mae Goodman and her daughter Marguerite Goodman are photographed together.
+archive_source: New York State Office for People with Developmental Disabilities
+source_link: 
+copyright: Used with permission
 categories: 
-- Manhattan
-- Bronx
-- community activism
+- Staten Island
+- parent activism
 tags: 
+- Willowbrook
 - segregation
-- Latinx people
+- institutions
+- disabled people
+- intellectual disabilities
+- physical disabilities
 - Black people
-- protest
-- curriculum
-- organizing
+- social and economic class
 - women's activism
+- photography & imagery
 questions:
-- How does Oliver describe her identity as a “Black American” and her connection to Puerto Rican movements and politics? 
-- Oliver notes the average person in the Young Lords was 17. Why do you think young people have been so instrumental in pushing social change, especially in education?
-- How does Oliver describe the context in which her activism developed in the video clip?
-- Why do you think challenging sexism within the party was important to Oliver?
----
+- What emotions do you see captured in this photograph? How do those emotions relate to the story of Willie Mae Goodman and Marguerite Goodman shared here? 
+- How is this representation of a Black woman activist similar to or different from others in this teaching collection - including the photographs of [Elizabeth Cisco](../topics/black-latina-women/cisco-resisting-segregation/elizabeth-cisco), [Mae Mallory and her daughter Patricia](../topics/black-latina-women/harlem-nine/mae-mallory-and-daughter), and [Denise Oliver](../topics/black-latina-women/young-lords/denise-oliver)? "
+--- 
 
 Mrs. Willie Mae Goodman heard many people speak of her daughter’s death. When she was an infant and a toddler, doctors encouraged Mrs. Goodman and her husband to place Marguerite in an institution. Her doctors predicted that Marguerite would not live beyond two years, and they told her parents that they could send her away.
 
