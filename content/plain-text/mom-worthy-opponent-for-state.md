@@ -10,7 +10,7 @@ by Lawrie Mifflin
 
 Being the parent of a retarded child is difficult in any case, but for Miss Willie Mae Goodman, the difficulties are compounded, Miss Goodman a divorcee who lives alone in an East Harlem housing project has one child—a severely, retarded eighteen-year-old book old girl—and she fears that the state wants to move her daughter to an inferior institution.
 
-Her daughter, Margaret and 174 others are patients at Gouverneur State School at 621 Water Street in lower Manhattan. They were moved from Willowbrook, State School twelve years ago, and since then miss Goodman has been leaving a parent and community crusade to keep the children from being moved again.
+Her daughter, Margaret and 174 others are patients at Gouverneur State School at 621 Water Street in lower Manhattan. They were moved from Willowbrook State School twelve years ago, and since then miss Goodman has been leaving a parent and community crusade to keep the children from being moved again.
 
 ## Positive treatment
 
