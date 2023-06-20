@@ -45,21 +45,16 @@ jobs:
         uses: actions/configure-pages@v3
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
-      - name: Build with Hugo
-        env:
-          # For maximum backward compatibility with Hugo modules
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
-        run: |
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+      - uses: actions/checkout@master
+      - uses: jakejarvis/hugo-build-action@master  # ...or replace 'master' with a full version tag, such as: v0.64.1
+         with:
+           args: --minify --buildDrafts
+     - name: Hugo build # https://github.com/marketplace/actions/hugo-build
+      - uses: actions/upload-artifact@master
         with:
-          path: ./public
-      - name: 📂 Sync files
+           name: website
+           path: './public'
+     - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
           server: ftp.nyccivilrightshistory.org
