@@ -1,5 +1,5 @@
 # Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy via FTP
+name: Deploy Hugo site to Pages
 
 on:
   push:
@@ -8,30 +8,33 @@ on:
   schedule:
     - cron:  '0 8 * * *' #every day at 8 am   
 jobs:
-  Deploy:
-    runs-on: ubuntu-latest
+  deploy:
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
 
-    - uses: actions/checkout@v1
-      with:
-        submodules: true
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.111.3'
+          extended: true
 
-    - name: Setup Hugo
-      uses: peaceiris/actions-hugo@v2
-      with:
-        hugo-version: 'latest'
+      - name: Build
+        run: hugo --minify
 
-    - name: Build site
-      run: hugo --minify
-
-    - name: Sync files
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-      with:
-        server: ftp.nyccivilrightshistory.org
-        username: nyccivil
-        password: ${{ secrets.ftp_password }}
-        protocol: sftp
-        port: 22
-        server-dir: /home/nyccivil/public_html/site-preview/
+      - name: 📂 Sync files
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        with:
+          server: ftp.nyccivilrightshistory.org
+          username: nyccivil
+          password: ${{ secrets.ftp_password }}
+          protocol: sftp
+          port: 22
+          server-dir: /home/nyccivil/public_html/site-preview/
 
  
