@@ -1,5 +1,4 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to Pages
+name: Deploy Hugo site to FTP
 
 on:
   push:
@@ -36,5 +35,3 @@ jobs:
           protocol: sftp
           port: 22
           server-dir: /home/nyccivil/public_html/site-preview/
-
- 
