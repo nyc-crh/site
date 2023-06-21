@@ -32,6 +32,12 @@ jobs:
           dart-sass/sass --embedded --version          
       - name: Add to the PATH
         run: echo "$GITHUB_WORKSPACE/dart-sass" >> $GITHUB_PATH
+      - name: "npm ci"
+        run: npm ci
+      - name: "npm run build"
+        run: npm run build
+      - name: "npm run test"
+        run: npm run test
       - name: Build site with Hugo
         run: hugo --gc --minify
         
