@@ -38,14 +38,17 @@ jobs:
         run: npm run build
       - name: Build site with Hugo
         run: hugo --gc --minify
-      - name: Upload from public_html via FTP
-        uses: airvzxf/ftp-deployment-action@latest
+      - name: FTP Deployer
+        uses: sand4rt/ftp-deployer@v1.7
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          user: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: "./public_html"
-          remote_dir: "/home/nyccivil/public_html/site-preview/"
-          delete: "true"
-          ftp_ssl_allow: true
-          ftp_use_feat: true
+         sftp: false # optional
+         host: ${{ secrets.FTP_SERVER }} # e.g. ftp.host.com or sftp.host.com (without ftp:// or ftps://)
+         port: 22 # optional, default is: 21
+         username: ${{ secrets.FTP_USERNAME }} # FTP username
+         password: ${{ secrets.FTP_PASSWORD }} # FTP password
+         remote_folder: ${{ secrets.FTP_REMOTE_FOLDER }} # optional, remote path of your FTP server
+         local_folder: dist # optional, local path, default is: dist
+         cleanup: false # optional, remove existing files inside FTP remote folder
+         include: '[]' # optional, e.g. '['dist']'
+         exclude: '[]' # optional, e.g. '['node_modules/**', '.git/**', '*.env']'
+         passive: true # optional
