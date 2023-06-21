@@ -45,6 +45,6 @@ jobs:
           server: ftp.nyccivilrightshistory.org
           username: nyccivil
           password: ${{ secrets.ftp_password }}
-          protocol: sftp
+          protocol: ftps
           port: 22
           server-dir: /home/nyccivil/public_html/site-preview/
