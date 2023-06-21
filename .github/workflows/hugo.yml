@@ -82,7 +82,7 @@ jobs:
       - name: Build site with Hugo, move feed files, run Pagefind (cond. - non-Node)
         if: ${{ env.NODE != 'true' }}
         run: |
-          hugo --verbose --minify
+          hugo --minify
           pagefind_extended --source "public"
 
       - name: 📂 Sync files
