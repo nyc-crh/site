@@ -5,56 +5,27 @@ on:
     branches:
       - main
     schedule:
-    - cron:  '0 8 * * *' #every day at 8 am   
-
-env:
-  HUGO_VERSION: 0.114.0 # will get Extended Version below
-  DART_SASS_VERSION: 1.63.5 # (depends on STYLING env var)
-  PAGEFIND_VERSION: 0.12.0 #
-  STYLING: SCSS # choices: 'SCSS' and 'VCSS' (vanilla CSS)
+    - cron:  '0 8 * * *' #every day at 8 am  
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      deployments: write
+    runs-on: ubuntu-22.04
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
     steps:
-      - name: Checkout default branch
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
         with:
-          fetch-depth: 0
-      - name: Hugo download/install
-        run: |
-          wget https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb -O hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb
-          sudo dpkg -i hugo*.deb
-      - name: Install Embedded Dart Sass (cond. - SCSS)
-        if: ${{ env.STYLING == 'SCSS' }}
-        run: |
-          curl -LJO https://github.com/sass/dart-sass/releases/download/${{ env.DART_SASS_VERSION }}/dart-sass-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
-          tar -xvf dart-sass-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
-          dart-sass/dart-sass --version
-          echo "$GITHUB_WORKSPACE/dart-sass" >> $GITHUB_PATH
-      - name: Cache Hugo resources
-        id: cache-resources
-        uses: actions/cache@v3
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
         with:
-          path: resources
-          key: ${{ runner.os }}-resources
-      - name: Install Pagefind
-        uses: supplypike/setup-bin@v3
-        with:
-          uri: "https://github.com/CloudCannon/pagefind/releases/download/v${{ env.PAGEFIND_VERSION }}/pagefind_extended-v${{ env.PAGEFIND_VERSION }}-x86_64-unknown-linux-musl.tar.gz"
-          name: "pagefind_extended"
-          version: ${{env.PAGEFIND_VERSION}}
-      - name: Build site with Hugo, move feed files, run Pagefind
-        run: |
-          hugo --verbose --minify
-          mv public/posts/index.xml public/index-excerpts.xml
-          mv public/posts/index.json public/index-excerpts.json
-          pagefind_extended --source "public"
-      - name: Install Wrangler for CFP
-        run: npm i -g wrangler --unsafe-perm=true --commit-dirty=true
+          hugo-version: '0.114.0'
+          # extended: true
+
+      - name: Build
+        run: hugo --minify
 
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
