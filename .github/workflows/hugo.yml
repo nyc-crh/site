@@ -32,9 +32,9 @@ jobs:
         if: ${{ env.STYLING == 'SCSS' }}
         run: |
           curl -LJO https://github.com/sass/dart-sass/releases/download/${{ env.DART_SASS_VERSION }}/dart-sass-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
-          tar -xvf sass_embedded-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
-          sass_embedded/dart-sass-embedded --version
-          echo "$GITHUB_WORKSPACE/sass_embedded" >> $GITHUB_PATH
+          tar -xvf dart-sass-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
+          sass_embedded/dart-sass --version
+          echo "$GITHUB_WORKSPACE/dart-sass" >> $GITHUB_PATH
       - name: Cache Hugo resources
         id: cache-resources
         uses: actions/cache@v3
