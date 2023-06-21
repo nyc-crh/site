@@ -47,3 +47,5 @@ jobs:
           local_dir: "./public_html"
           remote_dir: "/home/nyccivil/public_html/site-preview/"
           delete: "true"
+          ftp_ssl_allow: true
+          ftp_use_feat: true
