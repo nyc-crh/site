@@ -38,7 +38,6 @@ jobs:
         run: npm run build
       - name: Build site with Hugo
         run: hugo --gc --minify
-        
       - name: Upload from public_html via FTP
         uses: airvzxf/ftp-deployment-action@latest
         with:
@@ -48,5 +47,3 @@ jobs:
           local_dir: "./public_html"
           remote_dir: "/home/nyccivil/public_html/site-preview/"
           delete: "true"
-          max_retries: "7"
-          dns_fatal_timeout: "never"
