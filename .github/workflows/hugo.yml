@@ -3,18 +3,13 @@ name: Deploy to web
 on:
   push:
     branches:
-      - main
+      - main # or whatever you call your production branch
 
 env:
   HUGO_VERSION: 0.114.0 # will get Extended Version below
-  DART_SASS_VERSION: 1.63.5 # (depends on STYLING env var)
-  EMBEDDED_SASS: false # ('true' for pre-1.62.1)
-  PAGEFIND_VERSION: 0.12.0
-  NODE: false # choices: 'true' and 'false' (mainly checking only for [== "true"])
-  # NODE_VERSION: 18 # (18.16.0 = CFP v2 build image default as of 2023-05-17)
-  # ^^ https://developers.cloudflare.com/pages/platform/language-support-and-tools/
-  STYLING: SCSS #  (mainly checking only for [== "SCSS"])
-
+  DART_SASS_VERSION: 1.63.5
+  # if you have other environment variables,
+  # enter them here in similar fashion
 
 jobs:
   deploy:
@@ -25,66 +20,21 @@ jobs:
     steps:
       - name: Checkout default branch
         uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
-      - name: Set up Node.js (cond. - Node)
-        if: ${{ env.NODE == 'true' }}
-        uses: actions/setup-node@v3
-        with:
-          node-version: '19'
-      - name: Install npm packages (cond. - Node)
-        if: ${{ env.NODE == 'true' }}
-        run: npm install
-      - name: Hugo download/install (cond. - non-Node)
-        if: ${{ env.NODE != 'true' }}
+      - name: Download Hugo v${{ env.HUGO_VERSION }}
+        run: wget https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_Linux-64bit.deb -O hugo_extended_${{ env.HUGO_VERSION }}_Linux-64bit.deb
+      - name: Install Hugo v${{ env.HUGO_VERSION }}
+        run: sudo dpkg -i hugo*.deb
+      - name: Download Dart Sass v${{ env.DART_SASS_VERSION }}
+        run: curl -LJO https://github.com/sass/dart-sass/releases/download/${{ env.DART_SASS_VERSION }}/dart-sass-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
+      - name: Unpack Dart Sass v${{ env.DART_SASS_VERSION }}
         run: |
-          wget https://github.com/gohugoio/hugo/releases/download/v${{ env.HUGO_VERSION }}/hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb -O hugo_extended_${{ env.HUGO_VERSION }}_linux-amd64.deb
-          sudo dpkg -i hugo*.deb
-      - name: Install Embedded Dart Sass (cond. - SCSS and EMBEDDED_SASS)
-        if: ${{ env.STYLING == 'SCSS' && env.EMBEDDED_SASS == 'true' }}
-        run: |
-          curl -LJO https://github.com/sass/dart-sass-embedded/releases/download/${{ env.DART_SASS_VERSION }}/sass_embedded-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
-          tar -xvf sass_embedded-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
-          sass_embedded/dart-sass-embedded --version
-          echo "$GITHUB_WORKSPACE/sass_embedded" >> $GITHUB_PATH
-      - name: Install Dart Sass (cond. - SCSS but without EMBEDDED_SASS)
-        # based on Sass changes announced 2023-05-20:
-        # https://sass-lang.com/blog/rfc-embedded-protocol-2
-        # (along with "Archived" status of previous Embedded Dart Sass repo on GitHub)
-        if: ${{ env.STYLING == 'SCSS' && env.EMBEDDED_SASS != 'true' }}
-        run: |
-          curl -LJO https://github.com/sass/dart-sass/releases/download/${{ env.DART_SASS_VERSION }}/dart-sass-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
           tar -xvf dart-sass-${{ env.DART_SASS_VERSION }}-linux-x64.tar.gz
-          dart-sass/sass --embedded --version
-          echo "$GITHUB_WORKSPACE/dart-sass" >> $GITHUB_PATH
-      - name: Cache Hugo `resources`
-        id: cache-resources
-        uses: actions/cache@v3
-        with:
-          path: resources
-          key: ${{ runner.os }}-resources
-      - name: Cache Hugo `static` content
-        id: cache-static
-        uses: actions/cache@v3
-        with:
-          path: static
-          key: ${{ runner.os }}-static
-      - name: Install Pagefind (cond. - non-Node)
-        if: ${{ env.NODE != 'true' }}
-        uses: supplypike/setup-bin@v3
-        with:
-          uri: "https://github.com/CloudCannon/pagefind/releases/download/v${{ env.PAGEFIND_VERSION }}/pagefind_extended-v${{ env.PAGEFIND_VERSION }}-x86_64-unknown-linux-musl.tar.gz"
-          name: "pagefind_extended"
-          version: ${{env.PAGEFIND_VERSION}}
-      - name: Install Hugo via Node, build site, move feed files, run Pagefind (cond. - Node)
-        if: ${{ env.NODE == 'true' }}
-        run: npm run build
-      - name: Build site with Hugo, move feed files, run Pagefind (cond. - non-Node)
-        if: ${{ env.NODE != 'true' }}
-        run: |
-          hugo --minify
-          pagefind_extended --source "public"
-
+          dart-sass/sass --embedded --version          
+      - name: Add to the PATH
+        run: echo "$GITHUB_WORKSPACE/dart-sass" >> $GITHUB_PATH
+      - name: Build site with Hugo
+        run: hugo --gc --minify
+        
       - name: 📂 Sync files
         uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
