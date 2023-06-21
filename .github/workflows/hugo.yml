@@ -39,12 +39,22 @@ jobs:
       - name: Build site with Hugo
         run: hugo --gc --minify
         
-      - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      - - name: Upload from public_html via FTP
+        uses: airvzxf/ftp-deployment-action@latest
         with:
-          server: ftp.nyccivilrightshistory.org
-          username: nyccivil
-          password: ${{ secrets.ftp_password }}
-          protocol: ftp
-          port: 22
-          server-dir: /home/nyccivil/public_html/site-preview/
+          server: ${{ secrets.FTP_SERVER }}
+          user: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local_dir: "./public_html"
+          remote_dir: "/home/nyccivil/public_html/site-preview/"
+          delete: "true"
+          max_retries: "7"
+          no_symlinks: "false"
+          ftp_ssl_allow: "true"
+          ftp_use_feat: "true"
+          ftp_nop_interval: "9"
+          net_max_retries: "0"
+          net_persist_retries: "11"
+          net_timeout: "13s"
+          dns_max_retries: "17"
+          dns_fatal_timeout: "never"
