@@ -6,9 +6,7 @@ on:
     - master
   schedule:
     - cron:  '0 8 * * *' #every day at 8 am   
-
-name: Deploy to web
-
+    
 on:
   push:
     branches:
