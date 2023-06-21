@@ -1,14 +1,14 @@
----
+--- 
 layout: gallery
 draft: false
-date: 1971-01-01
-displaydate: "1969-1971"
-title: Iris Morales Leads Political Education Class
-author: Michael Abramson
+date: 1970-11-21
+displaydate: 
+title: Denise Oliver
+author: Jesse Steve Rose
 citation: >
- "Iris Morales Leads Political Education Class," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/young-lords/iris-morales.
-imageFeatured: iris-morales.jpg
-imageFeaturedAlt: A group of young Black and Latino people are seated around a small table. Most appear to be male except for Iris Morales, who is at the head of the table. 
+ "Denise Oliver," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/young-lords/denise-oliver.
+imageFeatured: denise-oliver.jpg
+imageFeaturedAlt: Denise Oliver, a young black woman, wearing a beret with several political buttons and a collared leather jacket. She's holding a cup and smoking a cigarette and has a somber expression on her face.
 embed: 
 embedTitle: 
 text: 
@@ -17,30 +17,27 @@ audio:
 audioTitle: 
 video: 
 videoTitle: 
-eventname: The Young Lords party creates spaces for members to study history and politics. 
-caption: This photo captures Young Lords Party members sitting together in a circle during a political education class. Iris Morales (seated at the head of the table) leads the group discussion about that week’s assigned texts. 
-archive_source: >
- Reprinted in Johanna Fernández, *The Young Lords: A Radical History* (Chapel Hill: University of North Carolina Press, 2019)
-source_link: 
-copyright: Photograph by Michael Abramson
+eventname: Denise Oliver becomes a leader in the Young Lords Party.
+caption: This photo of Denise Oliver comes from a political event hosted by the Black Panther Party and the Young Lords Party. Oliver became a high ranking member of the Young Lords and has continued her organizing work since being a member of the party. 
+archive_source: Smithsonian National Museum of African American History and Culture
+source_link: https://web.archive.org/web/20211029031109/https://nmaahc.si.edu/object/nmaahc_2014.109.7.4
+copyright: Copyright status unknown
 categories: 
 - Manhattan
+- Queens
+- Bronx
 - community activism
 tags: 
 - segregation
 - Latinx people
 - Black people
-- protest
-- curriculum
+- photography & imagery
 - organizing
-- autonomous educational spaces
 - women's activism
 questions:
-- Does the political education class in the picture look like classrooms in your school? What’s similar? What’s different?
-- What made the Young Lords’ political education classes different than traditional schoolrooms? Why might that have been effective?
-- As noted above, many of the Young Lords Party members were illiterate, what resources did the party provide to its members so they could meaningfully participate in these political education classes? How did creating educational spaces that responded to the needs of their learners help the party’s work?
-- If you were working with your peers to create a learning space for one another, what would it look like? What would you want to learn? How would you learn it? 
----
+- How does Oliver’s dress and style challenge oppressive ideas imposed on Black women?
+- How might having attended a nearly all-white school influenced Oliver’s activism?"
+--- 
 
 Denise Oliver, born in Brooklyn in 1947, grew up in Queens. Her father, George Bodine Oliver, was a drama professor, Tuskegee Airman, and one of the first Black actors to integrate Broadway in the 1940s and was active in New York’s Black leftist political circles, including members of the Communist Party and their allies. Her mother, Marjorie Roberts Oliver, taught at a high school in Queens when Black teachers were a small proportion of the city’s teaching force.[^1] Eventually, Denise Oliver would follow in the educational footsteps of her parents and work as a teacher. She first taught at University of the Streets, a school for youth of color who had been pushed out or expelled from the city’s schools.[^2]
 
