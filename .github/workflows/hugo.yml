@@ -49,3 +49,4 @@ jobs:
          remote_folder: ${{ secrets.FTP_REMOTE_FOLDER }} # optional, remote path of your FTP server
          local_folder: dist # optional, local path, default is: dist
          cleanup: true
+         passive: true
