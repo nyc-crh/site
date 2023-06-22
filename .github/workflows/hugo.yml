@@ -46,4 +46,4 @@ jobs:
           destination-path: ${{ secrets.FTP_REMOTE_FOLDER }}
           private-ssh-key: ${{ secrets.PRIVATE_SSH_KEY }}
           source-path: ./public
-          rsync-options: --dry-run --verbose --compress --delete-after -d --human-readable --exclude=.git* --exclude=.git/ --exclude=README.md --exclude=readme.md --exclude=.gitignore
+          rsync-options: --dry-run -compress --delete-after -d 
