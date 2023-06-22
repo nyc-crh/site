@@ -38,13 +38,14 @@ jobs:
         run: npm run build
       - name: Build site with Hugo
         run: hugo --gc --minify
-      - name: 📂 Sync Files
-        uses: SamKirkland/web-deploy@v1
-        with:
-          target-server: nyccivilrightshistory.org
-          remote-user: ${{ secrets.USERNAME }}
-          destination-path: ${{ secrets.FTP_REMOTE_FOLDER }}
-          private-ssh-key: ${{ secrets.PRIVATE_SSH_KEY }}
-          ssh-port: 22
-          source-path: ./public
-          rsync-options: --dry-run -compress --delete-after -d 
+      - name: Deploy to Server
+        uses: easingthemes/ssh-deploy@main
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.PRIVATE_SSH_KEY }}
+          ARGS: "-rlgoDzvc -i --delete"
+          SOURCE: "public/"
+          REMOTE_HOST: ${{ secrets.FTP_SERVER }}
+          REMOTE_USER: ${{ secrets.USERNAME }}
+          TARGET: ${{ secrets.REMOTE_TARGET }}
+          EXCLUDE: "/dist/, /node_modules/"
+        
