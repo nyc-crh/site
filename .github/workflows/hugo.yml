@@ -38,15 +38,12 @@ jobs:
         run: npm run build
       - name: Build site with Hugo
         run: hugo --gc --minify
-      - name: FTP Deployer
-        uses: sand4rt/ftp-deployer@v1.7
-        with:
-         sftp: true # optional
-         host: ${{ secrets.FTP_SERVER }} # e.g. ftp.host.com or sftp.host.com (without ftp:// or ftps://)
-         port: 22 # optional, default is: 21
-         username: ${{ secrets.FTP_USERNAME }} # FTP username
-         password: ${{ secrets.FTP_PASSWORD }} # FTP password
-         remote_folder: ${{ secrets.FTP_REMOTE_FOLDER }} # optional, remote path of your FTP server
-         local_folder: dist # optional, local path, default is: dist
-         cleanup: true
-         passive: true
+      - name: Upload ftp
+        uses: sebastianpopp/ftp-action@releases/v2
+          with:
+          host: ${{ secrets.FTP_SERVER }}
+          user: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          localDir: "./public"
+          remoteDir: "${{ secrets.FTP_REMOTE_FOLDER }}"
+          options: "--delete --asci"
