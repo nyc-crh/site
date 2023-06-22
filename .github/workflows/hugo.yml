@@ -45,5 +45,6 @@ jobs:
           remote-user: ${{ secrets.USERNAME }}
           destination-path: ${{ secrets.FTP_REMOTE_FOLDER }}
           private-ssh-key: ${{ secrets.PRIVATE_SSH_KEY }}
+          ssh-port: 22
           source-path: ./public
           rsync-options: --dry-run -compress --delete-after -d 
