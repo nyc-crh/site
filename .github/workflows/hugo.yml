@@ -41,7 +41,7 @@ jobs:
       - name: 📂 Sync Files
         uses: SamKirkland/web-deploy@v1
         with:
-          target-server: ${{ secrets.FTP_SERVER }}
+          target-server: nyccivilrightshistory.org
           remote-user: ${{ secrets.USERNAME }}
           destination-path: ${{ secrets.FTP_REMOTE_FOLDER }}
           private-ssh-key: ${{ secrets.PRIVATE_SSH_KEY }}
