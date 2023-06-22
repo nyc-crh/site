@@ -45,7 +45,7 @@ jobs:
           ARGS: "-rlgoDzvc -i --delete"
           SOURCE: "public/"
           REMOTE_HOST: ${{ secrets.FTP_SERVER }}
-          REMOTE_USER: ${{ secrets.USERNAME }}
+          REMOTE_USER: ${{ secrets.FTP_USERNAME }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
           EXCLUDE: "/dist/, /node_modules/"
         
