@@ -39,11 +39,10 @@ jobs:
       - name: Build site with Hugo
         run: hugo --gc --minify
       - name: Upload ftp
-        uses: sebastianpopp/ftp-action@releases/v2
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
         with:
-          host: ${{ secrets.FTP_SERVER }}
-          user: ${{ secrets.FTP_USERNAME }}
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          localDir: "public"
-          remoteDir: ${{ secrets.FTP_REMOTE_FOLDER }}
-          options: "--delete --asci"
+          protocol: ftps
+          port: 22
