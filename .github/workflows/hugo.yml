@@ -38,12 +38,12 @@ jobs:
         run: npm run build
       - name: Build site with Hugo
         run: hugo --gc --minify
-      - name: Upload ftp
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      - name: 📂 Sync Files
+        uses: SamKirkland/web-deploy@v1
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          protocol: ftps
-          port: 22
-          timeout: 600000
+          target-server: ${{ secrets.FTP_SERVER }}
+          remote-user: ${{ secrets.USERNAME }}
+          destination-path: ${{ secrets.FTP_REMOTE_FOLDER }}
+          private-ssh-key: ${{ secrets.PRIVATE_SSH_KEY }}
+          source-path: ./public
+          rsync-options: --dry-run --verbose --compress --delete-after --human-readable --exclude=.git* --exclude=.git/ --exclude=README.md --exclude=readme.md --exclude=.gitignore
