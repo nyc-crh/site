@@ -44,6 +44,6 @@ jobs:
           host: ${{ secrets.FTP_SERVER }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          localDir: "./public"
+          localDir: "public"
           remoteDir: "${{ secrets.FTP_REMOTE_FOLDER }}"
           options: "--delete --asci"
