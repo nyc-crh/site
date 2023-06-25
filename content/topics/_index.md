@@ -2,6 +2,7 @@
 title: Topics
 weight: 1
 draft: false
+layout: docset-gallery
 cardsTitle: 
 cards:
   - title: Black and Latina Women's Educational Activism

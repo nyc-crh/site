@@ -1,5 +1,6 @@
 {{ define "main" }}
-   <h2> {{ .Params.title | markdownify }}</h2>
+<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+   <h2> {{ .Params.title | page.RenderString | safeHTML }}</h2>
   <div class="row pack justify-content-left mx-auto">
     {{ .Content }}
     {{ range (.Paginate $.RegularPagesRecursive.ByDate).Pages}}
@@ -27,8 +28,5 @@
 <div class="row">
  {{ partial "pagination" . }}
 </div>
-<!--<div class="footer-container">
-  <span class="d-flex justify-content-left py-5">&copy;&nbsp; <span> <script>document.write( new Date().getFullYear() );</script>&nbsp; 
-  </span> {{ .Site.Title }}</span>
-</div>-->
+</div>
 {{ end }}

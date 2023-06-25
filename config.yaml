@@ -1,4 +1,4 @@
-baseURL: https://nyccivilrightshistory.org/site-preview/
+baseURL: "https://nyccivilrightshistory.org/site-preview/"
 languageCode: en-us
 title: New York City Civil Rights History
 description: A Teaching Guide

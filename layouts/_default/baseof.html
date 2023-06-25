@@ -3,21 +3,27 @@
 <head>
     {{ partial "head" . }}
 </head>
-    <body class="d-flex flex-column min-vh-100 d-print-block">
-        <div class="container-fluid  d-print-block">
-            <div class="row vh-100 d-print-block">
-            <div class="row flex-nowrap">
-                {{ partial "header-sidebar" . }}
-    <main class="col mt-3 ms-2">
-        <a href="#" data-bs-target="#sidebar" data-bs-toggle="collapse" class="btn btn-primary d-print-none" aria-expanded="true"><i class="bi bi-list bi-lg py-2 p-1"></i> Menu</a>
-        <div class="col-lg-12 mt-5 mx-auto d-print-block">
-        {{ block "main" . }}{{ end }}
+<body class="d-flex flex-column min-vh-100 d-print-block">
+    <div class="container-fluid d-print-block" role="navigation">
+            <div class="col-auto px-2">
+        <div class="row row-offcanvas row-offcanvas-left">
+            <!-- sidebar -->
+            {{ partial "header-sidebar" . }}
+            <!-- main area -->
+                <main class="col mt-3 ms-2">
+                    <div class="main col-lg-12 mt-1 mx-auto d-print-block">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle btn btn-primary d-print-none d-lg-none" data-toggle="offcanvas" data-target=".sidebar-nav">Menu</button>
+                        </div>
+                    {{ block "main" . }}{{ end }}
+                </div>
+                </main>
+        </div>
     </div>
-</div>  
-    </main>
-    </div>
-</div> 
+</div>
 {{ partial "scriptfooter" .}}
 </body>
-<script type="text/javascript" src="/js/text-expand.js"></script>
+</body>
 </html>
+
+

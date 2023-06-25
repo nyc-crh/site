@@ -1,6 +1,6 @@
 {{ define "main" }}
-<h1>{{ .Title }}</h1>
-        {{ .Content | markdownify }}
+<div class="main col-lg-10 mx-auto justify-content-center py-5">
+        {{ .Content | page.RenderString | safeHTML }}
         <div class="row">
           {{ with .Resources.ByType "image" }}
           <div class="Image">
@@ -11,6 +11,5 @@
           </div>
         {{ end }}
       </div>
-</div>
 </div>
 {{ end }}
