@@ -5,7 +5,7 @@ date: 1964-02-08
 displaydate: 
 title: JHS 103, PS 194, and City Hall 
 imageFeatured: jhs-ps-city-hall.jpg
-imageFeaturedAlt: Two young Black people sing at a protest
+imageFeaturedAlt: Two young people sing at a protest
 embed: jhs-ps-city-hall.pdf
 embedTitle: JHS 103, PS 194, and City Hall 
 text: jhs-ps-city-hall
