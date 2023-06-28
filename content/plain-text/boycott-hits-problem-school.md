@@ -14,7 +14,7 @@ By Martin Tolchin
 
 **Image description:** Reverend Milton A. Galamison stands behind 9 young Black students seated in a circle. Galamison ans several of the students are wearing jackets and button-up shirts and one boy is facing the camera and smiling broadly. 
 
-**Original Caption: LEADS SCHOOL BOYCOTT: The Rev. Milton A. Galamison at the South Third Street Methodist Church in Brooklyn with some of the pupils who stayed away from P.S. 617, one of city's schools for problem children. Mr. Galamison led boycott of the schools as part of campaign by Citywide Committee for Integrated Schools to end special program.
+**Original Caption:** LEADS SCHOOL BOYCOTT: The Rev. Milton A. Galamison at the South Third Street Methodist Church in Brooklyn with some of the pupils who stayed away from P.S. 617, one of city's schools for problem children. Mr. Galamison led boycott of the schools as part of campaign by Citywide Committee for Integrated Schools to end special program.
 
 A total of 136 students, mostly inveterate truants, stayed out of school yesterday, thereby aligning themselves with the civil rights movement.
 
