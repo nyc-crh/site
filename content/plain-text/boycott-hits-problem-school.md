@@ -12,7 +12,7 @@ Copyright The New York Times
 136 Students Out in 'Rights' Protest by Galamison
 By Martin Tolchin
 
-**Image description:** Reverend Milton A. Galamison stands behind 9 young Black students seated in a circle. Galamison ans several of the students are wearing jackets and button-up shirts and one boy is facing the camera and smiling broadly. 
+**Image description:** Reverend Milton A. Galamison stands behind 9 young Black students seated in a circle. Galamison ans several of the students are wearing jackets and button-up shirts and one boy is facing the camera and smiling broadly.
 
 **Original Caption:** LEADS SCHOOL BOYCOTT: The Rev. Milton A. Galamison at the South Third Street Methodist Church in Brooklyn with some of the pupils who stayed away from P.S. 617, one of city's schools for problem children. Mr. Galamison led boycott of the schools as part of campaign by Citywide Committee for Integrated Schools to end special program.
 
@@ -37,13 +37,13 @@ A 10-day jail sentence is the maximum for exhorting school children to defy the 
 "Whether or not the boycott continues, the offense has been committed." Mr. Donovan said. "This is no more a civil rights demonstration than if someone urged children to demonstrate for civil rights by seeing how many homes they could set fire to."
 Twenty adult pickets carried signs at P.S. 617 ,that. read, "Sorry-This School Is Closed," and "600 Schools Do Not Educate." But the students indicated that they were delighted by any excuse not to attend.
 
-"Nobody else is going," a 14-year-old said. "Why should I go?" 
+"Nobody else is going," a 14-year-old said. "Why should I go?"
 
 "Why are we boycotting?" asked another. "Because I hate teachers."
 
 "We follow the majority," said a third. "The majority wins."
 
-The daily truancy rate for the "600'' schools is 30 per cent, the Board of Education reported.
+The daily truancy rate for the "600" schools is 30 per cent, the Board of Education reported.
 
 Of the school's 152 students, 105 are Negro, 17 are Puerto Rican and 10 are white. Twenty are mentally retarded, 20 have spent time in state mental institutions, two have returned from city psychiatric hospitals. 84 were suspended from other schools and 22 are on probation in active court cases.
 
@@ -56,4 +56,5 @@ Sponsors of the boycott served cold sandwiches and milk to 25 children who assem
 Mr. Galamison had sent leaflets to their parents in which he asserted: "Your son is being used for experiments in education which do not benefit him, and which you are not told about."
 
 The clergyman said yesterday that he had no specific experiments in mind but was referring to the entire program. He maintained that not all of the students were volatile, aggressive and impulse-ridden as reported by.the Board of Education.
+
 The disproportionate number of Negro and Puerto Rican students, Mr. Galamison contended, indicated that some were bright and had become discipline problems only because their regular classes were too slow.
