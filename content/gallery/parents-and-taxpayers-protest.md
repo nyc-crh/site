@@ -35,7 +35,7 @@ questions:
   - What strategies did groups like Parents and Taxpayers use to maintain segregation?
   - "What terms do you see in the protesters' signs? Where have you seen references to \"neighborhood schools\" in other documents? What does it mean to talk about \"neighborhood schools\" when many neighborhoods were racially segregated through policies like redlining?"
   - Do you see similar activism today, from the protesters or counter-protesters? How? Or Why not?
-  - " What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? Why do you think it was recorded? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police?"
+  - "What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? Why do you think it was recorded? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police?"
 
 ---
 
