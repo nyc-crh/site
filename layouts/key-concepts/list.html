@@ -1,14 +1,15 @@
 {{ define "main" }}
 <div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
  <h1>{{ .Title }}</h1>{{ .Content | markdownify }}
-      <ol>{{ range .Pages.ByWeight }}
-      <li class="keyconcepts d-print-block"><details class="d-print-block">
-            <summary class="block d-print-block"><h2>{{ .Params.title | markdownify }}</h2></summary>
-            <div class="block d-print-block"><p>{{ .Content | markdownify }}</div></p>
+      <ul>{{ range .Pages.ByWeight }}
+      <li class="keyconcepts d-print-block">
+            <details class="">
+              <summary class=""><h2>{{ .Params.title | markdownify }}</h2></summary>
+            <p>{{ .Content | markdownify }}</p>
             {{ if .Params.primarysource}}
-            <div class="row suggested-source d-print-block">
-              <div class="col-sm d-print-block"><h4>Suggested primary source: <br/>{{ .Params.primarysource }}</h4></div>
-              <div class="col-sm d-print-block">
+            <div class="row suggested-source">
+              <h3>Suggested primary source: <br/>{{ .Params.primarysource }}</h3>
+              <div class="col-sm">
                 {{$alt:= .Params.imageFeaturedAlt}}
                 {{$permalink:= .Params.itemlink }}
                 <a href="{{$permalink}}">
@@ -17,8 +18,8 @@
                       <img src="{{ ($image).Permalink }}" class="" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 50%; float:right;"/>
                         {{end}}</a></div>
               </div>{{ else }}{{ end }}
-      </details>
+            </details>
     </li>{{end}}
-    </ol>
+    </ul>
   </div>
 {{end}}

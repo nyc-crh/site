@@ -327,7 +327,6 @@ ol ol {
 }
 
 .keyconcepts {
-    margin-bottom: 20px;
     font-size: 1.6rem
 }
 
@@ -495,3 +494,13 @@ a:active {
     transform: translateY(0%);
     color: #bb3f3f;
   }
+details a {
+    text-decoration: underline;
+}
+li.keyconcepts.d-print-block {
+    list-style: none;
+}
+
+.summary.h2.ol {
+    margin-top: -2.5rem;
+}
