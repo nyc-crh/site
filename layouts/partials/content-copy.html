@@ -25,7 +25,7 @@
                 {{end}}
                 {{end}}
             </div>
-            <div class="col-lg-8 mx-auto justify-content-center"><p> {{ .Content | markdownify }}</p></div>
+            <div class="col-lg-8 mx-auto justify-content-center"><p> {{ .Content| page.RenderString | safeHTML }}</p></div>
     <div class="col-lg-10 mx-auto">
         <div class="accordion accordion-flush" id="accordionFlushExample">
             <div class="accordion-item">

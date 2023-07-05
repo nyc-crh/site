@@ -1,11 +1,11 @@
 {{ define "main" }}
 <div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
- <h1>{{ .Title }}</h1>{{ .Content | markdownify }}
+ <h1>{{ .Title }}</h1>{{ .Content| page.RenderString | safeHTML }}
       <ul>{{ range .Pages.ByWeight }}
       <li class="keyconcepts d-print-block">
-            <details class="">
-              <summary class=""><h2>{{ .Params.title | markdownify }}</h2></summary>
-            <p>{{ .Content | markdownify }}</p>
+            <details>
+              <summary><h2 class="keyconcepts">{{ .Params.title| page.RenderString | safeHTML }}</h2></summary>
+            <div>{{ .Content| page.RenderString | safeHTML }}
             {{ if .Params.primarysource}}
             <div class="row suggested-source">
               <h3>Suggested primary source: <br/>{{ .Params.primarysource }}</h3>
@@ -17,7 +17,7 @@
                   {{ $image := resources.Get (printf "/images/%s" .)}}
                       <img src="{{ ($image).Permalink }}" class="" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 50%; float:right;"/>
                         {{end}}</a></div>
-              </div>{{ else }}{{ end }}
+              </div>{{ else }}{{ end }}</div>
             </details>
     </li>{{end}}
     </ul>

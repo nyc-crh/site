@@ -1,6 +1,6 @@
 {{ define "main" }}
 <div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
         {{ partial "title" . }}
-        {{ .Content | markdownify }}
+        {{ .Content| page.RenderString | safeHTML }}
 </div>
 {{ end }}

@@ -2,7 +2,7 @@
   <div class="container-lg">
     <a href="/tags">Tags</a>
 <a href="/categories">Categories</a>
-   <h2> {{ .Params.title | markdownify }}</h2>
+   <h2> {{ .Params.title| page.RenderString | safeHTML }}</h2>
   <div class="row pack justify-content-center mx-auto">
     <h1>{{ .Title }}</h1>
     <ul>

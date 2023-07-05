@@ -1,6 +1,6 @@
 <div> {{ with (index $.Site.Data.item (substr $.File.LogicalName 0 -3))}}
     <p> Background by{{ .author | markdownify}}</p>
-    <p> {{ .Content | markdownify }}</p></div>
+    <p> {{ .Content| page.RenderString | safeHTML }}</p></div>
     <div class="col-lg-12">
         <div class="d-flex justify-content-center">
             {{ with or .video .embed}}

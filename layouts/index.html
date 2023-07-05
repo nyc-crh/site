@@ -10,7 +10,7 @@
         </div>
         <div class="col-6 order-lg-first">
             <h1>{{ .Params.heading }}</h1>
-            <p>{{ .Content | markdownify }}</p>
+            <p>{{ .Content| page.RenderString | safeHTML }}</p>
             <div>
                 {{ with .Params.btn1 }}
                 {{ if and .text .url }}

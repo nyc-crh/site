@@ -47,7 +47,7 @@
               {{end}}
             </div>
         <div class="col-lg-10 mx-auto justify-content-center">
-            <p> {{ .Content | markdownify }}</p></div>
+            <p> {{ .Content| page.RenderString | safeHTML }}</p></div>
 
         <div class="row accordion accordion-flush d-print-block" id="accordionFlushExample">
             <div class="accordion-item">

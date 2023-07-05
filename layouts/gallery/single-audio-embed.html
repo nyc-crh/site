@@ -4,7 +4,7 @@
     <div class="row align-items-start">
       <div class="col-lg-12">
         {{ partial "title" . }}
-        {{ .Content | markdownify }}
+        {{ .Content| page.RenderString | safeHTML }}
        </div>
       <div class="col-lg-12">
         <div class="d-flex justify-content-center">

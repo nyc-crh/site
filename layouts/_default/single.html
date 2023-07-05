@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="main col-xs-12 col-sm-9 mx-auto justify-content-center py-5">
         <h1>{{ .Title }}</h1>
-        {{ .Content | markdownify }}
+        {{ .Content| page.RenderString | safeHTML }}
         <div class="footer-container">
                 <span class="d-flex justify-content-left">&copy;&nbsp; <span> <script>document.write( new Date().getFullYear() );</script>&nbsp; 
                 </span> {{ .Site.Title }}</span>

@@ -1,6 +1,6 @@
 <div>
     <p> Background by {{ .Params.author | markdownify}}</p>
-    <p> {{ .Content | markdownify }}</p></div>
+    <p> {{ .Content| page.RenderString | safeHTML }}</p></div>
     <div class="col-lg-12">
         <div id="content" class="d-flex justify-content-center">
             {{with or .Params.video .Params.embed}}

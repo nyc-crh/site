@@ -16,7 +16,7 @@
                     {{ end }}
       
       <div class="panel-body pt-3">
-        <h3 class="panel-title pull-left">{{ .Params.title | markdownify }}</h3>
+        <h3 class="panel-title pull-left">{{ .Params.title| page.RenderString | safeHTML }}</h3>
       </div>
     </div>
   </a>
