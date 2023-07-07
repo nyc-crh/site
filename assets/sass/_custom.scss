@@ -216,8 +216,8 @@ blockquote {
 
 .timeline-thumbnail {
     float: left;
-    margin-right: 10px;
-    margin-bottom: 10px
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
 .timeline-text {
@@ -490,7 +490,11 @@ li.keyconcepts.d-print-block {
     list-style: none;
 }
 
-.h2.keyconcepts { 
-    li {margin-top: -1.2rem;
+.concept { 
+    ol {
+    li {margin-top: -2.2rem;
+        margin-bottom: 2rem;
+        margin-left: 2rem;
+}
 }
 }

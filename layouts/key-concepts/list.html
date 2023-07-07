@@ -1,10 +1,10 @@
 {{ define "main" }}
 <div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
  <h1>{{ .Title }}</h1>{{ .Content| page.RenderString | safeHTML }}
-      <ul>{{ range .Pages.ByWeight }}
-      <li class="keyconcepts d-print-block">
+      {{ range .Pages }}
+      <div class="keyconcepts d-print-block">
             <details>
-              <summary><h2 class="keyconcepts">{{ .Params.title| page.RenderString | safeHTML }}</h2></summary>
+              <summary class="concept">{{ .Params.title| page.RenderString | safeHTML }}</summary>
             <div>{{ .Content| page.RenderString | safeHTML }}
             {{ if .Params.primarysource}}
             <div class="row suggested-source">
@@ -19,7 +19,6 @@
                         {{end}}</a></div>
               </div>{{ else }}{{ end }}</div>
             </details>
-    </li>{{end}}
-    </ul>
+    {{end}}
   </div>
 {{end}}
