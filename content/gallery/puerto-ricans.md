@@ -53,14 +53,19 @@ Decades after author Toni Cade Bambara witnessed this treatment of her neighbor,
 >
 > So… we thought they were Gypsies. A new kind of Gypsy. The kind that intended to stay put for a while—so moved into an apt rather than a store front.
 >
-> One of the boys was in my class—for about a minute. We didn’t even get a chance to hear him speak, say his name, tell us where he came from. They parked him on the bench in front of the principal’s office—next thing we heard he was in the CRMD* class—the assumption being—you have No English/ /you have no I.Q. We were very curious \[about\] that boy—Not because of where they put him—it seemed standard procedure to put people from down south**  back a grade and to assign remedial speech. What we found strange about the new boy and his family was—some of his relatives looked like Gypsies and some of his relatives looked just like us.//Who were these people?
+> One of the boys was in my class—for about a minute. We didn’t even get a chance to hear him speak, say his name, tell us where he came from. They parked him on the bench in front of the principal’s office—next thing we heard he was in the CRMD* class—the assumption being—you have No English/you have no I.Q. We were very curious \[about\] that boy—Not because of where they put him—it seemed standard procedure to put people from down south**  back a grade and to assign remedial speech. What we found strange about the new boy and his family was—some of his relatives looked like Gypsies and some of his relatives looked just like us.
+>
+>Who were these people?
+>
+> When warmer weather came, they came outside and we got a closer look. Mothers would take the babies to the park at 151st and Amsterdam. The children our age would go with their aunts and uncles down to the playground on Riverside Drive. The older men would go down to the river and fish off the rocks.
+>
+>In Spring the softball teams from the various neighborhoods would compete against each other in Central Park. My Dad played a whole lotta ball. He said one day, “Mannnnn those Spanish guys play. some. ball.”
+>
+> Ohhh, so they Spanish. Quite naturally we children began speaking “Spanish” which of course nobody could understand—including us. It was the candy store man who explained that these New people came from Puerto Rico not Spain. We’d heard of that place in school— This was the 40s keep in mind—the era of Chiquita Banana and Good Neighbor Policy. They were eager to tell us about the “Spanish American War” and how Uncle Sam “saved” Cuba, the Philippines, and Puerto Rico from the bad guys. Not a word on the Cuban War for Independence or anything like that—just sunshine, Uncle Sam’s heroics, and Chiquita Banana.
 >
 > \*=*Children with Retarded Mental Development, the NYC Board of Education’s term at the time for children with intellectual or developmental disabilities.*
 >
-> \**=*“people from down south” refers to Black migrants coming to the North from the US south. This is a reference to the “Great Migration,” which brought millions of Black Southerners to New York and other northern cities from 1910 to 1970.*
+> \*\*=*“people from down south” refers to Black migrants coming to the North from the US South. This is a reference to the “Great Migration,” which brought millions of Black Southerners to New York and other northern cities from 1910 to 1970.*
 >
-> When warmer weather came, they came outside and we got a closer look. Mothers would take the babies to the park at 151st and Amsterdam. The children our age would go with their aunts and uncles down to the playground on Riverside Drive. The older men would go down to the river and fish off the rocks.//In Spring the softball teams from the various neighborhoods would compete against each other in Central Park. My Dad played a whole lotta ball. He said one day, “Mannnnn those Spanish guys play. some. ball.”
->
-> Ohhh, so they Spanish. Quite naturally we children began speaking “Spanish” which of course nobody could understand—including us. It was the candy store man who explained that these New people came from Puerto Rico not Spain. We’d heard of that place in school— This was the 40s keep in mind—the era of Chiquita Banana and Good Neighbor Policy. They were eager to tell us about the “Spanish American War” and how Uncle Sam “saved” Cuba, the Philippines, and Puerto Rico from the bad guys. Not a word on the Cuban War for Independence or anything like that—just sunshine, Uncle Sam’s heroics, and Chiquita Banana.
 
 [^1]: Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in Twentieth Century New York City.* (Chicago: University of Chicago Press, 2010); John Puckett and Michael Johanek, *Leonard Covello and the Making of Benjamin Franklin High School: Education as If Citizenship Mattered* (Philadelphia: Temple University Press, 2006).

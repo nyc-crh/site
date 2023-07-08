@@ -13,8 +13,6 @@ New York Amsterdam News (1943-1961); Dec 13, 1958;
 ProQuest Historical Newspapers: New York Amsterdam News
 pg. 1
 
-Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
-
 Four Negro mothers were arranging their affairs and putting their homes in order Tuesday in preparation for going to jail rather than send their children to threee Harlem junior high schools as they have been ordered to do by a Domestic Relations Court judge.
 
 We will go to jail and rot there, if necessary, but our children will not go to Jr. High Schools 136, 139 or 120." Mrs. Viola Waddy of 1980 Park Avenue, spokesman for the four mothers told the Amsterdam News.
@@ -48,3 +46,5 @@ At one time fifteen parents were involved in boycotting the schools. The number 
 The case of Mrs. Violet Livingston of 2110 Madison Avenue was dismissed by justice Kaplan because she enrolled her 11-year old daughter, Barbara, in a private Boston school.
 
 The case against Mrs. Dorothy Brown of 116 W. 139th Street was dismissed because her son, Leroy, is now attending Public School 622.
+
+Reproduced with permission of the copyright owner. Further reproduction prohibited without permission.
