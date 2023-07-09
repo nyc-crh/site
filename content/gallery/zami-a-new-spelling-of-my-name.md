@@ -115,4 +115,4 @@ Scholars have noticed that, in *Zami* and in other writings, Lorde does not spea
 >
 > My mother knew very well I could follow directions,... And she also believed that a large part of the function of school was to make me learn how to do what I was told to do. In her private opinion, if this school could not do that, then it was not much of a school and she was going to find a school that could. In other words, my mother had made up her mind that school was where I belonged.
 
-[^1]: Alison Kafer and Eunjung Kim, “Disability and the Edges of Intersectionality,” in *The Cambridge Companion to Literature and Disability,* Clare Barker and Stuart Murray, eds. (Cambridge University Press, 2017), pp.123-138. See also Sami Schalk, *Black Disability Politics* (Durham, NC: Duke University Press, 2022).
+[^1]: Alison Kafer and Eunjung Kim, “Disability and the Edges of Intersectionality,” in *The Cambridge Companion to Literature and Disability,* ed. Clare Barker and Stuart Murray (Cambridge, UK: Cambridge University Press, 2017), 123-138. See also Sami Schalk, *Black Disability Politics* (Durham, NC: Duke University Press, 2022).
