@@ -38,10 +38,10 @@ tags:
 - Harlem
 questions:
 - What do you notice about the photograph? What questions would you ask to learn more about this protest? 
-- How do you think that Lorde’s experiences as a student, as described in [*Zami*](../topics/black-latina-women/audre-lorde-cuny/zami-a-new-spelling-of-my-name), and as a queer Black woman, shaped her approach to student activism?
+- How do you think that Lorde’s experiences as a student, as described in *Zami*, and as a queer Black woman, shaped her approach to student activism?
 ---
 
-Although City College, where Audre Lorde taught, was in the predominantly Black and Latinx community of Harlem, there were very few Black or Latinx students who attended. In the 1968-1969 school year, City College students organized to demand change in admissions policies, curriculum, and support. They identified [“Five Demands”]..(/topics/black-latina-women/audre-lorde-cuny/we-demand):
+Although City College, where Audre Lorde taught, was in the predominantly Black and Latinx community of Harlem, there were very few Black or Latinx students who attended. In the 1968-1969 school year, City College students organized to demand change in admissions policies, curriculum, and support. They identified “Five Demands”:
 
 1. “A school of Black and Puerto Rican Studies”
 
@@ -53,14 +53,16 @@ Although City College, where Audre Lorde taught, was in the predominantly Black 
 
 5. “That all education majors be required to take Black and Puerto Rican history and the Spanish language.”[^1]
 
-Some faculty members, including Audre Lorde, showed their solidarity with the student protesters. They supported the student’s call to shut-down the main campus. Lorde moved her classes off campus to a local middle school, which the students had renamed “The University of Harlem.”[^2]  
-The student strike was successful in achieving major changes at City College and in the City University system. It helped bring about the creation of Black Studies and Puerto Rican Studies programs at Brooklyn College, where Audre Lorde later taught. Student activism also supported the continuation of the SEEK (Search for Education, Elevation and Knowledge) program and led to a new open admissions policy at CUNY. Any student who completed high school in New York City would be admitted to at least one of the CUNY community colleges or four-year colleges.[^3]  
-However, CUNY campuses remained inaccessible for many disabled students. In the early 1970s, disabled students at Brooklyn College formed the activist organization [SOFEDUP](internal link to SOFEDUP) and waged their own protests for an accessible education.[^4]
+Some faculty members, including Audre Lorde, showed their solidarity with the student protesters. They supported the student’s call to shut down the main campus. Lorde moved her classes off campus to a local middle school, which the students had renamed “The University of Harlem.”[^2]  
 
-[^1]: [“We Demand”](../topics/black-latina-women/audre-lorde-cuny/we-demand)
+The student strike was successful in achieving major changes at City College and in the City University system. It helped bring about the creation of Black studies and Puerto Rican studies programs at Brooklyn College, where Audre Lorde later taught. Student activism also supported the continuation of the SEEK (Search for Education, Elevation and Knowledge) program and led to a new open admissions policy at CUNY. Any student who completed high school in New York City would be admitted to at least one of the CUNY community colleges or four-year colleges.[^3]  
 
-[^2]:  Iemanjá Brown and Miriam Atkin, “Introduction,” in Audre Lorde, “I teach myself in outline”: Notes, journals, syllabi, and an excerpt from Deotha,” Contributors Iemanjá Brown and Miriam Atkin. [https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf](https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf)
+However, CUNY campuses remained inaccessible for many disabled students. In the early 1970s, disabled students at Brooklyn College formed the activist organization SOFEDUP and waged their own protests for an accessible education.[^4]
 
-[^3]: Martha Biondi, *Black Revolution on Campus* (University of California Press, 2012); Tahir Butt, “You are Running a De Facto Segregated University in Brian Purnell and Jeanne Theoharis with Komozi Woodard, eds. *The Strange Careers of the Jim Crow North: Segregation and Struggle outside of the South*. (New York: New York University Press, 2019).
+[^1]: “We Demand.”
 
-[^4]: [SOFEDUP](internal link to SOFEDUP)
+[^2]:  Iemanjá Brown and Miriam Atkin, “Introduction,” in Audre Lorde, “'I teach myself in outline': Notes, Journals, Syllabi, and an Excerpt from Deotha,” Contributors Iemanjá Brown and Miriam Atkin. [https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf](https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf).
+
+[^3]: Martha Biondi, *Black Revolution on Campus* (Oakland: University of California Press, 2012); Tahir Butt, “You are Running a De Facto Segregated University," in *The Strange Careers of the Jim Crow North: Segregation and Struggle outside of the South*, ed.  Brian Purnell and Jeanne Theoharis with Komozi Woodard (New York: New York University Press, 2019).
+
+[^4]: SOFEDUP.
