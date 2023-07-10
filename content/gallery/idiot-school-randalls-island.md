@@ -40,7 +40,7 @@ At the time, little was known about what are now called developmental and intell
 
 The first residential school for children with intellectual disabilities opened in Albany, NY in 1851. Similar institutions soon opened throughout the country.  These “state schools” started out with a goal of education and the child’s eventual return to society. However the educational mission of many state schools shifted to training “inmates” to care for other residents, turning the schools into custodial institutions.[^4] We don’t know if the school on Randall’s Island was segregated by race, but other similar institutions were segregated at the time.[^5]  
 
-By the time the “Idiot School” opened in 1863, Randall’s Island was already home to an almshouse, orphanage, "insane asylum," and the House of Refuge, a reform institution for "juvenile delinquents."[^6] By the end of his career, Séguin worried about the growth of these schools. He thought the quality of education and care would suffer if they became too big.[^7] By 1915, the school had become overcrowded and facilities were run down. Fifty years after opening, Mary C. Dunphy, the school’s superintendent, was removed from her position for neglect. Two physicians were later dismissed for writing a letter in her defense, arguing that the school needed more teachers and better pay. [^8]
+By the time the “Idiot School” opened in 1863, Randall’s Island was already home to an almshouse, orphanage, "insane asylum," and the House of Refuge, a reform institution for "juvenile delinquents."[^6] By the end of his career, Séguin worried about the growth of these schools. He thought the quality of education and care would suffer if they became too big.[^7] By 1915, the school had become overcrowded and facilities were run down. Fifty years after opening, Mary C. Dunphy, the school’s superintendent, was removed from her position for neglect. Two physicians were later dismissed for writing a letter in her defense, arguing that the school needed more teachers and better pay.[^8]
 
 [^1]: James Trent. *Inventing the feeble mind: A history of intellectual disability in the United States.* Oxford University Press, 2016, * 81.
 
@@ -50,7 +50,7 @@ By the time the “Idiot School” opened in 1863, Randall’s Island was alread
 
 [^4]: Sarah F. Rose. *No right to be idle: The invention of disability, 1840s–1930s*. UNC Press Books, 2017, 66-67.
 
-[^5]: Kim E. Nielsen, A Disability History of the United States. (Boston: Beacon Press, 2012). 
+[^5]: Kim E. Nielsen, A Disability History of the United States. (Boston: Beacon Press, 2012).
 
 [^6]: John Francis Richmond. 1872. *New York and Its Institutions, 1609-1871: A Library of Information, Pertaining to the Great Metropolis, Past and Present.* EB Treat, 562.
 
