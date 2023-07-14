@@ -54,9 +54,15 @@ cards:
     url: /topics/black-latina-women/united-bronx-parents
 ---
 
-This collection explores Black and Latina women’s education advocacy in New York City from  from the late 1800s to the present.
 
-Histories of the civil rights movement tend to emphasize charismatic male leadership, like that of Dr. Martin Luther King, Jr., and pay much less attention to Black and Latina women.{{< detail-tag "Read more" >}} [^1] They also tend to focus on activism against racism and racial segregation more than struggles against ableism and for disability rights. And when they do document disability rights struggles, they tend to focus on white activists and white disabled people rather than Black or Latinx disabled people and activists. Accounts of this history almost always neglect the ways that racism and ableism have been connected over time, and how some activists fought against both together.[^2]
+This collection explores Black and Latina women’s education advocacy in New York City from  from the late 1800s to the present.
+  
+Histories of the civil rights movement tend to emphasize charismatic male leadership, like that of Dr. Martin Luther King, Jr., and pay much less attention to Black and Latina women. [^1]
+
+<details>
+  <summary>Read More</summary>
+  
+They also tend to focus on activism against racism and racial segregation more than struggles against ableism and for disability rights. And when they do document disability rights struggles, they tend to focus on white activists and white disabled people rather than Black or Latinx disabled people and activists. Accounts of this history almost always neglect the ways that racism and ableism have been connected over time, and how some activists fought against both together.[^2]
 
 Black and Latina women saw that segregation was a problem in their city. They identified a range of racist and ableist policies that caused it. And they found multiple ways to challenge them. They went to court, organized boycotts, demanded policy changes, pushed for new opportunities for their community’s children, advocated for their own children, and much more. Some created educational spaces within their activist groups. Some did this work as parents, some as teachers, and some as community organizers. Some were all three.
 
@@ -70,4 +76,4 @@ Scholar Kimberlé Crenshaw provided the term “intersectionality” to describe
 
 [^3]: Kimberlé Crenshaw, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics,” University of Chicago Legal Forum iss. 1, article 8 (1989), [https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf) and [this interview with Columbia Law School](https://www.law.columbia.edu/news/archive/kimberle-crenshaw-intersectionality-more-two-decades-later). For a similar formulation of this idea that predates Crenshaw’s article, you can view [the 1977 Combahee River Collective Statement here](https://americanstudies.yale.edu/sites/default/files/files/Keyword%20Coalition_Readings.pdf).
 
-{{< /detail-tag >}}
+</details>

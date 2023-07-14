@@ -4,7 +4,7 @@
                 <h1>{{ .Page.Params.title }}</h1>
                  <p>{{ .Content| page.RenderString | safeHTML }}</p>
             
-            {{with .Params.cards}}
+            {{with .Params.cards}}            
             <section>
                 <div class="container-lg">
                     <div class="gy-3 row">
@@ -102,6 +102,6 @@
                     {{end}}
                 </div>
             </section>
+            <div class="footnotes" role="doc-endnotes">{ . }</div>
     </div>
-</div>
 {{ end }}

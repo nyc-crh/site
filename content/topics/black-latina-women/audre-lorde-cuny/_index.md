@@ -4,7 +4,8 @@ layout: docset-gallery
 draft: false
 ---
 
-Audre Lorde described herself as “a black feminist lesbian mother poet.”[^1] She was born in Harlem in 1924. Her parents were immigrants from Granada. Lorde was legally blind as a child and reported that she didn’t speak until she was 5. Some of her writing describes her experiences with education for children with vision disabilities in New York City.[^2]  {{< detail-tag "Read more" >}}
+<details>
+  <summary>Audre Lorde described herself as “a black feminist lesbian mother poet.”[^1] She was born in Harlem in 1924. Her parents were immigrants from Granada. Lorde was legally blind as a child and reported that she didn’t speak until she was 5. Some of her writing describes her experiences with education for children with vision disabilities in New York City.[^2]</summary>
 
 As an adult, Lorde made a life for herself as a writer, activist, and educator. She was a professor in the City University of New York system. She designed her classroom to help her students grow personally, politically, and culturally.[^3] She worked in solidarity with student protesters, including students who were part of the movement to make CUNY’s enrollment and curriculum more inclusive of Black and Puerto Rican students.  
 
@@ -30,4 +31,4 @@ Recognizing Lorde’s work as an activist educator, we can ask how her experienc
 
 [^7]: Audre Lorde, “There is No Hierarchy of Oppressions,” *Bulletin: Homophobia and Education*, Council on Interracial Books for Children, 1983; Audre Lorde, “There is No Hierarchy of Oppression” (read by Lauren Lyons), accessed March 6, 2023, [https://www.youtube.com/watch?v=i1pNsLsHsfs](https://www.youtube.com/watch?v=i1pNsLsHsfs).
 
-{{< /detail-tag >}}
+</details>

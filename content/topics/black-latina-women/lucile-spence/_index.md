@@ -4,7 +4,9 @@ layout: docset-gallery
 draft: false
 ---
 
-In the 1910s, '20s, and '30s, New York’s Black population grew dramatically. Black southerners arrived as part of the Great Migration, fleeing violence, poverty, and political oppression in the Jim Crow South. Black migrants from the Caribbean arrived in substantial numbers as well. There were more and more Black children in New York City’s schools. But there were very few Black teachers.[^1] {{< detail-tag "Read more" >}}
+<details>
+  <summary>
+In the 1910s, '20s, and '30s, New York’s Black population grew dramatically. Black southerners arrived as part of the Great Migration, fleeing violence, poverty, and political oppression in the Jim Crow South. Black migrants from the Caribbean arrived in substantial numbers as well. There were more and more Black children in New York City’s schools. But there were very few Black teachers.[^1] </summary>
 
 New York City put many barriers in place to prevent Black teachers from getting jobs. Black teachers had less access to the college training needed to become a teacher. Those who already had the degrees and other qualifications faced a racist and ableist examination structure, one which disqualified teachers for their speech - if they had southern or non-native accents when speaking English - or their bodies, if they were judged overweight or otherwise disabled, in the eyes of the examiners.[^2]
 
@@ -19,4 +21,4 @@ Professional Teacher in Interwar America,” *History of Education Quarterly* 44
 
 [^3]: Clarence Taylor, “Harlem Schools and the New York City Teachers Union,” in *Educating Harlem\: A Century of Schooling and Resistance in a Black Community* ed. Ansley T. Erickson and Ernest Morrell (New York: Columbia University Press, 2019), [https://harlemeducationhistory.library.columbia.edu/book/chapters/06/](https://harlemeducationhistory.library.columbia.edu/book/chapters/06/); Jonna Perrillo, *Uncivil Rights: Teachers, Unions, and Race in the Battle for School Equity* (Chicago: University of Chicago Press, 2012).
 
-{{< /detail-tag >}}
+</details>
