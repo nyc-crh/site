@@ -37,7 +37,7 @@ tags:
 - New York state
 questions:
 - How does Dr. Johnson mock Mrs. Cisco? How does his language perpetuate harm? Do you see racism, misogyny, and/or ableism here? How? 
-- At this time women do not yet have the franchise - that is, they are not yet able to vote. How does this fact combined with what we know about Mrs. Cisco’s struggle for educational justice and this scene illuminate how various forms of discrimination work together?
+- At this time women do not yet have the franchise - that is, they are not yet able to vote. How does this fact matter to how you think about Mrs. Cisco’s struggle for educational justice?
 - How would you feel in Mrs. Elizabeth Cisco’s position here? What emotions - good or bad, or contradictory - do you think she was experiencing?
 ---
 
@@ -47,4 +47,4 @@ As you read, imagine a sanctuary full of church-goers, most of whom - because th
 
 As Dr. Johnson mentions the “Elsberg School Bill,” which changed the New York State Constitution to prohibit school districts from operating separate schools for Black and white students, he calls attention to Mrs. Cisco. How does he do so? Is he celebrating her? Belittling her? Both? How do those present respond?
 
-[^1]: Carleton Mabee, “Long Island's Black ‘School War’ and the Decline of Segregation in New York State,” *New York History 5*, no. 4 (October 1977)
+[^1]: Carleton Mabee, “Long Island's Black ‘School War’ and the Decline of Segregation in New York State,” *New York History* *, no. 4 (October 1977)
