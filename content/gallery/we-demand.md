@@ -11,7 +11,7 @@ imageFeatured: we-demand.jpg
 imageFeaturedAlt: >
  A simple typewritten flyer with a title, "We Demand" at the top and a list of changes student organizers wanted to see in their university.
 embed: we-demand.pdf
-embedTitle: "\"We Demand\""
+embedTitle: "We Demand"
 text: we-demand
 mapembed: 
 audio: 

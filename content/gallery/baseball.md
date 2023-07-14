@@ -25,10 +25,10 @@ copyright: Used with permission of Sheldon “Shelly” Koy
 categories: 
 tags: 
 questions: 
-- What do you see happening in this photograph? What feelings do you see expressed in the photograph? Why do you think this activity happened at Camp Jened? 
-- How do you think baseball or other games helped build community at Camp Jened? 
-- What are the activities that build community and bring joy, for you? 
-- Who has access to sports and play at your school?
+  - What do you see happening in this photograph? What feelings do you see expressed in the photograph? Why do you think this activity happened at Camp Jened? 
+  - How do you think baseball or other games helped build community at Camp Jened? 
+  - What are the activities that build community and bring joy, for you? 
+  - Who has access to sports and play at your school?
 --- 
 
 The grounds of Camp Jened included a river, a lake with a dock for boating and places to row, swimming facilities, and a stream that was great for fishing.[^1] Camp Jened also had a large grassy field where campers and counselors gathered to play baseball.

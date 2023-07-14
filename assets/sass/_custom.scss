@@ -400,7 +400,6 @@ ol ol {
 }
 a {
     color: inherit;
-    text-decoration: inherit;
 }
 a:hover {
     color: inherit;
@@ -409,7 +408,7 @@ a:active {
     color: inherit;
 }
 
-.card {
+.card a{
     text-decoration: none;
 }
 @media(min-width: 600px)

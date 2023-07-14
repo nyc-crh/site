@@ -38,8 +38,8 @@ tags:
   - Black people
   - Latinx people
 questions:
-  - "How do you think the young people in this film felt about participating in this protest? What evidence can you find in the film footage? How do you think they felt about protesting school segregation at junior high and \"600\" schools?"
-  - What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police? 
+- How do you think the young people in this film felt about participating in this protest? What evidence can you find in the film footage? How do you think they felt about protesting school segregation at junior high and "600" schools?
+- What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police? 
 ---
 
 The 1965 boycott targeted segregation in New York City’s junior high schools and “600” schools. But for 2000 students - primarily Black and Puerto Rican boys - who attended the “600” day schools, those schools were places they were sent because they were labeled by the schools as “socially maladjusted” or “emotionally disturbed.” Some of the students had been ordered to attend these schools after interactions with the police and the juvenile legal system. Most students did not find a supportive educational environment there, and those who had disabilities did not receive the support they needed.

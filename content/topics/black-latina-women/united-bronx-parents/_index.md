@@ -6,8 +6,10 @@ type: list
 draft: false
 ---
 
+Many Puerto Ricans moved to and from the US mainland in the 1920s and 1930s. One of these migrants was Evelina López, who came to East Harlem as a child in 1933.[^1] As an adult and a mother, Evelina López Antonetty (her married name) became an education advocate. She lived in the South Bronx, where the Puerto Rican population grew dramatically after World War II ended and people came in search of work.[^2]
+
 <details>
-  <summary>Many Puerto Ricans moved to and from the US mainland in the 1920s and 1930s. One of these migrants was Evelina López, who came to East Harlem as a child in 1933.[^1] As an adult and a mother, Evelina López Antonetty (her married name) became an education advocate. She lived in the South Bronx, where the Puerto Rican population grew dramatically after World War II ended and people came in search of work.[^2] </summary>
+  <summary>Read More</summary>
 
 Antonetty’s early school experiences in New York City were difficult and left scars that lasted for decades. But they also motivated her to become an activist. In a later interview, she recalled that “The Hispanics from Central America, the Haitains, the Blacks from the South and the Puerto Ricans all have problems with language and customs. They experience rejection like I did. They feel like outsiders!”[^1]
 

@@ -37,7 +37,7 @@ tags:
 - disability labels
 - teacher quality
 questions: 
-- How is this report and its description of schooling for Puerto Rican students in the South Bronx in the 1970s similar to or different from the description [Toni Cade Bambara’s description of Puerto Rican students going to school in Harlem in the 1940s](../topics/black-latina-women/united-bronx-parents/puerto-ricans)? What seems to have continued? What seems to have changed? 
+- How is this report and its description of schooling for Puerto Rican students in the South Bronx in the 1970s similar to or different from the description [Toni Cade Bambara’s description of Puerto Rican students going to school in Harlem in the 1940s](/topics/black-latina-women/united-bronx-parents/puerto-ricans)? What seems to have continued? What seems to have changed? 
 - To whom was this report directed? How did United Bronx Parents make their argument? How did they use language to convince their audience? 
 - What do you think of their proposed changes in education, listed on p. 7 and 8. Are these changes still needed or relevant today?
 --- 

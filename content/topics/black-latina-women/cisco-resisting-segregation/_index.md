@@ -4,8 +4,10 @@ layout: docset-gallery
 draft: false
 ---
 
+Both New York City and New York State operated racially segregated schools in the 1800s. New York City, which at the time included only Manhattan, stopped operating schools labeled as “colored” schools in 1883. But New York State did not change its law then. Some districts, including the schools in Jamaica, Queens, continued to require Black students to enroll only in designated “colored schools.[^1]
+
 <details>
-  <summary>Both New York City and New York State operated racially segregated schools in the 1800s. New York City, which at the time included only Manhattan, stopped operating schools labeled as “colored” schools in 1883. But New York State did not change its law then. Some districts, including the schools in Jamaica, Queens, continued to require Black students to enroll only in designated “colored schools.[^1] </summary>
+  <summary>Read More</summary>
 
 Black parents, including Elizabeth Cisco and her husband Samuel Cisco, saw that segregation and inequality were linked. They wanted the higher-quality school facilities they saw available at the local white school for their children. They resisted the policy of school segregation, and their actions helped change New York state law.  
 

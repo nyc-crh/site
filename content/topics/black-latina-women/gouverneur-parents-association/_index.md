@@ -4,9 +4,10 @@ layout: docset-gallery
 draft: false
 ---
 
+Throughout the twentieth century, New York law said that children had to attend school. Yet for much of the century, many New York children who were of school age still did not go to school. There were many ways that children could be excluded from school, often connected to ableism, racism, and homophobia.[^1] Meanwhile, some students who did attend school found themselves in [separate classes or programs that were not designed to help them learn](/topics/boycotting-ny-schools/1965-boycott/).[^2]
+
 <details>
-  <summary> 
-Throughout the twentieth century, New York law said that children had to attend school. Yet for much of the century, many New York children who were of school age still did not go to school. There were many ways that children could be excluded from school, often connected to ableism, racism, and homophobia.[^1] Meanwhile, some students who did attend school found themselves in [separate classes or programs that were not designed to help them learn](../topics/boycotting-ny-schools/1965-boycott/).[^2] </summary>
+  <summary>Read More</summary>
 
 Many students who were excluded from school lived in institutions. Families might have opted to send their loved ones to these institutions. But other children and adults were required to be there, by the courts or by educators.
 

@@ -3,7 +3,7 @@ title: "Key concept heading."
 imageFeatured: 
 imageFeaturedAlt:
 primarysource: Source Title in Titlecase
-itemlink: ../gallery/title-of-the-item
+itemlink: /gallery/title-of-the-item
 weight: 
 draft: false
 ---

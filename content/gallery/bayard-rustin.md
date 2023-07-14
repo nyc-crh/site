@@ -30,9 +30,9 @@ tags:
   - physical disability
   - communism
 questions: 
-  - In this interview, Bayard Rustin discusses why A. Philip Randolph counted on him as organizer. What reasons does Rustin give for Randolph’s trust in him? What were the organizing tasks that Rustin completed?
-  - How did Bayard Rustin’s work align with the political framework of A. Philip Randolph?
-  - How do you think Bayard Rustin felt working in movements that acknowledged his organizing genius while also asking him to stay behind the scenes because of his sexuality?
+- In this interview, Bayard Rustin discusses why A. Philip Randolph counted on him as organizer. What reasons does Rustin give for Randolph’s trust in him? What were the organizing tasks that Rustin completed?
+- How did Bayard Rustin’s work align with the political framework of A. Philip Randolph?
+- How do you think Bayard Rustin felt working in movements that acknowledged his organizing genius while also asking him to stay behind the scenes because of his sexuality?
 ---
 
 Bayard Rustin was born in West Chester, Pennsylvania on March 12, 1912. He was raised by his maternal grandmother who was an active member of the National Association for the Advancement of Colored People (NAACP). Because of her activism, Rustin engaged in protests against racial discrimination at a very young age. After spending time at Wilberforce College and Cheyney State Teachers College, Rustin moved to New York City in 1937. He began attending classes at City College and he became part of a radical network of activists and organizers. Through this network, he met and worked alongside Ella Baker, A. Philip Randolph, and others. Randolph quickly noticed Rustin’s talent for organizing demonstrations. In 1941, Randolph enlisted Rustin to organize a demonstration at the United States Capitol against segregation in the armed forces and racial discrimination in employment. The pressure from this proposed march compelled President Franklin Delano Roosevelt to sign an executive order that prohibited racial and ethnic discrimination in the nation’s defense industry, which was very active as World War II was underway.

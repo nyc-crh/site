@@ -58,7 +58,7 @@
                                     {{ with $timelineimage }}
                                     <img src="{{ ($timelineimage.Fill "160x120 top").Permalink }}"  alt="{{ .Params.imageFeaturedAlt }}"/>
                                     {{ end }}{{end}}</div>
-                                    <div class="timeline-text p2"><p>{{.Params.Eventname}}<br>
+                                    <div class="timeline-text p2"><p>{{.Params.Eventname  | page.RenderString | safeHTML }}<br>
                                     </div>
                             </div>
                         </div></a>
@@ -80,7 +80,7 @@
                                     {{ with $timelineimage }}
                                     <img src="{{ ($timelineimage.Fill "160x120 top").Permalink }}"  alt="{{ .Params.imageFeaturedAlt }}" />
                                     {{ end }}{{end}}</div>
-                                    <div class="timeline-text p2"><p>{{.Params.Eventname}}<br>
+                                    <div class="timeline-text p2"><p>{{.Params.Eventname  | page.RenderString | safeHTML }}<br>
                                 </div>
                             </div>
                         </div></a>{{end}}
@@ -102,6 +102,6 @@
                     {{end}}
                 </div>
             </section>
-            <div class="footnotes" role="doc-endnotes">{ . }</div>
+            <div class="footnotes" role="doc-endnotes"></div>
     </div>
 {{ end }}

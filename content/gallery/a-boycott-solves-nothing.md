@@ -31,7 +31,7 @@ tags:
 questions:
   - What words and phrases does the New York Times use to describe civil rights activists and Black and Latinx parents and children? What words and phrases does the New York Times use to describe the mayor and the Board of Education? 
   - Who or what does the *New York Times* believe is causing segregation in New York, or interfering with desegregation? 
-  - What does the *NYT* believe that Black and Puerto Rican parents and children should do to improve education? How does this editorial in the New York Times compare to the coverage of the boycott by the Amsterdam News? [link to that document set here] 
+  - What does the <em>NYT</em> believe that Black and Puerto Rican parents and children should do to improve education? How does this editorial in the New York Times compare to the coverage of the boycott by the Amsterdam News? [link to that document set here] 
   - What effect do you think this *NYT* editorial had? Consider who reads the NYT and how many people read it.
 ---
  

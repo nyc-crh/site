@@ -33,9 +33,9 @@ tags:
 - queer people
 - disabled people
 questions:
-- What clues does this photo offer about who Audre Lorde was and what she cared about? What do you notice about the space, the items in the space, an Lorde’s physical position? 
-- Assuming that Lorde gave permission for this image to be taken and shared, what does it tell us about how she wanted to be seen in the world? 
-- Compare this image to some of the other images linked in the text above. Which would you choose to represent Lorde, and why?
+  - What clues does this photo offer about who Audre Lorde was and what she cared about? What do you notice about the space, the items in the space, an Lorde’s physical position? 
+  - Assuming that Lorde gave permission for this image to be taken and shared, what does it tell us about how she wanted to be seen in the world? 
+  - Compare this image to some of the other images linked in the text above. Which would you choose to represent Lorde, and why?
 --- 
 
 By the 1980s, Audre Lorde was working full-time as a writer. She had published essays and poetry. She had also been fighting cancer, which she was diagnosed with in 1978.

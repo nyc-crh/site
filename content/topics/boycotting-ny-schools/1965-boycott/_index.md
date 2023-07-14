@@ -7,6 +7,9 @@ draft: false
 
 New York City’s “600” schools were established in the 1940s to educate young people who were, in the opinion of educators or the courts, “defiant, disruptive, disrespectful, and hostile to all authority.”[^1] These schools got their name from New York’s school numbering system. They had school numbers, like P.S. 617, in the six-hundreds.
 
+<details>
+  <summary>Read More</summary>
+
 By the 1960s the “600” schools began labeling students as “socially maladjusted” and/or “emotionally disturbed”— which in some cases meant what we would call emotional or mental health disabilities today. But in other cases this label was applied to Black and Puerto Rican boys who, for a variety of reasons, educators thought could not conform to school expectations and rules. Some of the "600" schools were housed in institutions like jails, and hospitals, where students may have been sent by the courts, and others were called "day schools," where students attended during the day after being excluded from other New York City schools.[^2]
 
 Despite their stated purpose, the "600" schools segregated students by race and class. They targeted and excluded from mainstream schools those who the city had given the very least educational opportunity and who faced challenges from poverty at home. In the 1960s, the majority of "600" day school students were Black and Puerto Rican and most came from poor neighborhoods. Some students were referred to the “600” schools by school personnel, most of whom were white, and these decisions were often influenced by racism. Some students had learning disabilities or intellectual disabilities that were not identified, and they were not getting get the kind of educational and mental health support they needed.[^3]
@@ -37,3 +40,5 @@ There are no “600” schools today. But their legacy of schools segregated bot
 [^9]: Reema Amin. “To Reduce Stigma, New York Moves to Change “Emotional Disturbance” Label to “Emotional Disability. Chalkbeat, March 14, 2022. [https://ny.chalkbeat.org/2022/3/14/22978080/ny-emotional-disturbance-regents-state-students-with-disabilities](https://ny.chalkbeat.org/2022/3/14/22978080/ny-emotional-disturbance-regents-state-students-with-disabilities)
 
 [^10]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape.” Research Alliance for NYC Schools, 2019. [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city)
+
+</details>

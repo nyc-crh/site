@@ -36,9 +36,9 @@ tags:
 - ableism
 - New York state
 questions:
-- How does Dr. Johnson mock Mrs. Cisco? How does his language perpetuate harm? Do you see racism, misogyny, and/or ableism here? How? 
-- At this time women do not yet have the franchise - that is, they are not yet able to vote. How does this fact matter to how you think about Mrs. Cisco’s struggle for educational justice?
-- How would you feel in Mrs. Elizabeth Cisco’s position here? What emotions - good or bad, or contradictory - do you think she was experiencing?
+- How does Dr. Johnson mock Mrs. Cisco? How does his language perpetuate harm? Do you see racism, misogyny, and/or ableism here? How?
+- At this time women do not yet have the franchise—that is, they are not yet able to vote. How does this fact matter to how you think about Mrs. Cisco’s struggle for educational justice?
+- How would you feel in Mrs. Elizabeth Cisco’s position here? What emotions—good or bad, or contradictory—do you think she was experiencing?
 ---
 
 Mrs. Elizabeth Cisco worked for more than five years, with her husband and on her own, to fight for educational equality and desegregation. She pushed schools in the town of Jamaica, and then the board of education in Queens, and then the New York State Legislature, to end school segregation and provide equal opportunity for her children.[^1] A few days after the New York State legislature passed a bill ending legal segregation in schools, Mrs. Cisco attended a gathering at a local Black church in the state capital of Albany. The newspaper captured the scene with the small description you see above.
