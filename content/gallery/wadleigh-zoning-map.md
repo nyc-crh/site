@@ -34,7 +34,7 @@ tags:
 - Harlem
 questions:
 - How does the map above contradict the superintendent’s claim that Harlem’s schools were not segregated?
-- Based on the placement of different high schools, how could you redraw the Wadleigh School Zone to promote integration?
+- Based on the placement of different high schools, how could you redraw the Wadleigh school zone to promote integration?
 - Thinking beyond school zones, what strategies would you propose to integrate schools, and why? What potential drawbacks would you be concerned about?
 ---
 
