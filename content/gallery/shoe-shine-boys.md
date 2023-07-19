@@ -1,11 +1,11 @@
 ---
 date: 1963-12-07
 displaydate: 
-title: "Claim Teachers Used Pupils As Shoe Shine Boys: DA Calls Charges \"Serious\""
+title: "Claim Teachers Used Pupils As Shoe Shine Boys: DA Calls Charges “Serious”"
 imageFeatured: shoe-shine-boys.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: shoe-shine-boys.pdf
-embedTitle: "Claim Teachers Used Pupils As Shoe Shine Boys: DA Calls Charges \"Serious\""
+embedTitle: "Claim Teachers Used Pupils As Shoe Shine Boys: DA Calls Charges “Serious”"
 text: shoe-shine-boys
 mapembed: 
 audio: 

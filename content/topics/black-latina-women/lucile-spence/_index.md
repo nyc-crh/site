@@ -21,5 +21,3 @@ During the anti-communist “Red Scare” of the early 1940s through the 1950s, 
 Professional Teacher in Interwar America,” *History of Education Quarterly* 44, no. 3 (Autumn, 2004): 337-363; Kate Rousmaniere, “Those Who Can’t, Teach: The Disabling History of American Educators,” *History of Education Quarterly* 53, no. 1 (February 2013): 90-103.
 
 [^3]: Clarence Taylor, “Harlem Schools and the New York City Teachers Union,” in *Educating Harlem\: A Century of Schooling and Resistance in a Black Community* ed. Ansley T. Erickson and Ernest Morrell (New York: Columbia University Press, 2019), [https://harlemeducationhistory.library.columbia.edu/book/chapters/06/](https://harlemeducationhistory.library.columbia.edu/book/chapters/06/); Jonna Perrillo, *Uncivil Rights: Teachers, Unions, and Race in the Battle for School Equity* (Chicago: University of Chicago Press, 2012).
-
-</details>

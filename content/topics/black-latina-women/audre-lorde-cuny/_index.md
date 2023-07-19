@@ -32,5 +32,3 @@ Recognizing Lorde’s work as an activist educator, we can ask how her experienc
 [^6]: Sami Schalk, *Black Disability Politics* (Durham, NC: Duke University Press, 2022); Moya Bailey and Izetta Autumn Mobley, “Work in the Intersections: A Black Feminist Disability Framework,” *Gender and Society* 33, no. 1 (February 2019): 19-40.
 
 [^7]: Audre Lorde, “There is No Hierarchy of Oppressions,” *Bulletin: Homophobia and Education*, Council on Interracial Books for Children, 1983; Audre Lorde, “There is No Hierarchy of Oppression” (read by Lauren Lyons), accessed March 6, 2023, [https://www.youtube.com/watch?v=i1pNsLsHsfs](https://www.youtube.com/watch?v=i1pNsLsHsfs).
-
-</details>

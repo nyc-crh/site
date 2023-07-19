@@ -6,7 +6,7 @@ displaydate: "c. 1941-1945"
 title: Children participating in a public campaign
 author:
 citation: >
- "Children participating in a public campaign""c. 1941-1945"," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/children-campaign.
+ "Children participating in a public campaign""c. 1941-1945"," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/children-campaign.
 imageFeatured: children-campaign.jpg
 imageFeaturedAlt: A group of Black and white children sit on steps beside a large stack of paper, making "V" signs with their hands and holding campaign signs
 embed: 

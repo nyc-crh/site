@@ -6,7 +6,7 @@ displaydate:
 title: I am too Pretty for Some ‘Ugly Laws’
 author: Lateef McLeod
 citation: >
- "I am too Pretty for Some ‘Ugly Laws’" by Lateef McLeod in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/lateef-mcleod.
+ "I am too Pretty for Some ‘Ugly Laws’" by Lateef McLeod in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/lateef-mcleod.
 imageFeatured: lateef-mcleod.jpg
 imageFeaturedAlt: Lateef McLeod, a Black man with cerebral palsy who uses a wheelchair reads his poem with an assisted communication device for a video conference
 embed: 

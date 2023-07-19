@@ -6,7 +6,7 @@ displaydate: "2011"
 title: Evelina López Antonetty Mural
 author: Tats Cru, Inc.
 citation: >
- "Evelina López Antonetty Mural," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/united-bronx-parents/evelina-antonetty-mural.
+ "Evelina López Antonetty Mural," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/united-bronx-parents/evelina-antonetty-mural.
 imageFeatured: evelina-antonetty-mural.jpg
 imageFeaturedAlt: Black and white mural of Evelina Lopez Antonetty, a Puerto Rican woman, pointing with her left hand and speaking. The rest of the mural shows two children dancing in a field of rubble and a quote by Antonetty. A Puerto Rican flag hangs on a school building, the only colorful object in the painting. 
 embed: 

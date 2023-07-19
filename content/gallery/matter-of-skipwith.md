@@ -6,7 +6,7 @@ displaydate:
 title: In the matter of Charlene Skipwith
 author: 
 citation: >
- "In the matter of Charlene Skipwith," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/harlem-nine/matter-of-skipwith.
+ "In the matter of Charlene Skipwith," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/harlem-nine/matter-of-skipwith.
 imageFeatured: matter-of-skipwith.jpg
 imageFeaturedAlt: Text of a court decision
 embed: matter-of-skipwith.pdf

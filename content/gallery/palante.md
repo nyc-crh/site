@@ -6,7 +6,7 @@ displaydate: "February 1971"
 title: Palante
 author: Young Lords Party
 citation: >
- "Palante," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/young-lords/palante.
+ "Palante," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/young-lords/palante.
 imageFeatured: palante.jpg
 imageFeaturedAlt: >
  A copy of *Palante* newspaper, volume 3, number 3 with a blue background and a photograph on the front cover. The photograph features six people, the leaders of the Young Lords Party.

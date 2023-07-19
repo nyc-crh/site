@@ -54,7 +54,6 @@ cards:
     url: /topics/black-latina-women/united-bronx-parents
 ---
 
-
 This collection explores Black and Latina women’s education advocacy in New York City from  from the late 1800s to the present.
   
 Histories of the civil rights movement tend to emphasize charismatic male leadership, like that of Dr. Martin Luther King, Jr., and pay much less attention to Black and Latina women. [^1]
@@ -75,5 +74,3 @@ Scholar Kimberlé Crenshaw provided the term “intersectionality” to describe
 [^2]: Sins Invalid, *Skin, Tooth and Bone: The Basis of Movement is Our People: a Disability Justice Primer* (Berkeley: Sins Invalid, 2019); Sami Schalk, Black Disability Politics (Durham, NC: Duke University Press, 2022), and see [Schalk’s discussion of her work on Getting Curious with Jonathan Van Ness](https://jonathanvanness.com/podcast/whats-at-the-heart-of-black-disability-politics-with-professor-sami-schalk/).
 
 [^3]: Kimberlé Crenshaw, “Demarginalizing the Intersection of Race and Sex: A Black Feminist Critique of Antidiscrimination Doctrine, Feminist Theory and Antiracist Politics,” University of Chicago Legal Forum iss. 1, article 8 (1989), [https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf](https://chicagounbound.uchicago.edu/cgi/viewcontent.cgi?article=1052&context=uclf) and [this interview with Columbia Law School](https://www.law.columbia.edu/news/archive/kimberle-crenshaw-intersectionality-more-two-decades-later). For a similar formulation of this idea that predates Crenshaw’s article, you can view [the 1977 Combahee River Collective Statement here](https://americanstudies.yale.edu/sites/default/files/files/Keyword%20Coalition_Readings.pdf).
-
-</details>

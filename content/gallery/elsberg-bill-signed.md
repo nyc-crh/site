@@ -6,7 +6,7 @@ displaydate:
 title: The Elsberg Bill Signed
 author: 
 citation: >
- "The Elsberg Bill Signed," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/cisco-resisting-segregation/elsberg-bill-signed."
+ "The Elsberg Bill Signed," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/cisco-resisting-segregation/elsberg-bill-signed."
 imageFeatured: elsberg-bill-signed.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: 

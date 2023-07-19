@@ -70,5 +70,3 @@ After the boycotts of 1964 and 1965, students, parents, and activists continued 
 [^4]: Francine Almash, *“Out of the Shadows: Recovering the History of the New York City '600' Schools”* (Ph.D. diss., CUNY Graduate Center, in progress).  
 
 [^5]: John Cuscera with Gary Orfield, “New York State’s Extreme School Segregation: Inequality, Inaction, and a Damaged Future” (Los Angeles: UCLA Center for Civil Rights/Proyecto Derechos Civiles, 2014), [https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf](https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf);Cheri Fancsali, “Special Education in New York City: Understanding the Landscape” (New York: Research Alliance for NYC Schools at NYU Steinhardt, 2019), [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city)
-
-</details>

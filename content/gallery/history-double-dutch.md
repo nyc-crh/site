@@ -6,7 +6,7 @@ displaydate:
 title: History of Double Dutch
 author: 
 citation: > 
- "History of Double Dutch"," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/history-double-dutch.
+ "History of Double Dutch"," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/history-double-dutch.
 imageFeatured: history-double-dutch.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: 

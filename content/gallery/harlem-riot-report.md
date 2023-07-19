@@ -6,7 +6,7 @@ displaydate:
 title: Mayor LaGuardia’s Commission on the Harlem Riot
 author: 
 citation: >
- "Mayor LaGuardia’s Commission on the Harlem Riot," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/lucile-spence/harlem-riot-report.
+ "Mayor LaGuardia’s Commission on the Harlem Riot," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/lucile-spence/harlem-riot-report.
 imageFeatured: harlem-riot-report.jpg
 imageFeaturedAlt: Report cover
 embed: harlem-riot-report.pdf

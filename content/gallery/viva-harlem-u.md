@@ -6,7 +6,7 @@ displaydate: "1969"
 title: “Viva Harlem U!”
 author: 
 citation: >
- “Viva Harlem U!” in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/audre-lorde-cuny/viva-harlem-u.
+ “Viva Harlem U!” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/audre-lorde-cuny/viva-harlem-u.
 imageFeatured: viva-harlem-u.jpg
 imageFeaturedAlt: >
  College students, most appearing to be white, hold signs at a rally outdoors with trees behind them. One student has a loudspeaker. The largest banner reads, "Support the Five Demands - Viva Harlem U."

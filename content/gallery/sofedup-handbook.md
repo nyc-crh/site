@@ -6,7 +6,7 @@ displaydate: "1971"
 title: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY
 author: Frederick L. Francis
 citation: >
- "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY" by Frederick L. Francis"1971" in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/sofedup-handbook.
+ "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY" by Frederick L. Francis"1971" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/sofedup-handbook.
 imageFeatured: sofedup-handbook.jpg
 imageFeaturedAlt: The cover of the handbook features an illustration of a man sitting in a wheelchair facing forward with arms outstretched to the side. His hands push apart the words, “handi” and “capped.”
 embed: sofedup-handbook.pdf

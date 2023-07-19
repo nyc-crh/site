@@ -40,5 +40,3 @@ There are no “600” schools today. But their legacy of schools segregated bot
 [^9]: Reema Amin. “To Reduce Stigma, New York Moves to Change “Emotional Disturbance” Label to “Emotional Disability. Chalkbeat, March 14, 2022. [https://ny.chalkbeat.org/2022/3/14/22978080/ny-emotional-disturbance-regents-state-students-with-disabilities](https://ny.chalkbeat.org/2022/3/14/22978080/ny-emotional-disturbance-regents-state-students-with-disabilities)
 
 [^10]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape.” Research Alliance for NYC Schools, 2019. [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city)
-
-</details>

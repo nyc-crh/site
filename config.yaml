@@ -30,6 +30,8 @@ markup:
       strikethrough: true
       table: true
       taskList: true
+      footnoteprefix: true
+      fn_id_prefix: 'title'
       typographer:
         apostrophe: '&rsquo;'
         disable: false

@@ -6,7 +6,7 @@ displaydate: "1994"
 title: "\"Puerto Ricans\" (Spoken Version)"
 author: Toni Cade Bambara
 citation: >
- “Puerto Ricans” (Spoken Version) ," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/united-bronx-parents/puerto-ricans.
+ “Puerto Ricans” (Spoken Version) ," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/united-bronx-parents/puerto-ricans.
 imageFeatured: text-icon.jpg
 imageFeaturedAlt: Graphic icon of a document
 embed: 

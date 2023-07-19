@@ -44,5 +44,3 @@ Librarian and researcher Jorgé Matos Valldejuli studies the activism of Mrs. Wi
 [^9]: Matos Valldejuli, “The Racialized History of Disability Activism”
 
 [^10]: Matos Valldejuli, “The Racialized History of Disability Activism”  
-
-</details>

@@ -6,7 +6,7 @@ displaydate: "ca. 1956-1960"
 title: Mae Mallory and her daughter Patricia
 author: Burley Versatile Photography
 citation: >
- "Mae Mallory and her daughter Patricia," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/harlem-nine/mae-mallory-and-daughter.
+ "Mae Mallory and her daughter Patricia," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/harlem-nine/mae-mallory-and-daughter.
 imageFeatured: mae-mallory-and-daughter.jpg
 imageFeaturedAlt: A middle-aged Black woman holds the arm of her teenaged daughter. They stand in a doorway, likely at a school.
 embed: 

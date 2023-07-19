@@ -7,7 +7,7 @@ title: >
  ¿Le gustaria que sus niños…?
 author: United Bronx Parents/Padres Unidos del Bronx
 citation: >
- "¿Le gustaria que sus niños...?," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/united-bronx-parents/le-gustaria-que-sus-ninos.
+ "¿Le gustaria que sus niños...?," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/united-bronx-parents/le-gustaria-que-sus-ninos.
 imageFeatured: le-gustaria-que-sus-ninos.jpg
 imageFeaturedAlt: A pink flyer with a drawing of a young Latino boy reading a book. Spanish text is in blue lettering.
 embed: le-gustaria-que-sus-ninos.pdf
