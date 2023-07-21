@@ -8,8 +8,8 @@
         <h4>{{ .Params.org }}</h4>
         <h4>{{ .Params.jobtitle }}</h4></div>
      <div class="py-2" style="clear:both;">
-        <p>{{ .Params.bio | safeHTML }}</p>
-        <p>{{ .Params.workonproject }}</p>
+        <p>{{ .Params.bio | page.RenderString | safeHTML }}</p>
+        <p>{{ .Params.workonproject | page.RenderString | safeHTML }}</p>
     </div>
   </div>
   

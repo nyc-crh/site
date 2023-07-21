@@ -2,7 +2,7 @@
 <div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
             <p class="text-danger strong">DRAFT WORK IN PROGRESS. WE ARE SEEKING PERMISSION TO REPRODUCE COPYRIGHTED MATERIALS. YOU ARE WELCOME TO USE IN YOUR CLASSROOM, BUT PLEASE DO NOT SHARE PUBLICLY.</p>
                 <h1>{{ .Page.Params.title }}</h1>
-                 <p>{{ .Content| page.RenderString | safeHTML }}</p></details>
+                 <p>{{ .Content | page.RenderString | safeHTML }}</p></details>
             {{with .Params.cards}}            
             <section>
                 <div class="container-lg">
@@ -18,8 +18,8 @@
                                 {{ end }}
                                 {{end}}
                                 <div class="card-body">
-                                    <h2 class="card-title">{{ .title }}</h2>
-                                    <p class="card-text">{{ .text }}</p>
+                                    <h2 class="card-title">{{ .title | page.RenderString | safeHTML }}</h2>
+                                    <p class="card-text">{{ .text | page.RenderString | safeHTML }}</p>
                                     {{ with .btn }}
                                     {{ if and .url .text }}
                                     <a href="{{ .url }}" class="btn btn-primary">{{ .text }}</a>
@@ -46,7 +46,7 @@
                         <div class="timeline-img"></div>
                         <a href="{{$permalink}}">
                         <div class="timeline-content">
-                            <div class="timeline-title"><h2>{{ .Params.Title}}</h2></div>
+                            <div class="timeline-title"><h2>{{ .Params.Title | page.RenderString | safeHTML }}</h2></div>
                             {{ if .Params.Displaydate }}
                             <div class="date">{{ .Params.Displaydate }}</div>
                             {{ else }}
@@ -68,7 +68,7 @@
                         <div class="timeline-img"></div>
                         {{ if .Params.hasContentInGallery }}<a href="{{$permalink}}">{{else}}
                         <div class="timeline-content">
-                            <div class="timeline-title"><h2>{{ .Params.Title}}</h2></div>
+                            <div class="timeline-title"><h2>{{ .Params.Title | page.RenderString | safeHTML }}</h2></div>
                             {{ if .Params.Displaydate }}
                             <div class="date">{{ .Params.Displaydate }}</div>
                             {{ else }}
@@ -79,7 +79,7 @@
                                     {{ with $timelineimage }}
                                     <img src="{{ ($timelineimage.Fill "160x120 top").Permalink }}"  alt="{{ .Params.imageFeaturedAlt }}" />
                                     {{ end }}{{end}}</div>
-                                    <div class="timeline-text p2"><p>{{.Params.Eventname  | page.RenderString | safeHTML }}<br>
+                                    <div class="timeline-text p2"><p>{{.Params.Eventname | page.RenderString | safeHTML }}<br>
                                 </div>
                             </div>
                         </div></a>{{end}}
