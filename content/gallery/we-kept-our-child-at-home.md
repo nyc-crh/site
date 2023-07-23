@@ -73,4 +73,5 @@ Here is [the complete interview](https://archive.org/details/sim_coronet_1955-11
 >
 > Around the house he plays with a tin dish he calls his steering wheel. But as simple as that would seem to make him, he can easily recognize the cars of friends a block away.
 
-[^1]:Steven Noll, 'Institutions for People with Disabilities in North America', in Michael Rembis, Catherine Kudlick, and Kim E. Nielsen (eds), *The Oxford Handbook of Disability History,* Oxford Handbooks (2018; online edn, Oxford Academic, 10 July 2018), https://doi.org/10.1093/oxfordhb/9780190234959.013.19, accessed 21 Apr. 2023. Thanks to Francine Almash for the citation.
+[^1]: Steven Noll, “Institutions for People with Disabilities in North America,” in *The Oxford Handbook of Disability History,* ed. Michael Rembis, Catherine Kudlick, and Kim E. Nielsen, Oxford Handbooks (2018; online edn, Oxford Academic, 10 July 2018), accessed April 21, 2023, https://doi.org/10.1093/oxfordhb/9780190234959.013.19. Thanks to Francine Almash for the citation. 
+
