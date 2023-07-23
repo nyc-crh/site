@@ -45,7 +45,7 @@ Mrs. Willie Mae Goodman heard many people speak of her daughter’s death. When 
 
 By the time Marguerite was four years old, Mr. and Mrs. Goodman decided to take the doctor’s suggestions and place her in an institution. They sent her to Willowbrook State School. Mrs. Goodman had hoped that Marguerite would learn to walk at Willowbrook, and then she would come home. She wanted her daughter to learn to talk, to be able to tell her mother her needs. She did not. Willowbrook was far from the warm home or the caring school that Marguerite, like any child, deserved. The facilities at Willowbrook worried Mrs. Goodman. They were overcrowded and unsafe, a space that Senator Robert Kennedy, when he visited, described as “not fit for animals to live.”
 
-Due to overcrowding, many children including Marguerite Goodman were moved out of Willowbrook. They were sent to the Gouverneur Annex in lower Manhattan.
+Due to overcrowding, many children, including Marguerite Goodman, were moved out of Willowbrook. They were sent to the Gouverneur Annex in lower Manhattan.
 
 Why did they move Marguerite? Willowbrook officials chose children who they predicted would not live very long. In a grim calculation, they thought they could make Willowbrook less crowded by removing patients who would not live long enough to return. Mrs. Goodman noted that the officials at Willowbrook and Gouveneur “wanted to pick when [children like Marguerite] were going to die, not when they were going to live.”[^1]
 
