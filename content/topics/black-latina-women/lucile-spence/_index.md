@@ -1,6 +1,6 @@
 ---
 title: Lucile Spence and Teacher Activism 
-layout: docset-gallery
+layout: bundle-gallery
 draft: false
 ---
 

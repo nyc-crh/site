@@ -3,11 +3,11 @@
   {{ define "breadcrumb" }}
   {{ with .Parent }}
       {{ template "breadcrumb" . }}
-      <li class="breadcrumb-item"> <a href="{{ .Permalink }}">{{ if .IsHome }}Home{{ else }}{{ .Page.Title }}{{ end }}</a> </li>
+      <li class="breadcrumb-item"> <a href="{{ .Permalink }}">{{ if .IsHome }}Home{{ else }}{{ .Page.Title | page.RenderString }}{{ end }}</a></li>
   {{ end }}
   {{ end }}
   {{ if not .IsHome }}
-      {{ template "breadcrumb" . }}
+      {{ template "breadcrumb" . }} &nbsp; > ...
   {{ end }}
 </ol>
 </nav>

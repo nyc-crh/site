@@ -1,7 +1,6 @@
 ---
 title: 'Deaf Social Spaces'
-layout: docset-gallery
-type: list
+layout: bundle-gallery
 draft: false
 ---
 

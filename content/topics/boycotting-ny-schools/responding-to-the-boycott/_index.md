@@ -1,6 +1,6 @@
 ---
 title: Responding to the 1964 Boycotts
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
 ---

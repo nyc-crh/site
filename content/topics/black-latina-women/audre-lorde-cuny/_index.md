@@ -1,6 +1,6 @@
 ---
 title: Audre Lorde and Student Protest at CUNY
-layout: docset-gallery
+layout: bundle-gallery
 draft: false
 ---
 

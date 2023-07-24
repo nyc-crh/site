@@ -1,6 +1,6 @@
 ---
 title: Youth Organizing and Direct Action
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
 ---

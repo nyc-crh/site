@@ -1,8 +1,6 @@
 ---
-date: 1000-01-01
 title: 'Camp Jened'
-layout: docset-gallery
-type: list
+layout: bundle-gallery
 draft: false
 ---
 

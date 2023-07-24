@@ -1,6 +1,6 @@
 ---
 title: Elizabeth Cisco Resisting Segregation in Queens
-layout: docset-gallery
+layout: bundle-gallery
 draft: false
 ---
 

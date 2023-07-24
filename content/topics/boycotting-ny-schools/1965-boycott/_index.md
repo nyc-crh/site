@@ -1,6 +1,6 @@
 ---
 title: The Less-Known 1965 Boycott
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
 ---

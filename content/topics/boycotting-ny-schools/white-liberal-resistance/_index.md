@@ -1,6 +1,6 @@
 ---
 title: White Liberal Resistance
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
 ---

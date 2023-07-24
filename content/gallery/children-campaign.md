@@ -17,7 +17,7 @@ audio:
 audioTitle: 
 video: 
 videoTitle: 
-eventname: Benjamin Franlkin high school students participate in a war-time effort to conserve paper.
+eventname: Benjamin Franklin high school students participate in a war-time effort to conserve paper.
 caption: Benjamin Franklin High School students participating in a World War II effort to save paper.
 archive_source: Balch Historical Institute, Philadelphia
 source_link: 

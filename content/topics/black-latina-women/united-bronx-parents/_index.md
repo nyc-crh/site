@@ -1,7 +1,6 @@
 ---
-date: 1000-01-01
 title: 'Evelina López Antonetty and United Bronx Parents/Padres Unidos del Bronx'
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
 ---

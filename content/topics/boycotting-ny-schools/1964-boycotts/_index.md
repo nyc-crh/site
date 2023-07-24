@@ -1,6 +1,6 @@
 ---
 title: The 1964 Boycotts
-layout: docset-gallery
+layout: bundle-gallery
 draft: false
 ---
 

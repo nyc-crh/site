@@ -505,3 +505,13 @@ sup, sub {
     sub {
     top: 0.4em;
     }
+
+.red-button {
+    color: $white;
+    background-color: $red-600;
+ }
+ .white-button {
+    color: $red-600;
+    background-color: $white;
+    outline-color: $red-600;
+ }

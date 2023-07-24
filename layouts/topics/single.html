@@ -1,21 +1,18 @@
 {{ define "main" }}
-<section class="main">
-  <div class="container-lg">
-    <div class="row align-items-start">
-      <div class="col-lg-12">
-        <p class="text-danger strong">DRAFT WORK IN PROGRESS. WE ARE SEEKING PERMISSION TO REPRODUCE COPYRIGHTED MATERIALS. YOU ARE WELCOME TO USE IN YOUR CLASSROOM, BUT PLEASE DO NOT SHARE PUBLICLY.</p>
-        <h1>{{ .Title }}</h1>
-        {{ .Content }}
-        <div class="container-lg">
+<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+    <p class="text-danger strong">DRAFT WORK IN PROGRESS. WE ARE SEEKING PERMISSION TO REPRODUCE COPYRIGHTED MATERIALS. YOU ARE WELCOME TO USE IN YOUR CLASSROOM, BUT PLEASE DO NOT SHARE PUBLICLY.</p>
+        <h1> {{ .Params.title| page.RenderString | safeHTML }}</h1>
+        {{$fileName:= .File.BaseFileName}}
+        {{$galleryPage:= $.Site.GetPage (printf "gallery/%s" $fileName)}}
+    {{with $galleryPage}}
+    <h1> {{ .Params.title| page.RenderString | safeHTML }}</h1>
+    {{ partial "content" . }}{{ end }}
+        <div class="col-lg-10 mx-auto d-flex justify-content-between py-5 d-print-none">
           {{ with .PrevInSection }}
-          <a class="previous btn btn-primary text-left" href="{{.Permalink}}"> Previous Item </a>
-          {{ end }}
-          {{ with .NextInSection }}
-          <a class="next  btn btn-primary text-right" href="{{.Permalink}}"> Next Item </a>
-          {{ end }}
+                <div class="float-left g-5"><a class="previous btn btn-primary text-left" href="{{.Permalink}}"> Previous Item </a></div>
+                {{ end }}
+                {{ with .NextInSection }}
+                <div class="float-right g-5"></div><a class="next  btn btn-primary text-right" href="{{.Permalink}}"> Next Item </a></div>
+                {{ end }}
         </div>
-      </div>
-    </div>
-</section>
-
 {{ end }}

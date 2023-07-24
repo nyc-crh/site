@@ -1,6 +1,6 @@
 ---
 title: Denise Oliver and the Women of the Young Lords Party
-layout: docset-gallery
+layout: bundle-gallery
 draft: false
 ---
 

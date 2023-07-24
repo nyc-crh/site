@@ -1,6 +1,6 @@
 ---
 title: Mae Mallory and the "Harlem Nine"
-layout: docset-gallery
+layout: bundle-gallery
 draft: false
 ---
 

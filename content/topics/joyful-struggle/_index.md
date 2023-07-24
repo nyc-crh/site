@@ -4,7 +4,7 @@ title: Joyful Struggle
 weight: 1
 draft: false
 cards:
-- title: '*The Brownie’s Book*'
+- title: '*The Brownies’ Book*'
   img: brownies1.jpg
   alt: Book cover featuring a young black girl wearing a white dress, cape, and crown. The cape is tied at her wrists, which reach up, and she stands on her tiptoes, head tilted and smiling.
   text: The NAACP published *The Brownies’ Book* magazine to teach Black children the history, achievements, and beauty of Black people in the United States.

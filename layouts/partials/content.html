@@ -25,8 +25,19 @@
      {{end}}
      {{end}}
     </div>
-    <div class="col-lg-6 mx-auto justify-content-center py-5 justify-content-center py-5 d-print-block"><p> {{ .Content | page.RenderString | safeHTML }}</p></div>
-<div class="col-lg-10 mx-auto justify-content-center">
+    <div class="col-lg-6 mx-auto justify-content-center py-5 justify-content-center py-5 d-print-block"><p> {{ .Content | page.RenderString | safeHTML }}</p>
+    </div>
+<div class="col mx-auto justify-content-center">
+    <p class="px-3"><strong>Categories: </strong>{{ with .GetTerms "categories" }}
+        {{ range . }}
+        <a class="category-link" href="{{ .Permalink }}">{{ .LinkTitle }}</a>,&nbsp;
+        {{ end }}
+        {{ end }}</p>
+    <p class="px-3"><strong>Tags: </strong>{{ with .GetTerms "tags" }}
+        {{ range . }}
+        <a class="tag-link" href="{{ .Permalink }}">{{ .LinkTitle }}</a>,&nbsp;
+        {{ end }}
+        {{ end }}</p>
 <div class="accordion accordion-flush" id="accordionFlushExample">
     <div class="accordion-item">
         <h2 class="accordion-header" id="flush-headingOne">

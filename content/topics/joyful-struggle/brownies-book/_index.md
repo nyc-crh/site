@@ -1,7 +1,7 @@
 ---
 date: 1000-01-01
 title: '*The Brownies’ Book*'
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
 ---
@@ -9,6 +9,8 @@ draft: false
 In October 1919, W.E.B. Du Bois and his collaborators at *Crisis* (the NAACP’s official magazine) proposed that they publish a new magazine. They outlined seven objectives. (Note that they used the language of their time to describe children they would call Black or African-American today):
 
 > “(a) To make colored children realize that being “colored” is a normal, beautiful thing.
+<details>
+    <summary>Read More</summary>
 >
 > (b) To make them familiar with the history and achievements of the Negro race.
 >

@@ -1,6 +1,6 @@
 ---
 title: Willie Mae Goodman fighting Willowbrook 
-layout: docset-gallery
+layout: bundle-gallery
 draft: false
 ---
 
