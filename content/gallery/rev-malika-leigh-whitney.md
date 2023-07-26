@@ -13,7 +13,8 @@ embed:
 embedTitle: 
 text: 
 mapembed: 
-audio: 
+audio: >
+ <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/11181746/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 audioTitle: Rev. Malika Leigh Whitney and Double Dutch Dreamz
 vvideo: 
   srcType: youtube
