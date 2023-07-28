@@ -34,7 +34,7 @@ tags:
 - women's activism 
 - school facilities
 questions:
-- Why do you think the issue of school lunches were so important to parents in the South Bronx?
+- Why do you think the issue of school lunches was so important to parents in the South Bronx?
 - How did Antonetty help the parents organize? What do you think made them effective?
 - How are school lunches today? How would you change your school’s lunch program?
 --- 
@@ -51,11 +51,11 @@ On April 10, 1969, Antonetty and the parents staged a surprise political demonst
 
 The officials were repulsed by the food. There was chaos when someone spotted mouse droppings in the cafeteria. In fact, one of the city’s assemblymen in attendance got sick after eating the food. The parent activists had made their point.[^5] Very quickly, officials started investigations and demanded reform from the Board of Education.
 
-Parent activism continued. After the visit to PS 25, invited the same officials to a model lunch - “un almuerzo escolar como debe ser” - like “it should be.” Cooks on site prepared healthy food that was part of Puerto Rican and Black cultural traditions. And it cost the same as the unsavory food from the Bureau of School Lunches.[^8] Parents staged other dramatic events, like the demonstration pictured here, where parents carried bags of discarded school lunches.[^9]
+Parent activism continued. After the visit to PS 25, invited the same officials to a model lunch - “un almuerzo escolar como debe ser” - "a school lunch like it should be.” Cooks on site prepared healthy food that was part of Puerto Rican and Black cultural traditions. And it cost the same as the unsavory food from the Bureau of School Lunches.[^8] Parents staged other dramatic events, like the demonstration pictured here, where parents carried bags of discarded school lunches.[^9]
 
 In the early 1970s, United Bronx Parents created its own free summer lunch program. Not long after, the city began to provide similar support for its children.[^10]
 
-[^1]: To read more about United Bronx Parents, Inc. see Adina Back, “‘Parent Power’: Evelina López Antonetty, the United Bronx Parents, and the War on Poverty,” in *The War on Poverty: A New Grassroots History, 1964-1980,* ed. by Lisa Gayle Hazirjian and Annelise Orleck (Athens: University of Georgia Press, 2011); Laura Kaplan, “United Bronx Parents and the Struggle for Educational Equality in the 1960s,” *Theory, Research, and Action in Urban Education,* vol iv, 2, Spring 2016 (New York: CUNY) (access here: https://traue.commons.gc.cuny.edu/volume-iv-issue-2-spring-2016/1050-2/); Lana Dee Povitz, *Stirrings: How Activist New Yorkers United a Movement for Food Justice* (University of North Carolina Press, 2019), chapters 1 and 2.
+[^1]: To read more about United Bronx Parents, Inc. see Adina Back, “‘Parent Power’: Evelina López Antonetty, the United Bronx Parents, and the War on Poverty,” in *The War on Poverty: A New Grassroots History, 1964-1980,* ed. Lisa Gayle Hazirjian and Annelise Orleck (Athens: University of Georgia Press, 2011); Laura Kaplan, “United Bronx Parents and the Struggle for Educational Equality in the 1960s,” *Theory, Research, and Action in Urban Education* iv, no. 2 (Spring 2016), [https://traue.commons.gc.cuny.edu/volume-iv-issue-2-spring-2016/1050-2/](https://traue.commons.gc.cuny.edu/volume-iv-issue-2-spring-2016/1050-2/); Lana Dee Povitz, *Stirrings: How Activist New Yorkers United a Movement for Food Justice* (Chapel Hill: University of North Carolina Press, 2019), chapters 1 and 2.
 
 [^2]: Povitz, *Stirrings*, 33-35.
 
@@ -71,6 +71,6 @@ In the early 1970s, United Bronx Parents created its own free summer lunch progr
 
 [^8]: Povitz, *Stirrings*, 48.
 
-[^9]: “Our History,” United Bronx Parents, Inc., 2012, [http://www.ebatiz.com/ubpinc/our-history/](http://www.ebatiz.com/ubpinc/our-history), accessed April 29, 2020.
+[^9]: “Our History,” United Bronx Parents, Inc., 2012, accessed April 29, 2020, [http://www.ebatiz.com/ubpinc/our-history/](http://www.ebatiz.com/ubpinc/our-history), accessed April 29, 2020.
 
 [^10]: Povitz, *Stirrings*, 55-86.
