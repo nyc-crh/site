@@ -19,7 +19,7 @@ video:
 videoTitle: 
 eventname: Tats Cru paints a mural to commemorate the life and work of Evelina López Antonetty. 
 caption: >
- "Painted by the graffiti artist group Tats Cru in 2011, this mural of Evelina López Antonetty is at 773 Prospect Ave in the South Bronx. The quote reads, "We will never stop struggling here in The Bronx, even though they've destroyed it around us. We would pitch tents if we had to rather than move from here. We would fight back, there is nothing we would not do. They will never take us away from here. I feel very much a part of this and I'm never going to leave, and, after me, my children will be here to carry on. I have very strong children and very strong grandchildren.""
+Painted by the graffiti artist group Tats Cru in 2011, this mural of Evelina López Antonetty is at 773 Prospect Ave in the South Bronx. The quote reads: "We will never stop struggling here in The Bronx, even though they've destroyed it around us. We would pitch tents if we had to rather than move from here. We would fight back, there is nothing we would not do. They will never take us away from here. I feel very much a part of this and I'm never going to leave, and, after me, my children will be here to carry on. I have very strong children and very strong grandchildren."
 archive_source: Photograph by [@tatscru](https://www.instagram.com/tatscru/?hl=−)
 source_link: 
 copyright: Under copyright. Used with permission. 
@@ -37,6 +37,6 @@ questions:
 - The mural is filled with multiple images, a quote from Antonetty, and a list of her various roles, responsibilities, and commitments. How do you think these different parts of the mural connect  to one another? How do these different parts relate to your understanding of Antonetty?
 --- 
 
-This mural of Evelina López Antonetty was painted by graffiti artist group Tats Cru in 2011. It was at 773 Prospect Ave in the South Bronx. In the mural, the artists refer to some of the terms that local residents used to refer to Antonetty. She was affectionately nicknamed the “mother of the Puerto Rican Community” and the “hell lady of the Bronx” for her unyielding activism and support of the Puerto Rican community.
+This mural of Evelina López Antonetty was painted by graffiti artist group Tats Cru in 2011. It is at 773 Prospect Ave in the South Bronx. In the mural, the artists refer to some of the terms that local residents used to refer to Antonetty. She was affectionately nicknamed the “mother of the Puerto Rican Community” and the “hell lady of the Bronx” for her unyielding activism and support of the Puerto Rican community.
 
 This mural was painted twenty-seven years after Antonetty’s death. That the mural was created so long after her passing is a testament to the impact she made upon her community. Her dreams for the South Bronx still have power for local activists, families, and communities.
