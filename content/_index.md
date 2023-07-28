@@ -21,10 +21,8 @@ For students using these materials, we ask that you consider how you and your pe
 
 ## Resources
 
-[Teaching Hard History](https://www.learningforjustice.org/podcasts/teaching-hard-history)
+[Learning for Justice (PDF)](https://www.learningforjustice.org/sites/default/files/2021-11/LFJ-2111-Critical-Practices-for-Anti-bias-Ed-November-2021-11172021.pdf)
 
-[Facing History and Ourselves](https://www.facinghistory.org/)
-
-[Establishing a Safe Learning Environment](https://www.adl.org/resources/tools-and-strategies/establishing-safe-learning-environment)
+[Facing History and Ourselves](https://www.facinghistory.org/resource-library/contracting-0)
 
 [Creating an Anti-Bias Learning Environment](https://www.adl.org/resources/tools-and-strategies/creating-anti-bias-learning-environment).

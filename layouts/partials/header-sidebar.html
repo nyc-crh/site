@@ -12,6 +12,7 @@
       {{ with .Site.GetPage "gallery" }}  <a href="{{ .Permalink }}" class="list-group-item border-end-0 d-block text-truncate" data-bs-parent="#sidebar"><span>Gallery</span></a>{{ end }}
       {{ with .Site.GetPage "topics" }}  <a href="{{ .Permalink }}" class="list-group-item border-end-0 d-block text-truncate" data-bs-parent="#sidebar"><span>Topics</span></a>{{ end }}
       {{ with .Site.GetPage "key-concepts" }}  <a href="{{ .Permalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Key Concepts</span></a>{{ end }}
+      {{ with .Site.GetPage "resources" }}  <a href="{{ .Permalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Teaching Resources</span></a>{{ end }}
       {{ with .Site.GetPage "project-history" }} <a href="{{ .Permalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Project History</span></a>{{ end }}
       <form class="d-flex m-1" method="get" role="search" action="/search/index.html">
         <input id="js-searchInput" class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name="q" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">

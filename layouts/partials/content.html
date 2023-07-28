@@ -1,7 +1,7 @@
 <p><strong>Caption:</strong> {{ .Params.caption | page.RenderString | safeHTML }}</p>
 {{ if .Params.text }}
 <a href="/plain-text/{{.Params.text}}" target="_blank">Read plain text of document</a></div>{{ end }}
-<div class = "d-flex justify-content-center">
+<div class = "justify-content-center">
     {{$video:=.Params.video}}
     {{with or .Params.video .Params.embed}}
       {{with $video}}

@@ -31,7 +31,7 @@ cards:
   text: Camp Jened was the first camp of its kind in the United States designed for disabled young people.
   btn:
     text: View primary sources
-    url: /topics/joyful-struggle/double-dutch
+    url: /topics/joyful-struggle/camp-jened
 - title: Double Dutch
   img: history-double-dutch.jpg
   alt: Newspaper clipping
