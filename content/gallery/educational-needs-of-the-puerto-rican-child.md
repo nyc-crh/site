@@ -37,9 +37,9 @@ tags:
 - disability labels
 - teacher quality
 questions: 
-- How is this report and its description of schooling for Puerto Rican students in the South Bronx in the 1970s similar to or different from the description [Toni Cade Bambara’s description of Puerto Rican students going to school in Harlem in the 1940s](/topics/black-latina-women/united-bronx-parents/puerto-ricans)? What seems to have continued? What seems to have changed? 
+- How is this report and its description of schooling for Puerto Rican students in the South Bronx in the 1970s similar to or different from [Toni Cade Bambara’s description of Puerto Rican students going to school in Harlem in the 1940s](/topics/black-latina-women/united-bronx-parents/puerto-ricans)? What seems to have continued? What seems to have changed? 
 - To whom was this report directed? How did United Bronx Parents make their argument? How did they use language to convince their audience? 
-- What do you think of their proposed changes in education, listed on p. 7 and 8. Are these changes still needed or relevant today?
+- What do you think of their proposed changes in education, listed on p. 7 and 8? Are these changes still needed or relevant today?
 --- 
 
 In 1970, about one quarter of all New York City public school students were Puerto Rican. And in some parts of the city, like the South Bronx, that proportion was much higher, around 65 percent.[^1] Many Puerto Rican students spoke Spanish at home, but the local public schools operated almost exclusively in English.
@@ -50,6 +50,6 @@ Testing was one area of concern in the report. Labeling Puerto Rican students as
 
 Racist and ableist treatment of Puerto Rican children continued in New York schools, and organizations like United Bronx Parents worked hard to challenge them.
 
-[^1]: Lana Dee Povitz, *Stirrings: How Activist New Yorkers United a Movement for Food Justice* (University of North Carolina Press, 2019), 266 note 30.
+[^1]: Lana Dee Povitz, *Stirrings: How Activist New Yorkers United a Movement for Food Justice* (Chapel Hill: University of North Carolina Press, 2019), 266 note 30.
 
-[^2]: Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in Twentieth Century New York City.* (Chicago: University of Chicago Press, 2010), 85-88.
+[^2]: Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in Twentieth Century New York City* (Chicago: University of Chicago Press, 2010), 85-88.
