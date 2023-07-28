@@ -15,4 +15,4 @@ Education was central both to *how* the Young Lords organized and to *what* they
 
 [^1]: Johanna Fernández, *The Young Lords: A Radical History* (Chapel Hill: University of North Carolina Press, 2019), and [Matthew Kautz, Christina Martin, and Johanna Fernandez, “The Reimaginers: The Young Lords.” Accessed April 20.2023.  https://www.youtube.com/watch?v=q4umn9iLsYs](https://www.youtube.com/watch?v=q4umn9iLsYs)
 
-[^2]: [Emma Francis-Snyder. “Takeover” \[op-doc\] *The New York Times*,  October 12, 2021. Accessed April 20, 2023. https://www.nytimes.com/video/opinion/100000007959477/takeover.html](https://www.nytimes.com/video/opinion/100000007959477/takeover.html)
+[^2]: [Emma Francis-Snyder,  “Takeover,” *The New York Times*,  October 12, 2021, https://www.nytimes.com/video/opinion/100000007959477/takeover.html](https://www.nytimes.com/video/opinion/100000007959477/takeover.html).

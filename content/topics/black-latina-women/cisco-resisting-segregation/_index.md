@@ -13,4 +13,4 @@ Black parents, including Elizabeth Cisco and her husband Samuel Cisco, saw that 
 
 Listen to a description of Elizabeth and Samuel Cisco’s activism in the [School Colors podcast, Season 2, Episode 2](https://www.npr.org/transcripts/1097873098).
 
-[^1]: Carlton Mabee, *Black Education in New York State: From Colonial to Modern Times.* (Syracuse: Syracuse University Press, 1979); Zoë Burkholder, *An African American Dilemma: A History of School Integration and Civil Rights in the North* (New York: Oxford University Press, 2021)
+[^1]: Carlton Mabee, *Black Education in New York State: From Colonial to Modern Times* (Syracuse: Syracuse University Press, 1979); Zoë Burkholder, *An African American Dilemma: A History of School Integration and Civil Rights in the North* (New York: Oxford University Press, 2021)

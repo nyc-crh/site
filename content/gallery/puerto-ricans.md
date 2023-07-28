@@ -36,7 +36,7 @@ tags:
 - Black people
 questions:
 - What did Bambara notice about the new family? Where and how did she get information about them? Who else was gathering information or making judgements about the new family? 
-- "What happened to the children in the new family when they went to school? Think about the phrase “you have no English/you have no I.Q.” How does this idea relate to the new child being placed in a “CRMD” class? How do you see racism and ableism in this situation?"
+- "What happened to the children in the new family when they went to school? Think about the phrase “you have no English/you have no IQ.” How does this idea relate to the new child being placed in a “CRMD” class? How do you see racism and ableism in this situation?"
 - In the last paragraph, Bambara criticizes what her school taught her about Puerto Rico. She gives examples of what the schools did teach, and what it left out. What is the pattern that she noticed? Why do you think this mattered to her? Why do you think it would have mattered to Puerto Rican children going to school in New York?
 --- 
 
@@ -68,4 +68,4 @@ Decades after author Toni Cade Bambara witnessed this treatment of her neighbor,
 > \*\*=*“people from down south” refers to Black migrants coming to the North from the US South. This is a reference to the “Great Migration,” which brought millions of Black Southerners to New York and other northern cities from 1910 to 1970.*
 >
 
-[^1]: Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in Twentieth Century New York City.* (Chicago: University of Chicago Press, 2010); John Puckett and Michael Johanek, *Leonard Covello and the Making of Benjamin Franklin High School: Education as If Citizenship Mattered* (Philadelphia: Temple University Press, 2006).
+[^1]: Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in Twentieth Century New York City* (Chicago: University of Chicago Press, 2010); John Puckett and Michael Johanek, *Leonard Covello and the Making of Benjamin Franklin High School: Education as If Citizenship Mattered* (Philadelphia: Temple University Press, 2006).

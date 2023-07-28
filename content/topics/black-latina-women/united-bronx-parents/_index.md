@@ -22,7 +22,7 @@ The organization’s early focus was on bilingual education. Many neighborhood y
 
 Under Antonetty’s leadership, United Bronx Parents advocated for a range of issues, from childcare, to parent power in school decision-making, to school lunches. Antonetty also became a mentor to a younger generation of activists, including the Young Lords Party, that was fighting for justice for Puerto Ricans in New York and independence for those on the island.[^5]  
 
-[^1]: For accounts of Evelina López Antonetty’s life and work, see Adina Back, “‘Parent Power,’ Evelina López Antonetty, the United Bronx Parents, and the War on Poverty,” in *The War on Poverty: A New Grassroots History, 1964-1980* ed. Annelise Orleck and Lisa Gayle Hazirjian (Athens, GA: University of Georgia Press, 2011) and Lauren Lefty, (exhibit). 
+[^1]: For accounts of Evelina López Antonetty’s life and work, see Adina Back, “‘Parent Power,’ Evelina López Antonetty, the United Bronx Parents, and the War on Poverty,” in *The War on Poverty: A New Grassroots History, 1964-1980* ed. Annelise Orleck and Lisa Gayle Hazirjian (Athens, GA: University of Georgia Press, 2011).
 
 [^2]: On Puerto Rican communities in New York, see Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in Twentieth Century New York City* (Chicago: University of Chicago Press, 2010). 
 
