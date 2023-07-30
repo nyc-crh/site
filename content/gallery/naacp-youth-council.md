@@ -13,7 +13,7 @@ audioTitle:
 video: 
 videoTitle: 
 eventname: NAACP Youth Council’s publication, The Challenge, describes activism against segregation.
-caption: "This is a copy of the November/December 1947 issue of the NAACP Youth Council’s publication, also called *The Challenge*. Ella Baker served as an adviser for the Youth Council and assisted in its young members’ development of the publication. In this issue, Youth Council members describe their activism against segregation, including a \"JimCro\" probe into CCNY."
+caption: "This is a copy of the November/December 1947 issue of the NAACP Youth Council’s publication, also called *The Challenge*. Ella Baker served as an adviser for the Youth Council and assisted its young members in developing the publication. In this issue, Youth Council members describe their activism against segregation, including a \"JimCro\" probe into CCNY."
 archive_source: Schomburg Center, Ella Baker Collection
 source_link: https://archives.nypl.org/scm/20899
 copyright: Courtesy of Schomburg Center, New York Public Library
@@ -27,9 +27,9 @@ tags:
   - student writing
   - photography & imagery
 questions:
-  - What do you notice about this issue of NAACP Youth Council publication? What do you wonder?
+  - What do you notice about this issue of the NAACP Youth Council publication? What do you wonder?
   - What kind of stories are included in this issue of the publication? Do these stories and the voices that tell them reflect the perspectives of young people? What examples do you see in the text? 
-  - How might this type of organizing work complement direct action protests (e.g. marches and boycotts) and political negotiations (e.g. March on Washington meeting with President Kennedy)? How is it different?
+  - How might this type of organizing work complement direct action protests (e.g. marches and boycotts) and political negotiations (e.g. the March on Washington meeting with President Kennedy)? How is it different?
 ---
 
-The document above comes from a publication printed by the NAACP’s New York City Youth Council called *The Challenge.* Starting in 1935, the NAACP organized youth councils, originally composed of young people ages nineteen to twenty-five. Over time, more high school students joined youth councils and junior youth councils were created for students thirteen and under. Youth councils throughout the country took part in demonstrations and even started their own. Ella Baker, who worked with young people through the NAACP in a variety of ways, was one of the adults who worked with the New York City NAACP’s Youth Council. Adult leaders like Ella Baker supported young people as they determined the issues that were important to them and helped bring their ideas to the broader public. This issue of The Challenge illustrates how students crafted their own voice in challenging segregation and other issues relevant to their lives.
+The document above comes from a publication printed by the NAACP’s New York City Youth Council called *The Challenge.* Starting in 1935, the NAACP organized youth councils, originally composed of young people ages nineteen to twenty-five. Over time, more high school students joined youth councils and junior youth councils were created for students thirteen and under. Youth councils throughout the country took part in demonstrations and even started their own. Ella Baker, who worked with young people through the NAACP in a variety of ways, was one of the adults who worked with the New York City NAACP’s Youth Council. Adult leaders like Ella Baker supported young people as they determined the issues that were important to them and helped bring their ideas to the broader public. This issue of *The Challenge* illustrates how students crafted their own voice in challenging segregation and other issues relevant to their lives.

@@ -23,7 +23,7 @@ videoTitle: "\"Parents and Taxpayers\" March to City Hall"
 eventname: >
  A group of white parents calling themselves "Parents and Taxpayers" led a march from the Board of Education building in Brooklyn to City Hall in Manhattan.
 caption: >
- A group of white parents calling themselves "“"Parents and Taxpayers"”" led a march near City Hall to protest desegregation efforts. 
+ A group of white parents calling themselves "Parents and Taxpayers" led a march near City Hall to protest desegregation efforts. 
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~232~1233389:City-Hall,-Police-Department--Paren?sort=identifier%2Ctitle%2Cdate&qvq=q:0171;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
 copyright: Courtesy of the Municipal Archives, City of New York
@@ -67,10 +67,10 @@ Some of the signs included:
 > Neighborhood Schools for Neighborhood Children
 >
 
-This footage helps us see this moment in history. But it was not created for this purpose. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program. “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt \[or visible\] and covert \[or hidden\]  surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.” [^2] That “broad range” includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. The police perceived these activists, including the school boycotters, as “potential security threats.” That is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^3] In the NYPD surveillance films, it is unusual to see white people, and especially white women, engaged in political protest as they are here.
+This footage helps us see this moment in history. But it was not created for this purpose. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program. “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt \[or visible\] and covert \[or hidden\]  surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.”[^2] That “broad range” includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. The police perceived these activists, including the school boycotters, as “potential security threats.” That is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^3] In the NYPD surveillance films, it is unusual to see white people, and especially white women, engaged in political protest as they are here.
 
-[^1]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (University of California Press, 2016).
+[^1]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016).
 
-[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services. https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3, accessed February 7, 2023.
+[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed February 7, 2023, https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3.
 
-[^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America*. (Harvard University Press, 2016).
+[^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).
