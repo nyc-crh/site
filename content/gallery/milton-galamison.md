@@ -1,7 +1,7 @@
 ---
 date: 1964-06-17
 displaydate: 
-title: Milton Galamison Oral History
+title: Rev. Milton Galamison Oral History
 imageFeatured: audio-recording.jpg
 imageFeaturedAlt: Audio icon
 embed: 
