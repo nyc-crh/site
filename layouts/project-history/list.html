@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
       {{ .Content }}
-      <div class="row"><h2>Project Team</h2><p>{{ .Params.teamsum }}</p></div>
+      <div class="row"><h2 class="pb-4">Project Team</h2><p>{{ .Params.teamsum }}</p></div>
       <div class="row">
         {{ range where .Pages.ByWeight ".Params.team" true }}
         <div class="col-sm col-6 col-md-4">

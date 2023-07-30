@@ -71,7 +71,6 @@ imaging:
   resampleFilter: box
 
 module:
-  imports:
   mounts:
     - source: content
       target: content
@@ -91,6 +90,8 @@ module:
       target: assets/scss/bootstrap
     - source: node_modules/bootstrap/dist/js/bootstrap.min.js
       target: assets/js/bootstrap.min.js
+
+      
 
 # relativeURLs: true
 

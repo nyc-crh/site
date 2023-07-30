@@ -515,3 +515,36 @@ sup, sub {
     background-color: $white;
     outline-color: $red-600;
  }
+
+ /// image resizing from https://www.brycewray.com/posts/2023/05/better-code-image-processing-hugo-render-hook-edition/
+
+ .relative {
+	position: relative;
+}
+.bg-center {
+	background-position: center;
+}
+.w-full {
+	width: 100%;
+}
+.h-auto {
+	height: auto;
+}
+@keyframes fadeIn {
+ 0% {
+	 opacity: 0;
+ }
+ to {
+	 opacity: 1;
+ }
+}
+.animate-fade {
+	animation: fadeIn 750ms ease-in-out;
+}
+.imghCaption {
+	padding: 0;
+	margin-block-start: 0.5em;
+	line-height: 1.375;
+	font-size: 0.75em;
+	text-align: center;
+}
