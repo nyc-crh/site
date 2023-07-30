@@ -15,7 +15,7 @@ video:
   srcLink: nvQ7X0gb30Q
 videoTitle: Malcolm X Comments on the Boycotts
 eventname: Malcolm X answers questions about the boycott in this interview video. 
-caption: This is a video with responses from Adam Clayton Powell, Jr. and Malcolm X to questions about the boycott, its aims, and effectiveness. The video is from the second boycott (March 16, 1964), which was smaller than the February 3, 1964 boycott. 
+caption: This is a video with responses from Adam Clayton Powell, Jr. and Malcolm X to questions about the boycott, its aims, and its effectiveness. The video is from the second boycott (March 16, 1964), which was smaller than the February 3, 1964 boycott. 
 archive_source: WSB-TV
 source_link: https://www.youtube.com/watch?v=nvQ7X0gb30Q
 copyright: WSB-TV
