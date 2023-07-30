@@ -36,10 +36,10 @@ questions:
   - How would you feel if you participated in a protest with nearly 500,000 people and didn’t see change? What would you do next?
 ---
 
-After the massive turnout for the February 3, 1964 boycott, there was little response from the Board of Education. Organizer Milton Galamison and other desegregation advocates sought to keep the pressure on, to push the Board to produce a meaningful desegregation plan. They called for a second boycott, to take place on March 16, 1964.
+After the massive turnout for the February 3, 1964 boycott, there was little response from the Board of Education. Organizer Reverend Milton Galamison and other desegregation advocates sought to keep the pressure on, pushing the Board to produce a meaningful desegregation plan. They called for a second boycott to take place on March 16, 1964.
 
 This poster uses text and illustrations to persuade people to participate in the second school boycott of 1964.
 
-Many white Northerners denied that racism existed in places like New York City. Some said that schools were not actually segregated - they just were “neighborhood schools” that admitted only students who lived close by. Others said that “Jim Crow” segregation was only a problem in the South. The northern status quo was different. The poster’s creators play with those two phrases - “Jim Crow” and “status quo” - in their text. There are other references on the poster, too, to the need to recognize racism in the North as well as in other parts of the United States.
+Many white northerners denied that racism existed in places like New York City. Some said that schools were not actually segregated - they just were “neighborhood schools” that admitted only students who lived close by. Others said that “Jim Crow” segregation was only a problem in the South. The northern status quo was different. The poster’s creators play with those two phrases - “Jim Crow” and “status quo” - in their text. There are other references on the poster, too, to the need to recognize racism in the North as well as in other parts of the United States.
 
 Please note that this image has been modified. The black rectangle after “We don’t want no” hides a racial epithet that the poster’s creators used to depict the kind of racism they experienced in New York education debates. [You can access the original version here.](../images/change-the-status-crow-original.jpg)
