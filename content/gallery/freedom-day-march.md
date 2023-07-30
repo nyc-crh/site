@@ -38,7 +38,7 @@ tags:
 questions:
   - What do you notice about the film? What do you wonder? 
   - How do you think the young people in this film felt about participating in this protest? What evidence can you find in the film footage?
-  - What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? Why do you think the NYPD was recording this footage? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police?
+  - What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? Why do you think the NYPD was recording this footage? How does that affect what we can learn from it? How do you think the participating students and adults would have felt if they knew they were being recorded by the police?
 ---
 
 On the day of the February 3 boycott, some participants gathered at the headquarters of the New York City Board of Education at 110 Livingston Street in Brooklyn, where they marched and picketed. Later they decided to march across the Brooklyn Bridge to City Hall. This silent film footage, an excerpt of one of several reels taken that day by the New York Police Department, captures the participants and their posters and slogans. Although the footage doesn’t have sound, it still captures the atmosphere of the day.
@@ -51,7 +51,7 @@ The signs that protesters carried included slogans like:
 >
 > The only education is an integrated one
 >
-> Ya el tiempo de los bobos se acabo. \[The time for fools is over.\]
+> Ya el tiempo de los bobos se acabó. \[The time for fools is over.\]
 >
 > Integration is an Education
 >
@@ -63,8 +63,8 @@ The signs that protesters carried included slogans like:
 >
 > We Demand a Real Integration Timetable
 
-This footage provides us a record of what the boycott looked like. But it was not created for this purpose. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program: “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt [or visible] and covert [or hidden] surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.”[^1] That “broad range” of groups includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. Based on their decision to send the surveillance film team to the boycotts, we can see that the police perceived the school boycotters, as “potential security threats.” This is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^2]
+This footage provides us a record of what the boycott looked like. But it was not created for this purpose. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program: “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt [or visible] and covert [or hidden] surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.”[^1] That “broad range” of groups includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. Based on their decision to send the surveillance film team to the boycotts, we can see that the police perceived the school boycotters as “potential security threats.” This is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^2]
 
-[^1]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services. [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3), accessed February 7, 2023.
+[^1]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed February 7, 2023,  [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3).
 
-[^2]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America.* (Harvard University Press, 2016).
+[^2]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).
