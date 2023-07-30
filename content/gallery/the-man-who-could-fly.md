@@ -30,7 +30,7 @@ tags:
   - disability labels
   - emotional disability
 questions:
-  - "What led to Beamon’s placement in a \"600\" school?"
+  - "What led to Beamon’s placement at a \"600\" school?"
   - When Bob Beamon attended Jamaica High School, it was a majority-white school. How do you think that might have shaped his experience there?
 ---
 
@@ -40,4 +40,4 @@ questions:
 >
 > “Yes, sir,” I answered firmly and clearly. I knew that I wasn’t going anywhere but Jamaica High. This was where I wanted to be. This was where I belonged.
 
-As an adult, Bob Beamon became an Olympic track and field athlete. In his 1999 memoir, *The Man Who Could Fly: the Bob Beamon Story*, he described his experience in the New York City public school system. Beamon had a difficult family life and his mother died when he was a baby. As a Black teen boy, he ended up in juvenile court and was sent to a "600" school. In this excerpt, he describes talking with the principal at Jamaica High School, and seeking admission to that school instead of the 600 school.  Beamon's attendance at Jamaica High gave him the chance to meet Wilma Rudolph, a three-time gold medalist at the Olympics, to run track and play basketball at school, and to graduate from high school. Beamon resisted the labels of “social maladjustment” or “emotional disturbance” that were often applied to students at the “600” schools.
+As an adult, Bob Beamon became an Olympic track and field athlete. In his 1999 memoir, *The Man Who Could Fly: the Bob Beamon Story*, he described his experience in the New York City public school system. Beamon had a difficult family life and his mother died when he was a baby. As a Black teen boy, he ended up in juvenile court and was sent to a "600" school. In this excerpt, he describes talking with the principal at Jamaica High School, and seeking admission to that school instead of the "600" school. Beamon's attendance at Jamaica High gave him the chance to meet Wilma Rudolph, a three-time gold medalist at the Olympics, to run track and play basketball at school, and to graduate from high school. Beamon resisted the labels of “social maladjustment” or “emotional disturbance” that were often applied to students at the “600” schools.
