@@ -7,3 +7,15 @@ $text: #FFFFFF;
 $primary-text: #212121;
 $secondary-text: #757575;
 $accent: #bb3f3f;
+$grid-breakpoints: (
+  xs: 0,
+  sm: 576px,
+  md: 768px,
+  lg: 1024px
+);
+
+$container-max-widths: (
+  sm: 576px,
+  md: 768px,
+  lg: 1024px
+);

@@ -4,7 +4,7 @@ slug:
 imageFeatured: avatar.jpg
 name: Francine Almash
 org: 
-job-title:
+jobtitle: Project team member
 team: TRUE
 weight: 
 bio: Francine Almash is a PhD Candidate in Urban Education at the CUNY Graduate Center and a CUNY Dissertation Fellow at the Schomburg Center for Research in Black Culture of the New York Public Library. Francine contributed to the NYCCRHP as a team member and archival researcher.

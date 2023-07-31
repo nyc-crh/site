@@ -2,7 +2,7 @@
 layout: docset-gallery
 title: 'Title in Title Case: enclose in single quotes if using special characters'
 weight: 1
-draft: false
+draft: true
 cards:
 - title: 'Title in Title Case: enclose in single quotes if using special characters'
   img: title-of-the-image.jpg

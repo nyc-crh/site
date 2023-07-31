@@ -4,7 +4,7 @@ slug:
 imageFeatured: terika-harris.jpg
 name: Terika Harris
 org:
-job-title: Project team member
+jobtitle: Project team member
 team: TRUE
 weight: 
 bio: Terika Harris is a PhD candidate in Math Education t at Teachers College, Columbia University in Mathematics Education. Terika contributed to the NYCCRHP as a team member. 

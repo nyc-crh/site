@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 date: 1966-09-01
 displaydate: "September 1966"
-title: "\"600\" Schools, Yesterday, Today, and Tomorrow (Excerpt) "
+title: "\"600\" Schools, Yesterday, Today, and Tomorrow"
 imageFeatured: 600-schools-yesterday-today-tomorrow.jpg
 imageFeaturedAlt: "Cover of Committee Study: \"600\" Schools, Yesterday, Today, and Tomorrow"
 embed: 600-schools-yesterday-today-tomorrow.pdf
