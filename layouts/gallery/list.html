@@ -1,11 +1,11 @@
 {{ define "main" }}
 <div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
    <h2> {{ .Params.title | page.RenderString | safeHTML }}</h2>
-  <div class="row pack justify-content-left mx-auto">
+   <div class="container-fluid">
+  <div class="row pack mx-auto">
     {{ .Content }}
     {{ range (.Paginate $.RegularPagesRecursive.ByDate).Pages}}
-    
-    <div class="col-md-2 card m-2">
+    <div class="col-sm-2 card m-1">
       <a href="{{ .Permalink }}" class="index-anchor">
         <div class="panel panel-default py-3">
           {{$imageFeaturedAlt:= .Params.imageFeaturedAlt}}
@@ -23,6 +23,7 @@
   </div>
   {{ end }}
 
+</div>
 </div>
 
 <div class="row">

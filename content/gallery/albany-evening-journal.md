@@ -6,7 +6,7 @@ displaydate:
 title: Albany Evening Journal 
 author: 
 citation: >
- "Albany Evening Journal," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/cisco-resisting-segregation/albany-evening-journal.
+ "Albany Evening Journal," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/cisco-resisting-segregation/albany-evening-journal.
 imageFeatured: albany-evening-journal.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: 

@@ -1,14 +1,18 @@
 {{ define "main" }}
-<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
-                <h1 class="pb-4">{{ .Page.Params.title }}</h1>
+<div class="main col-lg-10 py-5 mx-auto justify-content-center d-print-block">
+    <div class="row mb-5">
+        <div class="col-lg-4">
+            <h1 class="pb-4">{{ .Page.Params.title }}</h1>
+            <p>{{ .Content | page.RenderString | safeHTML }}</p></div>
+        <div class="col-lg-8">
                 {{ with .Params.imageFeatured }}
      {{ $image := resources.Get (printf "/images/%s" .)}}
          <img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
-     {{end}}
-                 <p>{{ .Content | page.RenderString | safeHTML }}</p></details>
+     {{end}}</div>
+    </div>
             {{with .Params.cards}}            
             <section>
-                <div class="container-lg">
+                <div class="container-fluid">
                     <div class="gy-3 row">
                         {{ range $index,$card:= . }}
                         <div class="col-md-4">

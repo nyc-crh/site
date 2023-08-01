@@ -6,7 +6,7 @@ displaydate:
 title: Hotel Pennsylvania Meeting Learns of Harlem School Ills
 author: 
 citation: >
- "Hotel Pennsylvania Meeting Learns of Harlem School Ills," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/lucile-spence/hotel-penn-meeting.
+ "Hotel Pennsylvania Meeting Learns of Harlem School Ills," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/lucile-spence/hotel-penn-meeting.
 imageFeatured: hotel-penn-meeting.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: 

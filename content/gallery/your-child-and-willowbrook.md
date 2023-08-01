@@ -6,7 +6,7 @@ displaydate: "October, 1947"
 title: Your Child and Willowbrook
 author: Willowbrook State School
 citation: >
- "Your Child and Willowbrook," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/gouverneur-parents-association/your-child-and-willowbrook.
+ "Your Child and Willowbrook," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/gouverneur-parents-association/your-child-and-willowbrook.
 imageFeatured: your-child-and-willowbrook.jpg
 imageFeaturedAlt: Booklet cover page
 embed: your-child-and-willowbrook.pdf

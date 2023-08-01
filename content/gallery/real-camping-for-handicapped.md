@@ -6,7 +6,7 @@ displaydate: "Mid-1950s - early 1960s"
 title: Camp Jened - Real Camping for the Handicapped
 author: Camp Jened
 citation: >
- "Camp Jened - Real Camping for the Handicapped," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/real-camping-for-handicapped.
+ "Camp Jened - Real Camping for the Handicapped," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/real-camping-for-handicapped.
 imageFeatured: real-camping-for-handicapped.jpg
 imageFeaturedAlt: >
  Brochure cover features an idyllic campground photo with an inset of a "Rip Van Winkle" sleeping next to a tree. Text reads, "Camp Jened: Children's Camp, Adult Camp, Speech Program; Real Camping for the handicapped; Speech, Hearing, Orthopedic; Nestled in Legendary Rip Van Winkle Land of the Beautiful Northern Cathskills in Greene County, Hunter, N.Y. 

@@ -1,14 +1,15 @@
 --- 
 layout: gallery
-draft: false
+draft: true
 date: 1971-07-01
 displaydate: "1971"
 title: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY
 author: Frederick L. Francis
 citation: >
- "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY" by Frederick L. Francis"1971" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/sofedup-handbook.
+ "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/sofedup-handbook."
 imageFeatured: sofedup-handbook.jpg
-imageFeaturedAlt: The cover of the handbook features an illustration of a man sitting in a wheelchair facing forward with arms outstretched to the side. His hands push apart the words, “handi” and “capped.”
+imageFeaturedAlt: >
+ The cover of the handbook features an illustration of a man sitting in a wheelchair facing forward with arms outstretched to the side. His hands push apart the words, “handi” and “capped.”
 embed: sofedup-handbook.pdf
 embedTitle: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY
 text: sofedup-handbook
@@ -18,7 +19,8 @@ audioTitle:
 video: 
 videoTitle: 
 eventname: S.O.F.E.D.U.P. organizes at Brooklyn College for accessible education for disabled students.
-caption: S.O.F.E.D.U.P., “Students Organized For Every Disability United for Progress,” was founded at Brooklyn College to promote activism by and for disabled students to eliminate architectural and bureaucratic barriers and increase educational access.. Their handbook described their goals and vision.
+caption: >
+ S.O.F.E.D.U.P., “Students Organized For Every Disability United for Progress,” was founded at Brooklyn College to promote activism by and for disabled students to eliminate architectural and bureaucratic barriers and increase educational access.. Their handbook described their goals and vision.
 archive_source: Education Resources Information Center (ERIC)
 source_link: https://eric.ed.gov/?id=ED072576
 copyright: Under copyright.
@@ -31,7 +33,7 @@ questions:
 - S.O.F.E.D.U.P. describes itself as an organization for “Every Disability United for Progress.” In what ways are students of “every disability” included, or not included, in Frances’s statement?
 --- 
 
-The late 1960s and early 1970s saw campus activism around the United States, for social change and against the Vietnam War. In New York City, students at various campuses of the City University of New York organized and protested in ways that changed their colleges and universities in the late 1960s and early 1970s. At City College, students organized a takeover of the campus ["demanding admission of more Black and Latinx students"](/topics/black-latina-women/audre-lorde-cuny/we-demand) to the predominantly-white campus in Harlem. At Brooklyn College, students pushed successfully for the founding of programs in Africana Studies and Puerto Rican Studies.[^1]
+The late 1960s and early 1970s saw campus activism around the United States, for social change and against the Vietnam War. In New York City, students at various campuses of the City University of New York organized and protested in ways that changed their colleges and universities in the late 1960s and early 1970s. At City College, students organized a takeover of the campus demanding admission of more Black and Latinx students to the predominantly-white campus in Harlem [internal link to We Demand]. At Brooklyn College, students pushed successfully for the founding of programs in Africana Studies and Puerto Rican Studies.[^1]
 
 Disabled students were part of this activist wave. At Brooklyn College, students Frederick Frances, Pat Figueroa, Arthur Lefkin, and others created an organization called S.O.F.E.D.U.P. - Students Organized for Every Disability United for Progress. Frances described himself as an “above-knee bilateral amputee” who had been injured in a car accident.[^2] Figueroa was born with spina bifida. Like other students with physical disabilities, both faced architectural barriers to access as students and members of the campus community at Brooklyn College. Few buildings had ramps, for example, and bathrooms and classrooms were inaccessible.
 

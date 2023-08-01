@@ -6,7 +6,7 @@ displaydate:
 title: "\"We’d Rather Go to Jail\""
 author: Sara Slack
 citation: >
- “We’d Rather Go to Jail” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/harlem-nine/rather-go-to-jail.
+ “We’d Rather Go to Jail” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/harlem-nine/rather-go-to-jail.
 imageFeatured: rather-go-to-jail.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: rather-go-to-jail.pdf

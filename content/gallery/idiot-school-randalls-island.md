@@ -6,7 +6,7 @@ displaydate: "1867"
 title: “The Idiot School”
 author: Harper’s Magazine
 citation: >
- “The Idiot School” Harper’s Magazine"1867" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/idiot-school-randalls-island.
+ “The Idiot School” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/idiot-school-randalls-island."
 imageFeatured: idiot-school-randalls-island.jpg
 imageFeaturedAlt: Illustration of a 19th Century classroom
 embed: 
@@ -19,7 +19,7 @@ video:
 videoTitle: 
 eventname: A school for disabled students operated on Randall’s Island. 
 caption: >
- "The Idiot School" on Randall's Island was founded by French educator, Édouard Séguin in 1867. The school was designed for students with intellectual and developmental disabilities.
+ "The Idiot School" on Randall's Island was founded by French educator, Édouard Séguin in 1867. The school was designed for students with intellectual and developmental disabilities"
 archive_source: >
  The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Picture Collection, The New York Public Library. "The idiot school" The New York Public Library Digital Collections. 1867.
 source_link: https://digitalcollections.nypl.org/items/510d47e0-d6d7-a3d9-e040-e00a18064a99
@@ -29,7 +29,7 @@ tags:
 questions: 
 - Look carefully at the illustration of the classroom. What do you notice about who is there and what they are doing? What do you notice about the classroom space? How does it compare to your classrooms today? What questions do you have about this image? 
 - Why did Edouard Séguin and his colleagues think that students with intellectual and physical disabilities needed to go to school away from their families and communities? Do you agree with their ideas? 
-- How do people with intellectual and developmental disabilities experience school today? How is their experience similar to the school on Randall’s Island? How is it different?
+- How do people with intellectual and developmental disabilities experience school in New York City today? How is their experience similar to the school on Randall’s Island? How is it different?
 --- 
 
 Edouard Séguin learned how to teach children with intellectual disabilities when he lived in France. Later, Séguin moved to the U.S. and helped found schools around the country.
@@ -44,11 +44,11 @@ By the time the “Idiot School” opened in 1863, Randall’s Island was alread
 
 [^1]: James Trent. *Inventing the feeble mind: A history of intellectual disability in the United States.* Oxford University Press, 2016, 81.
 
-[^2]: JoElla Straley. 2014. “It Took A Eugenicist To Come Up With ‘Moron.’” NPR, February 10, 2014, sec. Code Switch: Word Watch. [https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron](https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron).
+[^2]: JoElla Straley. “It Took A Eugenicist To Come Up With ‘Moron.’” National Public Radio, Code Switch, February 10, 2014, [https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron](https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron).
 
-[^3]: Edward Seguin. *Idiocy: and its treatment by the physiological method.* W. Wood & Company, 1866, .
+[^3]: Edward Seguin. *Idiocy: and its treatment by the physiological method.* (New York: W. Wood & Company, 1866).
 
-[^4]: Sarah F. Rose. *No right to be idle: The invention of disability, 1840s–1930s*. UNC Press Books, 2017, 66-67.
+[^4]: Sarah F. Rose. *No right to be idle: The invention of disability, 1840s–1930s*. (Chapel Hill: University of North Carolina Press, 2017), 66-67.
 
 [^5]: Kim E. Nielsen, *A Disability History of the United States.* (Boston: Beacon Press, 2012).
 

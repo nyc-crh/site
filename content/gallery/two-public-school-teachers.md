@@ -7,7 +7,7 @@ title: “Two Public School Teachers”
 author: Winhold Reiss
 citation: >
  "Two Public School Teachers," in New York City Civil Rights History Project, Accessed:
- [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/lucile-spence/two-public-school-teachers.
+ [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/lucile-spence/two-public-school-teachers.
 imageFeatured: two-public-school-teachers.jpg
 imageFeaturedAlt: A painting of two Black women, one resting her chin inside a clasped hand and the other holding a notebook. They both look directly at the viewer.
 embed: 

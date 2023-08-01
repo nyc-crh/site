@@ -6,7 +6,7 @@ displaydate:
 title: Denise Oliver
 author: Jesse Steve Rose
 citation: >
- "Denise Oliver," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/young-lords/denise-oliver.
+ "Denise Oliver," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/young-lords/denise-oliver.
 imageFeatured: denise-oliver.jpg
 imageFeaturedAlt: Denise Oliver, a young black woman, wearing a beret with several political buttons and a collared leather jacket. She's holding a cup and smoking a cigarette and has a somber expression on her face.
 embed: 

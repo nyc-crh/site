@@ -7,7 +7,7 @@ title: >
  ¿Le gustaria que sus niños…?
 author: United Bronx Parents/Padres Unidos del Bronx
 citation: >
- "¿Le gustaria que sus niños...?," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/united-bronx-parents/le-gustaria-que-sus-ninos.
+ "¿Le gustaria que sus niños...?," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/united-bronx-parents/le-gustaria-que-sus-ninos.
 imageFeatured: le-gustaria-que-sus-ninos.jpg
 imageFeaturedAlt: A pink flyer with a drawing of a young Latino boy reading a book. Spanish text is in blue lettering.
 embed: le-gustaria-que-sus-ninos.pdf
@@ -43,7 +43,7 @@ questions:
 
 Like many Puerto Rican parents in the South Bronx, Evelina López Antonetty was frustrated that so many Spanish-speaking children were not learning to read. Many were being placed in classes intended for students with disabilities because they spoke Spanish. “I began to see the schools as an island,” Antonetty recalled, “After 3 o’clock, the school officials closed the doors and left the community. They made no input into the community. There were no teachers in the school from the community.”[^1]
 
-Antonetty’s organizing work led to the founding of United Bronx Parents in 1965. The organization’s early focus was on bilingual education because so many of the neighborhood youth came from Spanish-speaking families, and the Board of Education failed to provide the education they deserved and needed. Antonetty did not decide alone what UBP would work on or what goals they would pursue. Instead, the organization helped prepare parents to demand improvement in their schools, based on parents’ knowledge and hopes for their children.[^2] In this way, Antonetty’s approach was similar to that of other [earlier organizers like Ella Baker](https://nyccivilrightshistory.org/site-preview/topics/boycotting-ny-schools/youth-organizing/check-your-school-questionnaire).
+Antonetty’s organizing work led to the founding of United Bronx Parents in 1965. The organization’s early focus was on bilingual education because so many of the neighborhood youth came from Spanish-speaking families, and the Board of Education failed to provide the education they deserved and needed. Antonetty did not decide alone what UBP would work on or what goals they would pursue. Instead, the organization helped prepare parents to demand improvement in their schools, based on parents’ knowledge and hopes for their children.[^2] In this way, Antonetty’s approach was similar to that of other [earlier organizers like Ella Baker](https://nyccivilrightshistory.org/topics/boycotting-ny-schools/youth-organizing/check-your-school-questionnaire).
 
 [^1]: Adina Back, “‘Parent Power’: Evelina López Antonetty, the United Bronx Parents, and the War on Poverty,” in *The War on Poverty: A New Grassroots History, 1964-1980,* ed. Lisa Gayle Hazirjian and Annelise Orleck (Athens, GA: University of Georgia Press, 2011), 189.
 

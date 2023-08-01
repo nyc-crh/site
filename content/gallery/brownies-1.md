@@ -6,7 +6,7 @@ displaydate: "January 1920"
 title: "*The Brownies’ Book*, January 1920, excerpts"
 author: "*The Brownies’ Book*, January 1920, excerpts"
 citation: >
- "*The Brownies’ Book*, January 1920, excerpts," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/brownies-1.
+ "*The Brownies’ Book*, January 1920, excerpts," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies-1.
 imageFeatured: brownies1.jpg
 imageFeaturedAlt: Book cover featuring a young black girl wearing a white dress, cape, and crown. The cape is tied at her wrists, which reach up, and she stands on her tiptoes, head tilted and smiling.
 embed: brownies1.pdf

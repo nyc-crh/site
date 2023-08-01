@@ -6,7 +6,7 @@ displaydate:
 title: Willie Mae Goodman Interview
 author: 
 citation: >
- "Willie Mae Goodman Interview," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/gouverneur-parents-association/willie-mae-goodman.
+ "Willie Mae Goodman Interview," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/gouverneur-parents-association/willie-mae-goodman.
 imageFeatured: willie-mae-goodman.jpg
 imageFeaturedAlt: Still image from a video interview of Willie Mae Goodman, an older black woman.
 embed: 

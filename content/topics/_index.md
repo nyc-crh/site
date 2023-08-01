@@ -26,5 +26,12 @@ cards:
     btn:
       text: View primary sources
       url: /topics/joyful-struggle/
+  - title: Seeking Equity for Disabled Students
+    img: lexington-school-for-deaf.jpg
+    alt: "Newspaper article with photo of protestors outside of a school holding signs. One reads, \"Deaf CEO Now\""
+    text: For disabled children in New York City, exclusion and segregation have been common experiences, but people with disabilities, parents, and educators, have pushed for change.
+    btn:
+      text: View primary sources
+      url: /topics/seeking-equity-for-disabled-students
 ---
 

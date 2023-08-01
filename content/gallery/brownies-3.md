@@ -7,7 +7,7 @@ title: >
  *The Brownies’ Book*, April 1920, letters from readers
 author: National Association for the Advancement of Colored People
 citation: >
- "*The Brownies’ Book*, April 1920, letters from readers," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/gallery/brownies-3.
+ "*The Brownies’ Book*, April 1920, letters from readers," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies-3.
 imageFeatured: brownies3.jpg
 imageFeaturedAlt: Letters to the editor
 embed: 

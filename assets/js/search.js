@@ -114,7 +114,7 @@ function search(data, pattern) {
           if (taxonomy.length) { // terms present
             // create an array of term links
             const taxonomyArray = Array.from(taxonomy, value => {
-              return `<a href="/site-preview/${value.relPermalink}">${value.title}</a>`;
+              return `<a href="/${value.relPermalink}">${value.title}</a>`;
             })
             // pluralise title
             let taxonomyTitle = titleSingle;

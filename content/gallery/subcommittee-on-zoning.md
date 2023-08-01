@@ -6,7 +6,7 @@ displaydate:
 title: Commission on Integration, Subcommittee on Zoning Draft Report
 author: New York City Board of Education
 citation: >
- "Commission on Integration, Subcommittee on Zoning Draft Report," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/harlem-nine/subcommittee-on-zoning.
+ "Commission on Integration, Subcommittee on Zoning Draft Report," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/harlem-nine/subcommittee-on-zoning.
 imageFeatured: subcommittee-on-zoning.jpg
 imageFeaturedAlt: Report introduction page
 embed: subcommittee-on-zoning.pdf

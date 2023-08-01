@@ -1,7 +1,7 @@
 <p><strong>Caption:</strong> {{ .Params.caption | page.RenderString | safeHTML }}</p>
 {{ if .Params.text }}
 <a href="/plain-text/{{.Params.text}}" target="_blank">Read plain text of document</a></div>{{ end }}
-<div class = "justify-content-center">
+<div class = "col-lg-6 mx-auto justify-content-center py-5 d-print-block">
     {{$video:=.Params.video}}
     {{with or .Params.video .Params.embed}}
       {{with $video}}
@@ -27,7 +27,7 @@
      {{end}}
      {{end}}
     </div>
-    <div class="col-lg-6 mx-auto justify-content-center py-5 justify-content-center py-5 d-print-block"><p> {{ .Content | page.RenderString | safeHTML }}</p>
+    <div class="col-lg-6 mx-auto justify-content-center py-5 d-print-block"><p> {{ .Content | page.RenderString | safeHTML }}</p>
     </div>
 <div class="col mx-auto justify-content-center">
     <p class="px-3"><strong>Categories: </strong>{{ with .GetTerms "categories" }}

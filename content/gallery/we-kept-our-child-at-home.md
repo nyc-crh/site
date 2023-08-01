@@ -6,7 +6,7 @@ displaydate:
 title: We Kept Our Retarded Child At Home
 author: Frank Piccola, as told to Ralph Bass
 citation: >
- "We Kept Our Retarded Child At Home," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/gouverneur-parents-association/we-kept-our-child-at-home.
+ "We Kept Our Retarded Child At Home," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/gouverneur-parents-association/we-kept-our-child-at-home.
 imageFeatured: we-kept-our-child-at-home.jpg
 imageFeaturedAlt: A white middle-aged man and his son are seated, holding drinking glasses, and looking at each other. The father has his arm around his son, and both are smiling.
 embed:  

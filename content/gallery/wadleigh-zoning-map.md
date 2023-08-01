@@ -6,7 +6,7 @@ displaydate: "1930s-1940s"
 title: Wadleigh’s School Zone
 author: Matthew Kautz
 citation: >
- "Wadleigh’s School Zone," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/site-preview/topics/black-latina-women/lucile-spence/wadleigh-zoning-map.
+ "Wadleigh’s School Zone," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/lucile-spence/wadleigh-zoning-map.
 imageFeatured: wadleigh-zoning-map.jpg
 imageFeaturedAlt: Map showing the spatial segregation of the White and Black populations in upper Manhattan
 embed: 
