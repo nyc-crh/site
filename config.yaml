@@ -30,7 +30,6 @@ markup:
       strikethrough: true
       table: true
       taskList: true
-      footnoteprefix: true
       fn_id_prefix: 'title'
       typographer:
         apostrophe: '&rsquo;'
@@ -46,7 +45,7 @@ markup:
         rightSingleQuote: '&rsquo;'
     parser:
       attribute:
-        block: false
+        block: true
         title: true
       autoHeadingID: true
       autoHeadingIDType: github

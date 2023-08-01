@@ -2,6 +2,7 @@
 <div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
  <h1>{{ .Title }}</h1>{{ .Content| .RenderString | safeHTML }}
       {{ range .Pages }}
+      <section id="{{ .Params.Weight }}">
       <div class="keyconcepts d-print-block">
             <details>
               <summary class="concept">{{ .Params.title| .RenderString | safeHTML }}</summary>
@@ -19,6 +20,7 @@
                         {{end}}</a></div>
               </div>{{ else }}{{ end }}</div>
             </details>
+          </section>
     {{end}}
   </div>
 {{end}}

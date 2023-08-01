@@ -1,6 +1,6 @@
 --- 
-title: The Binet-Simon Scale
+title: Map of Randall’s, Hart, and Blackwell Islands
 layout: "tc-single"
 hasContentInGallery: true
-date: 1914-01-01
+date: 1883-01-01
 --- 

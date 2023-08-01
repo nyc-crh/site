@@ -4,5 +4,7 @@ go 1.18
 
 require (
 	github.com/hugomods/images v0.7.0 // indirect
-	github.com/yuin/goldmark v1.5.4 // indirect
+	github.com/yuin/goldmark v1.5.5 // indirect
+	github.com/yuin/goldmark-meta v1.1.0 // indirect
+	gopkg.in/yaml.v2 v2.3.0 // indirect
 )

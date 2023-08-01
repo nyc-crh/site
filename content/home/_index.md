@@ -13,19 +13,19 @@ cards:
       text: View topic
       url: /topics/black-latina-women/
   - title: Close Reading of Primary Sources
-    img: nicolyn-plummer-video.jpg
+    img: nelson-luna-video.jpg
     alt: alt tag
     text: Watch and listen as educator and students activists closely read primary sources that resonate with them.
     btn:
       text: View close reading videos
-      url: /topics/boycotting-ny-schools/
+      url: /resources/close-reading-examples
   - title: 
     img: text-icon.jpg
     alt: alt tag
-    text: View teaching ideas for 6-12 students
+    text: View teaching resources, lesson plans, and more
     btn:
-      text: See lesson plan ideas
-      url: /resources/unit-plans/
+      text: See teaching resources
+      url: /resources/
 ---
 
 Welcome to the New York City Civil Rights History Project. As educators, scholars, activists, and students, we chose this title because many New York City teachers and students already recognize that the civil rights movement in the US is important to teach and learn about. But students receive a limited and incomplete representation of this history, especially when it comes to the educational system. We hope the name of the project is an invitation to think about something familiar in a new way.

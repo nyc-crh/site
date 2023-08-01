@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 date: 1971-07-01
 displaydate: "1971"
 title: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY
