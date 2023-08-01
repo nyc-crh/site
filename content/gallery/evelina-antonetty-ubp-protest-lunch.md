@@ -47,7 +47,7 @@ Black and Latinx parents sometimes felt uncertain about challenging school offic
 
 Evelina Antonetty was committed to parents deciding what issues they would fight for and how.   Antonetty supported and coached the parents as they planned. They started by conducting an investigation into how school lunches were prepared and served, what the food was like, and what conditions existed in the cafeterias.[^4]
 
-On April 10, 1969, Antonetty and the parents staged a surprise political demonstration. They invited lawmakers to the UBP office. Once everyone arrived, Antonetty guided them onto a school bus which took them to PS 25. There, the parents and Antonetty offered the public officials the same meals students were forced to eat, in the same cafeteria where students had to dine. 
+On April 10, 1969, Antonetty and the parents staged a surprise political demonstration. They invited lawmakers to the UBP office. Once everyone arrived, Antonetty guided them onto a school bus which took them to PS 25. There, the parents and Antonetty offered the public officials the same meals students were forced to eat, in the same cafeteria where students had to dine.
 
 The officials were repulsed by the food. There was chaos when someone spotted mouse droppings in the cafeteria. In fact, one of the city’s assemblymen in attendance got sick after eating the food. The parent activists had made their point.[^5] Very quickly, officials started investigations and demanded reform from the Board of Education.
 

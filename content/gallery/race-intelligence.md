@@ -33,7 +33,8 @@ questions:
 - What criticisms do you have of the other items on the [test](/gallery/army-test)?
 --- 
 
-SScholar W.E.B. DuBois was also an editor of *The Crisis*, a magazine of the National Association for the Advancement of Colored People (or NAACP). DuBois wrote a short editorial in the magazine, responding to claims that intelligence test scores showed Black people to be less intelligent than white people. 
+SScholar W.E.B. DuBois was also an editor of *The Crisis*, a magazine of the National Association for the Advancement of Colored People (or NAACP). DuBois wrote a short editorial in the magazine, responding to claims that intelligence test scores showed Black people to be less intelligent than white people.
+
 DuBois deployed several arguments against this claim that, while false as he said, has remained enduring.
 
 DuBois also placed intelligence tests on a long timeline of attempts to find a biological basis for claims of racial superiority or inferiority. White supremacists had tried to weigh the brains of deceased people and categorize those by race. Then there was “craniometry,” or the measuring of skulls. Neither were sources of meaningful information, and nor is the intelligence test, DuBois implies.

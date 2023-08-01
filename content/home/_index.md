@@ -38,5 +38,3 @@ The New York City Civil Rights History Project (NYCCRHP) is an in-progress colla
 - public history organizations.
 
 The project was inspired by New York City high school student activists who wanted to understand the history of their city and schools. This site is a resource for teachers to explore histories of racist and ableist segregation in our schools. And, to tell about the effort of community activists to seek educational justice for all students.
-
-Please send comments or questions to: <Erickson@exchange.tc.columbia.edu>

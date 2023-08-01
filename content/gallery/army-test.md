@@ -48,4 +48,4 @@ Despite these and other criticisms, claims about differences in average intellig
 
 [^3]: Horace Mann Bond, “Intelligence Tests and Propaganda,” The Crisis, vol. 28(2), June, 1924, p. 61. See also Alan Stoskopf, “An Untold Story of Resistance: African American Educators and IQ Testing in the 1920s and 1930s,” *Rethinking Schools*, [https://rethinkingschools.org/articles/an-untold-story-of-resistance/#8](https://rethinkingschools.org/articles/an-untold-story-of-resistance/#8), Accessed July 22, 2023.
 
-[^4]: Henry H. Goddard and Helen F. Hall, “The Training School,” 1911 [https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=45] (https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=45)
+[^4]: Henry H. Goddard and Helen F. Hall, “The Training School,” 1911 [https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=45](https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=45)
