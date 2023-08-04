@@ -1,6 +1,6 @@
----
-title: 'Title in Title Case: enclose in single quotes if using special characters'
+--- 
+title: AHRC First Fundraising Billboard
 layout: "tc-single"
 hasContentInGallery: true
-date: 1000-01-01
----
+date: 1951-01-01
+--- 

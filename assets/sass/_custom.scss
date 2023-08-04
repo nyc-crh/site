@@ -165,10 +165,13 @@ section {
 }
 
 blockquote {
-    margin-top: 30px;
     color: #525252;
     border-left-color: #3F51B5;
-    padding: 0 20px
+    padding: 0 20px;
+    p {
+        font-size: 1.25em;
+        color:#000
+     }
 }
 
 .date {
@@ -551,3 +554,42 @@ sup, sub {
 	font-size: 0.75em;
 	text-align: center;
 }
+// from tufte hugo theme
+
+/* Sidenotes, margin notes, figures, captions */
+img { max-width: 100%; }
+
+.sidenote, .marginnote { float: right;
+                         clear: right;
+                         margin-right: -60%;
+                         width: 50%;
+                         margin-top: 0;
+                         margin-bottom: 0;
+                         font-size: 1.1rem;
+                         line-height: 1.3;
+                         vertical-align: baseline;
+                         position: relative; }
+
+.table-caption { float:right;
+                 clear:right;
+                 margin-right: -60%;
+                 width: 50%;
+                 margin-top: 0;
+                 margin-bottom: 0;
+                 font-size: 1.0rem;
+                 line-height: 1.6; }
+
+.sidenote-number { counter-increment: sidenote-counter; }
+
+.sidenote-number:after, .sidenote:before { content: counter(sidenote-counter) " ";
+                                           font-family: et-book-roman-old-style;
+                                           position: relative;
+                                           vertical-align: baseline; }
+
+.sidenote-number:after { content: counter(sidenote-counter);
+                         font-size: 1rem;
+                         top: -0.5rem;
+                         left: 0.1rem; }
+
+.sidenote:before { content: counter(sidenote-counter) " ";
+                   top: -0.5rem; }

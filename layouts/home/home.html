@@ -1,14 +1,13 @@
 {{ define "main" }}
 <div class="main col-lg-10 py-5 mx-auto justify-content-center d-print-block">
     <div class="row mb-5">
-        <div class="col-lg-4">
-            <h1 class="pb-4">{{ .Page.Params.title }}</h1>
+        <div class="col-fluid mb-5">
+            {{ with .Params.imageFeatured }}
+ {{ $image := resources.Get (printf "/images/%s" .)}}
+     <img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+ {{end}}</div>
+        <div class="col-fluid">
             <p>{{ .Content | page.RenderString | safeHTML }}</p></div>
-        <div class="col-lg-8">
-                {{ with .Params.imageFeatured }}
-     {{ $image := resources.Get (printf "/images/%s" .)}}
-         <img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
-     {{end}}</div>
     </div>
             {{with .Params.cards}}            
             <section>

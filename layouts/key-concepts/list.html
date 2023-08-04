@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+<div class="main col-lg-10 justify-content-left py-5 d-print-block">
  <h1>{{ .Title }}</h1>{{ .Content| .RenderString | safeHTML }}
       {{ range .Pages }}
       <section id="{{ .Params.Weight }}">

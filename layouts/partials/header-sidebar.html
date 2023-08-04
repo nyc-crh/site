@@ -4,7 +4,7 @@
       <div class="sitelogo d-print-none offcanvas-body ">
         <a class="skip-link" href='#main'>Skip to content</a>
         <a class="navbar-brand" href="/home">
-        <img src="https://nyccivilrightshistory.org/img/nyccrh-logo-redbg.jpg" alt="NYC Civil Rights History Logo" width="100%">
+        <img src="https://nyccivilrightshistory.org/img/nyccrh-logo-redbg.jpg" alt="NYC Civil Rights History Project Logo" width="100%">
       </a>
   </div>
   <div id="sidebar-nav" class="navigation list-group border-0 rounded-0 text-sm-start min-vh-100 py-3 d-print-none">
@@ -14,9 +14,9 @@
       {{ with .Site.GetPage "key-concepts" }}  <a href="{{ .Permalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Key Concepts</span></a>{{ end }}
       {{ with .Site.GetPage "resources" }}  <a href="{{ .Permalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Teaching Resources</span></a>{{ end }}
       {{ with .Site.GetPage "project-history" }} <a href="{{ .Permalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Project History</span></a>{{ end }}
-      <form class="d-flex m-1" method="get" role="search" action="/search/index.html">
-        <input id="js-searchInput" class="form-control me-2" type="search" placeholder="Search" aria-label="Search" name="q" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">
-        <button class="btn btn-md white-button interact px-2 me-2" type="submit">Search</button>
+      <form class="mw-100" method="get" role="search" action="/search/index.html">
+        <input id="js-searchInput" class="form-control" type="search" placeholder="Search" aria-label="Search" name="q" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">
+        <button class="btn btn-md white-button interact px-2" type="submit">Search</button>
       </form>
       </div>
       </div>
