@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: mcgraw-taylor
 imageFeatured: taylor-mcgraw.jpg
 name: Taylor McGraw
 org: The Bell

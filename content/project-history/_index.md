@@ -36,7 +36,17 @@ The second year of the project shifted its focus more squarely to histories of a
 
 In the third year, the project team focused on three areas to complete the work plan established at the end of year 2. We edited draft work and conducted new research and writing where needed for teaching topics that integrated histories of struggles for educational justice against racism and ableism in New York City. We developed lesson plans that would help guide or inspire teachers in bringing these histories and primary sources into the classroom. And we recognized the need for funding to achieve the most robust vision of web accessibility we had imagined, and wrote a grant proposal seeking that support. We also sought and received funding from HumanitiesNY for a pop-up exhibit offering an analogue introduction to this digital project, and from Teachers College Digital Futures Institute to produce short videos that highlight how different readers make sense of primary source documents from the past, in the context of their present.
 
+{{< gallery >}}
+- images/resi-1.jpg
+  Project contributors at the Reimagining Education Summer Institute, 2023
+- images/resi-2.jpg
+  
+- images/resi-3.jpg
+  
+{{</ gallery >}}
+
 As described above, this project developed through collaboration. That does not mean that the process or the product reflect full consensus among all contributors. We hope this work inspires others to further research and teaching about the histories of ableism, racism, and struggles against them in New York City’s schools.
 
 A variety of recent and ongoing projects provided inspiring examples and guides for this work. [Learning for Justice’s Teaching Hard Histories](​​https://www.learningforjustice.org/frameworks/teaching-hard-history/american-slavery) project offered an example of naming and refining key concepts on the teaching of racism. The [Digital Public Library of America’s Primary Source Sets](https://dp.la/primary-source-sets) gave examples of thematically-related primary sources. We drew on recent scholarship on [curricular frameworks](https://www.edweek.org/teaching-learning/opinion-author-interview-with-dr-gholdy-muhammad-cultivating-genius/2020/01), [teaching Black history](https://ed.buffalo.edu/black-history-ed/framework.html), and [teaching disability history](https://books.google.com/books/about/Undoing_Ableism.html?id=YSysDwAAQBAJ&source=kp_book_description). [Minimal computing](https://minicomp.github.io/wiki/) approaches to the display of historical artifacts, as in the [Jekyll theme Wax](https://minicomp.github.io/wax/), provided examples of sustainable web design. And work with students - including Teachers College graduate students in courses led by Ansley Erickson and high school students in classes at Wadleigh Secondary School for the Visual and Performing Arts, Columbia Secondary School, and Central Park East High School, and in pilot sessions with Teens Take Charge, gave examples of how various learners interacted with these materials.
+
 </details>

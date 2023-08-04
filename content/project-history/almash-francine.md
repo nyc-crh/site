@@ -1,6 +1,5 @@
 ---
 draft: false
-slug:
 imageFeatured: avatar.jpg
 name: Francine Almash
 org: 

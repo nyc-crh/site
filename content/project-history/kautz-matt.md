@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: kautz-matthew
 imageFeatured: matthew-kautz.jpg
 name: Matt Kautz
 org: 

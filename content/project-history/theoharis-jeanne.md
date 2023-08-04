@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: theoharis-jeanne
 imageFeatured: jeanne-theoharis.jpg
 name: Jeanne Theoharis
 org: 

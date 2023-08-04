@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: cioe-pena-maria
 imageFeatured: maria-cioe-pena.jpg
 name: "María Cioè-Peña"
 org: Penn GSE

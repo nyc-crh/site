@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: connor-david-j
 imageFeatured: david-connor.jpg
 name: David J. Connor
 org: "Hunter College, CUNY"

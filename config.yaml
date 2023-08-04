@@ -89,6 +89,8 @@ module:
       target: assets/scss/bootstrap
     - source: node_modules/bootstrap/dist/js/bootstrap.min.js
       target: assets/js/bootstrap.min.js
+  imports:
+    - path: github.com/rootwork/hugo-module-gallery-grid
 
       
 

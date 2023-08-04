@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: derosier-judy
 imageFeatured: judy-derosier.jpg
 name: Judy DeRosier
 org: 

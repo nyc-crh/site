@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: matos-valldejuli-jorge
 imageFeatured: jorge-matos-valldejuli.jpg
 name: Jorge Matos Valldejuli
 org: Hostos Community College-CUNY

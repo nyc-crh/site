@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: norman-rachel-a
 imageFeatured: rachel-a-norman.jpg
 name: Rachel A. Norman
 org: IntegrateNYC

@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: rothstein-jill
 imageFeatured: jill-rothstein.jpg
 name: Jill Rothstein
 org: The New York Public Library's Andrew Heiskell Braille and Talking Book Library

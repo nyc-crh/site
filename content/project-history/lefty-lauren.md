@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: lefty-lauren
 imageFeatured: avatar.jpg
 name: Lauren Lefty
 org: Northern Arizona University

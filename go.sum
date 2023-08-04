@@ -1,7 +1,2 @@
-github.com/hugomods/images v0.7.0 h1:NEGgCSrh1YuHGmTAL9wDAKLdXL4WU6Nw4BfkampJxyM=
-github.com/hugomods/images v0.7.0/go.mod h1:U6Gwj16LKvk66rOMyGFrnF6f0aV8lT89lqOsckOAjYY=
-github.com/yuin/goldmark v1.5.5/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
-github.com/yuin/goldmark-meta v1.1.0/go.mod h1:U4spWENafuA7Zyg+Lj5RqK/MF+ovMYtBvXi1lBb2VP0=
-gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
-gopkg.in/yaml.v2 v2.3.0 h1:clyUAQHOM3G0M3f5vQj7LuJrETvjVot3Z5el9nffUtU=
-gopkg.in/yaml.v2 v2.3.0/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
+github.com/rootwork/hugo-module-gallery-grid v0.0.0-20220917024433-da422b21895a h1:GVF7IhtxP4tFK9wwm7Hs677b2LjzyC7/mXqj1RuONkc=
+github.com/rootwork/hugo-module-gallery-grid v0.0.0-20220917024433-da422b21895a/go.mod h1:iSieZp2e6r27jYGeX7MlQwayPfzAwYWMcnkRXgNopsA=

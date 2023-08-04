@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: murray-jessica 
 imageFeatured: murray-jessica.jpg
 name: Jessica Murray
 org: 

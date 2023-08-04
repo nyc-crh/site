@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: saunders-errol-c
 imageFeatured: errol-c-saunders-ii.jpg
 name: Errol C. Saunders, II
 org: 

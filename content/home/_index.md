@@ -20,9 +20,9 @@ cards:
     btn:
       text: View close reading videos
       url: /resources/close-reading-examples
-  - title: 
-    img: text-icon.jpg
-    alt: alt tag
+  - title: Teaching Resources
+    img: teaching-resources.jpg
+    alt: Classroom with students sitting around a table, shot from above
     text: View teaching resources, lesson plans, and more
     btn:
       text: See teaching resources

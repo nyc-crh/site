@@ -33,5 +33,13 @@ cards:
     btn:
       text: View primary sources
       url: /topics/seeking-equity-for-disabled-students
+  - title: How did NYC segregate its schools?
+    img: brooklyn-holc-map.jpg
+    alt: Map of New York City labeled "House Number and Transit Guide"
+    text: Coming soon!
+  - title: Who governs NYC schools?
+    img: who-governs.jpg
+    alt: Political cartoon
+    text: Coming soon!
 ---
 

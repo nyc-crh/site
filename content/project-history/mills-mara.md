@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: mills-mara
 imageFeatured: mara-mills.jpg
 name: Mara Mills
 org: New York University

@@ -1,6 +1,5 @@
 ---
 draft: false
-slug:
 imageFeatured: luna-nelson.jpg
 name: Nelson Luna
 org: 

@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: hansen-hunt-miranda
 imageFeatured: avatar.jpg
 name: Miranda Hansen-Hunt
 org: 

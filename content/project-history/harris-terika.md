@@ -1,6 +1,5 @@
 ---
 draft: false
-slug:
 imageFeatured: terika-harris.jpg
 name: Terika Harris
 org:

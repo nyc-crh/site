@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: guarino-maria-susan
 imageFeatured: maria-susan-guarino.jpg
 name: Maria Susan Guarino
 org: 

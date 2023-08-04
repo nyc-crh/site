@@ -1,11 +1,10 @@
 ---
 draft: false
-slug:
 imageFeatured:
 name:
 org:
-job-title:
-team:
+jobtitle:
+team: (TRUE OR FALSE)
 weight:
 bio:
 workonproject:

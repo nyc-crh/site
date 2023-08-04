@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: pant-neha
 imageFeatured: neha-pant.jpg
 name: Neha Pant
 org: 

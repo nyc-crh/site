@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: ciocca-alicia
 imageFeatured: alicia-ciocca.jpg
 name: Alicia Ciocca
 org: NYC Department of Education

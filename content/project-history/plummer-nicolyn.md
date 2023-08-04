@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: plummer-nicolyn
 imageFeatured: nicolyn-plummer.jpg
 name: Nicolyn Plummer
 org: 

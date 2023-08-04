@@ -1,6 +1,5 @@
 ---
 draft: false
-slug: jones-brian
 imageFeatured: brian-jones.jpg
 name: Brian Jones
 org: 

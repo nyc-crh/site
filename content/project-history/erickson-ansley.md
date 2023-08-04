@@ -1,6 +1,5 @@
 ---
 draft: false
-slug:
 imageFeatured: erickson-ansley.jpg 
 name: Ansley Erickson
 org: 
