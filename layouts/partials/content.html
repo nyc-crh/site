@@ -1,4 +1,8 @@
 <p><strong>Caption:</strong> {{ .Params.caption | page.RenderString | safeHTML }}</p>
+{{ with .Params.imageFeatured }}
+     {{ $image := resources.Get (printf "/images/%s" .)}}
+     <img src="{{ ($image).RelPermalink }}" class="d-none" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 0%;"/>
+{{end}}
 {{ if .Params.text }}
 <a href="/plain-text/{{.Params.text}}" target="_blank">Read plain text of document</a></div>{{ end }}
 <div class = "d-flex justify-content-center">
@@ -21,7 +25,7 @@
      {{else}}
      {{ with .Params.imageFeatured }}
      {{ $image := resources.Get (printf "/images/%s" .)}}
-         <img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+         <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
      {{end}}
      {{end}}
     </div>
@@ -30,13 +34,13 @@
         {{ if .Params.categories }}
         <p class="px-3"><strong>Categories: </strong>{{ with .GetTerms "categories" }}
             {{ range . }}
-            <a class="category-link" href="{{ .Permalink }}">{{ .LinkTitle }}</a>,&nbsp;
+            <a class="category-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
             {{ end }}
             {{ end }}</p>{{ end }}
         {{ if .Params.tags }}
         <p class="px-3"><strong>Tags: </strong>{{ with .GetTerms "tags" }}
             {{ range . }}
-            <a class="tag-link" href="{{ .Permalink }}">{{ .LinkTitle }}</a>,&nbsp;
+            <a class="tag-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
             {{ end }}
         {{ end }}</p>{{ end }}
 <div class="accordion accordion-flush" id="accordionFlushExample">

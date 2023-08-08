@@ -25,6 +25,7 @@ markup:
     extensions:
       definitionList: true
       footnote: true
+      footnoteprefix: true
       linkify: true
       linkifyProtocol: https
       strikethrough: true

@@ -1,16 +1,17 @@
 {{ define "main" }}
-    <p class="text-danger strong">DRAFT WORK IN PROGRESS. WE ARE SEEKING PERMISSION TO REPRODUCE COPYRIGHTED MATERIALS. YOU ARE WELCOME TO USE IN YOUR CLASSROOM, BUT PLEASE DO NOT SHARE PUBLICLY.</p>
-    <h1>{{ .Title }}</h1></div>
-        {{ .Content| page.RenderString | safeHTML }}
+<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all">
+  <h1 class="pb-4">{{ .Title }}</h1>
+        {{ .Content | page.RenderString | safeHTML }}
         {{ range .Paginator.Pages }}
         <article>
-          <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <h2 class="list-page"><a href="{{ .RelPermalink }}">{{ .Title | page.RenderString }}</a></h2>
           <div class="pb-3">
-            {{ .Summary }}
+            {{ .Summary | page.RenderString | safeHTML }}
           </div>
         </article>
         {{ end }}
         <div class="m-3 d-flex justify-content-center">
           {{ template "_internal/pagination.html" . }}
+        </div>
         </div>
 {{ end }}

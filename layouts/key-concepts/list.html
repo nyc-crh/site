@@ -1,26 +1,5 @@
 {{ define "main" }}
-<div class="col-lg-10 justify-content-center mx-auto py-5 d-print-block">
+<div class="col-lg-10 justify-content-center mx-auto py-5 d-print-block" data-pagefind-ignore="all">
  <h1>{{ .Title }}</h1>{{ .Content| .RenderString | safeHTML }}
-      {{ range .Pages }}
-      <section id="{{ .Params.Weight }}">
-      <div class="keyconcepts d-print-block">
-            <details>
-              <summary class="concept">{{ .Params.title| .RenderString | safeHTML }}</summary>
-            <div>{{ .Content| .RenderString | safeHTML }}
-            {{ if .Params.primarysource}}
-            <div class="row suggested-source">
-              <h3>Suggested primary source: <br/>{{ .Params.primarysource }}</h3>
-              <div class="col-sm">
-                {{$alt:= .Params.imageFeaturedAlt}}
-                {{$permalink:= .Params.itemlink }}
-                <a href="{{$permalink}}">
-                  {{ with .Params.imageFeatured }}
-                  {{ $image := resources.Get (printf "/images/%s" .)}}
-                      <img src="{{ ($image).Permalink }}" class="" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 50%; float:right;"/>
-                        {{end}}</a></div>
-              </div>{{ else }}{{ end }}</div>
-            </details>
-          </section>
-    {{end}}
   </div>
 {{end}}

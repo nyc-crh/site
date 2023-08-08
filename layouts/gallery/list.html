@@ -1,18 +1,18 @@
 {{ define "main" }}
-<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="index">
    <h2> {{ .Params.title | page.RenderString | safeHTML }}</h2>
    <div class="container-fluid">
   <div class="row pack mx-auto">
     {{ .Content }}
     {{ range (.Paginate $.RegularPagesRecursive.ByDate).Pages}}
     <div class="col-sm-2 card m-1">
-      <a href="{{ .Permalink }}" class="index-anchor">
+      <a href="{{ .RelPermalink }}" class="index-anchor">
         <div class="panel panel-default py-3">
           {{$imageFeaturedAlt:= .Params.imageFeaturedAlt}}
           {{$title:= .Title}}
           {{ $image := resources.Get (printf "/images/%s" .Params.imageFeatured )}}
                     {{ with $image }}
-                    <img src="{{ ($image.Fill "300x210 top").Permalink }}" class="card-img-top img-fluid" alt="{{with $imageFeaturedAlt}}{{ . }}{{else}}{{$title}}{{end}}" />
+                    <img src="{{ ($image.Fill "300x210 top").RelPermalink }}" class="card-img-top img-fluid" alt="{{with $imageFeaturedAlt}}{{ . }}{{else}}{{$title}}{{end}}" />
                     {{ end }}
       
       <div class="panel-body pt-3">

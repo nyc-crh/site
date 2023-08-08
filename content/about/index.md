@@ -5,14 +5,21 @@ layout: about
 ---
 
 Welcome to the New York City Civil Rights History Project. As educators, scholars, activists, and students, we chose this project name because many New York City teachers and students already recognize that the civil rights movement in the US is important to teach and learn about. But students often receive only a limited, and therefore incorrect, representation of this history. We hope the name of this site is an invitation to think about something familiar in a new way.
+A team of scholars, educators, activists, and advocates contributed to this project. [Find out how our work started, who has been involved, and how it developed](/project-history).
 
-The New York City Civil Rights History project begins with the fight for one of the most fundamental civil rights: the right to education. New York City high school students wanted to know the history of racial segregation in their schools, which inspired this project. This also inspired a look at the history of disability-based segregation in schools. The two histories are very intertwined and the struggle for equal access to education continues.
+This project is housed at the [Center on History and Education at Teachers College, Columbia University]( https://www.tc.columbia.edu/che/).
 
-A team of scholars, educators, activists, and advocates contributed to this project. We selected historical documents to tell these histories and developed a curriculum together. These items are presented with background information and grouped together as document sets to tell different parts of this history. [Find out who has been involved](/project-history)
 
-The project is funded by the National Archives' Public Engagement with Historical Records grant program, 2020-2022 and is supported by the Center on History and Education at Teachers College, Columbia University and other partners.
 
-![""](images/supporter-logos.jpg)
+![""](images/teachers-college-logo.jpg)
+
+The New York City Civil RIghts History Project received initial funding from the National Archives’ Public Engagement with Historical Records grant program. Additional funders and partners include:
+
+
+!["National Archives National Historical Publications & Records Commission; Digital Futures Institute, Center for Educators & Schools Teachers College, Columbia University, The New York Public Library; Humanities New York"](images/supporter-logos.jpg)
+
+
+History is always a work in progress. Interpretations of the past change as we learn more through finding new sources, and from applying new ideas and questions to the sources we have. The New York City Civil Rights Project is a work in progress in this sense and in others. There is so much yet to learn about how students of color and disabled students experienced education in New York City, and how they and those who loved them fought for justice. And there is much left to learn about how best to teach these histories.Thank you for keeping this in mind as you explore our work. We look forward to your comments, questions, and ideas. Please feel free to contact us at [nyccivilrightshistory@gmail.com](mailto:nyccivilrightshistory@gmail.com)
 
 ## Copyright
 

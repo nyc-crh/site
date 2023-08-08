@@ -8,7 +8,7 @@
                 <div class="container-lg" style="text-align: left!important">
                   {{ range .RegularPagesRecursive.ByDate}} 
                     {{$alt:= .Params.imageFeaturedAlt}}
-                    {{$permalink:= .Permalink}}
+                    {{$permalink:= .RelPermalink}}
                     {{if .Params.hasContentInGallery}}
                     {{$fileName:= .File.BaseFileName}}
                     {{$galleryPage:= $.Site.GetPage (printf "gallery/%s" $fileName)}}
@@ -26,7 +26,7 @@
                                 <div class="timeline-thumbnail">{{with .Params.imageFeatured}}
                                     {{ $timelineimage := resources.GetMatch (printf "/images/%s" .)}}
                                     {{ with $timelineimage }}
-                                    <img src="{{ ($timelineimage.Fill "160x120 top").Permalink }}"  alt="{{ .Params.imageFeaturedAlt }}"/>
+                                    <img src="{{ ($timelineimage.Fill "160x120 top").RelPermalink }}"  alt="{{ .Params.imageFeaturedAlt }}"/>
                                     {{ end }}{{end}}</div>
                                     <div class="timeline-text p2"><p>{{.Params.Eventname  | page.RenderString | safeHTML }}<br>
                                     </div>
@@ -48,7 +48,7 @@
                                 <div class="timeline-thumbnail">{{with .Params.imageFeatured}}
                                     {{ $timelineimage := resources.GetMatch (printf "/images/%s" .)}}
                                     {{ with $timelineimage }}
-                                    <img src="{{ ($timelineimage.Fill "160x120 top").Permalink }}"  alt="{{ .Params.imageFeaturedAlt }}" />
+                                    <img src="{{ ($timelineimage.Fill "160x120 top").RelPermalink }}"  alt="{{ .Params.imageFeaturedAlt }}" />
                                     {{ end }}{{end}}</div>
                                     <div class="timeline-text p2"><p>{{.Params.Eventname | page.RenderString | safeHTML }}<br>
                                 </div>
@@ -64,10 +64,10 @@
                             {{$pages = $pages | append .}}
                         {{end}}
                     {{end}}
-                    {{$permalink:= .Permalink}}
+                    {{$permalink:= .RelPermalink}}
                     {{$lastIndex:= sub (len $pages) 1}}
                     {{range $index, $page:= $pages}}
-                        {{if eq $page.Permalink $permalink}}
+                        {{if eq $page.RelPermalink $permalink}}
                         {{end}}
                     {{end}}
                 </div>

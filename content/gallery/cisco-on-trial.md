@@ -32,7 +32,7 @@ tags:
 - policing & the criminal legal system
 - Black people 
 - school facilities 
-- protests"
+- protests
 questions:
 - How do you think Mr. Cisco’s son Jacob, who was 6 at the time, felt about his father’s protest? 
 - Do the reporter and Mr. Cisco have the same view of the facilities available at the “colored” school? 

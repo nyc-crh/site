@@ -38,7 +38,7 @@ tags:
 - photography & imagery
 questions:
 - What emotions do you see captured in this photograph? How do those emotions relate to the story of Willie Mae Goodman and Marguerite Goodman shared here? 
-- How is this representation of a Black woman activist similar to or different from others in this teaching collection - including the photographs of [Elizabeth Cisco](/topics/black-latina-women/cisco-resisting-segregation/elizabeth-cisco), [Mae Mallory and her daughter Patricia](/topics/black-latina-women/harlem-nine/mae-mallory-and-daughter), and [Denise Oliver](/topics/black-latina-women/young-lords/denise-oliver)? "
+- How is this representation of a Black woman activist similar to or different from others in this teaching collection - including the photographs of [Elizabeth Cisco](/topics/black-latina-women/cisco-resisting-segregation/elizabeth-cisco), [Mae Mallory and her daughter Patricia](/topics/black-latina-women/harlem-nine/mae-mallory-and-daughter), and [Denise Oliver](/topics/black-latina-women/young-lords/denise-oliver)? 
 --- 
 
 Mrs. Willie Mae Goodman heard many people speak of her daughter’s death. When she was an infant and a toddler, doctors encouraged Mrs. Goodman and her husband to place Marguerite in an institution. Her doctors predicted that Marguerite would not live beyond two years, and they told her parents that they could send her away.

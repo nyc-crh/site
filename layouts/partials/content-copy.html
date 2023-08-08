@@ -16,12 +16,12 @@
                 {{end}}
                 {{else}} 
                 {{ $pdf := resources.Get (printf "/images/%s" $pdfLink)}}
-                <iframe title="{{with $.Params.embedTitle}}{{ . }}{{else}}{{$.Title}}{{end}}" src="{{$pdf.Permalink}}" width="100%" height="1000px"></iframe>
+                <iframe title="{{with $.Params.embedTitle}}{{ . }}{{else}}{{$.Title}}{{end}}" src="{{$pdf.RelPermalink}}" width="100%" height="1000px"></iframe>
                 {{end}}
                 {{else}}
                 {{ with .Params.imageFeatured }}
                 {{ $image := resources.Get (printf "/images/%s" .)}}
-                    <img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth mx-auto d-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+                    <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto d-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
                 {{end}}
                 {{end}}
             </div>

@@ -1,6 +1,6 @@
   {{ with .Params.imageFeatured }}
   {{ $image := resources.Get (printf "/images/%s" .)}}
-    <img src="{{ ($image).Permalink }}" class="responsive me-2 d-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%; float: left;
+    <img src="{{ ($image).RelPermalink }}" class="responsive me-2 d-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%; float: left;
     display: inline-block;"/>
   {{end}}
         <h3>{{ .Params.name }}</h3>

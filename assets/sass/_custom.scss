@@ -531,7 +531,7 @@ sup, sub {
 	background-position: center;
 }
 .w-full {
-	width: 100%;
+	max-width: 100%;
 }
 .h-auto {
 	height: auto;
@@ -593,3 +593,9 @@ img { max-width: 100%; }
 
 .sidenote:before { content: counter(sidenote-counter) " ";
                    top: -0.5rem; }
+.list-page a {
+    text-decoration: none;
+}
+.list-page a:hover {
+    text-decoration: underline;
+}

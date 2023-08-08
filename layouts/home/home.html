@@ -4,7 +4,7 @@
         <div class="col-fluid mb-5">
             {{ with .Params.imageFeatured }}
  {{ $image := resources.Get (printf "/images/%s" .)}}
-     <img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+     <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
  {{end}}</div>
         <div class="col-fluid">
             <p>{{ .Content | page.RenderString | safeHTML }}</p></div>
@@ -20,7 +20,7 @@
                                 {{with .img}}
                                 {{ $image := resources.Get (printf "images/%s" .)}}
                                 {{ with $image }}
-                                <img src="{{ ($image.Fill "400x300 top").Permalink }}" class="card-img-top img-fluid" alt="{{$alt}}" />
+                                <img src="{{ ($image.Fill "400x300 top").RelPermalink }}" class="card-img-top img-fluid" alt="{{$alt}}" />
                                 {{ end }}
                                 {{end}}
                                 <div class="card-body">
