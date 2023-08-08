@@ -32,18 +32,18 @@ Nearly all of the work of the project was conducted virtually, given the COVID-1
 
 Because there is a robust published scholarship on activism against racism in education in New York City, multiple archival institutions and collections documenting this history, and project co-directors were most familiar with this history, we started here in Year 1. Youth activists whose efforts initiated this project were most familiar with and already engaged with these histories as well. Out of the first year’s work, we identified themes and topics that remain a focus in the site: the school boycotts, Black and Latina women’s educational activism, and systems and policies that foster segregation. We also got feedback on web interface designs, choosing to present primary sources with supporting text and in topical groups and sub-groups alongside timelines of primary sources and events.
 
+{{< gallery >}}
+- images/resi-1.jpg
+  Project contributors at the Reimagining Education Summer Institute (RESI), 2023
+- images/resi-2.jpg
+  Pop-up exhibit at RESI 2023
+- images/resi-3.jpg
+  ""
+{{</ gallery >}}
+
 The second year of the project shifted its focus more squarely to histories of ableism and disability in NYC education and struggles for disability rights. Some team members cycled off and others joined, and new community advisors with more direct personal and professional experience with disability joined as well. The scholarly context for this work – more limited published scholarship on local histories of activism for disability rights in education (despite a vibrant theoretical and empirical conversation in Disability Studies and developing national historical accounts) and archival silences, especially around disabled individuals leading their own resistance, shaped the work. So did an awareness that the project needed to attend to disability as a distinct site of oppression and resistance, and as one that intersects with racial segregation, while also recognizing race and disability as co-constructed social categories. By the end of the second year’s work, we had identified ways to integrate disability history into the first year’s topics. We had conceptualized new while also conceptualizing topics that centered efforts to establish and improve educational programs for disabled students in New York City and on narratives of disabled people. We had also developed an ambitious vision for accessible texts available at different reading levels, in multiple languages, and available in audio.
 
 In the third year, the project team focused on three areas to complete the work plan established at the end of year 2. We edited draft work and conducted new research and writing where needed for teaching topics that integrated histories of struggles for educational justice against racism and ableism in New York City. We developed lesson plans that would help guide or inspire teachers in bringing these histories and primary sources into the classroom. And we recognized the need for funding to achieve the most robust vision of web accessibility we had imagined, and wrote a grant proposal seeking that support. We also sought and received funding from HumanitiesNY for a pop-up exhibit offering an analogue introduction to this digital project, and from Teachers College Digital Futures Institute to produce short videos that highlight how different readers make sense of primary source documents from the past, in the context of their present.
-
-{{< gallery >}}
-- images/resi-1.jpg
-  Project contributors at the Reimagining Education Summer Institute, 2023
-- images/resi-2.jpg
-  
-- images/resi-3.jpg
-  
-{{</ gallery >}}
 
 As described above, this project developed through collaboration. That does not mean that the process or the product reflect full consensus among all contributors. We hope this work inspires others to further research and teaching about the histories of ableism, racism, and struggles against them in New York City’s schools.
 

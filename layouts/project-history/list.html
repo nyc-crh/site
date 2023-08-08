@@ -1,8 +1,8 @@
 {{ define "main" }}
-<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+<div class="main col-lg-10 mx-auto justify-content-center my-5 d-print-block">
       {{ .Content }}
-      <div class="row"><h2 class="pb-4">Project Team</h2><p>{{ .Params.teamsum }}</p></div>
-      <div class="row mb-5">
+      <div class="row my-5"><h2 class="pb-4">Project Team</h2><p>{{ .Params.teamsum }}</p></div>
+      <div class="row">
         {{ range where .Pages.ByWeight ".Params.team" true }}
         <div class="col-md-4 align-self-start mb-2">
           {{ .Render "summary" }}

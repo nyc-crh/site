@@ -1,8 +1,5 @@
 ---
 title: "New York City Civil Rights History Project"
-resources:
-  - src: images/nhprc-logo.jpg
-  - src: images/che-logo.jpg
 draft: false
 layout: about
 ---
@@ -13,9 +10,9 @@ The New York City Civil Rights History project begins with the fight for one of 
 
 A team of scholars, educators, activists, and advocates contributed to this project. We selected historical documents to tell these histories and developed a curriculum together. These items are presented with background information and grouped together as document sets to tell different parts of this history. [Find out who has been involved](/project-history)
 
-The project is funded by the National Archives' Public Engagement with Historical Records grant program, 2020-2022 and is supported by the Center on History and Education at Teachers College, Columbia University.
+The project is funded by the National Archives' Public Engagement with Historical Records grant program, 2020-2022 and is supported by the Center on History and Education at Teachers College, Columbia University and other partners.
 
-![""](images/funder-logos.jpg)
+![""](images/supporter-logos.jpg)
 
 ## Copyright
 
