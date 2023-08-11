@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
             <p class="text-danger strong">DRAFT WORK IN PROGRESS. WE ARE SEEKING PERMISSION TO REPRODUCE COPYRIGHTED MATERIALS. YOU ARE WELCOME TO USE IN YOUR CLASSROOM, BUT PLEASE DO NOT SHARE PUBLICLY.</p>
                 <h1>{{ .Page.Params.title }}</h1>
                  <p>{{ .Content | page.RenderString | safeHTML }}</p></details>
@@ -35,13 +35,13 @@
             {{end}}
             <section class="timeline">
                 <div class="container-lg" style="text-align: left!important">
-                  {{ range .RegularPagesRecursive.ByDate}} 
+                  {{ range .RegularPagesRecursive.ByDate }} 
                     {{$alt:= .Params.imageFeaturedAlt}}
                     {{$permalink:= .RelPermalink}}
                     {{if .Params.hasContentInGallery}}
-                    {{$fileName:= .File.BaseFileName}}
+                    {{$fileName:= .File.BaseFileName }}
                     {{$galleryPage:= $.Site.GetPage (printf "gallery/%s" $fileName)}}
-                    {{with $galleryPage}}
+                    {{with $galleryPage | uniq }}
                     <div class="timeline-item">
                         <div class="timeline-img"></div>
                         <a href="{{$permalink}}">

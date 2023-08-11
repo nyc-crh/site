@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all">
+<div  id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all">
   <h1 class="pb-4">{{ .Title }}</h1>
         {{ .Content | page.RenderString | safeHTML }}
         {{ range .Paginator.Pages }}

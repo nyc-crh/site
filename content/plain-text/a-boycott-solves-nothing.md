@@ -1,7 +1,7 @@
 ---
-date: 1000-01-01
-displaydate: 
-title: Title in Title Case
+date: 1964-01-01
+displaydate: "1964"
+title: "\"A Boycott Solves Nothing\" (text)"
 layout: plain-text
 draft: false
 ---

@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all">
+<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all">
         {{ partial "title" . }}
         {{ .Content| page.RenderString | safeHTML }}
 </div>

@@ -1,7 +1,7 @@
 ---
-date: 1000-01-01
+date: 1900-05-10
 displaydate: 
-title: Title in Title Case
+title: Albany Evening Journal (text)
 layout: plain-text
 draft: false
 ---
