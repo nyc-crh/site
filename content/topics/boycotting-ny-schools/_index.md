@@ -44,7 +44,7 @@ cards:
     url: /topics/boycotting-ny-schools/1965-boycott
 ---
 
-In 1964, New York’s schools were highly segregated and unequal. It was ten years after the *Brown v. Board of Education* decision that declared school segregation to be unconstitutional. But despite a decade of protests, rallies, and meetings, little had changed in New York City classrooms. Segregation in housing and employment contributed to school segregation. Yet many decisions made by the Board of Education helped segregate New York City’s schools as well: which students were zoned or assigned to which schools, where schools were built or not built, which teachers worked at which schools, and how students were grouped or divided within classrooms and schools.  
+In 1964, New York’s schools were highly segregated and unequal. It was ten years after the *Brown v. Board of Education* decision that declared school segregation to be unconstitutional. But despite a decade of protests, rallies, and meetings, little had changed in New York City classrooms. Segregation in housing and employment contributed to school segregation. Yet many decisions made by the Board of Education helped segregate New York City’s schools as well: which students were zoned or assigned to which schools, where schools were built or not built, which teachers worked at which schools, and how students were grouped or divided within classrooms and schools. If anything, schools had grown more segregated and unequal.
 
 <details>
   <summary>Read More</summary>
