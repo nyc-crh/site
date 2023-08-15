@@ -1,8 +1,20 @@
 ---
-date: 1000-01-01
+date: 1900-01-09
 displaydate: 
-title: Title in Title Case
+title: People ex rel. Cisco v. School Board of Queens (text)
 layout: plain-text
 draft: false
 ---
-Coming Soon!
+Supreme Court of New York, Appellate Division, Second Department, November, 1899,
+
+“...Mrs. Cisco, is a colored woman, the mother of several children, and resides in the fourth ward of the borough of Queens. She [sought] the school board of the borough of Queens to admit her children to the common or public schools, and to make no distinction in the case on account of their color. Her moving affidavits show that her children are entitled to admission to the common schools of the borough, in the former village of Jamaica, which is now all embraced in one school district; that she applied to the principal of a primary school, known as the Brenton Avenue School, to admit her children to that school; that she was directed to apply to the High School, of which Mr. Jennings was principal, having charge of the admission of children to the several schools; that he refused to admit the children to the Brenton Avenue School, on the ground that Superintendent Stevens had directed that colored children should not be admitted to what are called white schools; and that Mr. Jennings said he would assign them to School No 48, which is a separate school for colored children.
+
+The return shows that at the time of Mrs. Cisco's application for the admission of her children, School 48 was in all respects equipped like other schools with teachers of equal ability and was conducted as a school for all grades up to and including the 6th grade, as specified in the course of study adopted by the school board of the borough of Queens, and that when pupils had passed through that grade they were assigned to the 7th grade in the Central Grammar School, No. 47, and [graduated] to the High School, which is a department of School 47.
+
+\[Mrs. Cisco\] has stipulated that she does not controvert these facts as to the organization of the separate school and the qualification of the teachers, and "rests her case solely on the fact that her children were refused admission to the common school on account of their color."
+
+We are thus brought to the simple question, whether under the provisions of the Consolidated School Law (2 R. S. \[9th ed.\] 1497) a colored child can be refused admittance to the so-called white public schools wherever separate schools of equal grade have been provided within the district for colored children. …“
+
+Court of Appeals of New York January 9, 1900, Argued ; February 6, 1900, Decided
+
+“The most that the Constitution requires the legislature to do is to furnish a system of common schools where each and every child may be educated, not that all must be educated in any one school, but that it shall provide or furnish a school or schools where each and all may have the advantages guaranteed by \[the Constitution\]. If the legislature determined that it was wise for one class of pupils to be educated by themselves, there is nothing in the Constitution to deprive [the legislature] of the right to so provide. It was the facilities for and the advantages of an education that it was required to furnish to all the children, and not that it should provide for them any particular class of associates while such education was being obtained. In this case, there is no claim that \[Mrs. Cisco’s\] children were excluded from the common schools of the borough, but the claim is that they were excluded from one or more particular schools which they desired to attend and that they possessed the legal right to attend those schools, although they were given equal accommodations and advantages in another and separate school. We find nothing in the Constitution which deprived the school board of the proper management of the schools in its charge, or from determining where different classes of pupils should be educated, always providing, however, that the accommodations and facilities were equal for all. Nor is there anything in this provision of the Constitution which prevented the legislature from exercising its discretion as to the best method of educating the different classes of children in the state, whether it relates to separate classes as determined by nationality, color or ability, so long as it provides for all alike in the character and extent of the education which it furnished and the facilities for its acquirement.”
