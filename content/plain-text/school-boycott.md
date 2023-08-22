@@ -1,8 +1,15 @@
 ---
-date: 1000-01-01
-displaydate: 
-title: Title in Title Case
+title: School Boycott! (text and image description)
 layout: plain-text
 draft: false
 ---
-Coming Soon!
+
+## FREEDOM DAY February 3, 1964
+
+Image description: a black child is inside a building looking through a broken window pane. Their arms are crossed and resting on the window ledge and they have an unhappy expression. Text on top of the image reads, "I Don't Have A Good Integrated School"
+
+(Text continues below photograph)
+
+### JOIN THE ONE DAY BOYCOTT!
+
+For Information Call: (Phone numbers for Bronx, Brooklyn, Queens, Manhattan) City Wide Committee for Integrated Schools
