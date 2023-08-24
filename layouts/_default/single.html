@@ -1,9 +1,11 @@
 {{ define "main" }}
-<div  id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all">
+<main>
+<div class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all">
+        <title>{{ .Title }}</title>
         <h1 class="pb-4">{{ .Title | page.RenderString }}</h1>
         {{ .Content| page.RenderString | safeHTML }}
         <div class="footer-container">
-
               </div>
         </div>
+      </main>
 {{ end }}

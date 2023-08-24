@@ -9,7 +9,7 @@ btn1:
     url: /home
 ---
 
-## Please Read and Acknowledge the Following
+# Please Read and Acknowledge the Following
 
 Histories of oppression, exclusion, segregation, ableism, and racism are often left out of the curriculum. The materials and lessons included here explore these issues in an open and direct way.
 

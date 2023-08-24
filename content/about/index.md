@@ -1,14 +1,14 @@
 ---
-title: "New York City Civil Rights History Project"
+title: "About the project"
 draft: false
 layout: about
 ---
 
-Welcome to the New York City Civil Rights History Project. As educators, scholars, activists, and students, we chose this project name because many New York City teachers and students already recognize that the civil rights movement in the US is important to teach and learn about. But students often receive only a limited, and therefore incorrect, representation of this history. We hope the name of this site is an invitation to think about something familiar in a new way.
+As educators, scholars, activists, and students, we chose the name "New York City Civil Rights History Project" because we recognize that the civil rights movement in the US is important to teach and learn about. But students often receive a limited, and therefore incorrect, representation of this history. We hope the name of this site is an invitation to think about something familiar in a new way.
+
 A team of scholars, educators, activists, and advocates contributed to this project. [Find out how our work started, who has been involved, and how it developed](/project-history).
 
 This project is housed at the [Center on History and Education at Teachers College, Columbia University]( https://www.tc.columbia.edu/che/).
-
 
 
 ![""](images/teachers-college-logo.jpg)

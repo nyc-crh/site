@@ -1,7 +1,9 @@
 {{ define "main" }}
+<main>
 <div id="main" class="col-lg-10 py-5 mx-auto justify-content-center d-print-block">
     <div class="row mb-5">
         <div class="col-fluid mb-5">
+            <title>{{ .Params.title }}</title>
             {{ with .Params.imageFeatured }}
  {{ $image := resources.Get (printf "/images/%s" .)}}
      <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
@@ -40,4 +42,5 @@
             </section>
             {{end}}
             </div>
+        </main>
             {{end}}
