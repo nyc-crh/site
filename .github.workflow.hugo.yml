@@ -38,6 +38,8 @@ jobs:
         run: npm run build
       - name: Build site with Hugo
         run: hugo --gc --minify
+      - name: Create search index wiith pagefind
+        run: npx -y pagefind --source public --serve
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:

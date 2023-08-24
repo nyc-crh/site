@@ -1,7 +1,8 @@
 {{ define "main" }}
 <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
             <p class="text-danger strong">DRAFT WORK IN PROGRESS. WE ARE SEEKING PERMISSION TO REPRODUCE COPYRIGHTED MATERIALS. YOU ARE WELCOME TO USE IN YOUR CLASSROOM, BUT PLEASE DO NOT SHARE PUBLICLY.</p>
-                <h1>{{ .Page.Params.title }}</h1>
+            <title>{{ .Params.title }}</title>    
+            <h1>{{ .Page.Params.title }}</h1>
                  <p>{{ .Content | page.RenderString | safeHTML }}</p></details>
             {{with .Params.cards}}
             <section>

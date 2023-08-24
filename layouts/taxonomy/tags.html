@@ -1,6 +1,7 @@
 {{ define "main" }}
   <div class="container-lg" data-pagefind-ignore="index">
-   <h2> {{ .Params.title| page.RenderString | safeHTML }}</h2>
+    <title>{{ .Params.title }}</title>
+   <h1> {{ .Params.title| page.RenderString | safeHTML }}</h1>
   <div class="row pack justify-content-center mx-auto">
     <h1>{{ .Title }}</h1>
     <ul>

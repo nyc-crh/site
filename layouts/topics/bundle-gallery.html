@@ -2,6 +2,7 @@
 <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
             <div class="mx-auto justify-content-center"><h2>You are here:</h2>
                 <p>{{ partial "breadcrumbs" . }}</p></div>
+                <title>{{ .Params.title }}</title>
             <h1>{{ .Page.Params.title | page.RenderString | safeHTML }}</h1>
                  <p>{{ .Content | page.RenderString | safeHTML }}</p></details>
             <section class="timeline">

@@ -1,6 +1,6 @@
 
 p {
-    font-size: 1.1rem
+    font-size: 1.2rem
 }
 
 h1 {
@@ -101,7 +101,7 @@ section {
 }
 
 .timeline-item a:hover {
-    color: #bb3f3f; 
+    color: #993333; 
     text-decoration: none 
 }
 
@@ -237,33 +237,33 @@ blockquote {
 }
 
 .pagination a {
-    color: #EB5757
+    color: #993333
 }
 
 .pagination a:hover {
-    color: #ec1a1a
+    color: #993333
 }
 
 .pagination .active {
-    background-color: #EB5757
+    background-color: #993333
 }
 
 .page-item.active .page-link {
     z-index: 3;
     color: #fff;
-    background-color: #EB5757;
-    border-color: #EB5757
+    background-color: #993333;
+    border-color: #993333
 }
 
-.breadcrumb-item+.breadcrumb-item::before {
+.breadcrumb-item .breadcrumb-item::before {
     float: left;
     padding-right: 0.5rem;
     margin-left: 0px;
-    color: #5c5c5c;
+    color: #323232;
     content: var(--bs-breadcrumb-divider, ">")
 }
 
-.breadcrumb-item-activ {
+.breadcrumb-item-active {
     text-decoration: none
 }
 
@@ -288,12 +288,12 @@ body>div>div>main>section.timeline div>a {
 }
 
 body>div>div>main>section.timeline div>a:hover {
-    color: #ec1a1a;
+    color: #993333;
     text-decoration: none
 }
 
 body>div>div>main>section.timeline div>a:active {
-    color: #ec1a1a;
+    color: #993333;
     text-decoration: none
 }
 
@@ -302,7 +302,7 @@ body>div>div>main>section.timeline div>a:active {
 }
 
 .breadcrumb-item a:hover {
-    color: #ec1a1a;
+    color: #993333;
     text-decoration: none
 }
 
@@ -312,7 +312,7 @@ body>div>div>main>section.timeline div>a:active {
 }
 
 body>div>div>main>section>div>div>nav.breadcrumb.container>ol.breadcrumb>li.breadcrumb-item>a:active {
-    color: #ec1a1a;
+    color: #993333;
     text-decoration: none
 }
 
@@ -333,7 +333,7 @@ ol ol {
 }
 
 .suggested-source {
-    background-color: #bb3f3f;
+    background-color: #993333;
     color: #fcf3f3;
     padding: 10px 0px 10px 0px
 }
@@ -344,11 +344,11 @@ ol ol {
 }
 
 .sidebackground {
-    background-color: #bb3f3f
+    background-color: #993333
 }
 
 .navigation a {
-    background-color: #bb3f3f;
+    background-color: #993333;
     color: white;
     font-weight: bold;
     font-size: 1.25em;
@@ -357,7 +357,7 @@ ol ol {
 
 .navigation a:hover {
     background-color: #fff;
-    color: #bb3f3f;
+    color: #993333;
     font-weight: bold;
     font-size: 1.25em;
     border: none
@@ -390,8 +390,8 @@ ol ol {
 }
 .btn-primary {
     --bs-btn-color: #fff;
-    --bs-btn-bg: #bb3f3f;
-    --bs-btn-border-color: #bb3f3f;
+    --bs-btn-bg: #993333;
+    --bs-btn-border-color: #993333;
     --bs-btn-hover-color: #fff;
     --bs-btn-hover-bg: #cf1525;
     --bs-btn-hover-border-color: #be1927;
@@ -468,17 +468,22 @@ a:active {
     }
   }
   
-  .skip-link {
-    color: #bb3f3f;
-    font-weight: 400;
-    padding: 4px;
-    visibility: hidden;
-  }
-  
-  .skip-link:focus {
-    transform: translateY(0%);
-    color: #bb3f3f;
-  }
+#skip a
+{
+position:absolute;
+left:-10000px;
+top:auto;
+width:1px;
+height:1px;
+overflow:hidden;
+}
+ 
+#skip a:focus
+{
+position:static;
+width:auto;
+height:auto;
+}
 
 details summary { 
     cursor: pointer;

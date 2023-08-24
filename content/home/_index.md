@@ -8,14 +8,14 @@ cardsTitle:
 cards:
   - title: Featured Topic
     img: elizabeth-cisco.jpg
-    alt: alt tag
+    alt: Mrs. Elizabeth Cisco is a Black woman seated in an ornate chair and wearing a formal full-length dress
     text: Explore Black and Latina women’s education advocacy in New York City from from the late 1800s to the present.
     btn:
       text: View topic
       url: /topics/black-latina-women/
   - title: Close Reading of Primary Sources
     img: nelson-luna-video.jpg
-    alt: alt tag
+    alt: Video still of young person reading a document
     text: Watch and listen as educator and students activists closely read primary sources that resonate with them.
     btn:
       text: View close reading videos

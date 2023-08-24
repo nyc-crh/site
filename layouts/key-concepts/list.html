@@ -1,5 +1,6 @@
 {{ define "main" }}
 <div class="col-lg-10 justify-content-center mx-auto py-5 d-print-block" data-pagefind-ignore="all">
+  <title>{{ .Params.title }}</title>
  <h1 >{{ .Title }}</h1>{{ .Content| .RenderString | safeHTML }}
   </div>
 {{end}}

@@ -6,7 +6,7 @@
         <h3>{{ .Params.name }}</h3>
         <p>{{ .Params.jobtitle }}</p>
         <p>{{ .Params.org }}</p>
-     <div class="p-2" style="clear:both;">
+     <div class="pt-2" style="clear:both;">
         <p>{{ .Params.bio | page.RenderString | safeHTML }}</p>
         <p>{{ .Params.workonproject | page.RenderString | safeHTML }}</p>
     </div>
