@@ -3,68 +3,77 @@ title: The Role of the School in a Housing Program for the Community (Text and i
 layout: plain-text
 draft: false
 ---
-The role of the school and a housing program for the community. A map of Manhattan is overlaid with an organizational chart for Benjamin Franklin high school community advisory council. 
 
-Uh, charge of school, community committees represented by one students, undergraduates and alumni to faculty. Three parents and for community representatives. 
+A map of Manhattan is overlaid with an organizational chart for Benjamin Franklin High School Community Advisory Council.
 
-Includes a committee on racial cooperation. Uh, committee on citizenship. Committee on adult education. Committee on leadership. Uh, housing committee. And a health committee. 
+Organizational chart of School-Community Committees represented by 1. Students, (undergraduates and alumni) 2. Faculty 3. Parents and 4. Community Representatives.
 
-Another organization, the Harlem legislative conference includes a committee on housing. 
+Chart includes a committee on racial cooperation, a committee on citizenship, a committee on adult education, a committee on leadership, a housing committee, and a health committee.
 
-The two, share a joint. Committee on housing. 
+## Activities of the school housing committee
 
-Activities of the school housing committee include housing
+1. Housing exhibits and films in school (for students and public).
 
-1. housing exhibits and films in school. For students in public. 
+2. Discussions in classrooms and writing of compositions on housing.
 
-2. Discussions in classrooms and writing. Of compositions on housing.
+3. Prize essay contest on housing.
 
-3. price essay contest on housing. For scale modeling of their own block by neighborhood children at the friends and neighbors club of the Benjamin Franklin high school. Five building of model village by students in art department class. Six painting of pictures and posters on housing by art department, students. Seven projection of program for better housing in east Harlem. Eight housing questionnaire for students of the school. Study of students' reaction to housing conditions. Nine study of local land values and use of land. 
+4. Scale modeling of their own block by neighborhood children at the Friends and Neighbors Club of the Benjamin Franklin hHgh School.
 
-10 housing rallies in school. 
+5. Building of model village by students in art department class.
 
-11 housing forums with authoritative speakers. 
+6. Painting of pictures and posters on housing by art department, students.
 
-12 sponsorship and participation. Shun of faculty and students and radio broadcasts on housing. 13 community gardens. Beautification of neighborhood. The block. Beautiful. 
+7. Projection of program for better housing in east Harlem.
 
-Joint housing committee for the realization of a low rent housing project on east river drive. 
+8. Housing questionnaire for students of the school (study of students' reaction to housing conditions).
 
-Activities of the joint committee. 
+9. Study of local land values and use of land.
 
-One mass meetings of east Harlem residents, adoption of resolutions. 
+10. Housing rallies in school.
 
-To appointment of a continuance committee to confer with the authorities on a housing unit for east Harlem. 
+11. Housing forums with authoritative speakers.
 
-Three community signatures to housing petitions, establishment of petition signing stations. 
+12. Sponsorship and participation of faculty and students in radio broadcasts on housing.
 
-For publicity. Press pamphlets, buttons, et cetera. 
+13. Community gardens, beautification of neighborhood ("The block beautiful").
 
-Five housing parade and mass meeting March 22nd, 1939. 
+Another organization with a separate chart, the Harlem Legislative Conference includes a committee on housing. Together, the Harlem Legislative Conference housing committee and Benjamin Franklin High School housing committee share a joint committee on housing.
 
-Six establishment of information service on housing. Low rent housing unit known as east river houses allocated to east Harlem. Appropriation 7 million, $390,000. Accommodations for over 1300 families. 
+## Joint Housing Committee for the Realization of a Low Rent Housing Project on East River Drive
 
-Seven victory parade and mass meeting, October 15th, 1939 to celebrate securing of unit. 
+Activities of the Joint Committee
 
-Eight initiation, of course, on community planning and housing and adult school of the Benjamin Franklin H S. 
+1. Mass meetings of East Harlem residents. Adoption of resolutions.
 
-Nine groundbreaking ceremonies for east river houses, March 2nd, 1940. 
+2. Appointment of a continuance committee to confer with the authorities on a housing unit for East Harlem.
 
-10 applications for tenancy, distribution of blanks advisement on procedures. East Harlem housing committee recognized as official agency by local and national housing authorities. 
+3. Community signatures to housing petitions, establishment of petition signing stations.
 
-1158 meeting of the house committee held. 
+4. Publicity (press pamphlets, buttons, et.)
 
-12 housing committee inaugurates campaign for east Harlem municipal hospital. 
+5. Housing parade and mass meeting March 22nd, 1939.
 
-Seal. East Harlem needs, low rent housing. 
+6. Establishment of information service on housing.
+Low rent housing unit known as East River Houses allocated to East Harlem. Appropriation - $7,390,000. Accommodations for over 1300 families.
 
-Prepared by the school community research bureau of the Benjamin Franklin high school and New York city. 
+7. Victory parade and mass meeting, October 15th, 1939 to celebrate securing of unit.
 
-Leonard Cavera. Bro. Principal. 
+8. Initiation of course on community planning and housing and adult school of the Benj. Franklin H.S.
 
-Mat Pilates, other locations throughout New York city. One, the word works, progress administration, WPA. Mayor's planning committee. American Legion. Parents association. 
+9. Groundbreaking ceremonies for East River Houses, March 2nd, 1940.
 
-Neighborhood executive committee. 
+10. applications for tenancy (distribution of blanks, advisement on procedures).
+East Harlem housing committee recognized as official agency by local and national housing authorities.
 
-Ben Franklin alumni association. 
+11. 58th meeting of the House Committee held.
 
-East Harlem teachers' union.
+12. Housing Committee inaugurates campaign for East Harlem municipal hospital.
+
+Seal with an image of an apartment building at the center. Text reads: "East Harlem needs low rent housing"
+
+Prepared by the school community research bureau of the Benjamin Franklin High School in New York city.
+
+Leonard Covello, Principal
+
+Map highlights other locations throughout New York city: The Works Progress Administration (WPA), Mayor's Planning Committee, American Legion, Parents Association, Neighborhood Executive Committee, Ben Franklin Alumni Association, and East Harlem Teachers' Union.

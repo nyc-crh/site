@@ -1,36 +1,34 @@
 ---
-date: 1000-01-01
-displaydate: 
 title: Palante (text and image description)
 layout: plain-text
 draft: false
 ---
 
-Newspaper cover.
+Newspaper cover
 
-Palante Latin Revolutionary News service. Young Lords party. Twenty-five cents.
+## Palante Latin Revolutionary News Service
 
-Tengo Puerto Rico en mi Corazon, Y L P. 
+Young Lords party
 
-Photo of Latino and black young people. In front of a Puerto Rican flag. 
+Twenty-five cents
 
-They're all facing the camera. With serious expressions on their faces. One of the women and two of the men are wearing a beret with the button pinned on.
+Tengo Puerto Rico en mi Corazon, Y L P.
 
-Central Committee
-Minister of defense Juan Gonzales. 
+Photo of Latino and Black young people in front of a Puerto Rican flag.They're all facing the camera with serious expressions on their faces. One of the women and two of the men are wearing a beret with a button pinned on the front
 
-Chief of staff one Fe or teas. 
+Central Committee:
 
-Field marshal, Gloria Gonzales. 
+- Minister of Defense, Juan Gonzalez
+- Chief of Staff Juan "Fi" Ortiz
+- Field Marshal, Gloria Gonzalez
+- Minister of Economic Development, Denise Oliver
+- Field Marshal David Perez
+- Minister of Information, Pablo "Yoruba" Guzman
 
-Minister of economic development, Denise Oliver. 
+Volume 3 No. 3, Published Bi-Monthly.
 
-Field marshal David Perez. 
+Cover story inside
 
-Minister of information, Pablo.  Goosmann 
+Defense supplement
 
-central committee. 
-
-Volume three, number three, published by monthly. 
-
-Cover story inside. Defense supplement. Black Panther party.
+Black Panther Party
