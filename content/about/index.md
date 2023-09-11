@@ -29,7 +29,7 @@ Where we reproduce materials created by other parties, we have made our best eff
 
 If you would like to reproduce materials created by other parties and included on this website, it is your obligation to determine and satisfy copyright or other use restrictions. You are solely responsible for determining whether the use of any digital object requires the permission of any other person or entity, and you are responsible for paying any associated fees.
 
-All other original content, © 2023 Teachers College, Columbia University.
+All other original content is licensed under a Creative Commons by-nc 4.0 license.  
 
 ## Credit
 
