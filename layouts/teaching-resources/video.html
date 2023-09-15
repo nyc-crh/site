@@ -1,0 +1,17 @@
+{{ define "main" }}
+<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+                 <p>{{ .Content | page.RenderString | safeHTML }}</p>
+                 <div class = "justify-content-center">
+                    {{$video:=.Params.video}}
+                      {{with $video}}
+                      {{if eq $video.srcType "youtube"}}
+                        <iframe loading="lazy" width="560" height="315" class="responsive-figure-fullwidth mx-auto" src="https://www.youtube.com/embed/{{.srcLink}}" title="{{with $.Params.videoTitle}}{{ . }}{{end}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                      {{else if eq $video.srcType "other"}}
+                      <video width="560" height="315" class="responsive-figure-fullwidth mx-auto" controls title="{{with $.Params.videoTitle | page.RenderString | safeHTML }}{{ . }}{{else}}{{$.Title}}{{end}}">
+                        <source src = "{{.srcLink}}" type = "video/mp4">
+                        This browser doesn't support video tag.
+                     </video>
+                     {{end}}   
+                     {{end}} 
+                </div>
+{{ end }}

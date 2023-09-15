@@ -1,0 +1,10 @@
+{{ define "main" }}
+<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+  <div class="mb-5">
+    <div class="row justify-content-center pt-3">
+        <h1> {{ .Params.title| page.RenderString | safeHTML }}</h1></div>
+        <p><a href="{{ with $.Params.docLink}} {{ . | safeHTML }}{{ end }}" target="blank">Print Document</a></p>
+        {{ with $.Params.docEmbed }} {{ . | safeHTML }}{{ end }}
+                </div>
+                </div>
+{{ end }}

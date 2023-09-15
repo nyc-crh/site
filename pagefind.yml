@@ -1,4 +1,4 @@
-source: public
-bundle_dir: _pagefind
+site: public
+output_path: _pagefind
 exclude_selectors:
   - "data-pagefind-ignore"
