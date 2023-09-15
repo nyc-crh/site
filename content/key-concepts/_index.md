@@ -2,7 +2,7 @@
 title: Key Concepts for Teaching
 ---
 
-We want to emphasize how education has been a central site of struggle for civil rights in the US. We want to ensure that often-overlooked struggles for disability rights are included in civil rights history, and that struggles for disability rights by disabled people of color are not further erased or marginalized. People of color and disabled people have used the courts, mass protest, and many other strategies to win recognition of their rights in the law. We want to recognize that women and young people of color were civil rights leaders and should be central to how we think about civil rights history.
+The New York City Civil Rights Project emphasizes that education has been a central site of struggle for civil rights in the US. We want to ensure that often-overlooked struggles for disability rights are included in civil rights history, and that struggles for disability rights by disabled people of color are not further erased or marginalized. People of color and disabled people have used the courts, mass protest, and many other strategies to win recognition of their rights in the law. We want to recognize that women and young people of color were civil rights leaders and should be central to how we think about civil rights history.
 
 Brown v. Board of Education (1954), the Individuals with Disabilities Education Act (or IDEA) (1975), and the Americans with Disabilities Act (1990) were crucial steps in naming and protecting the rights of students of color and disabled students. Even *if* each of the civil rights recognized in these decisions and laws were always respected, injustices could still continue.
 
