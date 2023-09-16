@@ -3,6 +3,9 @@ date: 1999-01-01
 displaydate: "1999"
 title: >
  "The Man Who Could Fly: the Bob Beamon Story"
+author:	Bob Beamon
+citation:	>
+ "'The Man Who Could Fly: the Bob Beamon Story,'" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1965-boycott/the-man-who-could-fly.
 imageFeatured: the-man-who-could-fly.jpg
 imageFeaturedAlt: Page from a yearbook
 embed: 

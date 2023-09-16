@@ -4,6 +4,9 @@ draft: false
 date: 1956-03-02
 displaydate: 
 title: Commission on Integration, Subcommittee on Zoning Draft Report
+author:	Board of Education of New York City, Commission on Integration, Subcommittee on Zoning
+citation: >
+ "Commission on Integration, Subcommittee on Zoning Draft Report," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/white-liberal-resistance/subcommittee-on-zoning.
 author: New York City Board of Education
 citation: >
  "Commission on Integration, Subcommittee on Zoning Draft Report," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/harlem-nine/subcommittee-on-zoning.

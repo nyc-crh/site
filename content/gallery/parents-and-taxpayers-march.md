@@ -7,7 +7,7 @@ title: >
  "Parents and Taxpayers" March to City Hall
 author: 
 citation: >
- "Parents and Taxpayers" March to City Hall" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/parents-and-taxpayers-march.
+ "'Parents and Taxpayers' March to City Hall" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/parents-and-taxpayers-march.
 imageFeatured: parents-and-taxpayers-march.jpg
 imageFeaturedAlt: White women carry signs protesting desegregation
 embed:  

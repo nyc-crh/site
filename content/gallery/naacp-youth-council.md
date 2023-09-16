@@ -2,6 +2,9 @@
 date: 1947-01-01
 displaydate: "December 1947"
 title: NAACP Youth Council News Bulletin
+author:																									
+citation:	>
+ "NAACP Youth Council News Bulletin," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/youth-organizing/naacp-youth-council.																								
 imageFeatured: naacp-youth-council.jpg
 imageFeaturedAlt: Hand-drawn cover of a newsletter that shows a boy kneeling and praying next to his bed
 embed: naacp-youth-council.pdf

@@ -2,6 +2,9 @@
 date: 1964-09-24
 displaydate: 
 title: "\"Parents and Taxpayers\" Protest and Counter-Protest"
+author:	New York Police Department Surveillance Unit
+citation:	>
+ "'Parents and Taxpayers' Protest and Counter-Protest," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/parents-and-taxpayers-protest.
 imageFeatured: parents-and-taxpayers-protest.jpg
 imageFeaturedAlt: White women carry signs protesting desegregation
 embed: 

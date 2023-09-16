@@ -2,6 +2,9 @@
 date: 1964-02-08
 displaydate: 
 title: "\"What a 'Fizzle'!\""
+author:	Amsterdam News Editorial Board
+citation:	>
+ "What a Fizzle!" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/what-a-fizzle.
 imageFeatured: what-a-fizzle.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: 

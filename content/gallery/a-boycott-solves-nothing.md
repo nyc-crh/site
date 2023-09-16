@@ -4,6 +4,9 @@ draft: false
 date: 1964-01-31
 displaydate: "1964"
 title: "\"A Boycott Solves Nothing\""
+author:	New York Times Editorial Board
+citation:	>
+ "A Boycott Solves Nothing," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/white-liberal-resistance/a-boycott-solves-nothing.
 imageFeatured: a-boycott-solves-nothing.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: 

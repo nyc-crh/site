@@ -4,6 +4,9 @@ draft: false
 date: 1969-01-01
 displaydate: "1969"
 title: Bayard Rustin Oral History Interview
+author:	Bayard Rustin
+citation:	>
+ "Bayard Rustin Oral History Interview," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/organizing-direct-action/bayard-rustin.
 imageFeatured: bayard-rustin.jpg
 imageFeaturedAlt: Partial transcript of oral history interview
 embed: bayard-rustin.pdf

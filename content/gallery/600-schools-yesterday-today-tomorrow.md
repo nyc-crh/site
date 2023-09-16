@@ -4,6 +4,9 @@ draft: false
 date: 1966-09-01
 displaydate: "September 1966"
 title: "\"600\" Schools, Yesterday, Today, and Tomorrow"
+author:	New York City Board of Education
+citation:	>
+ "'600' Schools, Yesterday, Today, and Tomorrow (Excerpt)," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1965-boycott/600-schools-yesterday-today-tomorrow.
 imageFeatured: 600-schools-yesterday-today-tomorrow.jpg
 imageFeaturedAlt: "Cover of Committee Study: \"600\" Schools, Yesterday, Today, and Tomorrow"
 embed: 600-schools-yesterday-today-tomorrow.pdf

@@ -2,6 +2,9 @@
 date: 1964-07-02
 displaydate: 
 title: Title IV of the Civil Rights Act of 1964
+author:	
+citation:	>
+ "Title IV of the Civil Rights Act of 1964," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/title-iv-civil-rights-act.
 imageFeatured: title-iv-civil-rights-act.jpg
 imageFeaturedAlt: Text of a statute
 embed: 

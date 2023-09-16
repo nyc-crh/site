@@ -4,6 +4,9 @@ draft: false
 date: 1963-01-01
 displaydate: "1963"
 title: A. Philip Randolph Letter to President John F. Kennedy
+author:	A. Philip Randolph
+citation:	>
+ "A. Philip Randolph Letter to President John F. Kennedy," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/organizing-direct-action/letter-to-president-kennedy.
 imageFeatured: letter-to-president-kennedy.jpg
 imageFeaturedAlt: A letter from A. Philip Randolf to President John F. Kennedy
 embed:

@@ -1,7 +1,11 @@
 ---
 date: 1963-12-07
 displaydate: 
-title: "Claim Teachers Used Pupils As Shoe Shine Boys: DA Calls Charges “Serious”"
+title: >
+ Claim Teachers Used Pupils As Shoe Shine Boys: DA Calls Charges “Serious”
+author:	Sara Slack
+citation:	>
+ "Claim Teachers Used Pupils As Shoe Shine Boys: DA Calls Charges 'Serious,'" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1965-boycott/shoe-shine-boys.
 imageFeatured: shoe-shine-boys.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: shoe-shine-boys.pdf

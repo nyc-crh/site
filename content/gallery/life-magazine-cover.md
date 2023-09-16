@@ -4,6 +4,9 @@ draft: false
 date: 1963-09-06
 displaydate: "1963"
 title: "*Life* Magazine Cover"
+author:																									
+citation:	>
+ "*Life* Magazine Cover," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/organizing-direct-action/life-magazine-cover.																								
 imageFeatured: life-magazine-cover.jpg
 imageFeaturedAlt: A. Philip Randolph and Bayard Rustin in front of the Lincoln Memorial
 embed:

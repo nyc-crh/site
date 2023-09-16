@@ -2,6 +2,9 @@
 date: 1964-03-16
 displaydate: "1964"
 title: Malcolm X Comments on the Boycotts
+author:	
+citation:	>
+ "Malcolm X Comments on the Boycotts," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/malcolm-x-in-support-of-boycott.
 imageFeatured: malcolm-x-in-support-of-boycott.jpg
 imageFeaturedAlt: Malcolm X is interviewed while standing in front of a crowd of people.
 embed: 

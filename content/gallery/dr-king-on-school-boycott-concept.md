@@ -4,6 +4,9 @@ draft: false
 date: 1964-04-11
 displaydate: 
 title: "Dr. Martin Luther King, Jr. \"The School Boycott Concept\""
+author:	Dr. Martin Luther King, Jr. 
+citation:	>
+ "Dr. Martin Luther King, Jr. 'The School Boycott Concept,'" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/dr-king-on-school-boycott-concept.
 imageFeatured: dr-king-on-school-boycott-concept.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: 

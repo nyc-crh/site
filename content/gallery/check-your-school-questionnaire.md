@@ -4,6 +4,9 @@ draft: false
 date: 1956-01-01
 displaydate: "c. 1956"
 title: Check Your School!
+author:																									
+citation:	>
+ "Check Your School!," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/youth-organizing/check-your-school-questionnaire.																								
 imageFeatured: check-your-school-questionnaire.jpg
 imageFeaturedAlt: Hand-drawn survey with questions about public school quality
 embed: 

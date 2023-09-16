@@ -2,6 +2,9 @@
 date: 1965-02-01
 displaydate: "1965"
 title: The 1965 Boycott
+author:	New York Police Department Surveillance Unit
+citation:	>
+ "The 1965 Boycott," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1965-boycott/the-1965-boycott.
 imageFeatured: the-1965-boycott.jpg
 imageFeaturedAlt: Protestors march, carrying signs
 embed: 
