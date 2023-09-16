@@ -4,6 +4,9 @@ draft: false
 date: 1926-01-01
 displaydate: "1926 & 1937"
 title: Brotherhood of Sleeping Car Porters Rally Posters
+author:	Brotherhood of Sleeping Car Porters																								
+citation:	>
+ "Brotherhood of Sleeping Car Porters Rally Posters," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/organizing-direct-action/brotherhood-of-sleeping-car-porters.																								
 imageFeatured: brotherhood-of-sleeping-car-porters.jpg
 imageFeaturedAlt: Notice to porters and maids about organizing labor rallies
 embed: brotherhood-of-sleeping-car-porters.pdf

@@ -1,12 +1,12 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1896-09-03
 displaydate: 
 title: Cisco on Trial in Queens
-author:
+author: 
 citation: >
-  "Cisco on Trial in Queens", in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/cisco-resisting-segregation/cisco-on-trial.
+ "Cisco on Trial in Queens," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/cisco-resisting-segregation/cisco-on-trial.
 imageFeatured: cisco-on-trial.jpg
 imageFeaturedAlt: Newspaper clipping
 embed: 
@@ -18,21 +18,23 @@ audioTitle:
 video: 
 videoTitle: 
 eventname: Samuel B. Cisco is charged with violating truancy laws after refusing to send his children to a segregated school. 
-caption: "*The Brooklyn Daily Eagle* reported on a dramatic moment in what it later called the “Jamaica school wars.” Samuel B. Cisco tried to enroll his children, who were Black, in the local segregated white public school. White school administrators denied them admission. Mr. Cisco then refused to send his children to the segregated “colored” school. Officials responded by charging him with violating New York’s law requiring school attendance for children."
-archive_source: "*Brooklyn Daily Eagle, via* Newspapers.com - via Brooklyn Public Library"
+caption: >
+ *The Brooklyn Daily Eagle* reported on a dramatic moment in what it later called the “Jamaica school wars.” Samuel B. Cisco tried to enroll his children, who were Black, in the local segregated white public school. White school administrators denied them admission. Mr. Cisco then refused to send his children to the segregated “colored” school. Officials responded by charging him with violating New York’s law requiring school attendance for children."
+archive_source: >
+ *Brooklyn Daily Eagle, via* Newspapers.com - via Brooklyn Public Library
 source_link: 
 copyright: Public domain
-categories:
+categories: 
 - Queens
 - parent activism
 - K-12 education
-tags:
+tags: 
 - segregation
 - court cases
 - policing & the criminal legal system
 - Black people 
 - school facilities 
-- protests
+- protests"
 questions:
 - How do you think Mr. Cisco’s son Jacob, who was 6 at the time, felt about his father’s protest? 
 - Do the reporter and Mr. Cisco have the same view of the facilities available at the “colored” school? 

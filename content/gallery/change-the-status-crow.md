@@ -1,14 +1,17 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1964-03-01
 displaydate: "1964"
 title: Change the Status Crow
+author: 
+citation: >
+ "Change the Status Crow," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/change-the-status-crow.
 imageFeatured: change-the-status-crow.jpg
-imageFeaturedAlt: "This flyer calls for a second boycott. The illustration points out that the outcome of segregation is the same \"down south\" (where an openly racist principal tells a black student, \"We don't want no _____!\") and \"up north\" (where a white man with glasses tells a black student \"we believe in the neighborhood concept\")."
-embed:
+imageFeaturedAlt: "Hand-drawn flyer"
+embed: 
 embedTitle: 
-text: 
+text: change-the-status-crow
 mapembed: 
 audio: 
 audioTitle: 
@@ -20,21 +23,21 @@ archive_source: Queens College Special Collection & Archive
 source_link: https://library.qc.cuny.edu/archives/
 copyright: Public Domain
 categories:
-  - parent activism
-  - student activism
-  - K-12 education
+- parent activism
+- student activism
+- K-12 education"
 tags:
-  - protest
-  - racial segregation
-  - organizing
-  - North & South
-  - photography & imagery
+- protest
+- racial segregation
+- organizing
+- North & South
+- photography & imagery
 questions:
-  - What do you notice about the poster? What do you wonder?
-  - Who is the audience for this poster? What strategies does the poster employ to enlist that audience into the demonstration?
-  - How does the poster connect struggles against segregated schools in the South with those in the North?
-  - How would you feel if you participated in a protest with nearly 500,000 people and didn’t see change? What would you do next?
----
+- What do you notice about the poster? What do you wonder?
+- Who is the audience for this poster? What strategies does the poster employ to enlist that audience into the demonstration?
+- How does the poster connect struggles against segregated schools in the South with those in the North?
+- How would you feel if you participated in a protest with nearly 500,000 people and didn’t see change? What would you do next?
+--- 
 
 After the massive turnout for the February 3, 1964 boycott, there was little response from the Board of Education. Organizer Reverend Milton Galamison and other desegregation advocates sought to keep the pressure on, pushing the Board to produce a meaningful desegregation plan. They called for a second boycott to take place on March 16, 1964.
 

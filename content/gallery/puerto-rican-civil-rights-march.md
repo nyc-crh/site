@@ -1,12 +1,17 @@
----
+--- 
+layout: gallery
+draft: false
 date: 1964-03-01
 displaydate: 
 title: Puerto Rican Civil Rights March 
+author: New York Police Department Surveillance Unit
+citation: >
+ "Puerto Rican Civil Rights March ," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/puerto-rican-civil-rights-march.
 imageFeatured: puerto-rican-civil-rights-march.jpg
 imageFeaturedAlt: Protestors march, carrying signs and the Puerto Rican flag
 embed: 
 embedTitle: 
-text: puerto-rican-civil-rights-march
+text: 
 mapembed: 
 audio: 
 audioTitle: 
@@ -20,27 +25,27 @@ archive_source: Municipal Archives of the City of New York, NYPD Surveillance Fi
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~234~1233385:City-Hall-Puerto-Rican-March--Demon?sort=identifier%2Ctitle%2Cdate&qvq=q:0173;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
 copyright: Courtesy of the Municipal Archives, City of New York
 categories:
-  - parent activism
-  - student activism
-  - K-12 education
-  - Manhattan
+- parent activism
+- student activism
+- K-12 education
+- Manhattan
 tags:
-  - policing & the criminal legal system
-  - protest
-  - racial segregation
-  - organizing
-  - curriculum
-  - labor unions
-  - Latinx people
-  - multiracial organizing
-  - employment
-  - photography & imagery
-  - Spanish language
+- policing & the criminal legal system
+- protest
+- racial segregation
+- organizing
+- curriculum
+- labor unions
+- Latinx people
+- multiracial organizing
+- employment
+- photography & imagery
+- Spanish language
 questions:
-  - Why do you think the protesters march behind the US and Puerto Rican flags? What are they hoping to communicate? 
-  - Why do you think that the marching organizations included Puerto Rican organizations, Black organizations, and labor unions, among others? What links these organizations together? 
-  - What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? How does that affect what we can learn from it? How do you think the participating students and adults would have felt if they knew they were being recorded by the police? 
----
+- Why do you think the protesters march behind the US and Puerto Rican flags? What are they hoping to communicate? 
+- Why do you think that the marching organizations included Puerto Rican organizations, Black organizations, and labor unions, among others? What links these organizations together? 
+- What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police?
+--- 
 
 Concern about school segregation was not only expressed during the school boycott. On March 1, 1964, Puerto Rican community organizations held a civil rights march in front of City Hall. They were joined by a range of other organizations, including the New York Urban League and the Jamaica NAACP, and representatives of several labor unions including District 65 of the AFL-CIO and SEIU local 1199. Based on the content of marcher’s signs, segregation in education was a major concern for the marchers.[^1]
 

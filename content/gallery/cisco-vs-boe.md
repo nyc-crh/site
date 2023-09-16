@@ -1,4 +1,4 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1900-01-09
@@ -6,7 +6,7 @@ displaydate:
 title: People ex rel. Cisco v. School Board of Queens
 author: 
 citation: >
- "People ex rel. Cisco v. School Board of Queens," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/cisco-resisting-segregation/cisco-vs-boe."
+ "People ex rel. Cisco v. School Board of Queens," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/cisco-resisting-segregation/cisco-vs-boe.
 imageFeatured: cisco-vs-boe.jpg
 imageFeaturedAlt: Text of a court decision
 embed: cisco-vs-boe.pdf
@@ -25,7 +25,7 @@ copyright: Government document
 categories: 
 - Queens
 - parent activism
-- K-12 education 
+- K-12 education
 tags: 
 - segregation 
 - court cases 
