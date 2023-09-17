@@ -1,5 +1,7 @@
 {{ define "main" }}
 <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
         <h1 class="pb-4">{{ .Title | page.RenderString }}</h1>
-        <div id="search"></div>
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
+<div id="search"></div>
 {{ end }}
