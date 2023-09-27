@@ -9,17 +9,14 @@
       </a>
   </div>
   <div id="sidebar-nav" class="navigation list-group border-0 rounded-0 text-sm-start min-vh-100 py-3 d-print-none">
-    {{ with .Site.GetPage "about" }}<a href="{{ .RelPermalink }}" class="list-group-item border-end-0 d-block text-truncate" data-bs-parent="#sidebar"><span> About</span> </a>{{ end }}
-      {{ with .Site.GetPage "gallery" }}  <a href="{{ .RelPermalink }}" class="list-group-item border-end-0 d-block text-truncate" data-bs-parent="#sidebar"><span>Gallery</span></a>{{ end }}
-      {{ with .Site.GetPage "topics" }}  <a href="{{ .RelPermalink }}" class="list-group-item border-end-0 d-block text-truncate" data-bs-parent="#sidebar"><span>Topics</span></a>{{ end }}
-      {{ with .Site.GetPage "key-concepts" }}  <a href="{{ .RelPermalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Key Concepts</span></a>{{ end }}
-      {{ with .Site.GetPage "teaching-resources" }}  <a href="{{ .RelPermalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Teaching Resources</span></a>{{ end }}
-      {{ with .Site.GetPage "project-history" }} <a href="{{ .RelPermalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Project History</span></a>{{ end }}
-      {{ with .Site.GetPage "search" }} <a href="{{ .RelPermalink }}" class="list-group-item border-end-0 d-block text-truncatee" data-bs-parent="#sidebar"><span>Search</span></a>{{ end }}
-      <!--<form class="mw-100" method="get" role="search" action="/search/index.html">
-        <input id="js-searchInput" class="form-control" type="search" placeholder="Search" aria-label="Search" name="q" autocapitalize="off" autocomplete="off" autocorrect="off" spellcheck="false">
-        <button class="btn btn-md white-button interact px-2" type="submit">Search</button>
-      </form>-->
+    <ul class="navbar-nav mb-sm-0">
+      {{ range .Site.Menus.main }}
+      <li class="nav-item">
+        <a class="px-2 nav-link{{ if $.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" href="{{ .URL }}">{{ .Pre }}
+          <span>{{ .Name }}</span></a>
+      </li>
+      {{ end }}
+    </ul>
       </div>
       </div>
       </div>

@@ -1,16 +1,19 @@
 {{ define "main" }}
-  <div class="container-lg" data-pagefind-ignore="index">
-    <title>{{ .Params.title }}</title>
-    <a href="/tags">Tags</a>
-<a href="/categories">Categories</a>
-   <h1> {{ .Params.title| page.RenderString | safeHTML }}</h1>
-  <div class="row pack justify-content-center mx-auto">
-    <h1>{{ .Title }}</h1>
+    <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="index">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="navbar-nav">
+        <a class="nav-item nav-link" href="/gallery">Gallery View</a>
+        <a class="nav-item nav-link" href="/timeline">Timeline View</a>
+        <a class="nav-item nav-link active" href="/categories">Categories <span class="sr-only">(current)</span></a>
+        <a class="nav-item nav-link" href="/tags">Tags</a>
+      </div>
+  </nav>
+  <title>Categories</title>
+  <h1 class="py-4">Categories</h1>
     <ul>
      {{ range $key, $value := .Site.Taxonomies.categories.ByCount }}
-      <li><a href="/categories/{{ $value.Name | urlize }}">{{ $value.Name | title }}</a> ({{ $value.Count }})</li>
+      <li><a href="/categories/{{ $value.Name | urlize }}">{{ $value.Name | title }}</a>({{ $value.Count }})</li>
      {{ end }}
     </ul>
-  </div>
   </div>
   {{ end }}

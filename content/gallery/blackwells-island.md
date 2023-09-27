@@ -3,11 +3,11 @@ layout: gallery
 draft: false
 date: 1832-03-15
 displaydate: 
-title: Male Blind Ward on Blackwell’s Island
-author: 
+title: Survey of Blackwell's Island
+author: John S. Van Heorne
 citation: >
- "Male Blind Ward on Blackwell’s Island" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/male-blind-ward."
-imageFeatured: male-blind-ward.jpg
+ "Survey of Blackwell's Island’s Island" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/blackwells-island."
+imageFeatured: blackwells-island.jpg
 imageFeaturedAlt: A planning diagram of buildings for housing different groups of people on Blackwell's Island
 embed: 
 embedTitle: 

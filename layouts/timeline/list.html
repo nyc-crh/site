@@ -1,0 +1,60 @@
+{{ define "main" }}
+<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+    <title>{{ .Page.Params.title }}</title>
+    <h1>{{ .Page.Params.title | page.RenderString | safeHTML }}</h1>
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+                 <div class="navbar-nav">
+                      <a class="nav-item nav-link" href="/gallery">Gallery View</a>
+                      <a class="nav-item nav-link active" href="/timeline">Timeline View <span class="sr-only">(current)</span></a>
+                      <a class="nav-item nav-link" href="/categories">Categories</a>
+                      <a class="nav-item nav-link" href="/tags">Tags</a>
+                    </div>
+                </nav>
+                 <p>{{ .Content | page.RenderString | safeHTML }}</p>
+<section class="timeline">
+    <div class="container-lg" style="text-align: left!important">
+    {{ range where .Site.RegularPages.ByDate "Type" "gallery" }}
+        {{$alt:= .Params.imageFeaturedAlt}}
+        {{$permalink:= .RelPermalink}}
+        {{$fileName:= .File.BaseFileName}}
+        {{$galleryPage:= $.Site.GetPage (printf "gallery/%s" $fileName)}}
+        {{with $galleryPage}}
+        <div class="timeline-item">
+            <div class="timeline-img"></div>
+            <a href="{{$permalink}}">
+            <div class="timeline-content">
+                <div class="timeline-title"><h2>{{ .Params.Title | page.RenderString | safeHTML }}</h2></div>
+                {{ if .Params.Displaydate }}
+                <div class="date">{{ .Params.Displaydate }}</div>
+                {{ else }}
+                <div class="date">{{ .Params.Date.Format "Jan 2, 2006"}}</div>{{ end }}
+                <div class="timeline-imagewrapper">
+                    <div class="timeline-thumbnail">{{with .Params.imageFeatured}}
+                        {{ $timelineimage := resources.GetMatch (printf "/images/%s" .)}}
+                        {{ with $timelineimage }}
+                        <img src="{{ ($timelineimage.Fill "160x120 top").RelPermalink }}"  alt="{{ .Params.imageFeaturedAlt }}"/>
+                        {{ end }}{{end}}</div>
+                        <div class="timeline-text p2"><p>{{.Params.Eventname  | page.RenderString | safeHTML }}<br>
+                        </div>
+                </div>
+            </div></a>
+        </div>
+        {{end}} 
+      {{ end }}
+        {{$allPages:= .Page.Parent.Pages}}
+        {{$pages:= slice}}
+        {{range $allPages }}
+            {{if eq .Params.layout "docset-gallery"}} 
+                {{$pages = $pages | append .}}
+            {{end}}
+        {{end}}
+        {{$permalink:= .RelPermalink}}
+        {{$lastIndex:= sub (len $pages) 1}}
+        {{range $index, $page:= $pages}}
+            {{if eq $page.RelPermalink $permalink}}
+            {{end}}
+        {{end}}
+    </div>
+</section>
+</div>
+{{ end }}

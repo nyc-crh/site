@@ -1,10 +1,6 @@
-{{ define "main" }}
-<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
-                <h1>{{ .Page.Params.title }}</h1>
-                 <p>{{ .Content | page.RenderString | safeHTML }}</p></details>
 <section class="timeline">
-    <div class="container-lg" style="text-align: left!important">
-      {{ range .RegularPagesRecursive.ByDate}} 
+    <div class="container-fluid" style="text-align: left!important">
+      {{ range .RegularPagesRecursive.ByDate | uniq }} 
         {{$alt:= .Params.imageFeaturedAlt}}
         {{$permalink:= .RelPermalink}}
         {{if .Params.hasContentInGallery}}
@@ -70,5 +66,3 @@
         {{end}}
     </div>
 </section>
-</div>
-{{ end }}

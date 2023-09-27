@@ -10,15 +10,28 @@ params.logo:
     logoHomeLink: /home
 
 menu:
-  menu.main:
-  - identifier: gallery
-    name: Gallery
-    url: gallery/
-
-  menu.main:
-  - identifier: topics
-    name: Topics
-    url: topics/
+  main:
+  - name: About
+    pageRef: /about
+    weight: 1
+  - name: Gallery
+    pageRef: /gallery
+    weight: 2
+  - name: Topics
+    pageRef: /topics
+    weight: 3
+  - name: Key Concepts
+    pageRef: /key-concepts
+    weight: 4
+  - name: Teaching Resources
+    pageRef: /teaching-resources
+    weight: 5
+  - name: Project History
+    pageRef: /project-history
+    weight: 6
+  - name: Search
+    pageRef: /search
+    weight: 7
 
 markup:
   goldmark:
