@@ -24,8 +24,20 @@ caption: Thomas Samuels recalls his experiences as a teenager meeting with fello
 archive_source: Deaf Social Spaces in NYC, Deaf Documentary Center at Gallaudet University
 source_link: https://storymaps.arcgis.com/stories/6c2a1290209a4f0080a5acc3e286e314
 copyright: Under copyright. Used with permission.
-categories: 
-tags: 
+categories:	
+- k-12 education
+- Manhattan
+- student activism
+tags:	
+- Deaf culture
+- disabled people
+- joy
+- American Sign Language
+- curriculum
+- self-advocacy
+- autonomous educational spaces
+- Black people
+- transportation
 questions: 
 - In your own life, where do you feel safe to gather with your friends and communicate as you choose? What meaning does that space hold for you? 
 - Who should decide how young people communicate at school&mdash;students, teachers, parents, or someone else?

@@ -22,8 +22,17 @@ caption: Elizabeth Farrell oversees boys of different ages making furniture in a
 archive_source: Council for Exceptional Children
 source_link: https://exceptionalchildren.org/
 copyright: Public Domain
-categories: 
-tags: 
+categories:	
+- k-12 education
+tags:	
+- ableist segregation
+- disabled people
+- intellectual disability
+- physical disability
+- disability labels
+- photography & imagery
+- institutions
+- school facilities
 questions: 
 - How did compulsory education laws change the way children with disabilities were educated?
 - Who determined whether a child was able to go to public school or sent to a state institution? What were some of the dilemmas for parents of disabled children at this time?

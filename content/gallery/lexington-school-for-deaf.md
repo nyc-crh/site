@@ -23,8 +23,14 @@ archive_source: >
  *New York Times*
 source_link: 
 copyright: Under copyright. Used by permission.
-categories: 
-tags: 
+categories:	
+- student activism
+- Queens
+- k-12 education
+tags:	
+- Deaf culture
+- self-determination
+- American Sign Language
 questions: 
 - Why did Deaf people push for Deaf leaders at their schools? 
 - How might having a Deaf CEO help students and teachers?

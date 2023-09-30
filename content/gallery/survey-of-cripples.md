@@ -23,8 +23,12 @@ archive_source: >
  Henry C. Wright, *Survey of Cripples in New York City* (New York: The New York Committee on After Care of Infantile Paralysis Cases, October 1920),  via Google Books. 
 source_link: https://www.google.com/books/edition/Survey_of_cripples_in_New_York_City/c9OLDlVReZgC?hl=en&gbpv=1&dq=%22Survey+of+cripples+in+New+York+City%22&pg=PA14&printsec=frontcover
 copyright: Public domain
-categories: 
-tags: 
+categories:	
+- community activism
+tags:	
+- physical disabilities
+- disabled people
+- architectural barriers
 questions: 
 - How many of the city’s physically disabled residents were children in 1920? 
 - Based on the recommendations of the author of this report, what kind of education do you think disabled children might have received at this time? 

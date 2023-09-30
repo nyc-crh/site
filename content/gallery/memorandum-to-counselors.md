@@ -22,8 +22,21 @@ caption: Counselors at Camp Jened received this guidance before they started the
 archive_source: Papers of Honora Rubenstein
 source_link: 
 copyright: Under copyright. Used with permission of the family of Honora and Murray Rubenstein.
-categories: 
-tags: 
+categories:	
+- k-12 education
+- higher education
+- national
+- New York State
+- teacher activism
+tags:
+- physical disability
+- intellectual disability
+- joy
+- architectural barriers
+- disabled people
+- autonomous educational spaces
+- athletics
+- curriculum
 questions: 
 - What can you tell from the document about howCamp Jened leaders wanted their  counselors to think about their campers? What do the words and images convey about what kind of experience they wanted the campers to have? 
 - Do you see joy in this document? Do you see struggle? 

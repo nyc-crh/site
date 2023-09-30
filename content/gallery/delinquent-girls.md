@@ -26,8 +26,16 @@ archive_source: >
  “The Training School,” June 1911.
 source_link: https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=45
 copyright: Public domain
-categories: 
-tags: 
+categories:	
+- New York State
+tags:	
+- disability labels
+- policing & the criminal legal system
+- institutions
+- intellectual disability
+- emotional disability
+- ableist segregation
+- exclusion from schooling
 questions: 
 - Why do Goddard and Hall propose giving these “delinquent girls” an intelligence test? 
 - What factors seem to be involved in deciding a girl is “delinquent” and “feeble minded”? What are the ideas of “normal” that these girls are being compared to? 

@@ -24,8 +24,15 @@ archive_source: >
  Anne Moore, “The Feeble Minded in New York: A Report Prepared for the Public Education Association of New York,” New York: The Association, 1911.
 source_link: https://catalog.hathitrust.org/Record/001133232
 copyright: Public Domain
-categories: 
-tags: 
+categories:	
+- Manhattan
+- parent activism
+tags:
+- disability labels
+- intellectual disability
+- ableist segregation
+- racist segregation
+- disabled people
 questions: 
 - Based on Table C, what leads children to being placed at this school? What is the category of “feeble minded”? What is included and what is excluded? 
 - What factors do you think affected whether a family could take care of a child with intellectual disabilities or other disabilities at home? 

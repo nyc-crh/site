@@ -23,8 +23,16 @@ caption: Samuel Akerly describes methods of teaching Deaf people, including the 
 archive_source: National Library of Medicine
 source_link: https://collections.nlm.nih.gov/catalog/nlm:nlmuid-60530610R-bk
 copyright: Public Domain
-categories: 
-tags: 
+categories:	
+- k-12 education
+- New York State
+tags:
+- Deaf culture
+- ableist segregation
+- American Sign Language
+- self-determination
+- institutions
+- disabled people
 questions: 
 - What were the common misconceptions about deafness in the 19th century?
 - Why did hearing people object to deaf people using sign language? 

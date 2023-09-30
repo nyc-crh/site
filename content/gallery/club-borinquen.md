@@ -22,8 +22,19 @@ caption: Students in Club Borinquen at East Harlem’s Benjamin Franklin High Sc
 archive_source: Balch Historical Institute, Philadelphia
 source_link: 
 copyright: 
-categories: 
-tags: 
+categories:	
+- k-12 education
+- Manhattan
+- teacher activism
+tags:	
+- Harlem
+- bilingual education
+- Latinx people
+- Black people
+- joy
+- photography & imagery
+- Spanish language
+- immigrants & migrants
 questions: 
 - How do you think students felt about Club Borinquen? What can we tell from the photograph? What questions do you have about the club? 
 - Do you agree with Leonard Covello that students need spaces at school that link home and school culture? Why or why not? Are there spaces like that at your school? Are these joyful spaces? 

@@ -22,8 +22,17 @@ caption: Section of a diagram of institutions on Blackwell’s Island (now calle
 archive_source: New York City Municipal Archives
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/RECORDSPHOTOUNITARC~24~24~1350176~136240:Survey-of-Blackwell-s-Island
 copyright: Public Domain
-categories: 
-tags: 
+categories:	
+- Manhattan
+- k-12 education
+- adult education
+tags:
+- blind & low-vision
+- institutions
+- gender
+- communication
+- ableist segregation
+- disabled people
 questions:
 - Why do you think people would have created housing for only blind men? 
 - What kind of access to communication did blind children have at this time? What kind of access to communication did they not have? 

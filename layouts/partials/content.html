@@ -11,7 +11,7 @@
     {{with or .Params.video .Params.embed}}
       {{with $video}}
       {{if eq $video.srcType "youtube"}}
-        <iframe loading="lazy" width="560" height="315" class="responsive-figure-fullwidth mx-auto" src="https://www.youtube.com/embed/{{.srcLink}}" title="{{with $.Params.videoTitle}}{{ . }}{{else}}{{$.Title}}{{end}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe loading="lazy" width="854" height="480" class="responsive-figure-fullwidth mx-auto" src="https://www.youtube.com/embed/{{.srcLink}}" title="{{with $.Params.videoTitle}}{{ . }}{{else}}{{$.Title}}{{end}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       {{else if eq $video.srcType "other"}}
       <video width="560" height="315" class="responsive-figure-fullwidth mx-auto" controls title="{{with $.Params.videoTitle}}{{ . }}{{else}}{{$.Title}}{{end}}">
         <source src = "{{.srcLink}}" type = "video/mp4">

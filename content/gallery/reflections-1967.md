@@ -22,8 +22,22 @@ caption: In “Reflections,” a newspaper produced at Camp Jened, campers told 
 archive_source: From the papers of Denise Sherer Jacobson.
 source_link: 
 copyright: Used with permission of Denise Sherer Jacobson.
-categories: 
-tags: 
+categories:	
+- k-12 education
+- adult education
+- national
+- New York State
+- teacher activism
+tags:
+- physical disability
+- intellectual disability
+- joy
+- architectural barriers
+- disabled people
+- autonomous educational spaces
+- athletics
+- curriculum
+- student writing
 questions: 
 - How do you see joy in this document? How do you see struggle? 
 - What can you tell from this document about how campers experienced Camp Jened? 

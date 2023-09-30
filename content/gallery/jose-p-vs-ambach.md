@@ -22,8 +22,17 @@ caption: A group of New York City parents sought legal help and sued to stop the
 archive_source: Advocates for Children of New York 
 source_link: https://www.advocatesforchildren.org/sites/default/files/on_page/jose_p_complaint_february_1979.pdf?pt=1
 copyright: Public domain
-categories: 
-tags: 
+categories:	
+- Bronx
+- Manhattan
+- parent activism
+- k-12 education
+tags:
+- court cases
+- disabled people
+- Spanish language
+- disability labels
+- exclusion from schooling
 questions: 
 - How does the complaint describe José P? What else would you like to know about him as a person, and about his life? 
 - What laws are mentioned in the complaint? What rights do these laws provide to disabled students? 

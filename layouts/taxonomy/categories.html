@@ -12,7 +12,7 @@
   <h1 class="py-4">Categories</h1>
     <ul>
      {{ range $key, $value := .Site.Taxonomies.categories.ByCount }}
-      <li><a href="/categories/{{ $value.Name | urlize }}">{{ $value.Name | title }}</a>({{ $value.Count }})</li>
+      <li><a href="/categories/{{ $value.Name }}">{{ $value.Name | title }}</a>({{ $value.Count }})</li>
      {{ end }}
     </ul>
   </div>

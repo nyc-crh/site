@@ -25,8 +25,16 @@ caption: Reverend Malika Lee Whitney describes Double Dutch Dreamz, an intergene
 archive_source: The Grandparents Storylab
 source_link: https://www.thegrandparentsstorylab.org/double-dutch-dreamz
 copyright: Under copyright. Used with permission.
-categories: 
-tags: 
+categories:	
+- k-12 education
+- Manhattan
+- community activism
+tags:	
+- Harlem
+- joy 
+- Black people
+- autonomous educational spaces
+- athletics
 questions: 
 - Is Double Dutch Dreamz an example of educational activism? Why or why not? 
 - Why does Reverend Malika Lee Whitney think that Double Dutch is the ideal method for teaching youth about social justice?

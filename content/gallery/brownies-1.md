@@ -23,8 +23,21 @@ caption: The NAACP published *The Brownies’ Book* magazine to teach Black chil
 archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
 copyright: Public domain
-categories: 
-tags: 
+categories:	
+- k-12 education
+- national
+- community activism"
+tags:	
+- Black people
+- curriculum
+- photography & imagery
+- joy
+- childhood 
+- NAACP
+- newspapers & the media
+- autonomous educational spaces
+- student writing
+- the arts
 questions: 
 - Why was *The Brownies’ Book* published? 
 - How did publishers of *The Brownies’ Book* think that they were contributing to the education of Black children?

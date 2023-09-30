@@ -24,8 +24,22 @@ caption: >
 archive_source: Education Resources Information Center (ERIC)
 source_link: https://eric.ed.gov/?id=ED072576
 copyright: Under copyright.
-categories: 
-tags: 
+categories:	
+- student activism
+- higher education
+- Brooklyn
+tags:	
+- physical disabilities
+- self-advocacy
+- architectural barriers
+- disabled people
+- organizing
+- ableist segregation
+- employment
+- curriculum
+- photography & imagery
+- student writing
+- disability labels
 questions: 
 - How does the image on the cover of the handbook make you feel? What message do you think the authors want to send with this image? What do they think of the term “handicapped”? 
 - What passages from the text stand out to you? How does S.O.F.E.D.U.P. use the language of civil rights movements and ideas to make their case? 

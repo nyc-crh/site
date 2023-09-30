@@ -23,8 +23,15 @@ caption: Pie chart depicting various types of inmates housed in state institutio
 archive_source: Annual Report of the State Board of Charities of the State of New York, 1921, page 35, via Google Books.
 source_link: https://play.google.com/store/books/details?id=wP4qAAAAYAAJ&rdid=book-wP4qAAAAYAAJ&rdot=1
 copyright: Public domain
-categories: 
-tags: 
+categories:	
+- New York State
+tags:	
+- institutions
+- ableist segregation
+- racist segregation
+- disability labels
+- policing & the criminal legal system
+- exclusion from schooling
 questions: 
 - What do the categories of people on this pie chart have in common?
 - What types of disability are represented on this chart? Are they visible or non-visible disabilities? 

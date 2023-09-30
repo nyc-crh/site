@@ -23,8 +23,12 @@ caption: Parent activists pose in front of the AHRC's first fundraising billboar
 archive_source: The ARC, New York Historical Collection
 source_link: https://thearcny.pastperfectonline.com/photo/E11EC5CF-8939-4AF2-AA8B-451431910302
 copyright: The ARC, New York
-categories: 
-tags: 
+categories:	
+- community activism
+- New York State
+tags:
+- disabled people
+- intellectual disability
 questions: 
 - When the state left parents with no option for educating their children in public schools, how did they respond? 
 - When AHRC formed, what kind of support was available for parents who didn’t want to send their children away to an institution?

@@ -24,8 +24,19 @@ archive_source: >
  The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Picture Collection, The New York Public Library. "The idiot school" The New York Public Library Digital Collections. 1867.
 source_link: https://digitalcollections.nypl.org/items/510d47e0-d6d7-a3d9-e040-e00a18064a99
 copyright: Public Domain
-categories: 
-tags: 
+categories:	
+- Manhattan
+- k-12 education
+- adult education
+tags:	
+- ableist segregation
+- disabled people
+- intellectual disability
+- disability labels
+- curriculum
+- photography & imagery
+- newspapers & the media
+- institutions
 questions: 
 - Look carefully at the illustration of the classroom. What do you notice about who is there and what they are doing? What do you notice about the classroom space? How does it compare to your classrooms today? What questions do you have about this image? 
 - Why did Edouard Séguin and his colleagues think that students with intellectual and physical disabilities needed to go to school away from their families and communities? Do you agree with their ideas? 

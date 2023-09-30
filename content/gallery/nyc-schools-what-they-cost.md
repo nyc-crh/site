@@ -24,8 +24,20 @@ archive_source: >
  *The New York Times*
 source_link: https://www.nytimes.com/1908/09/13/archives/new-york-citys-schools-and-what-they-cost-the-greatest-system-in.html
 copyright: Public Domain
-categories: 
-tags: 
+categories:	
+- k-12 education
+tags:	
+- ableist segregation
+- disabled people
+- intellectual disability
+- physical disability
+- Deaf culture
+- blindness & low-vision
+- emotional disability
+- disability labels
+- photography & imagery
+- institutions
+- school facilities
 questions: 
 - What do the authors see as the biggest challenge facing the school system?
 - Do you notice anything about the gender of students in the description of classes or the accompanying photos? Do you notice anything about race?  

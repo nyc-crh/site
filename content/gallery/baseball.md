@@ -22,8 +22,21 @@ caption: Campers play baseball at Camp Jened.
 archive_source: Collection of Sheldon “Shelly” Koy
 source_link: 
 copyright: Used with permission of Sheldon “Shelly” Koy
-categories: 
-tags: 
+categories:	
+- k-12 education
+- adult education
+- national
+- New York State
+- teacher activism
+tags:	
+- physical disability
+- intellectual disability
+- joy
+- architectural barriers
+- disabled people
+- autonomous educational spaces
+- athletics
+- curriculum
 questions: 
   - What do you see happening in this photograph? What feelings do you see expressed in the photograph? Why do you think this activity happened at Camp Jened? 
   - How do you think baseball or other games helped build community at Camp Jened? 

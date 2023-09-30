@@ -22,8 +22,16 @@ caption: The *New York Amsterdam News*, New York’s oldest Black-owned newspape
 archive_source: New York Amsterdam News
 source_link: 
 copyright: Under copyright. Used with permission. 
-categories: 
-tags: 
+categories:	
+- k-12 education
+- Manhattan
+- national
+tags:
+- joy 
+- Black people
+- autonomous educational spaces
+- newspapers & the media
+- athletics
 questions: 
 - How did Black New Yorkers show their support for Black young people and Double Dutch? 
 - Why do you think Double Dutch was described as a sport for girls? 

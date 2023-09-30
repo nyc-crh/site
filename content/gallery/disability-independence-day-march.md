@@ -23,8 +23,19 @@ caption: >
 archive_source: Collection of Tari Hartman Squire
 source_link: 
 copyright: Under copyright. Used with permission.
-categories: 
-tags: 
+categories:	
+- Manhattan
+- community activism
+tags:
+- ableist segregation
+- disabled people
+- physical disability
+- self-advocacy
+- protests
+- photography & imagery
+- joy
+- transportation
+- employment
 questions: 
 - Why do you think the activists in this Disability Rights Parade chose to gather under a banner with this quote from Dr. Martin Luther King, Jr.? What do you think the quote meant to them? What do you think they wanted to communicate to others by choosing this quote? 
 - How does the activism seen in this photograph relate to the Dr. Martin Luther King, Jr. quote?

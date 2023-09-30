@@ -22,8 +22,18 @@ caption: This poster illustrates how students at Benjamin Franklin High School r
 archive_source: Historical Society of Pennsylvania, Leonard Covello and Benjamin Franklin High School campaign for adequate housing in East Harlem, 1933-1965
 source_link: https://digitallibrary.hsp.org/index.php/Detail/objects/9372#
 copyright: Public domain
-categories: 
-tags: 
+categories:	
+- student activism
+- k-12 education
+- Manhattan
+tags:	
+- multiracial organizing
+- Harlem
+- Latinx people
+- Black people
+- joy
+- photography & imagery
+- immigrants & migrants
 questions: 
 - What did Benjamin Franklin HS students do to improve housing in their neighborhood? 
 - How was joy part of this process? How was struggle part of this process? 

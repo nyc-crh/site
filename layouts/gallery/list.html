@@ -1,6 +1,6 @@
 {{ define "main" }}
+<title>{{ .Params.title }}</title>
 <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="index">
-   <h2> {{ .Params.title | page.RenderString | safeHTML }}</h2>
    <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="navbar-nav">
@@ -9,10 +9,9 @@
           <a class="nav-item nav-link" href="/categories">Categories</a>
           <a class="nav-item nav-link" href="/tags">Tags</a>
         </div>
-      </div>
     </nav>
   <div class="row pack mx-auto">
-    {{ .Content }}
+    <h1 class="py-4"> {{ .Params.title | page.RenderString | safeHTML }}</h2>
     {{ range (.Paginate $.RegularPagesRecursive.ByDate).Pages}}
     <div class="col-sm-2 card m-1">
       <a href="{{ .RelPermalink }}" class="index-anchor">
@@ -33,10 +32,9 @@
   {{ end }}
 
 </div>
-</div>
-
-<div class="row">
- {{ partial "pagination" . }}
+<div class="row mt-5">
+  {{ partial "pagination" . }}
+ </div>
 </div>
 </div>
 {{ end }}

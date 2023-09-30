@@ -22,8 +22,18 @@ caption: Sculptors John Ahearn and Rigoberto Torres made a sculpture of girls ju
 archive_source: Division of Rare and Manuscript Collections, Cornell University Library, Joe Conzo Jr. Archive
 source_link: https://digital.library.cornell.edu/catalog/ss:1406035
 copyright: Under copyright. Used with permission.
-categories: 
-tags: 
+categories:	
+- k-12 education
+- Bronx
+- national
+- community activism
+tags:
+- joy 
+- Black people
+- autonomous educational spaces
+- the arts
+- photography & imagery
+- athletics
 questions: 
 - Why do you think Ahearn and Torres wanted to mount this sculpture on a building in the South Bronx? If you lived in the area, how do you think you would feel about the sculpture? 
 - What are joyful places in your neighborhood or community? 

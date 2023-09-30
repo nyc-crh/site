@@ -23,8 +23,17 @@ caption: >
 archive_source: David Rumsey Historical Map Collection
 source_link: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31479~1150435:New-York-N-
 copyright: Public Domain
-categories: 
-tags: 
+categories:	
+- Manhattan
+- k-12 education
+- adult education
+tags:
+- ableist segregation
+- disabled people
+- intellectual disability
+- disability labels
+- photography & imagery
+- institutions
 questions: 
 - What do you notice about the facilities on these islands? How are residents similar? How are they different? How are their needs similar or different?
 - What do you know about these islands? How do you get to them today? How did people get to them in the 1800s?

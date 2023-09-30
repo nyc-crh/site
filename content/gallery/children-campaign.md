@@ -22,8 +22,20 @@ caption: Benjamin Franklin High School students participating in a World War II 
 archive_source: Balch Historical Institute, Philadelphia
 source_link: 
 copyright: TBD
-categories: 
-tags: 
+categories:	
+- student activism
+- k-12 education
+- Manhattan
+tags:	
+- multiracial organizing
+- Harlem
+- bilingual education
+- Latinx people
+- Black people
+- joy
+- photography & imagery
+- Spanish language
+- immigrants & migrants
 questions:
 - What do you notice about this photograph? What do you wonder about it? 
 - Who do you think took these photographs and why? How does that affect how we perceive them? 

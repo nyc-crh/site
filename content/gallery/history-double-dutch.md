@@ -22,8 +22,17 @@ caption: In preparation for the upcoming Eighth Annual World International Doubl
 archive_source: Amsterdam News
 source_link: 
 copyright: Under copyright. Used with permission. 
-categories: 
-tags: 
+categories:	
+- k-12 education
+- Manhattan
+- national
+- community activism
+tags:	
+- joy 
+- Black people
+- autonomous educational spaces
+- newspapers & the media
+- athletics
 questions: 
 - Why were these Double Dutch competitions founded? 
 - Do you think of Double Dutch competitions as educational activism? Why or why not? 

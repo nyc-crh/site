@@ -24,8 +24,19 @@ archive_source: >
  *New York Amsterdam News*
 source_link: 
 copyright: Under copyright. Used with permission.
-categories: 
-tags: 
+categories:	
+- Queens
+- k-12 education
+- parent activism
+tags:
+- disability labels
+- intellectual disability
+- ableist segregation
+- racist segregation
+- NAACP
+- Black people
+- organizing
+- newspapers & the media
 questions: 
 - What did parents report was happening to their students? Why did they think this was happening? 
 - What does the term “Jim Crow” mean? Why do you think parents are using it here? 

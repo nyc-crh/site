@@ -24,8 +24,21 @@ caption: Camp Jened’s brochure advertised its facilities and location to poten
 archive_source: Papers of Honora Rubenstein
 source_link: 
 copyright: Under copyright. Used with permission of the family of Honora and Murray Rubenstein.
-categories: 
-tags: 
+categories:	
+- k-12 education
+- adult education
+- national
+- New York State
+- teacher activism
+tags:	
+- physical disability
+- intellectual disability
+- joy
+- architectural barriers
+- disabled people
+- autonomous educational spaces
+- athletics
+- photography & imagery
 questions: 
 - Why was Camp Jened created? What problems did the camp founders want to solve by creating a camp for people, particularly young people, with disabilities?
 - What does the brochure tell you about the environment of Camp Jened? What do you notice about the landscape, and the buildings? What symbols or images do you see? How do you think people with different life experiences might respond to this brochure? 

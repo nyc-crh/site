@@ -24,8 +24,18 @@ caption: A clip of an interview with Bernard Carabello from Geraldo Rivera’s e
 archive_source: Geraldo Rivera
 source_link: https://www.geraldo.com/willowbrook-the-last-great-disgrace20221008000226/
 copyright: Under copyright.
-categories: 
-tags: 
+categories:	
+- Staten Island
+- community activism
+tags:	
+- disabled people
+- physical disability
+- developmental disability
+- newspapers & the media
+- self-determination
+- institutions
+- ableist segregation
+- exclusion from schooling
 questions: 
 - What were conditions like for residents of Willowbrook State School?  
 - Some of the coverage about Bernard focused on his IQ and the narrative that he didn’t belong at Willowbrook. How does this contrast with how Geraldo describes Bernard’s understanding of the world? How would you revise Geraldo’s remarks if you were trying to make the same points today?

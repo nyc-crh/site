@@ -22,8 +22,13 @@ caption: Helen Keller wrote a letter to the NYC Board of Education to advocate f
 archive_source: Helen Keller Archives
 source_link: https://www.afb.org/HelenKellerArchive?a=d&d=A-HK05-B268-BK01-001.1.17
 copyright: Public domain
-categories: 
-tags: 
+categories:	
+- New York State
+- community activism
+tags:	
+- blindness & low-vision
+- self-determination
+- communication
 questions: 
 - Why do you think that debates over a font for blind readers took so many years before people could agree on a standard? Whose interests were at play? 
 - Why was it important for blind people to have a say in how they read books? What insights did they have? 

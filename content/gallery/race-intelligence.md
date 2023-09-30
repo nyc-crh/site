@@ -23,8 +23,16 @@ caption: Scholar W.E.B. DuBois criticizes intelligence testing as another attemp
 archive_source: National Association for the Advancement of Colored People, *The Crisis*, Volume 20, No. 3, July 1920 
 source_link: https://babel.hathitrust.org/cgi/pt?id=hvd.32044021627674&view=1up&seq=513
 copyright: Public Domain
-categories: 
-tags: 
+categories:	
+- national
+- community activism
+tags:	
+- disability labels
+- intellectual disability
+- ableist segregation
+- racist segregation
+- NAACP
+- Black people
 questions: 
 - What are DuBois’s criticisms of intelligence tests? There are several different ones, so make sure you find more than one. 
 - What does DuBois mean that “the average included most of both races”? How are the mathematics concepts of “average” and “range” a part of his argument? 

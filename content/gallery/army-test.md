@@ -24,8 +24,14 @@ archive_source: >
 source_link: https://openlibrary.org/books/OL7054323M/A_study_of_American_intelligence
 copyright: Public Domain
 categories: 
-tags: 
-questions: 
+categories:	
+- national
+tags:	
+- disability labels
+- intellectual disability
+- ableist segregation
+- racist segregation
+questions:
 - What do you think this test is testing? Is it testing intelligence, or something else? 
 - If one group has a lower average score than another, what does that tell us (if anything) about the scores of individuals in that group? How do the mathematical concepts of “mean” and “range” help our thinking here?
 --- 

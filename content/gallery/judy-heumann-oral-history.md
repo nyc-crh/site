@@ -23,8 +23,18 @@ archive_source: >
  Judith Heumann, Pioneering Disability Rights Advocate and Leader in Disabled in Action, New York: Center for Independent Living, Berkeley; World Institute on Disability; and the US Department of Education 1960s-2000, an oral history conducted by Susan Brown, David Landes, Jonathan Young in 1998-2001, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 2004.
 source_link: https://oac.cdlib.org/view?docId=hb9v19p0k9;NAAN=13030&doc.view=frames&chunk.id=div00059&toc.depth=1&toc.id=0&brand=oac4
 copyright: 
-categories: 
-tags: 
+categories:	
+- Queens
+- student activism
+- parent activism
+- k-12 education
+tags:	
+- physical disabilities
+- self-advocacy
+- architectural barriers
+- disabled people
+- court cases
+- ableist segregation
 questions: 
 - How did Judy Heumann describe her emotional state in high school? What were the reasons she described it this way? 
 - How did she use the courts in her advocacy? 

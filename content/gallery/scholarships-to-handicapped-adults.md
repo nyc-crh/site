@@ -22,8 +22,21 @@ caption: United Cerebral Palsy spreads the word about Camp Jened.
 archive_source: From the Collection of the Family of Honora and Murray Rubenstein.
 source_link: 
 copyright: Under copyright.
-categories: 
-tags: 
+categories:	
+- k-12 education
+- higher education
+- national
+- New York State
+- teacher activism
+tags:
+- physical disability
+- intellectual disability
+- joy
+- architectural barriers
+- disabled people
+- autonomous educational spaces
+- athletics
+- curriculum
 questions: 
 - Why do you think adults like Ruth Sesmer attended Camp Jened? 
 - What do Sesmer’s comments tell us about her experience at Camp Jened and what it meant to her? 

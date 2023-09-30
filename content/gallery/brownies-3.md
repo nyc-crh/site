@@ -25,8 +25,21 @@ caption: Readers of *The Brownies’ Book* - Black children who lived around the
 archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
 copyright: Public domain
-categories: 
-tags: 
+categories:	
+- k-12 education
+- national
+- community activism"
+tags:
+- Black people
+- curriculum
+- photography & imagery
+- joy
+- childhood 
+- NAACP
+- newspapers & the media
+- autonomous educational spaces
+- student writing
+- the arts
 questions: 
 - Where do you see joy in these letters? Where do you see struggle? 
 - What about the children’s lives here is similar to your own? What seems different? 

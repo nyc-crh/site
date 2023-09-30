@@ -13,7 +13,7 @@
   <h1 class="py-4">Tags</h1>
     <ul>
      {{ range $key, $value := .Site.Taxonomies.tags.ByCount }}
-      <li><a href="/tags/{{ $value.Name | urlize }}">{{ $value.Name | title }}</a>({{ $value.Count }})</li>
+      <li><a href="/tags/{{ $value.Name }}">{{ $value.Name | title }}</a>({{ $value.Count }})</li>
      {{ end }}
     </ul>
   </div>

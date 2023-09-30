@@ -24,8 +24,21 @@ caption: For their second issue, *The Brownies’ Book* chose a sculpture of a B
 archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
 copyright: Public domain
-categories: 
-tags: 
+categories:	
+- k-12 education
+- national
+- community activism
+tags:	
+- Black people
+- curriculum
+- photography & imagery
+- joy
+- childhood 
+- NAACP
+- newspapers & the media
+- autonomous educational spaces
+- student writing
+- the arts
 questions: 
 - What words would you use to describe the sculpture? What feelings does it bring up for you? 
 - Why do you think the editors gave the cover the title “I am an American Citizen”? 

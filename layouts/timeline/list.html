@@ -1,8 +1,7 @@
 {{ define "main" }}
 <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
-    <title>{{ .Page.Params.title }}</title>
-    <h1>{{ .Page.Params.title | page.RenderString | safeHTML }}</h1>
-            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <title>{{ .Page.Params.title }}</title>       
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
                  <div class="navbar-nav">
                       <a class="nav-item nav-link" href="/gallery">Gallery View</a>
                       <a class="nav-item nav-link active" href="/timeline">Timeline View <span class="sr-only">(current)</span></a>
@@ -10,8 +9,7 @@
                       <a class="nav-item nav-link" href="/tags">Tags</a>
                     </div>
                 </nav>
-                 <p>{{ .Content | page.RenderString | safeHTML }}</p>
-<section class="timeline">
+                <h1 class="py-4">{{ .Page.Params.title | page.RenderString | safeHTML }}</h1><section class="timeline">
     <div class="container-lg" style="text-align: left!important">
     {{ range where .Site.RegularPages.ByDate "Type" "gallery" }}
         {{$alt:= .Params.imageFeaturedAlt}}
