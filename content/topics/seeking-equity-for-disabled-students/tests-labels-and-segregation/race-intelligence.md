@@ -1,6 +1,6 @@
---- 
-title: AHRC First Fundraising Billboard
+---	
+title: “Race Intelligence”
 layout: "tc-single"
 hasContentInGallery: true
-date: 1951-01-01
---- 
+date: 1920-07-01
+---	
