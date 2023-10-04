@@ -1,6 +1,6 @@
---- 
-title: We Kept Our Retarded Child At Home
+---	
+title: “The Feeble Minded in New York” 
 layout: "tc-single"
 hasContentInGallery: true
-date: 1955-11-01
---- 
+date: 1911-01-01
+---	
