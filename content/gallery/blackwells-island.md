@@ -6,7 +6,7 @@ displaydate:
 title: Survey of Blackwell's Island
 author: John S. Van Heorne
 citation: >
- "Survey of Blackwell's Island’s Island" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/blackwells-island."
+ "Survey of Blackwell's Island’s Island" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/blackwells-island.
 imageFeatured: blackwells-island.jpg
 imageFeaturedAlt: A planning diagram of buildings for housing different groups of people on Blackwell's Island
 embed: 
@@ -18,7 +18,7 @@ audioTitle:
 video: 
 videoTitle: 
 eventname: An educator for the deaf brought three boys from the blind ward on Blackwell’s Island to be educated in Manhattan in the first New York school for the blind.
-caption: Section of a diagram of institutions on Blackwell’s Island (now called Roosevelt Island) that includes a building for “Male Blind” ward, and other buildings to house poor people.
+caption: Section of a diagram of institutions on Blackwell’s Island (now called Roosevelt Island) that includes a building for "Male Blind" ward, and other buildings to house poor people.
 archive_source: New York City Municipal Archives
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/RECORDSPHOTOUNITARC~24~24~1350176~136240:Survey-of-Blackwell-s-Island
 copyright: Public Domain
