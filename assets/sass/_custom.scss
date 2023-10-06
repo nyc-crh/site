@@ -603,3 +603,6 @@ img { max-width: 100%; }
     background-color: white;
     color: #993333;
 }
+details[open] summary {
+  display: none;
+}
