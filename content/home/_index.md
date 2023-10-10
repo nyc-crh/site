@@ -26,7 +26,7 @@ cards:
     text: View teaching resources, lesson plans, and more
     btn:
       text: See teaching resources
-      url: /resources/
+      url: /teaching-resources/
 ---
 
 Welcome to the New York City Civil Rights History Project. This project was inspired by New York City high school student activists who wanted to understand the history of their city and their schools.
