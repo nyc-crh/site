@@ -1,3 +1,4 @@
+<title>{{ .Title }}</title>
 <p><strong>Caption:</strong> {{ .Params.caption | page.RenderString | safeHTML }}</p>
 {{ with .Params.imageFeatured }}
      {{ $image := resources.Get (printf "/images/%s" . )}}
