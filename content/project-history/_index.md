@@ -3,7 +3,7 @@ draft: false
 layout: project-history
 title: Project History
 ---
-## Where did this project come from?
+# Where did this project come from?
 
 In January 2019, the New York youth activist group Teens Take Charge (TTC) came to Brooklyn College professor Jeanne Theoharis.  They had read her chapter on the history of the New York civil rights movement around school segregation in *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* and had previously invited her to join them for a public town hall on NYC’s enduring school segregation. This event, and conversations within TTC about how history mattered for their work, and about what histories were relevant to and needed by New York’s students today, were prompted in part by frustration. When TTC organizer and co-founder Nelson Luna chose the history of New York City schools and civil rights organizing in education as the focus of a major research project for school, he found few available resources and met resistance from his teachers.   
 
@@ -18,7 +18,7 @@ Meanwhile Jessica Murray, a doctoral student at the CUNY Graduate Center had hel
 We realized that the National Historic Publications and Records Commission had these amazing grants to assist with projects like these. So on a long shot, we applied and to our delight and amazement, we were funded—and we secured a substantial matching commitment from Teachers College Center on History and Education. We have spent the past three years building this website.
 </details>
 
-## Who did this work and how?
+# Who did this work and how?
 
 The core project team included the four co-directors and a group of three to five team members per year, most of whom were doctoral students at Teachers College and at other area institutions. Team members have diverse backgrounds as educators and/or activists, and research and/or teaching interests in racism, ableism, and struggles for justice in education. They brought a range of identities and life experiences to the project. They were hired as graduate assistants or consultants. Team members took on various and expanding aspects of the project, including conducting archival research, imagining lesson plans, facilitating community meetings, testing different ways to present primary sources, and writing supporting text for the sources.
 
