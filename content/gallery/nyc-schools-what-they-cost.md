@@ -18,7 +18,7 @@ audioTitle:
 video: 
 videoTitle: 
 eventname: >
- *The New York Times* published a feature article about the complex NYC school system. The city struggled to accommodate all students as enrollment increased in part because of compulsory education laws and bans on child labor."
+ *The New York Times* published a feature article about the complex NYC school system. The city struggled to accommodate all students as enrollment increased in part because of compulsory education laws and bans on child labor.
 caption: This article describes various types of classes and categories of children and adults being educated in the New York City public school system. Photographs show boys working in a woodshop, boys exercising on a covered rooftop, and the outside of a school building.
 archive_source: >
  *The New York Times*
