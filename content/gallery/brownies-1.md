@@ -12,7 +12,7 @@ imageFeaturedAlt: Book cover featuring a young black girl wearing a white dress,
 embed: brownies-1.pdf
 embedTitle: >
  *The Brownies’ Book*, January 1920, excerpts
-text: brownies1
+text: brownies-1
 mapembed: 
 audio: 
 audioTitle: 

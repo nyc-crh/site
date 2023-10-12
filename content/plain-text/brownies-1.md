@@ -14,32 +14,34 @@ The Brownies' Book. *Published monthly and copyrighted by DuBois and Dill. Publi
 Vol. 1, January, 1920. No. 1
 
 ## Contents
-|---|Page|
-|Cover Picture, Photograph. By *Battey*|    | 
-|Frontispiece-The Empress Zaouditou|    2|
-|Pmpkin Land, A story. *Peggy Poe*, Illustrated by *Hilda Wilkinson*|    3| 
-|The Wishing Game. A poem. *Annette Browne*|    7| 
+
+|Title|Page|
+|---|---|
+|Cover Picture, Photograph. By *Battey*|    |
+|Frontispiece-The Empress Zaouditou|2   |
+|Pumpkin Land, A story. *Peggy Poe*, Illustrated by *Hilda Wilkinson*|3 |
+|The Wishing Game. A poem. *Annette Browne*|7   |
 |The Origin of White Folks. A poem. *Annie Virginia Culbertson| 7|
 |A Boy Scout Troop of Philadelphia. A picture|  8|
 |Over the Ocean Wave. A Geography Story. Illustrated|   9|
-|Whole Duty of Children. A Poem. Reprinted from *Robert Louis Stevenson.*|  10| 
-|Some Little Friends of Ours. Nine Pictures|    11| 
+|Whole Duty of Children. A Poem. Reprinted from *Robert Louis Stevenson.*|  10|
+|Some Little Friends of Ours. Nine Pictures|    11|
 |The Judge| 12|
-|Waiting for Howard-Fisk Football Game. A picture.| 14| 
-|The Jury|   15| 
+|Waiting for Howard-Fisk Football Game. A picture.| 14|
+|The Jury|   15|
 |Celebrating Baby Week at Tuskegee. A picture.| 16-17|
 |The Ouija Board. A story. *Edna May Harold*.*| 18|
-|Playtime. "Hark, Hark, The Dogs Do Bark," A Nursery Rhyme Dance by *Carriebel B. Cole,* with music by *Farwell*|   20| 
-|Girls' School in Abyssinia; Y.W.C.A. Girls in New York City Pictures|  22| 
-|As the Crow Flies| 23| 
+|Playtime. "Hark, Hark, The Dogs Do Bark," A Nursery Rhyme Dance by *Carriebel B. Cole,* with music by *Farwell*|   20|
+|Girls' School in Abyssinia; Y.W.C.A. Girls in New York City Pictures|  22|
+|As the Crow Flies| 23|
 |The Grown-Ups' Corner| 25|
-|Children In The Silent Protest Parade in New York City|    26|
+|Children In The Silent Protest Parade in New York City|26  |
 |Katy Ferguson. A True Story|   27| 
 |Little People of the Month| 28|
-|After School. A Poem. *Jessie Fauset*. Drawings by *Laura Wheeler*|    30| 
-|Gyp. A Fairy Story. *A.T. Kilpatrick*| 31| 
-|The Boy's Answer. *A.U. Craig*|    31| 
-|Poems. Illustrated. Recruit, *Georgia Douglass Johnson;* The Tale of a Kitten, *James Weldon Johnson*: The Happy Quail, *William T. Wallace*; Singing, from *Robert Louis Stevenson*; Dedication, *Jessie Fauset*| 32| 
+|After School. A Poem. *Jessie Fauset*. Drawings by *Laura Wheeler*|    30|
+|Gyp. A Fairy Story. *A.T. Kilpatrick*| 31|
+|The Boy's Answer. *A.U. Craig*|    31|
+|Poems. Illustrated. Recruit, *Georgia Douglass Johnson;* The Tale of a Kitten, *James Weldon Johnson*: The Happy Quail, *William T. Wallace*; Singing, from *Robert Louis Stevenson*; Dedication, *Jessie Fauset*| 32|
 
 15 cents a copy. $1 and a half a year. Foreign subscriptions, 25 cents extra.
 

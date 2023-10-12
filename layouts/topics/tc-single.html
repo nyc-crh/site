@@ -6,7 +6,7 @@
     {{with $galleryPage}}
     <div class="mb-5">
         <div class="row justify-content-center pt-3">
-              <h1>{{ .Params.title| page.RenderString | safeHTML }}</h1></div>
+              <h1>{{ .Params.title | page.RenderString | safeHTML }}</h1></div>
               {{ partial "content" . }}
               {{end}}
               <div class="col mx-auto d-flex justify-content-between py-5 d-print-none">

@@ -1,13 +1,13 @@
 <title>{{ .Title }}</title>
 <p><strong>Caption:</strong> {{ .Params.caption | page.RenderString | safeHTML }}</p>
-{{ with .Params.imageFeatured }}
+{{ with .Params.imageFeatured }}<div class="d-none d-print-block">
      {{ $image := resources.Get (printf "/images/%s" . )}}
-     <img src="{{ ($image).RelPermalink }}" class="d-none" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 0%;"/>
-{{end}}
+    <img src="{{ ($image).RelPermalink }}" class="d-none d-print-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 0%;"/>
+</div>{{end}}
 {{ if .Params.text }}
 <a href="/plain-text/{{.Params.text}}" >Read plain text of document</a>{{ end }}
 {{ if .Params.detailedDescription }}<p><strong>Detailed image description:</strong> {{ .Params.detailedDescription | page.RenderString | safeHTML}}</p>{{ end }}</div>
-<div class = "d-flex justify-content-center">
+<div class = "d-flex justify-content-center d-print-none">
     {{$video:=.Params.video}}
     {{with or .Params.video .Params.embed}}
       {{with $video}}
@@ -27,20 +27,20 @@
      {{else}}
      {{ with .Params.imageFeatured }}
      {{ $image := resources.Get (printf "/images/%s" .)}}
-         <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+         <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto d-print-none" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
      {{end}}
      {{end}}
     </div>
-    <div class="col-lg-6 mx-auto justify-content-center py-5 justify-content-center py-5 d-print-block"><p> {{ .Content | page.RenderString | safeHTML }}</p></div>
+    <div class="col-lg-6 mx-auto d-print-block float-left"><p> {{ .Content | page.RenderString | safeHTML }}</p></div>
 <div class="col mx-auto justify-content-center">
         {{ if .Params.categories }}
-        <p class="px-3"><strong>Categories: </strong>{{ with .GetTerms "categories" }}
+        <p class="px-3 d-print-none"><strong>Categories: </strong>{{ with .GetTerms "categories" }}
             {{ range . }}
             <a class="category-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
             {{ end }}
             {{ end }}</p>{{ end }}
         {{ if .Params.tags }}
-        <p class="px-3"><strong>Tags: </strong>{{ with .GetTerms "tags" }}
+        <p class="px-3 d-print-none"><strong>Tags: </strong>{{ with .GetTerms "tags" }}
             {{ range . }}
             <a class="tag-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
             {{ end }}

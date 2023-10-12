@@ -167,9 +167,12 @@ section {
 blockquote {
     color: #525252;
     border-left-color: #3F51B5;
+    border-left-width: 1px;
+    border-left: solid;
     padding: 0 20px;
     p {
-        font-size: 1.25em;
+        font-size: 1.35em;
+        font-weight: 400;
         color:#000
      }
 }
