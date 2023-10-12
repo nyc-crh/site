@@ -18,7 +18,7 @@ audioTitle:
 video: 
 videoTitle: 
 eventname: >
- Queens parents criticize assignment of Black students to classes for the “mentally retarded\”
+ Queens parents criticize assignment of Black students to classes for the “mentally retarded”
 caption: Black parents in South Jamaica, Queens criticized the assignment of Black children to CRMD classes. 
 archive_source: >
  *New York Amsterdam News*
