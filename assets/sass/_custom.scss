@@ -605,7 +605,15 @@ img { max-width: 100%; }
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
     background-color: white;
     color: #993333;
+    font-size: 1.2rem;
+}
+a.nav-item.nav-link{
+    font-size: 1.2rem;
+}
+.nav-link:hover, .nav-link:focus {
+    text-decoration: underline;
 }
 details[open] summary {
   display: none;
 }
+@charset "UTF-8";

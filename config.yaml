@@ -127,3 +127,6 @@ taxonomies:
   tag: tags
 
 timeout: 60000
+
+theme:
+  - hugo-shortcode-roneo-collection

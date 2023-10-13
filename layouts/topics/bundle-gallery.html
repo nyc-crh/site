@@ -1,13 +1,41 @@
 {{ define "main" }}
 <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
-            <div class="mx-auto justify-content-center"><h2>You are here:</h2>
-                <p>{{ partial "breadcrumbs" . }}</p></div>
-                <title>{{ .Params.title }}</title>
-            <h1>{{ .Page.Params.title | page.RenderString | safeHTML }}</h1>
+    <title>{{ .Params.title }}</title>
+                <h1>{{ .Page.Params.title }}</h1>
                  <p>{{ .Content | page.RenderString | safeHTML }}</p></details>
+            {{with .Params.cards}}            
+            <section>
+                <div class="container-fluid">
+                    <div class="gy-3 row">
+                        {{ range $index,$card:= . }}
+                        <div class="col-md-4">
+                            <div class="h-100 card mb-3">
+                                {{$alt:= .alt}}  
+                                {{with .img}}
+                                {{ $image := resources.Get (printf "images/%s" .)}}
+                                {{ with $image }}
+                                <img src="{{ ($image.Fill "400x300 top").RelPermalink }}" class="card-img-top img-fluid" alt="{{$alt}}" />
+                                {{ end }}
+                                {{end}}
+                                <div class="card-body">
+                                    <h2 class="card-title">{{ .title | page.RenderString | safeHTML }}</h2>
+                                    <p class="card-text">{{ .text | page.RenderString | safeHTML }}</p>
+                                    {{ with .btn }}
+                                    {{ if and .url .text }}
+                                    <a href="{{ .url }}" class="btn btn-primary">{{ .text }}</a>
+                                    {{ end }}
+                                    {{ end }}
+                                </div>
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+            </section>
+            {{end}}
             <section class="timeline">
-                <div class="container-lg" style="text-align: left!important">
-                  {{ range .RegularPagesRecursive.ByDate}} 
+                <div class="container-fluid" style="text-align: left!important">
+                  {{ range .RegularPagesRecursive.ByDate | uniq }} 
                     {{$alt:= .Params.imageFeaturedAlt}}
                     {{$permalink:= .RelPermalink}}
                     {{if .Params.hasContentInGallery}}
@@ -73,7 +101,5 @@
                     {{end}}
                 </div>
             </section>
-            <div class="mx-auto pt-5 justify-content-center"><h2>You are here:</h2>
-                <p>{{ partial "breadcrumbs" . }}</p></div>
-              </div>
+    </div>
 {{ end }}
