@@ -613,7 +613,58 @@ a.nav-item.nav-link{
 .nav-link:hover, .nav-link:focus {
     text-decoration: underline;
 }
+a.px-2.nav-link:hover {
+    text-decoration: none;
+}
 details[open] summary {
   display: none;
 }
 @charset "UTF-8";
+
+ /// footnotes highlight 
+@keyframes highlight {
+    0% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
+  .footnotes li,
+  .footnote-ref {
+    position: relative;
+  
+    &::after {
+      position: absolute;
+      z-index: -1;
+      content: '';
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: linear-gradient(
+        -100deg,
+        rgba(#fdb4aa, 0.3),
+        rgba(#fdb4aa, 0.6) 95%,
+        rgba(#fdb4aa, 0.1)
+      );
+      opacity: 0;
+    }
+  
+    &:target,
+    &:focus {
+      &::after {
+        animation: highlight 2s cubic-bezier(0.3, 0, 1, 0.7);
+      }
+    }
+  }
+  .u-hidden-visually {
+    clip-path: inset(100%);
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute;
+    white-space: nowrap;
+    width: 1px;
+  }
