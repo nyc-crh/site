@@ -37,10 +37,11 @@ If you reference material from this website, we ask that you credit the NYCCRHP 
 ## Accessibility Statement
 
 The New York City Civil Rights History Project is committed to ensuring digital accessibility for people with disabilities. We take the following measures to ensure the accessibility of content we create and present on this website:
-Make sure that design and development decisions consider accessibility.
-Provide accurate text-based alternatives to scanned documents and audio files.
-Create meaningful descriptions for visual content. 
-Test our site for usability by seeking feedback from diverse users and through using freely available software like WebAIM and axe DevTools to test for conformance to the Web Content Accessibility Guidelines (WCAG).
+
+- Make sure that design and development decisions consider accessibility.
+- Provide accurate text-based alternatives to scanned documents and audio files.
+- Create meaningful descriptions for visual content.
+- Test our site for usability by seeking feedback from diverse users and through using freely available software like WebAIM and axe DevTools to test for conformance to the Web Content Accessibility Guidelines (WCAG).
 
 ### Conformance status
 
@@ -48,7 +49,7 @@ The Web Content Accessibility Guidelines (WCAG) defines requirements for designe
 
 ### Technology compatibility
 
-The visual formatting (HTML and CSS) of the New York City Civil Rights History project website uses Bootstrap 5, which is designed to meet WCAG standards and be robust across multiple devices, operating systems, and browsers. You can read the Bootstrap accessibility statement here: https://getbootstrap.com/docs/5.0/getting-started/accessibility/
+The visual formatting (HTML and CSS) of the New York City Civil Rights History project website uses Bootstrap 5, which is designed to meet WCAG standards and be robust across multiple devices, operating systems, and browsers. You can read the Bootstrap accessibility statement here: [https://getbootstrap.com/docs/5.0/getting-started/accessibility/](https://getbootstrap.com/docs/5.0/getting-started/accessibility)
 Browsers older than 3 major versions or mobile operating systems older than 5 years may not display web content correctly or work with assistive technology.
 
 ### Additional accessibility considerations

@@ -26,7 +26,7 @@ As a consequence of the situation alleged to exist in these two schools, it is c
 
 ***
 
-"Neglected child means a child under sixteen years of age ... who is unlawfully kept out of school." If this court adjudicates a child to be neglected, section 83 of the Domestic Relations Court Act provides that the judgment of this court may: 
+"Neglected child means a child under sixteen years of age ... who is unlawfully kept out of school." If this court adjudicates a child to be neglected, section 83 of the Domestic Relations Court Act provides that the judgment of this court may:
 
 "(b) Place the child ... under supervision to remain in its own home or in the custody of a relative or other fit person, subject, however ... to the further orders of the court;
 
@@ -40,7 +40,7 @@ As a consequence of the situation alleged to exist in these two schools, it is c
 
 The two schools to which the children in these cases were assigned are the only junior high schools in the City of New York whose student population is 100% Negro and Puerto Rican. Junior High School No. 136 has 1,560 (98.4%) Negro children and 25 (1.6%) Puerto Rican children. Junior High School No. 139 has 1,629 (98.5%) Negro children and 25 (1.5%) Puerto Rican children.
 
-There are seven additional junior high schools in New York City in which the student population is over 95% Negro and Puerto Rican. In 40 junior high schools, the student population is over 95% white, described by the Board of Education as "other" in the tables submitted by it. 
+There are seven additional junior high schools in New York City in which the student population is over 95% Negro and Puerto Rican. In 40 junior high schools, the student population is over 95% white, described by the Board of Education as "other" in the tables submitted by it.
 
 Also revealing is the information contained in these tables as to "X" schools and "Y" schools. The term "X" school is used to describe a school with a Negro and Puerto Rican population of 85% or more; and the term "Y" school is used to designate a school with a Negro and Puerto Rican population of less than 15%. The tables prepared by the Board of Education for this hearing show that, among the 127 junior high schools in New York City, there are 16 "X" schools and 52 "Y" schools.
 
@@ -52,9 +52,9 @@ As of September 11, 1958, the average percentage of vacancies in the "X" schools
 
 ## Vacancies in "X" [over 85% Negro and Puerto Rican students] and "Y" \[over 85% white students\] schools
 
-|   |  X schools | Y schools
-|---|---    |---
-|--- Number of schools | % \[of faculty positions that are vacant of filled by unlicensed teachers\]| Number of schools | % \[of faculty positions that are vacant of filled by unlicensed teachers\]|
+|   |  X schools| | Y schools | |
+|---|---|---|---|---
+| | Number of schools | % \[of faculty positions that are vacant of filled by unlicensed teachers\]| Number of schools | % \[of faculty positions that are vacant of filled by unlicensed teachers\]|
 |Manhattan  |7  |48.8   |2  |28|
 |Brooklyn   |3  |55.0   |22 |31.6|
 |Queens |2  |33.0   |18 |27.8|
