@@ -17,6 +17,8 @@ audio:
 audioTitle: 
 video: 
 videoTitle: 
+closeRdImg: brian-jones-video-sm.jpg
+closeRdLink: /teaching-resources/close-reading-examples/brian-jones-video/
 eventname: An op-ed in the New York Times captures an example of white, liberal New Yorkers' resistance to desegregation. 
 caption: This *New York Times* editorial was published a few days before the February 3, 1954 boycott. It captures one example of white, liberal New Yorkers' resistance to desegregation. 
 archive_source: New York Times

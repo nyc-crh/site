@@ -3,22 +3,20 @@
    <h2> {{ .Params.title | page.RenderString | safeHTML }}</h2>
   <div class="row pack justify-content-left mx-auto">
     {{ .Content }}
-    {{ range (.Paginate $.RegularPagesRecursive).Pages}}
-    
+    {{ range (.Paginate $.RegularPagesRecursive).Pages }}
     <div class="col-md-4 card m-2">
-      <a href="{{ .Permalink }}" class="index-anchor">
+      <a href="{{ .RelPermalink }}" class="index-anchor">
         <div class="panel panel-default py-3">
           {{$imageFeaturedAlt:= .Params.imageFeaturedAlt}}
           {{ $image := resources.Get (printf "/images/%s" .Params.imageFeatured )}}
                     {{ with $image }}
-                    <img src="{{ ($image.Fill "300x210 top").Permalink }}" class="card-img-top img-fluid" alt="{{with $imageFeaturedAlt}}{{ . }}{{end}}" />
+                    <img src="{{ ($image.Fill "300x210 top").RelPermalink }}" class="card-img-top img-fluid" alt="{{with $imageFeaturedAlt}}{{ . }}{{end}}" />
                     {{ end }}
       
       <div class="panel-body pt-3">
-        <h3 class="panel-title pull-left">{{ .Content | page.RenderString | safeHTML }}</h3>
+        <h3 class="panel-title pull-left">{{ .Params.title | page.RenderString }}</h3>
       </div>
-    </div>
-  </a>
+    </div></a>
   </div>
   {{ end }}
 

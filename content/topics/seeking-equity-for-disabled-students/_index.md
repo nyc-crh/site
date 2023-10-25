@@ -21,7 +21,7 @@ cards:
 - title: The Parents’ Movement for Deinstitutionalization and School Access
   img: first-billboard.jpg
   alt: Parent activists pose in front of a billboard that reads, "Retarded Children Can be Helped! They need Research, Schools, Clinics. Give to the Association for the Help of Retarded Children
-  text: Parents in New York City started organizing for access to public education for their children, and more funding for state institutions.
+  text: Parents in New York City organized for access to public education for their children, and more funding for care.
   btn:
     text: View primary sources
     url: /topics/seeking-equity-for-disabled-students/parents-movement-deinstitutionalization

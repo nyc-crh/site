@@ -31,20 +31,25 @@
      {{end}}
      {{end}}
     </div>
-    <div class="col-lg-6 mx-auto d-print-block float-left"><p> {{ .Content | page.RenderString | safeHTML }}</p></div>
-<div class="col mx-auto justify-content-center">
+    <div class="col-lg-6 mx-auto d-print-block float-left"><p> {{ .Content | page.RenderString | safeHTML }}</p>
+    {{ if .Params.closeRdImg }}<h2 class="py-3">Watch a close reading of this document</h2>
+    {{ with .Params.closeRdImg }} 
+    {{ $closeRdImg := resources.Get (printf "/images/%s" .)}}
+    {{ $closeRdLink := $.Params.closeRdLink }}
+    <a href="{{$closeRdLink}}"><img src="{{ ( $closeRdImg).RelPermalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.closeRdAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/></a>
+     {{end}}{{ else }}{{ end }}
         {{ if .Params.categories }}
-        <p class="px-3 d-print-none"><strong>Categories: </strong>{{ with .GetTerms "categories" }}
+        <p class="pt-5 d-print-none"><strong>Categories: </strong>{{ with .GetTerms "categories" }}
             {{ range . }}
             <a class="category-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
             {{ end }}
             {{ end }}</p>{{ end }}
         {{ if .Params.tags }}
-        <p class="px-3 d-print-none"><strong>Tags: </strong>{{ with .GetTerms "tags" }}
+        <p class="d-print-none"><strong>Tags: </strong>{{ with .GetTerms "tags" }}
             {{ range . }}
             <a class="tag-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
             {{ end }}
-        {{ end }}</p>{{ end }}
+        {{ end }}</p>{{ end }}</div>
 <div class="accordion accordion-flush" id="accordionFlushExample">
     <div class="accordion-item">
         <h2 class="accordion-header" id="flush-headingOne">
@@ -58,9 +63,8 @@
             <div class="accordion-body">
                 <p> <strong>Date:</strong> {{ if .Params.Displaydate }}{{ .Params.Displaydate }}
                     {{ else }}{{ .Params.Date.Format "Jan 2, 2006"}}{{ end }}
-                <p> <strong>Creator:</strong> {{ .Params.archive_source | page.RenderString | safeHTML}}</p>
-                <p> <strong>Source:</strong> {{ .Params.archive_source | page.RenderString | safeHTML}}</p>
-                {{ if .Params.Displaydate }}<p> <strong>Source link:</strong> {{ .Params.source_link | page.RenderString | safeHTML}}</p>{{ end }}
+                    {{ if .Params.author }} <p> <strong>Creator:</strong> {{ .Params.author | page.RenderString | safeHTML}}</p>{{ end }}
+                <p> <strong>Source:</strong> {{ if .Params.source_link }}<a href="{{ .Params.source_link }}">{{ .Params.archive_source | page.RenderString | safeHTML}}</a>{{ else }} {{ .Params.archive_source | page.RenderString | safeHTML}}{{ end }}</p>
                 <p> <strong>Copyright:</strong> {{ .Params.copyright | page.RenderString | safeHTML}}</p>
                 <p> <strong>How to cite:</strong> {{ .Params.citation | page.RenderString | safeHTML}}</p>
             </div>
@@ -95,4 +99,4 @@
         </div>
     </div>
 </div>
-</div>
+

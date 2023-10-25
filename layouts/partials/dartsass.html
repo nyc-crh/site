@@ -8,3 +8,4 @@
 {{ $scssMain := resources.Get . | resources.ToCSS $optsToCSS }}
 {{ $css := $scssMain | resources.ToCSS (dict "targetPath" "assets/css/main.css") }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+<link rel="stylesheet" media="print" href="print.css" />

@@ -16,6 +16,12 @@ The New York City Civil RIghts History Project received initial funding from the
 
 !["National Archives National Historical Publications & Records Commission; Digital Futures Institute, Center for Educators & Schools Teachers College, Columbia University, The New York Public Library; Humanities New York"](images/supporter-logos.jpg)
 
+!["National Endowment for the Humanities"](images/neh-logo.jpg)
+
+This project has been made possible in part by a major grant from the National Endowment for the Humanities. Any views, findings, conclusions, or recommendations expressed in this institute do not necessarily represent those of the National Endowment for the Humanities. Democracy demands wisdom.
+
+## Feedback
+
 History is always a work in progress. Interpretations of the past change as we learn more through finding new sources, and from applying new ideas and questions to the sources we have. The New York City Civil Rights Project is a work in progress in this sense and in others. There is so much yet to learn about how students of color and disabled students experienced education in New York City, and how they and those who loved them fought for justice. And there is much left to learn about how best to teach these histories.Thank you for keeping this in mind as you explore our work. We look forward to your comments, questions, and ideas. Please feel free to contact us at [feedback@nyccivilrightshistory.org](mailto:feedback@nyccivilrightshistory.org)
 
 ## Copyright
@@ -34,14 +40,16 @@ All other original content is licensed under a Creative Commons by-nc 4.0 licens
 
 If you reference material from this website, we ask that you credit the NYCCRHP and include a url to the page being referenced and date of access. For primary sources, see the  “how to cite” information under the “item details” section for each object. For reference to any other section, please cite as: “Page Title,” in New York City Civil Rights History Project, Accessed [Month Day, Year], URL.
 
-## Accessibility Statement
+## Accessibility
 
 The New York City Civil Rights History Project is committed to ensuring digital accessibility for people with disabilities. We take the following measures to ensure the accessibility of content we create and present on this website:
 
-- Make sure that design and development decisions consider accessibility.
-- Provide accurate text-based alternatives to scanned documents and audio files.
+- Consider accessibility in all design and development decisions.
+- Provide accurate text-based alternatives to scanned documents and audiovisual files.
 - Create meaningful descriptions for visual content.
 - Test our site for usability by seeking feedback from diverse users and through using freely available software like WebAIM and axe DevTools to test for conformance to the Web Content Accessibility Guidelines (WCAG).
+
+Please let us know if you encounter accessibility barriers when trying to use the site or if you have ideas for how to make the content more accessible: [feedback@nyccivilrightshistory.org](mailto:feedback@nyccivilrightshistory.org)
 
 ### Conformance status
 
@@ -55,7 +63,3 @@ Browsers older than 3 major versions or mobile operating systems older than 5 ye
 ### Additional accessibility considerations
 
 Some videos have sign language interpretation.
-
-### Feedback
-
-We welcome your feedback on the accessibility of the New York City Civil Rights History project website. Please let us know if you encounter accessibility barriers when trying to use the site or if you have ideas for how to make the content more accessible: [feedback@nyccivilrightshistory.org](mailto:feedback@nyccivilrightshistory.org)
