@@ -1,6 +1,6 @@
---- 
-title: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY
+---
+title: *Jose P. vs. Ambach,* excerpt
 layout: "tc-single"
 hasContentInGallery: true
-date: 1971-07-01
---- 
+date: 1979-02-01
+---
