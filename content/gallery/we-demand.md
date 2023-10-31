@@ -17,7 +17,9 @@ mapembed:
 audio: 
 audioTitle: 
 video: 
-videoTitle: 
+videoTitle:
+closeRdImg: nelson-luna-video-sm.jpg
+closeRdLink: /teaching-resources/close-reading-examples/nelson-luna-video/
 eventname: City College student protesters outline the changes they want to see in their university. 
 caption: In this flier, student protesters at City College listed the changes they wanted to see in their university, and why. 
 archive_source: CUNY Digital History Archive

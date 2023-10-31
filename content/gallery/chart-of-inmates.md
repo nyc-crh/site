@@ -9,7 +9,7 @@ citation: >
  "Chart of Inmates in the State Institutions" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/chart-of-inmates.
 imageFeatured: chart-of-inmates.jpg
 imageFeaturedAlt: Pie chart showing the percent of classes of "inmates" at state institutions 
-detailedDescription: <a href="/plain-text/chart-of-inmates">Chart of Inmates Description</a>
+detailedDescr: chart-of-inmates
 embed: 
 embedTitle: 
 text: 

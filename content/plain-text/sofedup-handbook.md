@@ -4,43 +4,11 @@ layout: plain-text
 draft: false
 ---
 
-S.O. F.E.D. U.P.
-ti
-Lx-N.
-C\J
-Student Organization For Every Disability United for Progress
-CD
-C:2)
-HANDBOOK FOR
-THE DISABLED
-STUDENTS OF
-BROOKLYN
-COLLEGE
-C.U.N.Y.
-WRITTEN BY FREDERICK L. FRANCIS
-Frederick Francis
-Brooklyn College
-founded S.O. F.E.
-tending New York
-an R.S.A. trainee.
-About The Author
-is an above knee bilateral amputee who graduated from
-in June of 1971. Along with Arthur Wein, Mr. Francis
-D. U.P. and was elected the first President. He is now at-
-University's graduate program in Rehabilitation Counsel rig as
-U.S. DEPARTMENT OF HEALTH,
-EDUCATION & WELFARE
-OFFICE OF EDUCATION
-THIS DOCUMENT HAS BEEN REPRODUCED
-EXACTLY AS RECEIVED FROM
-THE PERSON OR ORGANIZATION ORIGINATING
-IT POINTS OF VIEW OR OPIN.
-IONS STATED DO NOT NECESSARILY
-REPRESENT OFFICIAL OFFICE OF EDUCATION
-POSITION OR POLICY
-PREFACE
-The essence of this short discourse is the theme of our entire program at
-Brooklyn College: It is the necessity for all to form a coalition of disabled and
+**Cover image:** An illustration of a man sitting in a wheelchair facing forward with arms outstretched to the side. His hands push apart the words, “handi” and “capped.”
+
+Written by Frederick L. Francis
+
+Frederick Francis is an above knee bilateral amputee who graduated from Brooklyn College in June of 1971. Along with Arthur Wein, Mr. Francis founded S.O. F.E.D. U.P. and was elected the first President. He is now attending New York
 non-disabled individuals, in a united effort for activism, in order to secure the
 inalienable rights that are essential for the disabled to function as independently
 as possible.

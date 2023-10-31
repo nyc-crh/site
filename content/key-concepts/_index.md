@@ -18,6 +18,8 @@ Throughout this site, we use terms such as “disability” and “race” inclu
 
  <details class="mb-3"><summary class="pb-3"><h2>1. Black and Latina women (and those in solidarity with them) have led many struggles for educational justice in New York City. They have done so through a range of strategies and toward a range of goals and visions for education, from survival and citizenship to freedom and liberation."</h2></summary>
 
+## 1. Black and Latina women (and those in solidarity with them) have led many struggles for educational justice in New York City. They have done so through a range of strategies and toward a range of goals and visions for education, from survival and citizenship to freedom and liberation.
+
 Black people in the US always pursued education. They did so even when it was dangerous or illegal, because of laws prohibiting education for Black people, or because of threats of white violence. Both during and after slavery, Black adults met in churches, inside homes, or in other hidden spaces, to teach each other and their children.[^1] They built schools when governments refused to. Black people, including those living in poverty, committed their time, labor, and resources to education. They did so out of the belief that learning was a route to freedom, citizenship, and living their full humanity, even when the nation and its white majority tried to deny them all of these things.[^2]
 
 Black and Latina women New Yorkers made themselves part of this long tradition of struggle to secure education. For example, Black women founded schools for Black children in Brooklyn throughout the 1800s.[^3] They challenged legal segregation in New York State in the 1890s.[^4] They lobbied and organized to get access to education for disabled people in the 1960s and 70s.[^5] Black women worked as mothers, teachers, and community advocates for a better education for their children. As New York’s Puerto Rican community grew over the 20th century, Latinas worked in solidarity with Black women, while leading their own educational justice struggles as well.[^6]
@@ -55,6 +57,8 @@ While we recognize that Black men and Latinos - as attorneys, ministers, educato
 
   <details class="mb-3"><summary class="pb-3"><h2>2. Disabled people and their parents (and those in solidarity with them) have led many struggles for educational justice in New York City. They have done so through a range of strategies and toward a range of goals and visions for education, including survival, citizenship, inclusion, and self-determination.</h2></summary>
 
+## 2. Disabled people and their parents (and those in solidarity with them) have led many struggles for educational justice in New York City. They have done so through a range of strategies and toward a range of goals and visions for education, including survival, citizenship, inclusion, and self-determination.
+
 Disabled students, parents, and advocates always fought for access to education. They did so long before the educational rights of disabled children were recognized by law. Their efforts included parents creating their own schools, developing organizations, protesting inhumane treatment in state institutions, fighting for public school programs to serve their children’s needs, and bringing court cases.[^11] Disabled students also organized campaigns for access to buildings, communication, and information they needed to learn.[^12] They made spaces for their own learning, joy, and connection, as well.[^13]
 
 Some of the first schools in NYC for students with disabilities were those for the Deaf (1817) or blind (1832). These opened when public schooling for white non-disabled students was expanding rapidly across the city. These schools were funded mainly through philanthropy and tuition paid by families. Educators developed specific techniques helpful in educating both Deaf and blind students. But other teaching techniques harmed disabled students, such as pushing for a certain raised point type (which was more difficult for blind students to read than braille), and forcing oralism onto Deaf students—a method that rejected sign language in favor of learning language only through lip-reading and verbal speech. The first school for "idiots," a term that at the time likely included people with a variety of disabilities, was founded in 1866. It was located on Randall's Island, and was funded through a mix of state funding and private tuition.[^14]
@@ -88,6 +92,8 @@ Disabled people and their advocates have secured important access to and support
 </details>
 
   <details class="mb-3"><summary class="pb-3"><h2>3. Disability and race are both social categories. They have developed in connection with each other over time. People in power have shaped these categories to serve their own interests.</h2></summary>
+
+## 3. Disability and race are both social categories. They have developed in connection with each other over time. People in power have shaped these categories to serve their own interests.
 
 Race is a social category. It has no basis in biology. Racial categories, like “white,” “Black,” or “Asian,” are malleable, meaning that have changed over time, and people in different societies have defined them differently. People in our society have decided what racial categories are, who fits within them, and who sits above or below in a racial hierarchy. People with economic, political, and social power have shaped racial categories to suit their own interests, including their desire to exercise control over other people's labor, land, resources, or citizenship. In the United States, white supremacy and anti-blackness, operating in the contexts of settler colonialism, slavery, and capitalism, have been central to the making of racial categories.[^20]
 
@@ -131,6 +137,8 @@ Finally, it is crucial to remember that all people simultaneously occupy multipl
 
   <details class="mb-3"><summary class="pb-3"><h2>4. Racism and ableism have worked together to produce segregated schools in New York City.</h2></summary>
 
+## 4. Racism and ableism have worked together to produce segregated schools in New York City.
+
 Who goes to school where in NYC? This important question has been answered in a variety of ways over time. One continuous pattern, though, is that racism and ableism have shaped who has access to schools, where they are educated, and what type of schooling they receive. New York built more and more public schools throughout the 1800s, yet disabled students remained largely excluded from public schooling. Furthermore, Black students were assigned only to segregated Black schools with fewer resources than segregated white schools. Although New York State ended legal segregation in its schools by race in 1900, a variety of policies continued to racially segregate students and wholly exclude most disabled students from schooling.[^31]
 
 Historically, racism and ableism have worked together in harmful ways toward students of color, and especially Black and Latinx disabled students. In the present, policies and practices allow educators to use disability to segregate schools (or classrooms, or programs within schools) by race. For example, Black and Latinx students frequently receive disability labels and are assigned to “special education” classes while more White and Asian students are placed in honors classes, and given the label of “gifted and talented.” Students with similar needs and behaviors have often been classified differently depending upon their race - with more white students being identified with autism while Black students receive “behavior disorder” labels, for example.[^32]
@@ -165,6 +173,8 @@ Even when experiencing oppression in schools—as when Deaf students were prohib
 
   <details class="mb-3"><summary class="pb-3"><h2>6. Segregation contributes to educational inequality in New York City.</h2></summary>
 
+## 6. Segregation contributes to educational inequality in New York City.
+
 Segregation means setting one group or category of people physically apart from others. Segregation can happen across large or small spaces. Segregation on a large scale, for example, includes a housing development occupied only by Black or white people, or a section of town occupied only by Latinx people. Segregation on a small scale, for example, can be when disabled students are in one classroom and non-disabled students are in another within the same school.
 
 Segregation is one way that people in powerful positions have used their power for their own interests. Throughout NYC’s history, white, wealthier, and nondisabled people have created and maintained segregation to concentrate resources and opportunity in the hands of white, wealthier, and nondisabled students while denying them to students of color, disabled students, and poor students.[^37] This inequality takes a wide range of forms, including access to classroom materials, safe and secure school buildings, and enrichment opportunities by highly skilled teachers. This inequality is often most severe for people who experience segregation by both race and disability.[^38]
@@ -188,6 +198,8 @@ Despite these challenges linked to segregation, some Black and Latinx communitie
 </details>
 
   <details class="mb-3"><summary class="pb-3"><h2>7. Segregation and inequality are not natural phenomena. They are the result of human actions and choices.</h2></summary>
+
+## 7. Segregation and inequality are not natural phenomena. They are the result of human actions and choices.
 
 School segregation by race and ability in New York City results from a wide range of policy decisions including, but not limited to, school zoning, construction, architecture, admissions, disability labeling, testing, transportation, and curriculum content.[^42] Legacies of historic racism, including housing segregation and wealth inequality, shape present-day segregation as well.[^43]
 
@@ -215,7 +227,9 @@ Thousands of large and small decisions by educators, teachers, judges, and other
 
 [^47]: Francine Almash, “New York City ‘600’ Schools and the Legacy of Segregation in Special Education,” The Gotham Center for New York City History, June 21, 2022, [https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education); Keith A. Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023).
 
-  <details class="mb-3"><summary class="pb-3"><h2>8. New York City never desegregated its schools</h2></summary>
+  <details class="mb-3"><summary class="pb-3"><h2>8. New York City never desegregated its schools.</h2></summary>
+
+## 8. New York City never desegregated its schools.
 
 Black New Yorkers protested the segregation of their schools throughout the 19th and 20th centuries. In the 1954 *Brown v. Board of Education* decision, the Supreme Court ruled that school segregation by race violated the US Constitution.[^48] The New York City Board of Education talked a lot about racial desegregation in the 1950s and 1960s but made few actual changes, even after major activism by Black and Puerto Rican New Yorkers and those working in solidarity with them.[^49]
 
@@ -239,6 +253,8 @@ Since 1970, New York has operated District 75, a separate school district only f
 
   <details class="mb-3"><summary class="pb-3"><h2>9. Historically marginalized communities seek self-determination in education, and have created their own schools, spaces, and institutions to achieve this goal.</h2></summary>
 
+## 9. Historically marginalized communities seek self-determination in education, and have created their own schools, spaces, and institutions to achieve this goal.
+
 Imagine an all-Black youth club, or a school for Deaf children led by Deaf educators. Are these examples of segregated institutions?
 
 Students of color and disabled students and their advocates were often denied the opportunity to exercise power or control in white-dominated schools and those built for non-disabled students. One way they have responded was to create their own schools or other places for learning that reflected their self-determination, that is, their ability to shape and guide themselves and their own institutions. These spaces reflected a desire for being together, giving support, and taking strength from one another, because of, or in spite of, racism and ableism in the broader society.[^54]
@@ -250,6 +266,8 @@ Because these institutions are created within historically marginalized communit
 </details>
 
   <details class="mb-3"><summary class="pb-3"><h2>10. Racism and segregation in education are national - not only southern - realities.</h2></summary>
+
+## 10. Racism and segregation in education are national - not only southern - realities.
 
 While many accounts of Jim Crow segregation focus on the South, segregation was, and is, a northern reality too. It has been convenient for white New Yorkers to focus on racism elsewhere, and to think of themselves as innocent or free of connection to histories of slavery, segregation, and racism. But that is not what historical evidence shows.[^55]
 
@@ -272,6 +290,8 @@ The history of institutional and structural racism in housing, employment, wealt
 </details>
 
   <details class="mb-3"><summary class="pb-3"><h2>11. How New Yorkers talk about schools, especially white and liberal and nondisabled New Yorkers, has justified and obscured rather than challenged segregation.</h2></summary>
+
+## 11. How New Yorkers talk about schools, especially white and liberal and nondisabled New Yorkers, has justified and obscured rather than challenged segregation.
 
 Language can be a way of preserving segregation and resisting desegregation. Many policy choices have created segregation in housing and schooling in New York. But talk about what the “good” schools are, who the “good” kids are, or how families in “better” neighborhoods deserve “better” schools, are subtle ways to speak about racial segregation as if it just happens naturally, instead of looking at policy choices that support segregation. Many people who say they support desegregation or oppose racism still speak and think these ways.[^59]
 
@@ -299,9 +319,13 @@ Why is segregation by disability category seemingly acceptable policy in NYC tod
 
   <details class="mb-3"><summary class="pb-3"><h2>12. Histories of racism, ableism, and activism are relevant to all students.</h2></summary>
 
+## 12. Histories of racism, ableism, and activism are relevant to all students.
+
 Students of all backgrounds and abilities are growing up in a city and a school system shaped by racism and ableism from the past unto the present. Students can better understand their city and their schools if they understand that race and disability are social categories and know how people in their city have constructed educational inequality. The history of ongoing, varied activism for justice in education can illustrate for students the ways that New Yorkers sought to make change in their city and their world. These histories can help all New York City students know that, as one of the NYCCRHP team members Judy DeRosier put it, “they are worthy, and people fought for them.”</details>
 
   <details class="mb-3"><summary class="pb-3"><h2>13. Injustice and inequality in education continue to this day.</h2></summary>
+
+## 13. Injustice and inequality in education continue to this day.
 
 New York’s students have a right to a “sound, basic education” guaranteed them by the state constitution.[^64] (Although the US constitution prohibits discrimination in education based on race or ability, it does not provide a right to education. It leaves that to the states). Despite the fact that each student has a recognized right to education free from discrimination based on race or gender, the reality of schooling in NYC is far from equal. Disabled students and students of color are more likely to attend schools with lower levels of academic achievement and safety, and fewer academic opportunities, than white students and non-disabled students. [^65]
 
@@ -320,6 +344,8 @@ These continuing inequalities make it clear that even if the law recognizes stud
 </details>
 
   <details class="mb-3"><summary class="pb-3"><h2>14. Activism for educational justice for and by students of color and disabled students is underway today. It is as important in the present as it has been in the past.</h2></summary>
+
+## 14. Activism for educational justice for and by students of color and disabled students is underway today. It is as important in the present as it has been in the past.
 
 Disabled students, students of color, and their advocates have secured access to public education, but New York City students today do not experience educational justice. Multiple forms of segregation continue to exist, requiring ongoing scrutiny and activism. Parents and students advocate for themselves daily. Groups like [IntegrateNYC](https://integratenyc.org/) and [Teens Take Charge](https://www.teenstakecharge.com/), led by students, and [NYC Alliance for School Integration and Desegregation](https://www.nycasid.com/), led by parents, are still fighting for a more just education system and against racial segregation. Parents work together in local organizations like the [New Settlement Parent Action Committee](https://newsettlement.org/pac/) and in city- and state-wide organizations like the [Alliance for Quality Education](https://www.aqeny.org/). Youth organizations like the [Urban Youth Collaborative](https://www.urbanyouthcollaborative.org/) fight against policing and discipline practices that target students of color and disabled students.
 

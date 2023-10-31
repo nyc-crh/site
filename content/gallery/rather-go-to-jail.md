@@ -17,6 +17,8 @@ audio:
 audioTitle: 
 video: 
 videoTitle: 
+closeRdImg: kaliris-salas-ramirez-video-sm.jpg
+closeRdLink: /teaching-resources/close-reading-examples/kaliris-salas-ramirez-video/
 eventname: >
  Mae Mallory, Viola Waddy and other members of the "Harlem Nine" boycott Harlem schools. 
 caption: >

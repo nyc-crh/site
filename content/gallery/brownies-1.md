@@ -17,7 +17,9 @@ mapembed:
 audio: 
 audioTitle: 
 video: 
-videoTitle: 
+videoTitle:
+closeRdImg: kadiatou-tubman-video-sm.jpg
+closeRdLink: /teaching-resources/close-reading-examples/kadiatou-tubman-video/
 eventname: W.E.B. DuBois and the NAACP launch the children’s magazine *The Brownies’ Book*.
 caption: The NAACP published *The Brownies’ Book* magazine to teach Black children the history, achievements, and beauty of Black people in the United States. These are pages from the first issue, published in January 1920. 
 archive_source: Library of Congress

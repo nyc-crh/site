@@ -8,8 +8,8 @@ author: Frederick L. Francis
 citation: >
  "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/sofedup-handbook."
 imageFeatured: sofedup-handbook.jpg
-imageFeaturedAlt: >
- The cover of the handbook features an illustration of a man sitting in a wheelchair facing forward with arms outstretched to the side. His hands push apart the words, “handi” and “capped.”
+imageFeaturedAlt: Student handbook cover
+detailedDescription: sofedup-handbook-descr
 embed: sofedup-handbook.pdf
 embedTitle: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY
 text: sofedup-handbook
@@ -18,17 +18,18 @@ audio:
 audioTitle: 
 video: 
 videoTitle: 
+closeRdImg: cj-conglio-video-sm.jpg
+closeRdLink: /teaching-resources/close-reading-examples/cj-conglio-video/
 eventname: S.O.F.E.D.U.P. organizes at Brooklyn College for accessible education for disabled students.
 caption: >
  S.O.F.E.D.U.P., “Students Organized For Every Disability United for Progress,” was founded at Brooklyn College to promote activism by and for disabled students to eliminate architectural and bureaucratic barriers and increase educational access.. Their handbook described their goals and vision.
 archive_source: Education Resources Information Center (ERIC)
 source_link: https://eric.ed.gov/?id=ED072576
 copyright: Under copyright.
-categories:	
+categories: 
 - student activism
-- higher education
-- Brooklyn
-tags:	
+- higher education- Brooklyn
+tags: 
 - physical disabilities
 - self-advocacy
 - architectural barriers
@@ -37,7 +38,7 @@ tags:
 - ableist segregation
 - employment
 - curriculum
-- photography & imagery
+- photography, imagery, & visual representation
 - student writing
 - disability labels
 questions: 

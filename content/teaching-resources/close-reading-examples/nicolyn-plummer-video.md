@@ -10,4 +10,4 @@ video:
 videoTitle: Nicolyn Plummer reads "Deaf Students Protest New School Head"
 --- 
  
-Nicolyn Plummer does a close reading of ["Deaf Students Protest New School Head"](/gallery/protest-lexington-school-for-deaf)
+Nicolyn Plummer does a close reading of ["Deaf Students Protest New School Head"](/gallery/lexington-school-for-deaf)

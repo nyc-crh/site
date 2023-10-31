@@ -17,4 +17,4 @@ videoAslTitle: >
  Kadiatou Tubman reads *"The Brownies’ Book*, January 1920, excerpts" (ASL)
 --- 
  
-Kadiatou Tubman does a close reading of [*"The Brownies’ Book*, January 1920, excerpts"](/gallery/brownies1) 
+Kadiatou Tubman does a close reading of [*"The Brownies’ Book*, January 1920, excerpts"](/gallery/brownies-1) 
