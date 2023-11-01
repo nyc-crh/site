@@ -58,7 +58,7 @@ This collection explores Black and Latina women’s education advocacy in New Yo
   
 Histories of the civil rights movement tend to emphasize charismatic male leadership, like that of Dr. Martin Luther King, Jr., and pay much less attention to Black and Latina women. [^1]
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
   
 They also tend to focus on activism against racism and racial segregation more than struggles against ableism and for disability rights. And when they do document disability rights struggles, they tend to focus on white activists and white disabled people rather than Black or Latinx disabled people and activists. Accounts of this history almost always neglect the ways that racism and ableism have been connected over time, and how some activists fought against both together.[^2]

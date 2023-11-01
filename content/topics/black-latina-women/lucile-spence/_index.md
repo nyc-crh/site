@@ -6,7 +6,7 @@ draft: false
 
 In the 1910s, '20s, and '30s, New York’s Black population grew dramatically. Black southerners arrived as part of the Great Migration, fleeing violence, poverty, and political oppression in the Jim Crow South. Black migrants from the Caribbean arrived in substantial numbers as well. There were more and more Black children in New York City’s schools. But there were very few Black teachers.[^1]
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 New York City put many barriers in place to prevent Black teachers from getting jobs. Black teachers had less access to the college training needed to become a teacher. Those who already had the degrees and other qualifications faced a racist and ableist examination structure, one which disqualified teachers for their speech - if they had southern or non-native accents when speaking English - or their bodies, if they were judged overweight or otherwise disabled, in the eyes of the examiners.[^2]

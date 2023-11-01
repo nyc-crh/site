@@ -49,7 +49,7 @@ cards:
 ---
 New York City has always provided education in exclusive and segregating ways, from the colonial period onward. For disabled children, exclusion and segregation have been common experiences. Sometimes education officials said this was justified by the need for specialized instruction. Other times, they made claims about some students not being fit for certain types of learning. Children with physical disabilities faced architectural barriers that made access to classrooms difficult or impossible.
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 A wide variety of human differences that have been stigmatized throughout history are now gathered under the term “disabled.” Thus disability is extremely diverse as a social category. Both the category of disability and the exclusion of disabled children have been linked to race, citizenship, language, class, gender, and sexuality. A hierarchy among types of disability was also visible in the geography of the nineteenth century city: charitable schools for the blind and deaf were located in Manhattan, but a school for intellectually disabled people sat on Randall’s Island in the East River, among hospitals, asylums, prisons, and orphanages housing society’s “undesirables.”

@@ -6,7 +6,7 @@ draft: false
 
 Audre Lorde described herself as “a black feminist lesbian mother poet.”[^1] She was born in Harlem in 1924. Her parents were immigrants from Granada. Lorde was legally blind as a child and reported that she didn’t speak until she was 5. Some of her writing describes her experiences with education for children with vision disabilities in New York City.[^2]
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 As an adult, Lorde made a life for herself as a writer, activist, and educator. She was a professor in the City University of New York system. She designed her classroom to help her students grow personally, politically, and culturally.[^3] She worked in solidarity with student protesters, including students who were part of the movement to make CUNY’s enrollment and curriculum more inclusive of Black and Puerto Rican students.  

@@ -7,7 +7,7 @@ draft: false
 
 One of the most persistent problems for physically disabled students seeking education is the lack of wheelchair accessibility. There are barriers to building entrances and interior spaces like classrooms, bathrooms, libraries, cafeterias, and gyms. In a place like New York City, many buildings and transportation systems are old and were built without wheelchairs or other mobility aids in mind. Schools still operate in those buildings today, and students with disabilities are still denied access to an equal education due to architectural barriers.
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 Even after compulsory school laws came into effect, children with physical disabilities did not go to school because of their disability, and were given home instruction instead. The deadly poliovirus was discovered in Europe in 1908, and by the 1920s, polio outbreaks in the U.S. were a regular occurrence. By the early 1950s, polio disabled 15,000 people a year in the U.S. and hundreds of thousands around the world. [^1]

@@ -6,7 +6,7 @@ draft: false
 
 In 1954, the Supreme Court ruled in *Brown v. Board of Education* that segregated schools were unconstitutional. New York activists like Ella Baker, Mae Mallory, Lucile Spence, and Kenneth Clark had worked tirelessly to desegregate the city’s schools starting in the 1930s. However, city and school officials used a variety of tactics to sustain segregation.
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 In 1959, Reverend Milton Galamison was the pastor at Siloam Presbyterian Church in Brooklyn. Galamison founded the Parents' Workshop for Equality, which announced it would “work for the integration of the schools of New York; for full and equal opportunity for learning for all the children of our city; to end all school discrimination against Negro and Puerto Rican children; and to preserve, improve, and expand our free and democratic public school system.”[^1]

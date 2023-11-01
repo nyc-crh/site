@@ -47,7 +47,7 @@ Do the images in your mind include expressions of joy, moments of beauty, places
 
 These primary sources explore the topic of joyful struggle. First they show joy, play, pride, and beauty in Black and Latinx communities and in disabled people’s communities. Too many historic representations of people of color and disabled people only pay attention to what is difficult, hard, or painful.[^1] But these and other historically marginalized communities have also nurtured joy, love, and beauty in their own ways. Sharing joy could be one way to heal and affirm, to reinforce and build strength and community in the face of harsh or even violent treatment due to racism and ableism.[^2]
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 Secondly, these sources help us think about how joy can be political—that is, how it can be connected to and can even be a method of working to make change. Joy, beauty, and play are important parts of self-expression and self-determination. Black communities celebrated and reinforced their ways of knowing and being through expressions of joy, even when others did not see them as they wanted to be seen.[^3] Disabled communities created spaces for connection and celebration of disability.[^4] Joyful spaces that communities built for themselves countered what was wrong or lacking in other oppressive or exclusionary spaces. They gave disabled people and Black and Latinx people opportunities to imagine new possibilities. And they nourished the strength and community ties that made other political movements possible.

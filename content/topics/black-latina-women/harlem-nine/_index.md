@@ -6,7 +6,7 @@ draft: false
 
 Although the *Brown v. Board of Education* decision said that school segregation was unconstitutional, New York City’s schools remained segregated well after that 1954 decision. The Board of Education convened committees to study integration, and parents organized to demand action, but school officials minimized the problem or said it was beyond their control.
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 In 1957, a group of Harlem parents, including activist and mother of two Mae Mallory, sued the Board of Education. Then they organized a boycott to highlight segregation and inequality in their children’s junior high schools. They wanted to bring an end to overcrowding, unsafe and unclean conditions in school buildings, lack of teaching resources, and unprepared teachers. By boycotting, the parents put themselves and their families in danger. State law required that students attend school, and parents who kept their children out of school could be required to pay a fine or go to prison.

@@ -7,7 +7,7 @@ draft: false
 
 All students need to be able to communicate and be understood in school. Students who are D/deaf or hard-of-hearing or blind or low-vision need information in accessible formats so they can read, understand, and communicate with their teachers and peers. Students who are learning English need  to be able to communicate at school in their native language and receive supports for their disabilities in their native language. Because of a lack of understanding about different types of disability, lack of support for language education, and poor screening of children’s learning needs, language and disability have often intersected in ways that deprive children of the right educational support.
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 For people with sensory disabilities, written and spoken communication needs to be compatible with their specific disabilities (i.e, not being able to see or hear). At times, nondisabled people have advocated on behalf of d/Deaf or blind students, but they didn’t always pay attention to the students’ needs or desires. Sighted people attempted to help blind people learn to read by developing systems of print they could read with their fingers. They often made decisions based on financial considerations or personal interests rather than what worked best for blind people. In the 20th century, blind people pushed for more influence over how they would read. They pushed for federal funding of braille books and talking books. As new technologies - like websites and digital materials develop, they advocate for standards and tools that make information legible to screen readers (which read text aloud).[^1]

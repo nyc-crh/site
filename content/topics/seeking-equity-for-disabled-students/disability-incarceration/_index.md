@@ -7,7 +7,7 @@ draft: false
 
 People who didn’t fit into “normal” society were segregated into institutions on islands around New York City, alongside prisons and juvenile reform centers. In the late 19th century, these institutions became incorporated as nonprofit organizations overseen by the New York State Charities Board. Residents were all called “inmates,” classed together by their disabilities or level of “delinquency,” and usually further segregated by gender.
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 While the people inside these institutions were diverse in every way, their lives were similar in that they had very little self-determination. The people running the facilities had control of residents' lives. Many people with “invisible” disabilities like intellectual or mental health disabilities ended up in prisons and juvenile reform centers.

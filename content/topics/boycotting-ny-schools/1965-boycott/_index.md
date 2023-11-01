@@ -7,7 +7,7 @@ draft: false
 
 New York City’s “600” schools were established in the 1940s to educate young people who were, in the opinion of educators or the courts, “defiant, disruptive, disrespectful, and hostile to all authority.”[^1] These schools got their name from New York’s school numbering system. They had school numbers, like PS 617, in the six hundreds.
 
-<details>
+<details class="readmore">
   <summary>Read More</summary>
 
 By the 1960s the “600” schools began labeling students as “socially maladjusted” and/or “emotionally disturbed”— which in some cases referred to what we would call emotional or mental health disabilities today. But in other cases this label was applied to Black and Puerto Rican boys who, for a variety of reasons, educators thought could not conform to school expectations and rules. Some of the "600" schools were housed in institutions like jails and hospitals, where students may have been sent by the courts, and others were called "day schools," where students attended during the day after being excluded from other New York City schools.[^2]
