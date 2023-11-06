@@ -1,50 +1,48 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1958-12-13
 displaydate: 
-title: "\"We’d Rather Go to Jail\""
+title: “We’d Rather Go to Jail.”
 author: Sara Slack
 citation: >
- “We’d Rather Go to Jail” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/harlem-nine/rather-go-to-jail.
+ "We’d Rather Go to Jail,” Sara Slack, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/rather-go-to-jail.
 imageFeatured: rather-go-to-jail.jpg
 imageFeaturedAlt: Newspaper clipping
+detailedDescr: 
 embed: rather-go-to-jail.pdf
-embedTitle: "\"We’d Rather Go to Jail\""
+embedTitle: “We’d Rather Go to Jail.”
 text: rather-go-to-jail
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
 closeRdImg: kaliris-salas-ramirez-video-sm.jpg
 closeRdLink: /teaching-resources/close-reading-examples/kaliris-salas-ramirez-video/
-eventname: >
- Mae Mallory, Viola Waddy and other members of the "Harlem Nine" boycott Harlem schools. 
-caption: >
- This *Amsterdam News* article was published on December 13, 1958. The headline, “We’d Rather Go To Jail,” quotes Mrs. Viola Waddy, a Black mother in Harlem who refused to allow her child to attend a segregated and unequal school. Waddy and others risked imprisonment for that decision.
-archive_source: > 
- *New York Amsterdam News*
+eventname: Mae Mallory, Viola Waddy and other members of the “Harlem Nine” boycott Harlem schools. 
+caption: "This *Amsterdam News* article was published on December 13, 1958. The headline, “We’d rather go to jail,” quotes Mrs. Viola Waddy, a Black mother in Harlem who refused to allow her child to attend a segregated and unequal school. Waddy and others risked imprisonment for that decision."
+archive_source: "*New York Amsterdam News*"
 source_link: 
-copyright: >
- *New York Amsterdam News*
+copyright: "*New York Amsterdam News*"
 categories: 
-- K-12 education
+- k-12 education
 - community activism
 - parent activism
 tags: 
 - segregation
 - policing & the criminal legal system
-- protests
+- protest
 - zoning & school assignment
 - court cases
 - women's activism
 - Black people
 questions:
-- The *Amsterdam News* used the term "Harlem Nine" to remind readers of the "Little Rock Nine" who desegregated Central High School in Little Rock, Arkansas one year earlier. How were the “Little Rock Nine” and “Harlem Nine” efforts similar, and different? How does the story of the “Harlem Nine” challenge your previous understandings of segregation and desegregation in the United States?
+- The *Amsterdam News* used the term ""Harlem Nine"" to remind readers of the ""Little Rock Nine"" who desegregated Central High School in Little Rock, Arkansas one year earlier. How were the “Little Rock Nine” and “Harlem Nine” efforts similar, and different? How does the story of the “Harlem Nine” challenge your previous understandings of segregation and desegregation in the United States?
 - How did the “Harlem Nine” expose segregation and inequality in New York City’s schools? What risks did they take? How do you think their children felt about their parents’ protests? What do you think about taking risks to fight for change that you care about? 
 - What does the “Harlem Nine” case, and especially the use of the courts to punish parents who were protesting segregated schools, show us about the connection between schools and law enforcement?
----
+--- 
 
 In 1958, one year after nine Black students made national and international news when they desegregated Little Rock Central High School in Little Rock, Arkansas, desegregation activists in Harlem organized their own protest. Nine mothers in Harlem decided to keep their children out of local junior high schools to protest both segregation and the conditions in those schools. They knew that their children’s schools had poorer facilities, a more limited curriculum, and more unlicensed teachers than the city’s segregated white schools. The press called these parents the “Harlem Nine,” echoing how the Little Rock students had been called the “Little Rock Nine.”[^1]
 

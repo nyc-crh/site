@@ -3,22 +3,26 @@ layout: gallery
 draft: false
 date: 1947-04-01
 displaydate: "October, 1947"
-title: Your Child and Willowbrook
+title: Your Child and Willowbrook, excerpt
 author: Willowbrook State School
 citation: >
- "Your Child and Willowbrook," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/gouverneur-parents-association/your-child-and-willowbrook.
+ "Your Child and Willowbrook, excerpt," Willowbrook State School, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/your-child-and-willowbrook.
 imageFeatured: your-child-and-willowbrook.jpg
 imageFeaturedAlt: Booklet cover page
+detailedDescr: 
 embed: your-child-and-willowbrook.pdf
-embedTitle: Your Child and Willowbrook
+embedTitle: Your Child and Willowbrook, excerpt
 text: your-child-and-willowbrook
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Willowbrook State School opens as the largest state institution of its kind in the United States.
-caption: This brochure was produced by the Willowbrook State School to explain the institution to parents and caregivers of disabled children.
+caption: This brochure was produced by the Willowbrook State School to explain the institution and its parents and parents and caregivers of disabled children.
 archive_source: The ARC Archives
 source_link: https://thearcny.pastperfectonline.com/library/0C9379CC-F986-45C2-A76B-581450804872
 copyright: The ARC, New York
@@ -30,7 +34,8 @@ tags:
 - segregation
 - institutions
 - disabled people
-questions:
+- exclusion from schooling
+questions: 
 - What impression does the brochure give you of Willowbrook? 
 - What questions would you want to ask to understand what life was like at Willowbrook? What questions would you ask if you were considering whether Willowbrook would be a good place for a person you love?
 --- 

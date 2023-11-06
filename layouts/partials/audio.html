@@ -1,0 +1,13 @@
+{{/* Source: https://gitlab.com/Roneo/hugo-shortcode-roneo-collection */}}
+
+{{- $audio := "" -}}
+
+{{- $audio = .Get "audio" -}}
+
+
+<figure>
+  <audio controls class="player">
+    {{ with $audio }}<source src="{{ . | relURL }}" type="audio/mpeg">{{ end }}
+  </audio>
+  {{/*  <a href="{{ .Get "{{$.ParamsAudio}}"  }}" class="button small" download><i class="icon fas fa-download"></i></a>  */}}
+</figure>

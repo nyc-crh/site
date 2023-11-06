@@ -5,7 +5,8 @@ title: Title in Title Case
 layout: plain-text
 draft: false
 ---
- Address. Delivered at Washington hall in the city of New York on the 30th may. 1826. As introductory to the exercises of the pupils of the New York institution. For the instruction of the deaf and dumb. With an account of the exercises and notes and documents in relation to the subject. By Samuel Ackerley MD, physician and secretary to the institution. 
+
+Address. Delivered at Washington hall in the city of New York on the 30th may. 1826. As introductory to the exercises of the pupils of the New York institution. For the instruction of the deaf and dumb. With an account of the exercises and notes and documents in relation to the subject. By Samuel Ackerley MD, physician and secretary to the institution. 
 
 Published by order of the directors. For the benefit of the institution. New York printed by E Conrad. Number four, Frankfurt street. 1826. 
 
@@ -44,7 +45,7 @@ Monosyllables of three letters represented by sensible objects used in the comme
 Drawings of objects without labels: Pick. Ape. Axe. Ant. Ass. Fly. Bow. Box. Bat. Bud. Bug. Cow. Hat. Cat. Bowl. Dog. Egg. Snake. Fan. Gnat. Fox. Gun. Hen. Hoe. Hat. Face. Jug. Key. Mop.
 
 ## Footnotes
-C notcie or deaf and dumb alphabet. 
+C notice or deaf and dumb alphabet. 
 
 So the card after giving examples of the errors of his predecessor makes the following remarks and his theory of signs volume one page 37 introduction. 
 

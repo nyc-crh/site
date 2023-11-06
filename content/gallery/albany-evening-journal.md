@@ -3,43 +3,45 @@ layout: gallery
 draft: false
 date: 1900-05-10
 displaydate: 
-title: Albany Evening Journal 
+title: Albany Evening Journal
 author: 
 citation: >
- "Albany Evening Journal," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/cisco-resisting-segregation/albany-evening-journal.
+ "Albany Evening Journal," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/albany-evening-journal.
 imageFeatured: albany-evening-journal.jpg
 imageFeaturedAlt: Newspaper clipping
+detailedDescr: 
 embed: 
 embedTitle: 
 text: albany-evening-journal
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Elizabeth Cisco is recognized for her role in ending legal segregation. 
 caption: This short newspaper article ran in the local Albany paper not long after the “Elsberg School Bill” passed the New York State legislature. The bill made it illegal for school systems in New York to assign Black and white students to separate segregated schools. It describes a complex moment of recognition for Mrs. Elizabeth Cisco.
 archive_source: Reprinted in The Autobiography of Dr. William Henry Johnson.
 source_link: 
 copyright: Public domain
-categories:
-- Queens
-- parent activism
-- K-12 education
-tags:
-- segregation 
-- court cases  
+categories: 
+- Manhattan
+- k-12 education
+tags: 
+- segregation
+- court cases 
 - Black people 
 - women's activism
 - legislation
 - newspapers & the media
-- ableism
-- New York state
+- ableist segregation
 questions:
-- How does Dr. Johnson mock Mrs. Cisco? How does his language perpetuate harm? Do you see racism, misogyny, and/or ableism here? How?
-- At this time women do not yet have the franchise—that is, they are not yet able to vote. How does this fact matter to how you think about Mrs. Cisco’s struggle for educational justice?
-- How would you feel in Mrs. Elizabeth Cisco’s position here? What emotions—good or bad, or contradictory—do you think she was experiencing?
----
+- How does Dr. Johnson mock Mrs. Cisco? How does his language perpetuate harm? Do you see racism, misogyny, and/or ableism here? How? 
+- At this time women do not yet have the franchise - that is, they are not yet able to vote. How does this fact combined with what we know about Mrs. Cisco’s struggle for educational justice and this scene illuminate how various forms of discrimination work together?
+- How would you feel in Mrs. Elizabeth Cisco’s position here? What emotions - good or bad, or contradictory - do you think she was experiencing?
+--- 
 
 Mrs. Elizabeth Cisco worked for more than five years, with her husband and on her own, to fight for educational equality and desegregation. She pushed schools in the town of Jamaica, and then the board of education in Queens, and then the New York State Legislature, to end school segregation and provide equal opportunity for her children.[^1] A few days after the New York State legislature passed a bill ending legal segregation in schools, Mrs. Cisco attended a gathering at a local Black church in the state capital of Albany. The newspaper captured the scene with the small description you see above.
 

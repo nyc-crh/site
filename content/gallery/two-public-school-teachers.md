@@ -1,44 +1,45 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1925-03-01
 displaydate: "March, 1925"
-title: “Two Public School Teachers” 
+title: Two Public School Teachers
 author: Winhold Reiss
 citation: >
- "Two Public School Teachers," in New York City Civil Rights History Project, Accessed:
- [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/lucile-spence/two-public-school-teachers.
+ "Two Public School Teachers," Winhold Reiss, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/two-public-school-teachers.
 imageFeatured: two-public-school-teachers.jpg
-imageFeaturedAlt: A painting of two Black women, one resting her chin inside a clasped hand and the other holding a notebook. They both look directly at the viewer.
+imageFeaturedAlt: A painting of two Black women, one resting her chin on her closed hand and the other holding a notebook. They both look directly at the viewer.
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: >
- *The Survey Graphic* publishes a special issue about art and intellectual life in Harlem, edited by Alain Locke.
-caption:  >
+closeRdImg: 
+closeRdLink: 
+eventname: "*The Survey Graphic* publishes a special issue about art and intellectual life in Harlem, edited by Alain Locke."
+caption: >
  This painting by Winhold Reiss is titled “Two Public School Teachers.” It was printed in the March 1925 issue of *The Survey Graphic,* which focused on art and intellectual life in Harlem.
 archive_source: The Reiss Project
 source_link: https://www.winoldreiss.org/works/artwork/portraits/C51.htm
 copyright: Public domain
 categories: 
-- Manhattan
-- K-12 education
-- teacher activism
+- k-12 education
+- community activism
 tags: 
 - Harlem
 - teacher unions
-- photography & visual representation
+- photography, imagery, & visual representation
 - Black people 
 - women's activism
 questions:
 - How do Lucille Spence and Melva Price present themselves? How does the portrait artist present the two teachers?
 - Why might a portrait of two teachers be included in this issue of the *Survey Graphic*?
---- 
+---  
 
 In March 1925, [*The Survey Graphic* published a special issue](https://umedia.lib.umn.edu/item/p16022coll336:2133). The national magazine with a predominantly white readership invited Alain Locke to guest-edit the issue. He wrote that the issue was meant “to document the New Negro culturally and socially,—to register the transformations of the inner and outer life of the Negro in America that have so significantly taken place in the last few years.” The issue explored the origins of jazz and “Negro folk music,” the “inner life of Harlem,” the community’s “organizing social forces,” the neighborhood’s youth, and the conditions of the schools they attended.[^1]  
 

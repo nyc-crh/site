@@ -7,6 +7,7 @@
 {{ if .Params.text }}
 <a href="/plain-text/{{.Params.text}}" >Read plain text of document</a>{{ end }}
 {{ if .Params.detailedDescr }}<a href="/plain-text/{{.Params.detailedDescr}}" >Detailed image description</a>{{ end }}</div>
+{{ if .Params.audioTranscript }}<a href="/plain-text/{{.Params.audioTranscript}}" >Audio transcript</a>{{ end }}</div>
 <div class = "d-flex justify-content-center">
     {{$video:=.Params.video}}
     {{with or .Params.video .Params.embed}}

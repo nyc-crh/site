@@ -1,44 +1,48 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1970-01-21
 displaydate: 
-title: > 
- ¿Le gustaria que sus niños…?
+title: ¿Le gustaria que sus niños\[…\]?
 author: United Bronx Parents/Padres Unidos del Bronx
 citation: >
- "¿Le gustaria que sus niños...?," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/united-bronx-parents/le-gustaria-que-sus-ninos.
+ "¿Le gustaria que sus niños[…]?," United Bronx Parents/Padres Unidos del Bronx, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/le-gustaria-que-sus-ninos.
 imageFeatured: le-gustaria-que-sus-ninos.jpg
 imageFeaturedAlt: A pink flyer with a drawing of a young Latino boy reading a book. Spanish text is in blue lettering.
+detailedDescr: 
 embed: le-gustaria-que-sus-ninos.pdf
-embedTitle: ¿Le gustaria que sus niños
+embedTitle: ¿Le gustaria que sus niños\[…\]?
 text: le-gustaria-que-sus-ninos
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: United Bronx Parents encourage parents to come together to discuss bilingual education.
-caption: United Bronx Parents (UBP) produced this flier inviting parents to discuss bilingual classes in 1970. The flier was printed in both a Spanish and an English version.  
+caption: United Bronx Parents (UBP) produced this flyer inviting parents to discuss bilingual classes in 1970. The flyer was printed in both a Spanish and an English version.  
 archive_source: Center for Puerto Rican Studies, Library & Archive
 source_link: https://centroca.hunter.cuny.edu/Detail/objects/3724
 copyright: Used with permission
 categories: 
 - Bronx
-- K-12 education
+- k-12 education
 - parent activism
 - community activism
+- special education
 tags: 
 - Spanish language
 - bilingual education
 - Latinx people
 - Black people
 - women's activism 
-- organizing 
+- organizing
 questions:
-- Why do you think United Bronx Parents produced this flier in both Spanish and English?
+- Why do you think United Bronx Parents produced this flyer in both Spanish and English?
 - Where in your school do you see multiple languages present? How? Why is this important? 
-- Do you think the flier reflects the United Bronx Parents’ goal of respecting parents’ knowledge and experience?
+- Do you think the flyer reflects the United Bronx Parents’ goal of respecting parents’ knowledge and experience?
 --- 
 
 Like many Puerto Rican parents in the South Bronx, Evelina López Antonetty was frustrated that so many Spanish-speaking children were not learning to read. Many were being placed in classes intended for students with disabilities because they spoke Spanish. “I began to see the schools as an island,” Antonetty recalled, “After 3 o’clock, the school officials closed the doors and left the community. They made no input into the community. There were no teachers in the school from the community.”[^1]

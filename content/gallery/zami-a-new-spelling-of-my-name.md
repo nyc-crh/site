@@ -1,4 +1,4 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1982-01-01
@@ -6,36 +6,36 @@ displaydate: "1982"
 title: Zami
 author: Audre Lorde
 citation: >
- "Zami," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/audre-lorde-cuny/zami-a-new-spelling-of-my-name.
+ "Zami," Audre Lorde, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/zami-a-new-spelling-of-my-name.
 imageFeatured: zami-a-new-spelling-of-my-name.jpg
-imageFeaturedAlt: > 
- Book cover for *Zami*, with a Black and white graphic print of a woman standing in a nature scene on the left with close-up leaves, water and mountains in the background and a cityscape with large buildings on the right.
+imageFeaturedAlt: A Black and white graphic print of a woman. Half of the background depicts nature, and the other half shows a city.
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: Audre Lorde's autobiographical writing captures her experience in school with a vision disability. 
-caption: >
- In this portion of her book *Zami*, Audre Lorde speaks about growing up in Harlem. She recalls her experiences at school as a child with a vision disability, and how mother interacted with her teachers.
+closeRdImg: 
+closeRdLink: 
+eventname: Audre Lorde’s autobiographical writing captures her experience in school with a vision disability. 
+caption: "In this portion of her book *Zami*, Audre Lorde speaks about growing up in Harlem. She recalls her experiences at school as a child with a vision disability, and how mother interacted with her teachers."
 archive_source: >
- Audre Lorde, *Zami: A New Spelling of My Name* (Persephone Press, 1982)
+ "Audre Lorde, *Zami: A New Spelling of My Name* (Persephone Press, 1982)" 
 source_link: 
 copyright: Audre Lorde
-categories:
-  - Manhattan
-  - higher education
-tags: 
-  - women's activism
-  - the arts
-  - disabled people
-  - Black people
-  - queer people
-  - blindness low vision
-  - Harlem
+categories: "- Manhattan
+- higher education"
+tags: "- women's activism
+- the arts
+- disabled people
+- Black people
+- queer people
+- blindness & low vision
+- Harlem"
 questions:
   - How does Audre Lorde feel about reading?
   - How does Audre Lorde's mother respond to her daughter's experience at the library, and at the school? Would you describe Lorde's mother as an educational activist? Why or why not?

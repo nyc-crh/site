@@ -1,31 +1,34 @@
----
+--- 
 layout: gallery
 draft: false
 date: 2021-07-11
 displaydate: 
-title: Willie Mae Goodman Interview
+title: Willie Mae Goodman Interview, excerpt
 author: 
 citation: >
- "Willie Mae Goodman Interview," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/gouverneur-parents-association/willie-mae-goodman.
+ "Willie Mae Goodman Interview, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/willie-mae-goodman.
 imageFeatured: willie-mae-goodman.jpg
 imageFeaturedAlt: Still image from a video interview of Willie Mae Goodman, an older black woman.
+detailedDescr: 
 embed: 
-embedTitle: Willie Mae Goodman Interview
+embedTitle: Willie Mae Goodman Interview, excerpt
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
   srcType: youtube
   srcLink: hInnet2nXaA
-videoTitle: Willie Mae Goodman Interview
+videoTitle: Willie Mae Goodman Interview, excerpt
+closeRdImg: 
+closeRdLink: 
 eventname: Willie Mae Goodman reflects on her activism fighting for her daughter Marguerite and other disabled children and adults.  
 caption: In this interview, Willie Mae Goodman describes her activism fighting for her daughter Marguerite and other disabled children and adults.
-archive_source: >
- "Willowbrook Revisited," Staten Island Community Television
+archive_source: "\"Willowbrook Revisited,\" Staten Island Community Television"
 source_link: https://youtu.be/hInnet2nXaA
 copyright: Used with permission
-categories: 
+categories:
 - Staten Island
 - parent activism
 tags: 
@@ -34,14 +37,15 @@ tags:
 - institutions
 - disabled people
 - intellectual disabilities
+- developmental disabilities
 - physical disabilities
 - Black people
 - social and economic class
 - women's activism
-- protests
-questions: 
+- protest
+questions:
 - What remarks from Willie Mae Goodman stand out to you? Why?
----
+--- 
 
 Willie Mae Goodman decided to send her daughter Marguerite to the Willowbrook State School when Marguerite was four years old. Marguerite was born with developmental disabilities, and doctors argued that Willowbrook was an appropriate place for her.
 Conditions for Marguerite, and other children and adults at Willowbrook, were horrible. The facility drew national criticism from Senator Robert Kennedy, who described the facility as “not fit for animals,” as Mrs. Goodman recalls.  

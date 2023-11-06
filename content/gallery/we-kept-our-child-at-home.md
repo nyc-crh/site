@@ -1,26 +1,29 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1955-11-01
 displaydate: 
-title: We Kept Our Retarded Child At Home
+title: We Kept Our Retarded Child At Home, excerpt
 author: Frank Piccola, as told to Ralph Bass
 citation: >
- "We Kept Our Retarded Child At Home," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/gouverneur-parents-association/we-kept-our-child-at-home.
+ "We Kept Our Retarded Child At Home, excerpt," Frank Piccola, as told to Ralph Bass, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/we-kept-our-child-at-home.
 imageFeatured: we-kept-our-child-at-home.jpg
-imageFeaturedAlt: A white middle-aged man and his son are seated, holding drinking glasses, and looking at each other. The father has his arm around his son, and both are smiling.
+imageFeaturedAlt: A white middle-aged man sits next to his son. They hold drinks and look at each other. The father has his arm around his son, and both are smiling.
+detailedDescr: 
 embed:  
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: In the 1950s, children with intellectual disabilities could be excluded from public schools despite laws that required children to attend schools
 caption: "A reporter for *Coronet* magazine interviewed the father of a ten year-old boy with an intellectual or developmental disability (which was referred to as mental retardation at the time). The father describes the pressure to send his child Eddie to an institution and his hopes for his son."
-archive_source: >
- *Coronet* Magazine and the Disability History Museum
+archive_source: "*Coronet* Magazine and the Disability History Museum"
 source_link: https://archive.org/details/sim_coronet_1955-11_39_1_0/page/48/mode/1up
 copyright: 
 categories: 
@@ -35,6 +38,7 @@ tags:
 - white people
 - social and economic class
 - employment
+- exclusion from schooling
 questions:
 - What does Eddie enjoy doing at home and with his family? 
 - What challenges do Eddie and his family face in his neighborhood and community? 

@@ -3,36 +3,38 @@ layout: gallery
 draft: false
 date: 1969-05-01
 displaydate: "May 1969"
-title: "\"We Demand\""
+title: We Demand
 author: 
 citation: >
- “We Demand” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/audre-lorde-cuny/we-demand.
+ "We Demand," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/we-demand.
 imageFeatured: we-demand.jpg
-imageFeaturedAlt: >
- A simple typewritten flyer with a title, "We Demand" at the top and a list of changes student organizers wanted to see in their university.
+imageFeaturedAlt: A simple typewritten flyer with a title, "We Demand" at the top and a list of changes student organizers wanted to see in their university.
+detailedDescr: 
 embed: we-demand.pdf
-embedTitle: "We Demand"
+embedTitle: We Demand
 text: we-demand
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
-videoTitle:
+videoTitle: 
 closeRdImg: nelson-luna-video-sm.jpg
 closeRdLink: /teaching-resources/close-reading-examples/nelson-luna-video/
 eventname: City College student protesters outline the changes they want to see in their university. 
-caption: In this flier, student protesters at City College listed the changes they wanted to see in their university, and why. 
+caption: In this flyer, student protesters at City College listed the changes they wanted to see in their university, and why. 
 archive_source: CUNY Digital History Archive
 source_link: https://cdha.cuny.edu/items/show/6952
 copyright: Unknown
 categories: 
 - Manhattan
-- higher education
+- k-12 education
+- special education
 tags: 
 - women's activism
 - Black people
 - Latinx people
-- protests
+- protest
 - curriculum
 - bilingual education
 - Spanish language

@@ -6,35 +6,37 @@ displaydate:
 title: The Elsberg Bill Signed
 author: 
 citation: >
- "The Elsberg Bill Signed," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/cisco-resisting-segregation/elsberg-bill-signed.
+ "The Elsberg Bill Signed," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elsberg-bill-signed.
 imageFeatured: elsberg-bill-signed.jpg
 imageFeaturedAlt: Newspaper clipping
+detailedDescr: 
 embed: 
 embedTitle: 
 text: elsberg-bill-signed
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: New York’s state legislature ends legal segregation in schools
 caption: This newspaper clipping describes the New York bill that ended legal segregation in schools. It was called the “Elsberg Bill” because it had been proposed by Senator Elsberg.
-archive_source: >
- *Brooklyn Daily Eagle* via newspapers.com
+archive_source: "*Brooklyn Daily Eagle* via newspapers.com"
 source_link: 
 copyright: Public domain
 categories: 
 - Queens
 - parent activism
-- K-12 education
+- k-12 education
 tags: 
-- segregation 
-- court cases  
+- segregation
+- court cases 
 - Black people 
 - school facilities
-- women's activism
+- women's activism 
 - legislation
-- New York state
 questions:
 - George Wallace, the attorney who represented the Cisco family throughout its legal battle for desegregation, is quoted at length in the end of the article. What is he saying here? How would you put it in your own words? 
 - Although this law was passed over 100 years ago, New York City schools still remain some of the most segregated in the country. Why do you think that is? How might Wallace’s way of talking about the “Elsberg Bill” help explain why segregation continues?

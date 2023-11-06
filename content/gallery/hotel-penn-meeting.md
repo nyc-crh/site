@@ -6,38 +6,39 @@ displaydate:
 title: Hotel Pennsylvania Meeting Learns of Harlem School Ills
 author: 
 citation: >
- "Hotel Pennsylvania Meeting Learns of Harlem School Ills," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/lucile-spence/hotel-penn-meeting.
+ "Hotel Pennsylvania Meeting Learns of Harlem School Ills," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hotel-penn-meeting.
 imageFeatured: hotel-penn-meeting.jpg
 imageFeaturedAlt: Newspaper clipping
+detailedDescr: 
 embed: 
 embedTitle: 
 text: hotel-penn-meeting
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Lucile Spence and the Teachers Union hold a conference to discuss schools in Harlem.
-caption: >
- This *New York Amsterdam News* article reports on a Teachers Union event focused on racism and inequality in Harlem schools.
-archive_source: >
- *New York Amsterdam News*
+caption: "This *New York Amsterdam News* reports on a Teacher Union event focused on racism and inequality in Harlem schools."
+archive_source: "*New York Amsterdam News*"
 source_link: 
-copyright: >
- *New York Amsterdam News*
+copyright: "*New York Amsterdam News*"
 categories: 
 - Manhattan
-- K-12 education
+- k-12 education
 - teacher activism
 tags: 
 - teacher unions
-- school facilities 
+- school facilities
 - segregation
 - Harlem
 - Black people
-- communism 
+- communism
 - multiracial organizing
-questions: 
+questions:
 - What does Lucile Spence mean when she says, “The result of the continued neglect of this group in the heart of New York presents a challenging situation for the educator who sees the fruits of such neglect?” What other comments by Spence or others in the article stand out to you? 
 - How did Lucile Spence’s work as a teacher influence her activism?
 - Which of the conditions that the TU was protesting still exist in NYC schools today?

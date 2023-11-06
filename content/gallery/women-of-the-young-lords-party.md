@@ -1,32 +1,35 @@
----
+--- 
 layout: gallery
 draft: false
 date: 2015-08-05
 displaydate: 
-title: Women of the Young Lords Party
+title: Women of the Young Lords Party, excerpt
 author: Bronx Museum of the Arts
 citation: >
- "Women of the Young Lords Party," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/young-lords/women-of-the-young-lords-party.
+ "Women of the Young Lords Party, excerpt," Bronx Museum of the Arts, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/women-of-the-young-lords-party.
 imageFeatured: women-of-the-young-lords-party.jpg
-imageFeaturedAlt: Still image from a videotaped event at the Bronx Museum showing a panel of women from the Young Lords sitting at a table and a speaker at a podium
+imageFeaturedAlt: Still image from a panel event at the Bronx Museum with women from the Young Lords 
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
   srcType: youtube
   srcLink: xLs4dsG4DQc?t=1204
-videoTitle: Women of the Young Lords Party
+videoTitle: Women of the Young Lords Party, excerpt
+closeRdImg: 
+closeRdLink: 
 eventname: Denise Oliver and other Young Lords members reflect on their years in the party and what they learned.
-caption: This video clip comes from an event at the Bronx Museum of Arts in 2015. At the event, women in the Young Lords described the political climate in which the Party emerged, why they joined, and how they navigated racism and sexism within the movement. In this clip, Denise Oliver describes the political context in which she and her fellow young activists forged new paths. 
+caption: This video clip comes from an event at the Bronx Museum of Arts in 2015. At the event women in the Young Lords described the political climate in which the party emerged, why they joined, and how they navigated racism and sexism within the movement. In this clip, Denise Oliver describes the political context in which she and her fellow young activists forged new paths. 
 archive_source: Bronx Museum of Arts
 source_link: https://youtu.be/xLs4dsG4DQc?t=1204
 copyright: Under copyright
 categories: 
-- Manhattan
-- Bronx
+- national
 - community activism
 tags: 
 - segregation
@@ -38,7 +41,7 @@ tags:
 - women's activism
 questions:
 - How does Oliver describe her identity as a “Black American” and her connection to Puerto Rican movements and politics? 
-- Oliver notes that the average person in the Young Lords was 17. Why do you think young people have been so instrumental in pushing social change, especially in education?
+- Oliver notes the average person in the Young Lords was 17. Why do you think young people have been so instrumental in pushing social change, especially in education?
 - How does Oliver describe the context in which her activism developed in the video clip?
 - Why do you think challenging sexism within the party was important to Oliver?
 --- 

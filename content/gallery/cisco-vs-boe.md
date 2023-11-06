@@ -1,22 +1,26 @@
---- 
+---
 layout: gallery
 draft: false
 date: 1900-01-09
 displaydate: 
-title: People ex rel. Cisco v. School Board of Queens
+title: "*People ex rel. Cisco v. School Board of Queens*, excerpt"
 author: 
 citation: >
- "People ex rel. Cisco v. School Board of Queens," in New York City Civil Rights History, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/cisco-resisting-segregation/cisco-vs-boe.
+ "*People ex rel. Cisco v. School Board of Queens*, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/cisco-vs-boe.
 imageFeatured: cisco-vs-boe.jpg
 imageFeaturedAlt: Text of a court decision
+detailedDescr: 
 embed: cisco-vs-boe.pdf
 embedTitle: 
 text: cisco-vs-boe
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: After her husband passes away, Mrs. Elizabeth Cisco continues the fight against segregation in the courts.   
 caption: Samuel and Elizabeth Cisco of Jamaica, New York (which is part of Queens in New York City today) had been challenging school segregation for years. After Mr. Cisco passed away in 1897, Mrs. Cisco continued her struggle with a suit against the school board of Queens. The above document is a selection from the judge’s decision in the case.
 archive_source: People ex Rel. Cisco v. School Board, 44 App. Div. 469, 61 N.Y.S. 330 (N.Y. App. Div. 1899)
@@ -25,17 +29,13 @@ copyright: Government document
 categories: 
 - Queens
 - parent activism
-- K-12 education
+- k-12 education
 tags: 
-- segregation 
-- court cases 
-- policing & the criminal legal system 
-- Black people 
-- school facilities
-- women's activism
+- zoning & student assignment
+- segregation
 questions:
 - What does it mean that Mrs. Cisco “rests her case solely on the fact that her children were refused admission to the common school on account of their color”? Is Mrs. Cisco arguing that the segregated schools for Black children are inferior, or that she opposes the rejection of her children because they are Black?
-- In 1896, the US Supreme Court declared in *Plessy v. Ferguson* that segregation was legal, as long as each group received equal services. This idea of “separate but equal” appears (in different words) in the Cisco case. What do you think Mrs. Cisco thought of the *Plessy* ruling?
+ - In 1896, the US Supreme Court declared in *Plessy v. Ferguson* that segregation was legal, as long as each group received equal services. This idea of “separate but equal” appears (in different words) in the Cisco case. What do you think Mrs. Cisco thought of the *Plessy* ruling?
 --- 
 
 After a few years of pushing for desegregation of the local Jamaica schools, Mrs. Elizabeth Cisco brought suit against the school board of Queens for violating the state’s education law. Previously, she and her husband Samuel Cisco had worked together, but Mr. Cisco passed away in 1897. Mrs. Cisco carried their work forward, alongside her attorneys.[^1]

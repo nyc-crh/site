@@ -3,30 +3,32 @@ layout: gallery
 draft: false
 date: 1971-02-01
 displaydate: "February 1971"
-title: Palante
+title: Palante, cover
 author: Young Lords Party
 citation: >
- "Palante," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/young-lords/palante.
+ "Palante, cover," Young Lords Party, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/palante.
 imageFeatured: palante.jpg
-imageFeaturedAlt: >
- A copy of *Palante* newspaper, volume 3, number 3 with a blue background and a photograph on the front cover. The photograph features six people, the leaders of the Young Lords Party.
+imageFeaturedAlt: Newsletter cover page
+detailedDescr: 
 embed: 
-embedTitle: 
-text: 
+embedTitle: Palante, cover
+text: palante
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: The Young Lords Party published a newspaper to communicate their ideas. 
-caption: >
- *Palante* was a self-published newspaper in which the Young Lords highlighted important issues in their communities. This cover is from the third issue of the third volume of *Palante.*
+caption: "*Palante* was a self-published newspaper in which the Young Lords highlighted important issues in their communities. This cover is from the third issue of the third volume of *Palante.*"
 archive_source: Smithsonian National Museum of African American History 
 source_link: https://nmaahc.si.edu/object/nmaahc_2014.109.7.10
 copyright: Unknown
 categories: 
-- national
-- community activism
+- Manhattan
+- higher education
 tags: 
 - segregation
 - Latinx people

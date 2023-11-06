@@ -3,39 +3,39 @@ layout: gallery
 draft: false
 date: 1936-07-18
 displaydate: 
-title: Mayor LaGuardia’s Commission on the Harlem Riot
+title: Mayor LaGuardia’s Commission on the Harlem Riot, excerpt
 author: 
 citation: >
- "Mayor LaGuardia’s Commission on the Harlem Riot," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/lucile-spence/harlem-riot-report.
+ "Mayor LaGuardia’s Commission on the Harlem Riot, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/harlem-riot-report.
 imageFeatured: harlem-riot-report.jpg
 imageFeaturedAlt: Report cover
+detailedDescr: 
 embed: harlem-riot-report.pdf
-embedTitle: Mayor LaGuardia’s Commission on the Harlem Riot
+embedTitle: Mayor LaGuardia’s Commission on the Harlem Riot, excerpt
 text: harlem-riot-report
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: >
- Mayor LaGuardia forms a commission to study the root causes of the 1935 “Harlem Riot."
-caption: >
- Mayor LaGuardia formed the LaGuardia Commission in the aftermath of the 1935 “Harlem Riot” to identify the event’s root causes and determine possible solutions. One chapter of the report, shown here, focused on education.
+closeRdImg: 
+closeRdLink: 
+eventname: Mayor LaGuardia forms a commission to study the root causes of the 1935 “Harlem Riot.” 
+caption: Mayor LaGuardia formed the LaGuardia Commission in the aftermath of the 1935 “Harlem Riot” to identify the events’ root causes and determine possible solutions. One chapter of the report, shown here, focused on education.
 archive_source: Municipal Archives of the City of New York
 source_link: https://harlemconditions.cityofnewyork.us/elementor-830/
 copyright: Used with permission
 categories: 
 - Manhattan
-- K-12 education
-- community activism
-- teacher activism"
+- k-12 education
+- teacher activism
 tags: 
 - policing & the criminal legal system
-- Black people 
+- Black people
 - Latinx people
 - segregation
 - Harlem
-- government reports
 - employment
 questions:
 - Based on the report, how would you describe the conditions in Harlem schools in the 1930s? How are those conditions influenced by segregation? 

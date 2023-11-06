@@ -1,22 +1,26 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1971-03-25
 displaydate: 
-title: The Educational Needs of the Puerto Rican Child
+title: The Educational Needs of the Puerto Rican Child, excerpts
 author: United Bronx Parents/Padres Unidos del Bronx
 citation: >
- "The Educational Needs of the Puerto Rican Child," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/united-bronx-parents/educational-needs-of-the-puerto-rican-child.
+ "The Educational Needs of the Puerto Rican Child, excerpts," United Bronx Parents/Padres Unidos del Bronx, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/educational-needs-of-the-puerto-rican-child.
 imageFeatured: educational-needs-of-the-puerto-rican-child.jpg
 imageFeaturedAlt: Report cover page
+detailedDescr: 
 embed: educational-needs-of-the-puerto-rican-child.pdf
-embedTitle: The Educational Needs of the Puerto Rican Child
+embedTitle: The Educational Needs of the Puerto Rican Child, excerpts
 text: educational-needs-of-the-puerto-rican-child
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: United Bronx Parents researched problems faced by Puerto Rican students in Bronx schools.
 caption: The United Bronx Parents was an organization of parents in the South Bronx. Many members of the organization were Puerto Rican and Black New Yorkers whose children attended local public schools and were concerned about the quality of education they received there.
 archive_source: Center for Puerto Rican Studies, Library & Archive
@@ -24,10 +28,9 @@ source_link: https://centroca.hunter.cuny.edu/Detail/objects/23897
 copyright: Used with permission
 categories: 
 - Bronx
-- K-12 education
+- k-12 education
 - parent activism
 - community activism
-- special education
 tags: 
 - Spanish language
 - bilingual education
@@ -36,10 +39,10 @@ tags:
 - women's activism 
 - disability labels
 - teacher quality
-questions: 
-- How is this report and its description of schooling for Puerto Rican students in the South Bronx in the 1970s similar to or different from [Toni Cade Bambara’s description of Puerto Rican students going to school in Harlem in the 1940s](/topics/black-latina-women/united-bronx-parents/puerto-ricans)? What seems to have continued? What seems to have changed? 
+questions:
+- How is this report and its description of schooling for Puerto Rican students in the South Bronx in the 1970s similar to or different from the description [Toni Cade Bambara’s description of Puerto Rican students going to school in Harlem in the 1940s](../topics/black-latina-women/united-bronx-parents/puerto-ricans)? What seems to have continued? What seems to have changed? 
 - To whom was this report directed? How did United Bronx Parents make their argument? How did they use language to convince their audience? 
-- What do you think of their proposed changes in education, listed on p. 7 and 8? Are these changes still needed or relevant today?
+- What do you think of their proposed changes in education, listed on p. 7 and 8. Are these changes still needed or relevant today?
 --- 
 
 In 1970, about one quarter of all New York City public school students were Puerto Rican. And in some parts of the city, like the South Bronx, that proportion was much higher, around 65 percent.[^1] Many Puerto Rican students spoke Spanish at home, but the local public schools operated almost exclusively in English.

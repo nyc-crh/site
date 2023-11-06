@@ -1,4 +1,4 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1970-01-01
@@ -6,35 +6,38 @@ displaydate: "1970"
 title: Evelina Antonetty and United Bronx Parents Protest School Lunch
 author: Irving Savlowitz
 citation: >
- "Evelina Antonetty and United Bronx Parents Protest School Lunch," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/united-bronx-parents/evelina-antonetty-ubp-protest-lunch.
+ "Evelina Antonetty and United Bronx Parents Protest School Lunch," Irving Savlowitz, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/evelina-antonetty-ubp-protest-lunch.
 imageFeatured: evelina-antonetty-ubp-protest-lunch.jpg
-imageFeaturedAlt: Evelina Antonetty and parents protest poor lunch quality at schools. One woman is carrying a child, walking across Federal Plaza in Manhattan and other parents carry large plastic bags of food.
+imageFeaturedAlt: Parents protest poor school lunch quality at Federal Plaza in Manhattan. One woman carries a child and other parents carry garbage bags of food.
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: United Bronx Parents protest poor quality school lunch. 
 caption: This photo shows Evelina Antonetty and two women, one carrying a child, walking across Federal Plaza in Manhattan and holding large plastic bags of food.
-archive_source: >
- Family of Evelina Antonetty, reprinted in Lana Dee Povitz, *Stirrings\: How Activist New Yorkers Ignited a Movement for Food Justice* (Chicago\: University of Chicago Press, 2019).
+archive_source: "Family of Evelina Antonetty, reprinted in Lana Dee Povitz, *Stirrings: How Activist New Yorkers Ignited a Movement for Food Justice* (Chicago: University of Chicago Press, 2019)."
 source_link: 
 copyright: Under copyright.
 categories: 
 - Bronx
-- K-12 education
+- k-12 education
 - parent activism
 - community activism
-tags:
+tags: 
 - Latinx people
 - Black people
 - women's activism 
 - school facilities
 questions:
-- Why do you think the issue of school lunches was so important to parents in the South Bronx?
+- Why do you think the issue of school lunches were so important to parents in the South Bronx?
 - How did Antonetty help the parents organize? What do you think made them effective?
 - How are school lunches today? How would you change your school’s lunch program?
 --- 

@@ -1,4 +1,4 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1981-01-01
@@ -6,17 +6,21 @@ displaydate: "1981"
 title: Audre Lorde
 author: Joan E. Biren
 citation: >
- "Audre Lorde," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/audre-lorde-cuny/audre-lorde-portrait.
+ "Audre Lorde," Joan E. Biren, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/audre-lorde-portrait.
 imageFeatured: audre-lorde-portrait.jpg
 imageFeaturedAlt: Audre Lorde, a Black woman, is seated at a desk in an office surrounded by books and papers. Her face tilts down toward a document she is reading.
+detailedDescr: 
 embed:  
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Writer Audre Lorde is photographed at a desk, surrounded by books and papers.
 caption: "Portrait of writer Audre Lorde at work at her desk, surrounded by papers, books, and posters. This image was taken in 1981, around the time that she was writing her autobiographical book [*Zami*](/topics/black-latina-women/young-lords/palante)."
 archive_source: National Portrait Gallery 
@@ -28,14 +32,14 @@ categories:
 tags: 
 - women's activism
 - the arts
-- photography & imagery
+- photography, imagery, & visual representation
 - Black people
 - queer people
 - disabled people
 questions:
-  - What clues does this photo offer about who Audre Lorde was and what she cared about? What do you notice about the space, the items in the space, an Lorde’s physical position? 
-  - Assuming that Lorde gave permission for this image to be taken and shared, what does it tell us about how she wanted to be seen in the world? 
-  - Compare this image to some of the other images linked in the text above. Which would you choose to represent Lorde, and why?
+- What clues does this photo offer about who Audre Lorde was and what she cared about? What do you notice about the space, the items in the space, an Lorde’s physical position? 
+- Assuming that Lorde gave permission for this image to be taken and shared, what does it tell us about how she wanted to be seen in the world? 
+- Compare this image to some of the other images linked in the text above. Which would you choose to represent Lorde, and why?
 --- 
 
 By the 1980s, Audre Lorde was working full-time as a writer. She had published essays and poetry. She had also been fighting cancer, which she was diagnosed with in 1978.

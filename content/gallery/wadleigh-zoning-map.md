@@ -6,27 +6,33 @@ displaydate: "1930s-1940s"
 title: Wadleigh’s School Zone
 author: Matthew Kautz
 citation: >
- "Wadleigh’s School Zone," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/lucile-spence/wadleigh-zoning-map.
+ "Wadleigh’s School Zone," Matthew Kautz, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/wadleigh-zoning-map.
 imageFeatured: wadleigh-zoning-map.jpg
 imageFeaturedAlt: Map showing the spatial segregation of the White and Black populations in upper Manhattan
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: The NYC Board of Education draws school zones to segregate Wadleigh as an all-Black school.
-caption: This map shows the New York Board of Education’s 1930s-1940s school zone for Wadleigh High School and US Census data for the area’s racial population as of 1940.
-archive_source: > 
- Data for this map comes from David Ment, “Racial Segregation in the Public Schools of New England and New York, 1840-1940,” (Dissertation: Teachers College, Columbia University, 1975), 256 and Social Explorer; US Census Bureau. Total Population: White; Total Population: Black, 1940. Prepared by Social Explorer. www.socialexplorer.com (accessed October 30 2021). 
+caption: This map shows the New York Board of Education’s 1930s-1940s school zone for Wadleigh High School and U.S. Census data for the area’s racial population as of 1940.
+archive_source: >
+ Data for this map comes from David Ment, “Racial Segregation in the Public Schools of New England and New York, 1840-1940,” (Dissertation: Teachers College, Columbia University), 256 and Social Explorer; U.S. Census Bureau. Total Population: White; Total Population: Black, 1940. Prepared by Social Explorer. [www.socialexplorer.com[(https://www.socialexplorer.com)] (accessed October 30 2021). 
 source_link: www.socialexplorer.com
 copyright: Public domain
 categories: 
 - Manhattan
-- K-12 education
-tags: 
+- k-12 education
+- community activism
+- teacher activism
+tags:
 - Black people
 - white people
 - zoning & school assignment
@@ -34,9 +40,9 @@ tags:
 - Harlem
 questions:
 - How does the map above contradict the superintendent’s claim that Harlem’s schools were not segregated?
-- Based on the placement of different high schools, how could you redraw the Wadleigh school zone to promote integration?
+- Based on the placement of different high schools, how could you redraw the Wadleigh School Zone to promote integration?
 - Thinking beyond school zones, what strategies would you propose to integrate schools, and why? What potential drawbacks would you be concerned about?
----
+--- 
 
 School zones establish where students go to school, often on the basis of where they live. This map shows how the New York City Board of Education zoned Wadleigh High School, an all-girls school, during the 1930s and 1940s. It shows the school zone lines and population data from the 1940 US Census to illustrate who was living in the area at this time.
 

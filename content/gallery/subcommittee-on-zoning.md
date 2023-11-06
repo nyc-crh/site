@@ -3,41 +3,42 @@ layout: gallery
 draft: false
 date: 1956-03-02
 displaydate: 
-title: Commission on Integration, Subcommittee on Zoning Draft Report
-author:	Board of Education of New York City, Commission on Integration, Subcommittee on Zoning
-citation: >
- "Commission on Integration, Subcommittee on Zoning Draft Report," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/white-liberal-resistance/subcommittee-on-zoning.
+title: Commission on Integration, Subcommittee on Zoning Draft Report, excerpt
 author: New York City Board of Education
 citation: >
- "Commission on Integration, Subcommittee on Zoning Draft Report," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/harlem-nine/subcommittee-on-zoning.
+ "Commission on Integration, Subcommittee on Zoning Draft Report, excerpt," New York City Board of Education, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/subcommittee-on-zoning.
 imageFeatured: subcommittee-on-zoning.jpg
 imageFeaturedAlt: Report introduction page
+detailedDescr: 
 embed: subcommittee-on-zoning.pdf
-embedTitle: Commission on Integration, Subcommittee on Zoning Draft Report
+embedTitle: Commission on Integration, Subcommittee on Zoning Draft Report, excerpt
 text: subcommittee-on-zoning
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: The New York City Board of Education appoints a group to study racial segregation and make recommendations for integration.
 caption: The New York City Board of Education appointed the 1956 Commission on Integration to study racial segregation in New York City schools and make recommendations for integrating them. This is an excerpt from a draft of their report.
 archive_source: Annie Stein Papers, Columbia University Rare Books and Manuscript Library
 source_link: https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_6909494/dsc#view_all
 copyright: Public domain
 categories: 
-- K-12 education
+- k-12 education
 - community activism
+- parent activism
 tags: 
 - segregation
-- government reports
+- Black people
 - women's activism
 - zoning & school assignment
-- Black people
-questions: 
-- According to the subcommittee’s draft, why were New York City schools segregated? Why was the segregation of New York City schools a problem? What do you think of these explanations? 
+questions:
+- According to the subcommittee’s draft, why were New York City Schools segregated? Why was the segregation of New York City Schools a problem? What do you think of these explanations? 
 - Do you think the report’s authors want to reveal, or want to hide, how New York’s schools became segregated? Why? 
-- In 2014, researchers identified New York City schools as [some of the most segregated in the U.S](https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf). Soon after, Mayor Bill de Blasio created a “School Diversity Advisory Group” for the New York City Department of Education to discuss ways to address this issue. How do you think Ella Baker would feel knowing about the continued segregation of New York schools? What advice do you think she would offer the School Diversity Advisory Group? 
+- In 2014, researchers identified New York City schools as [some of the most segregated in the U.S](https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf). Soon after, Mayor Bill de Blasio created a “School Diversity Advisory Group” for the New York City Department of Education to discuss ways to address this issue. How do you think Ella Baker would feel knowing about the continued segregation of New York schools? What advice do you think she would offer the School Diversity Advisory Group?
 --- 
 
 In its 1954 decision in *Brown vs. Board of Education,* the US Supreme Court ruled that school segregation was unconstitutional because separate schools for Black children were “inherently unequal.” Citing the work of Black psychologist and City College professor Kenneth Clark, among others, the court argued that segregated schools were unconstitutional because segregation taught a message of racial superiority for white students and racial inferiority for Black students.[^1]

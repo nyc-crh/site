@@ -1,6 +1,4 @@
 ---
-date: 1000-01-01
-displaydate: 
 title: "We'd Rather Go To Jail"
 layout: plain-text
 draft: false

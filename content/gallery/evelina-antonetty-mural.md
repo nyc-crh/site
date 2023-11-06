@@ -6,20 +6,24 @@ displaydate: "2011"
 title: Evelina López Antonetty Mural
 author: Tats Cru, Inc.
 citation: >
- "Evelina López Antonetty Mural," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/united-bronx-parents/evelina-antonetty-mural.
+ "Evelina López Antonetty Mural," Tats Cru, Inc., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/evelina-antonetty-mural.
 imageFeatured: evelina-antonetty-mural.jpg
-imageFeaturedAlt: Black and white mural of Evelina Lopez Antonetty, a Puerto Rican woman, pointing with her left hand and speaking. The rest of the mural shows two children dancing in a field of rubble and a quote by Antonetty. A Puerto Rican flag hangs on a school building, the only colorful object in the painting. 
+imageFeaturedAlt: 
+detailedDescr: evelina-antonetty-mural
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Tats Cru paints a mural to commemorate the life and work of Evelina López Antonetty. 
 caption: >
-Painted by the graffiti artist group Tats Cru in 2011, this mural of Evelina López Antonetty is at 773 Prospect Ave in the South Bronx. The quote reads: "We will never stop struggling here in The Bronx, even though they've destroyed it around us. We would pitch tents if we had to rather than move from here. We would fight back, there is nothing we would not do. They will never take us away from here. I feel very much a part of this and I'm never going to leave, and, after me, my children will be here to carry on. I have very strong children and very strong grandchildren."
+ "Painted by the graffiti artist group Tats Cru in 2011, this mural of Evelina López Antonetty is at 773 Prospect Ave in the South Bronx. The quote reads, "We will never stop struggling here in The Bronx, even though they've destroyed it around us. We would pitch tents if we had to rather than move from here. We would fight back, there is nothing we would not do. They will never take us away from here. I feel very much a part of this and I'm never going to leave, and, after me, my children will be here to carry on. I have very strong children and very strong grandchildren."
 archive_source: Photograph by [@tatscru](https://www.instagram.com/tatscru/?hl=−)
 source_link: 
 copyright: Under copyright. Used with permission. 
@@ -30,8 +34,8 @@ categories:
 - community activism
 tags: 
 - Latinx people
-- women's activism 
-questions: 
+- women's activism
+questions:
 - How did the artists choose to represent Antonetty? What do her expression and gesture mean to you? What are the artists trying to convey by painting her this way?
 - Read the quote on the right side of the mural. What is the tone and message of the quote? Why might the artists have chosen that quote for this mural?
 - The mural is filled with multiple images, a quote from Antonetty, and a list of her various roles, responsibilities, and commitments. How do you think these different parts of the mural connect  to one another? How do these different parts relate to your understanding of Antonetty?

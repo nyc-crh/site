@@ -3,42 +3,44 @@ layout: gallery
 draft: false
 date: 1958-12-15
 displaydate: 
-title: In the Matter of Charlene Skipwith
+title: "*In the matter of Charlene Skipwith*, excerpt"
 author: 
 citation: >
- "In the matter of Charlene Skipwith," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/harlem-nine/matter-of-skipwith.
+ "*In the matter of Charlene Skipwith*, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/matter-of-skipwith.
 imageFeatured: matter-of-skipwith.jpg
 imageFeaturedAlt: Text of a court decision
+detailedDescr: 
 embed: matter-of-skipwith.pdf
-embedTitle: In the matter of Charlene Skipwith
+embedTitle: "*In the matter of Charlene Skipwith*, excerpt"
 text: matter-of-skipwith
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: >
- A judge rules in favor of parents whose children participated in the "Harlem Nine" boycott and were charged with neglect. 
-caption: >
- *In the Matter of Charlene Skipwith, Sheldon Rector, Children Twelve Years of Age* was a 1958 family court case in which the parents of children participating in the “Harlem Nine” boycott were charged with neglect by the Board of Education. The judge ruled in favor of the parents.
+closeRdImg: 
+closeRdLink: 
+eventname: A judge rules in favor of parents whose children participated in the "Harlem Nine" boycott and were charged with neglect. 
+caption: "*In re Matter of Charlene Skipwith, Sheldon Rector, Children Twelve Years of Age* was a 1958 family court case in which the parents of children participating in the “Harlem Nine” boycott were charged with neglect by the Board of Education. The judge ruled in favor of the parents."
 archive_source: Matter of Skipwith, 14 Misc. 2d 325, 180 N.Y.S.2d 852 (N.Y. Dom. Rel. Ct. 1958)
 source_link: 
 copyright: Public domain
 categories: 
-- K-12 education
+- k-12 education
 - community activism
 - parent activism
 tags: 
 - segregation
 - policing & the criminal legal system
-- protests
+- protest
 - zoning & school assignment
 - court cases
-questions: 
+questions:
 - What evidence do the parents offer to show that their children’s schools were unequal? 
 - How does Judge Polier explain her decision in favor of the Harlem parents?
 - Why does Judge Polier say that the Board of Education is responsible for desegregating schools?
----
+--- 
 
 On October 28, 1958, in two separate cases, the Board of Education charged the “Harlem Nine” parents with violating the state law requiring parents to send their children to school. Judge Nathaniel Kaplan was the presiding family court judge in the case involving four of the parents. He found them guilty of violating the law.[^1] But less than two weeks later, two of the parents had their case heard by a different judge. Judge Justine Polier dismissed the charges against the parents in her courtroom.
 

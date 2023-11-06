@@ -1,4 +1,4 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1971-01-01
@@ -6,25 +6,30 @@ displaydate: "1969-1971"
 title: Iris Morales Leads Political Education Class
 author: Michael Abramson
 citation: >
- "Iris Morales Leads Political Education Class," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/young-lords/iris-morales.
+ "Iris Morales Leads Political Education Class," Michael Abramson, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/iris-morales.
 imageFeatured: iris-morales.jpg
 imageFeaturedAlt: A group of young Black and Latino people are seated around a small table. Most appear to be male except for Iris Morales, who is at the head of the table. 
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: The Young Lords party creates spaces for members to study history and politics. 
 caption: This photo captures Young Lords Party members sitting together in a circle during a political education class. Iris Morales (seated at the head of the table) leads the group discussion about that week’s assigned texts. 
 archive_source: >
  Reprinted in Johanna Fernández, *The Young Lords: A Radical History* (Chapel Hill: University of North Carolina Press, 2019)
 source_link: 
-copyright: Photograph by Michael Abramson
+copyright: Photograph by Michael Abramson, courtesy of Johanna Fernandez
 categories: 
 - Manhattan
+- Bronx
 - community activism
 tags: 
 - segregation
@@ -35,10 +40,10 @@ tags:
 - organizing
 - autonomous educational spaces
 - women's activism
-questions: 
+questions:
 - Does the political education class in the picture look like classrooms in your school? What’s similar? What’s different?
 - What made the Young Lords’ political education classes different than traditional schoolrooms? Why might that have been effective?
-- As noted above, many of the Young Lords Party members were illiterate. What resources did the party provide to its members so they could meaningfully participate in these political education classes? How did creating educational spaces that responded to the needs of their learners help the Party’s work?
+- As noted above, many of the Young Lords Party members were illiterate, what resources did the party provide to its members so they could meaningfully participate in these political education classes? How did creating educational spaces that responded to the needs of their learners help the party’s work?
 - If you were working with your peers to create a learning space for one another, what would it look like? What would you want to learn? How would you learn it?
 --- 
 

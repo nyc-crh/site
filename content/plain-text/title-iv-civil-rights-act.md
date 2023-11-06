@@ -8,7 +8,7 @@ draft: false
 TITLE IV-DESEGREGATION OF PUBLIC EDUCATION
 DEFINITIONS
 
-SEc. 401. As used in this title—
+Sec. 401. As used in this title—
 
 (a) "Commissioner" means the Commissioner of Education.
-(b) "Desegregation" means the assignment of students to public schools and within such schools without regard to their race, color, religion, or national origin, but "desegregation" shall not mean the assignment of students to pub)ic scl100Js 1n order to overcome racial imbalance.
+(b) "Desegregation" means the assignment of students to public schools and within such schools without regard to their race, color, religion, or national origin, but "desegregation" shall not mean the assignment of students to public schools in order to overcome racial imbalance.

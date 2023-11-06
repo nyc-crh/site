@@ -6,25 +6,31 @@ displaydate: "undated"
 title: Willie Mae Goodman and Marguerite Goodman
 author: 
 citation: >
- "Willie Mae Goodman and Marguerite Goodman," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/gouverneur-parents-association/willie-mae-and-marguerite-goodman.
+ "Willie Mae Goodman and Marguerite Goodman," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/willie-mae-and-marguerite-goodman.
 imageFeatured: willie-mae-and-marguerite-goodman.jpg
 imageFeaturedAlt: Marguerite Goodman and Willie Mae Goodman sit next to each other. Both are smiling. 
+detailedDescr: 
 embed: 
 embedTitle: 
 text: willie-mae-and-marguerite-goodman
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Willie Mae Goodman and her daughter Marguerite Goodman are photographed together.
 caption: Willie Mae Goodman and her daughter Marguerite Goodman are photographed together.
 archive_source: New York State Office for People with Developmental Disabilities
 source_link: 
 copyright: Used with permission
 categories: 
-- Staten Island
-- parent activism
+- Manhattan
+- Queens
+- Bronx
+- community activism
 tags: 
 - Willowbrook
 - segregation
@@ -35,10 +41,11 @@ tags:
 - Black people
 - social and economic class
 - women's activism
-- photography & imagery
+- photography, imagery, & visual representation
+- exclusion from schooling
 questions:
 - What emotions do you see captured in this photograph? How do those emotions relate to the story of Willie Mae Goodman and Marguerite Goodman shared here? 
-- How is this representation of a Black woman activist similar to or different from others in this teaching collection - including the photographs of [Elizabeth Cisco](/topics/black-latina-women/cisco-resisting-segregation/elizabeth-cisco), [Mae Mallory and her daughter Patricia](/topics/black-latina-women/harlem-nine/mae-mallory-and-daughter), and [Denise Oliver](/topics/black-latina-women/young-lords/denise-oliver)? 
+- How is this representation of a Black woman activist similar to or different from others in this teaching collection - including the photographs of [Elizabeth Cisco](../topics/black-latina-women/cisco-resisting-segregation/elizabeth-cisco), [Mae Mallory and her daughter Patricia](../topics/black-latina-women/harlem-nine/mae-mallory-and-daughter), and [Denise Oliver](../topics/black-latina-women/young-lords/denise-oliver)?
 --- 
 
 Mrs. Willie Mae Goodman heard many people speak of her daughter’s death. When she was an infant and a toddler, doctors encouraged Mrs. Goodman and her husband to place Marguerite in an institution. Her doctors predicted that Marguerite would not live beyond two years, and they told her parents that they could send her away.

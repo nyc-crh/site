@@ -3,21 +3,24 @@ layout: gallery
 draft: false
 date: 1969-01-01
 displaydate: "1969"
-title: “Viva Harlem U!”
+title: Viva Harlem U!
 author: 
 citation: >
- “Viva Harlem U!” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/black-latina-women/audre-lorde-cuny/viva-harlem-u.
+ "Viva Harlem U!" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/viva-harlem-u.
 imageFeatured: viva-harlem-u.jpg
-imageFeaturedAlt: >
- College students, most appearing to be white, hold signs at a rally outdoors with trees behind them. One student has a loudspeaker. The largest banner reads, "Support the Five Demands - Viva Harlem U."
+imageFeaturedAlt: College students hold signs at an outdoor rally. A large banner reads, "Support the Five Demands - Viva Harlem U."
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: City College students occupy campus to call for reforms in admissions and curriculum.
 caption: City College students hold signs supporting a student strike, after several months of organizing for changes in curriculum and admissions there and on other City University of New York campuses.
 archive_source: City College Archives
@@ -30,16 +33,15 @@ tags:
 - women's activism
 - Black people
 - white people
-- protests
-- curriculum
+- protest- curriculum
 - organizing
-- photography & imagery
+- photography, imagery, & visual representation
 - multiracial organizing
 - Harlem
 questions:
 - What do you notice about the photograph? What questions would you ask to learn more about this protest? 
-- How do you think that Lorde’s experiences as a student, as described in *Zami*, and as a queer Black woman, shaped her approach to student activism?
----
+- How do you think that Lorde’s experiences as a student, as described in [*Zami*](../topics/black-latina-women/audre-lorde-cuny/zami-a-new-spelling-of-my-name), and as a queer Black woman, shaped her approach to student activism?
+--- 
 
 Although City College, where Audre Lorde taught, was in the predominantly Black and Latinx community of Harlem, there were very few Black or Latinx students who attended. In the 1968-1969 school year, City College students organized to demand change in admissions policies, curriculum, and support. They identified [“Five Demands”](/topics/black-latina-women/audre-lorde-cuny/we-demand/):
 
