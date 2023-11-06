@@ -14,11 +14,12 @@ embedTitle:
 text: 
 mapembed: 
 audio: 
-audioTitle: Milton Galamison oral history
-video: 
-  srcType: youtube
-  srcLink: 03atugrzteQ
-videoTitle: 
+audioTitle: Milton Galamison Oral History, excerpt
+audioTranscript: milton-galamison
+video:	
+  srcType:	youtube
+  srcLink:	001xHCFswhg
+videoTitle: Milton Galamison Oral History, excerpt
 eventname: Galamison describes the push for educational justice.
 caption: This is an oral history interview from the University of Kentucky’s library with Milton Galamison that discusses school segregation in New York City and protest against it.
 archive_source: University of Kentucky Libraries
