@@ -484,20 +484,84 @@ position:static;
 width:auto;
 height:auto;
 }
+details.readmore {
+    border-width: 0px;
+    margin: 0;
 
-details summary { 
-    cursor: pointer;
-  }
-  
-details summary > * {
-    display: inline;
+    summary {
+        list-style-type: disclosure-closed;
+        margin-left: 20px;
+    }
 }
+ 
+details.readmore[open] summary
+{ 
+  display: none;
+}
+$details-padding: 0.75em;
 
-details a {
-    text-decoration: underline;
+details {
+    font-size: 1.2rem;
+    margin: 0.5em auto;
+    width: 100%;
+    background: #ffffff;
+    border: 1px solid #bbbbbb;
+    border-radius: 3px;
+    position: relative;
+    width: 100%;
+
+    .summary-title {
+        user-select: none;
+        border-radius: 1px;
+        display: block;
+        font-size: 1.4rem;
+    }
+
+    &:hover {
+        cursor: pointer;
+    }
+
+    .summary-content {
+        cursor: defaurgb(180, 50, 50);
+        padding: $details-padding;
+    }
+
+    summary {
+        list-style: none;
+        padding: $details-padding;
+
+        &:focus {
+            outline: none;
+        }
+
+        &:hover .summary-chevron-up svg {
+            opacity: 1;
+        }
+    }
+
+    .summary-chevron-up svg {
+        opacity: 0.5;
+    }
+
+    .summary-chevron-up,
+    .summary-chevron-down {
+        pointer-events: none;
+        position: absolute;
+        top: 1em;
+        right: $details-padding;
+        background: #ffffff;
+
+        svg {
+            display: block;
+        }
+    }
+
+    summary::-webkit-details-marker {
+        display: none;
+    }
 }
-li.keyconcepts.d-print-block {
-    list-style: none;
+details.references:empty {
+    display:none;
 }
 
 .concept { 
@@ -616,16 +680,6 @@ a.nav-item.nav-link{
 a.px-2.nav-link:hover {
     text-decoration: none;
 }
-details.readmore[open] summary
-{ 
-  display: none;
-}
-
-
-details[open] summary {
-    & .kc {
-    display: block;}
-  }
 
  /// footnotes highlight 
 @keyframes highlight {

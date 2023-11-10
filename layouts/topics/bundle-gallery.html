@@ -3,7 +3,7 @@
     <title>{{ .Params.title }}</title>
                 <h1>{{ .Page.Params.title }}</h1>
                  <p>{{ .Content | page.RenderString | safeHTML }}</p></details>
-            <section class="timeline">
+            <section class="timeline d-print-none">
                 <div class="container-fluid" style="text-align: left!important">
                   {{ range .RegularPagesRecursive.ByDate | uniq }} 
                     {{$alt:= .Params.imageFeaturedAlt}}

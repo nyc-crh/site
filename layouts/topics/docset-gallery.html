@@ -33,7 +33,7 @@
                 </div>
             </section>
             {{end}}
-            <section class="timeline">
+            <section class="timeline d-print-none">
                 <div class="container-fluid" style="text-align: left!important">
                   {{ range .RegularPagesRecursive.ByDate | uniq }} 
                     {{$alt:= .Params.imageFeaturedAlt}}

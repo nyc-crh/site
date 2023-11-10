@@ -1,13 +1,12 @@
-<title>{{ .Title }}</title>
 <p><strong>Caption:</strong> {{ .Params.caption | page.RenderString | safeHTML }}</p>
-{{ with .Params.imageFeatured }}<div class="d-none d-print-block">
+{{ with .Params.imageFeatured }}
      {{ $image := resources.Get (printf "/images/%s" . )}}
-    <img src="{{ ($image).RelPermalink }}" class="d-none d-print-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 0%;"/>
-</div>{{end}}
+    <img src="{{ ($image).RelPermalink }}" class="d-print-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 0%;"/>
+{{end}}
 {{ if .Params.text }}
-<a href="/plain-text/{{.Params.text}}" >Read plain text of document</a>{{ end }}
-{{ if .Params.detailedDescr }}<a href="/plain-text/{{.Params.detailedDescr}}" >Detailed image description</a>{{ end }}</div>
-{{ if .Params.audioTranscript }}<a href="/plain-text/{{.Params.audioTranscript}}" >Audio transcript</a>{{ end }}</div>
+<a href="/plain-text/{{.Params.text}}" class="d-print-none">Read plain text of document</a>{{ end }}
+{{ if .Params.detailedDescr }}<a href="/plain-text/{{.Params.detailedDescr}}" class="d-print-none">Detailed image description</a>{{ end }}
+{{ if .Params.audioTranscript }}<a href="/plain-text/{{.Params.audioTranscript}}" class="d-print-none">Audio transcript</a>{{ end }}
 <div class = "d-flex justify-content-center">
     {{$video:=.Params.video}}
     {{with or .Params.video .Params.embed}}
@@ -51,70 +50,68 @@
             <a class="tag-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
             {{ end }}
         {{ end }}</p>{{ end }}</div>
-<div class="accordion accordion-flush" id="accordionFlushExample">
-    <div class="accordion-item">
-        <h2 class="accordion-header" id="flush-headingOne">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                Item Details
-            </button>
-        </h2>
-        <div id="flush-collapseOne" class="accordion-collapse collapse d-print-block" aria-labelledby="flush-headingOne"
-            data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">
-                <p> <strong>Date:</strong> {{ if .Params.Displaydate }}{{ .Params.Displaydate }}
-                    {{ else }}{{ .Params.Date.Format "Jan 2, 2006"}}{{ end }}
-                    {{ if .Params.author }} <p> <strong>Creator:</strong> {{ .Params.author | page.RenderString | safeHTML}}</p>{{ end }}
-                <p> <strong>Source:</strong> {{ if .Params.source_link }}<a href="{{ .Params.source_link }}">{{ .Params.archive_source | page.RenderString | safeHTML}}</a>{{ else }} {{ .Params.archive_source | page.RenderString | safeHTML}}{{ end }}</p>
-                <p> <strong>Copyright:</strong> {{ .Params.copyright | page.RenderString | safeHTML}}</p>
-                <p> <strong>How to cite:</strong> {{ .Params.citation | page.RenderString | safeHTML}}</p>
-            </div>
+
+        <div class="row justify-content-center pt-3">
+                <details class="d-print-block">
+                    <summary><span class="summary-title">Item Details</span>
+                        <div class="summary-chevron-up">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </summary>
+                    <div class="summary-content">
+                        <p> <strong>Date:</strong> {{ if .Params.Displaydate }}{{ .Params.Displaydate }}
+                            {{ else }}{{ .Params.Date.Format "Jan 2, 2006"}}{{ end }}
+                            {{ if .Params.author }} <p> <strong>Creator:</strong> {{ .Params.author | page.RenderString | safeHTML}}</p>{{ end }}
+                        <p> <strong>Source:</strong> {{ if .Params.source_link }}<a href="{{ .Params.source_link }}">{{ .Params.archive_source | page.RenderString | safeHTML}}</a>{{ else }} {{ .Params.archive_source | page.RenderString | safeHTML}}{{ end }}</p>
+                        <p> <strong>Copyright:</strong> {{ .Params.copyright | page.RenderString | safeHTML}}</p>
+                        <p> <strong>How to cite:</strong> {{ .Params.citation | page.RenderString | safeHTML}}</p>
+                   </div>
+                   <div class="summary-chevron-down">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></div>
+                </details>
+                <details>
+                    <summary>
+                        <span class="summary-title">
+                            Questions to Consider</span>
+                            <div class="summary-chevron-up">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                            </div>
+                    </summary>
+                    <div class="summary-content">
+                        <ul>{{ range .Params.questions }}<li>{{ $.Page.RenderString . | safeHTML }}</li>{{ end }}</ul>
+                    </div>
+                    <div class="summary-chevron-down">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></div>
+                </details>
+                <details class="references d-print-block">
+                    <summary>
+                        <span class="summary-title">References</span>
+                        <div class="summary-chevron-up">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </summary>
+                    <div class="summary-content">
+                    </div>
+                    <div class="summary-chevron-down">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></div>
+                </details>
+                <details class="d-print-block">
+                    <summary>
+                        <span class="summary-title d-print-none">How to Print this Page</span>
+                        <div class="summary-chevron-up">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                        </div>
+                    </summary>
+                    <div class="summary-content">
+                        <ul><li>Press Ctrl + P or Cmd + P to open the print dialogue window.</li>
+                            <li>Under settings, choose "display headers and footers" if you want to print page numbers and the web address.</li>
+                            <li>Embedded PDF files will not print as part of the page. For best printing results, download the PDF and print from Adobe Reader or Preview.
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="summary-chevron-down">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></div>
+                </details>
         </div>
-    </div>
-    <div class="accordion-item">
-        <h2 class="accordion-header" id="flush-headingTwo">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                Questions to Consider
-            </button>
-        </h2>
-        <div id="flush-collapseTwo" class="accordion-collapse collapse d-print-block" aria-labelledby="flush-headingTwo"
-            data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">
-            <ul>{{ range .Params.questions }}<li>{{ $.Page.RenderString . | safeHTML }}</li>{{ end }}</ul>
-            </div>
-        </div>
-    </div>
-    <div class="accordion-item">
-        <h2 class="accordion-header" id="flush-headingThree">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
-                References
-            </button>
-        </h2>
-        <div id="flush-collapseThree" class="accordion-collapse collapse d-print-block" aria-labelledby="flush-headingThree"
-            data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">
-            </div>
-        </div>
-    </div>
-    <div class="accordion-item">
-        <h2 class="accordion-header d-print-none" id="flush-headingFour">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                How to Print this Page
-            </button>
-        </h2>
-        <div id="flush-collapseFour" class="accordion-collapse collapse d-print-none" aria-labelledby="flush-headingFour"
-            data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">
-            <ul><li>Press Ctrl + P or Cmd + P to open the print dialogue window.</li>
-                <li>Under settings, choose "display headers and footers" if you want to print page numbers and the web address.</li>
-                <li>Embedded PDF files will not print as part of the page. For best printing results, download the PDF and print from Adobe Reader or Preview.
-                </li>
-            </ul>
-            </div>
-        </div>
-    </div>
-</div>
+
 

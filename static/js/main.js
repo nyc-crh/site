@@ -2,7 +2,7 @@ const footnotes = document.querySelector('.footnotes');
 const footnotesLinks = document.querySelectorAll('a.footnote-ref')
 
 if(footnotes){
-    const reference=  document.querySelector('#flush-collapseThree > .accordion-body');
+    const reference=  document.querySelector('.references > .summary-content');
     reference.appendChild(footnotes);
 }
 
@@ -10,8 +10,8 @@ footnotesLinks.forEach(footnote=>{
     footnote.addEventListener('click',e=>{
         e.preventDefault();
         const url= footnote.getAttribute('href');
-        const reference=  document.querySelector('#flush-collapseThree');
-        const btn = document.querySelector('#flush-headingThree > .accordion-button')
+        const reference=  document.querySelector('.references');
+        const btn = document.querySelector('.references > .summary-content')
         if(reference.classList.contains('collapse'))
             reference.classList.add('show');
         btn.setAttribute('aria-expanded', true);
