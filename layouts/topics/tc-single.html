@@ -1,6 +1,6 @@
 {{define "main"}}
-<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all"><h2 class="d-print-none">You are here:</h2>
-<p class="d-print-none">{{ partial "breadcrumbs" . }}</p>
+<div id="main" class="col-lg-10 mx-auto justify-content-center py-5" data-pagefind-ignore="all"><h2 class="d-print-none">You are here:</h2>
+<p>{{ partial "breadcrumbs" . }}</p>
     {{$fileName:= .File.BaseFileName}}
     {{$galleryPage:= $.Site.GetPage (printf "gallery/%s" $fileName)}}
     {{with $galleryPage}}

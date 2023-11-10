@@ -6,7 +6,7 @@ title: Project History
 
 In January 2019, the New York youth activist group Teens Take Charge (TTC) came to Brooklyn College professor Jeanne Theoharis.  They had read her chapter on the history of the New York civil rights movement around school segregation in *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* and had previously invited her to join them for a public town hall on NYC’s enduring school segregation. This event, and conversations within TTC about how history mattered for their work, and about what histories were relevant to and needed by New York’s students today, were prompted in part by frustration. When TTC organizer and co-founder Nelson Luna chose the history of New York City schools and civil rights organizing in education as the focus of a major research project for school, he found few available resources and met resistance from his teachers.
 
-<details class="mb-5"><summary>Read More</summary>
+{{% read-more %}}
 
 After the town hall, TTC wanted something bigger. Learning that history had been pivotal to how they understood the city and their place in it and what they were trying to do to expose and attack the city’s enduringly segregated and unequal schools.  But nearly all that they had learned in school about the civil rights movement and school segregation in particular had been focused on the South. They were dismayed that they had only been exposed to this NYC history through their own independent political education. It was essential for all students in NYC to understand and grapple with this history of segregation and struggle in New York.  People need to understand the long history of segregation in New York, the policies and arguments that have been used to justify and maintain it, and how people have challenged it. How can we get this into the New York City school curriculum, they asked? Can you help us do that?
 
@@ -21,7 +21,7 @@ We realized that the National Historic Publications and Records Commission had t
 
 The core project team included the four co-directors and a group of three to five team members per year, most of whom were doctoral students at Teachers College and at other area institutions. Team members have diverse backgrounds as educators and/or activists, and research and/or teaching interests in racism, ableism, and struggles for justice in education. They brought a range of identities and life experiences to the project. They were hired as graduate assistants or consultants. Team members took on various and expanding aspects of the project, including conducting archival research, imagining lesson plans, facilitating community meetings, testing different ways to present primary sources, and writing supporting text for the sources.
 
-<details class="mb-5"><summary>Read More</summary>
+{{% read-more %}}
 
 This core team received guidance and insight from monthly meetings with community advisors, who were people invited into this work by the co-directors because of their organizational affiliations (as members of youth organizations like IntegrateNYC and Teens Take Charge or adult advocacy groups like IncludeNYC or Black Deaf Advocates of New York), their relevant scholarly and public history work, or their experience as students, educators, or activists. Community advisors received an honorarium for their participation.
 

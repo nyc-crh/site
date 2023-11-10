@@ -7,8 +7,7 @@ draft: false
 
 East Harlem in the 1930s and 1940s was a dense urban community with people from all over the world. Italian-Americans whose families had been in New York one or two generations or had just arrived, Puerto Ricans who came from the island seeking more economic opportunity, and Black migrants from the US South and the Caribbean: all converged in East Harlem. Many East Harlemites found crowded and often crumbling housing, and Puerto Rican and Black workers experienced continued racism in industries like the garment trades (where people made and distributed clothing).[^1]  
 
-<details>
-    <summary>Read More</summary>
+{{% read-more %}}
 
 But some institutions were trying to figure out how to support East Harlem’s communities. Benjamin Franklin High School was one such place. The school’s principal, Leonard Covello, immigrated to the US from Italy as a child. He imagined that a school could be a hub of community life—open to adults as well as children, and responsive to the community’s cultural identity and its needs and desires. He hoped that school could be a place where different community identities could be celebrated while young people also learned to live and work together to improve their lives.[^2]  
 

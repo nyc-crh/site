@@ -7,8 +7,7 @@ draft: false
 
 A Black girl sat in her Chicago high school classroom in 1920 and heard her teacher say that native-born white students were more intelligent than Black and immigrant students. The teacher claimed that there was proof, from [a new test given to soldiers](/gallery/army-test). “A race conscious Negro girl, one of the leaders of the class, objected to this remark,” but the teacher responded by showing the student tables with [the test results](gallery/army-test). The girl later reported, “with a brave look in her eyes,” that she told the teacher that she “did not believe that the figures were accurate.”[^1]
 
-<details class="readmore">
-  <summary>Read More</summary>
+{{% read-more %}}
 
 The girl told Horace Mann Bond, a Black scholar, about this encounter. And he reported it as evidence that “every Negro student” should “be in possession of every detail of the operation, use and origin of these tests, in order that he might better equip himself as an active agent against the insidious propaganda … which seeks to demonstrate that the Negro is intellectually and physically incapable of assuming the dignities, rights and duties which devolve upon him as a member of modern society.”[^2]
 

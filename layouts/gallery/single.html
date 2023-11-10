@@ -1,11 +1,11 @@
 {{ define "main" }}
-<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+<div id="main" class="col-lg-10 mx-auto justify-content-center my-5 d-print-block">
   <div class="mb-5">
     <div class="row justify-content-center pt-3">
       <title>{{ .Title }}</title>
         <h1> {{ .Params.title| page.RenderString | safeHTML }}</h1></div>
         {{ partial "content" . }}
-        <div class="col mx-auto d-flex justify-content-between py-5 d-print-none">
+        <div class="col mx-auto d-flex justify-content-between my-5 d-print-none">
           {{ with .PrevInSection }}
                 <div class="float-left g-5"><a class="previous btn btn-primary text-left" href="{{.RelPermalink}}"> Previous Item </a></div>
                 {{ end }}

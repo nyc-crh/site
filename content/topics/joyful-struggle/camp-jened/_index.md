@@ -6,8 +6,7 @@ draft: false
 
 Steven L. Sles went to summer camp when he was 13. The day started with the pledge of allegiance to the flag. After some chores and clean-up, campers participated in a range of activities including arts and crafts, music, theater, swimming, and photography, all before lunch. In the evenings, there was a campfire where campers and counselors shared stories and roasted marshmallows. Sles attended Camp Jened in the upstate town of Hunter, New York. Sles, who had cerebral palsy, called his camp “A Haven for the Handicapped.”[^1]
 
-<details>
-    <summary>Read More</summary>
+{{% read-more %}}
 
 Camp Jened was the first camp of its kind in the United States designed for disabled young people, like Steven, as campers. Jened opened in 1953 so that disabled children, teens, and adults could enjoy an outdoors, rural, summer camp experience. Many of the activities Steven and fellow campers recalled were common for children who went to summer camps, but most summer camps at the time excluded disabled students.[^2]
 

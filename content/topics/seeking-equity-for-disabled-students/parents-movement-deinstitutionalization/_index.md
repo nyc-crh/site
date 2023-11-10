@@ -7,8 +7,7 @@ draft: false
 
 From the 1850s on, residential institutions for people with intellectual and developmental disabilities became widespread in New York and the United States. Many parents sent their children to these state schools, hoping they would be rehabilitated and come home. Other parents needed help and support to care for children who could not handle their own care needs. Once they moved in, many people never left these institutions.
 
-<details class="readmore">
-  <summary>Read More</summary>
+{{% read-more %}}
 
 Willowbrook State School in Staten Island was built just before World War II, but it was used as an army hospital during the war. It was the largest school of its kind when it opened in 1947. Willowbrook was originally designed to house a maximum of 4,000 residents, but held 6,200 residents at its maximum. New York Senator Robert F. Kennedy, whose sister Rosemary had an intellectual disability, visited the school in 1965. He described it as a “snake pit,” and said that residents were suffering due to a “lack of attention, lack of imagination, lack of adequate manpower.”[^1]
 

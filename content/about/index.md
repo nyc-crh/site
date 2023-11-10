@@ -8,24 +8,33 @@ As educators, scholars, activists, and students, we chose the name "New York Cit
 
 A team of scholars, educators, activists, and advocates contributed to this project. [Find out how our work started, who has been involved, and how it developed](/project-history).
 
-This project is housed at the [Center on History and Education at Teachers College, Columbia University]( https://www.tc.columbia.edu/che/).
+This project is housed at the [Center on History and Education at Teachers College, Columbia University](https://www.tc.columbia.edu/che/).
 
-![""](images/teachers-college-logo.jpg)
+{{< figure src="teachers-college-logo.jpg" alt="" class="col-md-3" link="https://www.tc.columbia.edu" >}}
 
-The New York City Civil RIghts History Project received initial funding from the National Archives’ Public Engagement with Historical Records grant program. Additional funders and partners include:
+The New York City Civil Rights History Project received initial funding from the National Archives’ Public Engagement with Historical Records grant program. Additional funders and partners include:
 
-!["National Archives National Historical Publications & Records Commission; Digital Futures Institute, Center for Educators & Schools Teachers College, Columbia University, The New York Public Library; Humanities New York"](images/supporter-logos.jpg)
-
-!["National Endowment for the Humanities"](images/neh-logo.jpg)
+{{< figure src="national-archives.jpg" alt="National Archives National Historical Publications & Records Commission" class="float-left col-md-3" link="https://www.archives.gov/" >}}
+{{< figure src="digital-futures-institute.jpg" alt="Digital Futures Institute, Teachers College, Columbia University" class="float-left" link="https://www.tc.columbia.edu/digitalfuturesinstitute/" >}}
+{{< figure src="center-for-educators-and-schools.jpg" alt="Center for Educators & Schools, The New York Public Library" class="float-left" link="https://www.nypl.org/education/educators">}}
+{{< clearfix >}}
+{{< figure src="humanities-new-york.jpg" alt="Humanities New York" class="float-left" link="https://humanitiesny.org/">}}
+{{< clearfix >}}
 
 This project has been made possible in part by a major grant from the National Endowment for the Humanities. Any views, findings, conclusions, or recommendations expressed in this institute do not necessarily represent those of the National Endowment for the Humanities. Democracy demands wisdom.
+{{< figure src="neh-logo.jpg" alt="National Endowment for the Humanities" class="float-left" link="https://www.neh.gov/" >}}
+{{< clearfix >}}
 
-This project would not be possible without the work of many previous generations who have preserved our historical record. New York’s Black press, and especially the [_New York Amsterdam News_](https://www.nypl.org/research/collections/articles-databases/new-york-amsterdam-news-1922-2010), is a key source. Historical documents about struggles for educational justice in New York City are preserved in the collections of many archives and libraries, including: 
+This project would not be possible without the work of many previous generations who have preserved our historical record. New York’s Black press, and especially the [*New York Amsterdam News*](https://www.nypl.org/research/collections/articles-databases/new-york-amsterdam-news-1922-2010), is a key source.
+{{< figure src="amsterdam-news-logo.jpg" alt="Amsterdam News" class="float-left" link="https://amsterdamnews.com/" >}} 
+{{< clearfix >}}
+
+Historical documents about struggles for educational justice in New York City are preserved in the collections of many archives and libraries, including: 
   
-  - [The Municipal Archives of the City of New York](https://www.nyc.gov/site/records/about/municipal-archives.page)
-  - [The Schomburg Center for the Study of Black Culture of The New York Public Library](https://www.nypl.org/locations/schomburg)
-  - [Rare Book and Manuscript Library, Columbia University](https://library.columbia.edu/libraries/rbml.html)
-  - [El Centro/Center for Puerto Rican Studies, Hunter College, City University of New York](https://centropr.hunter.cuny.edu/library/) 
+- [The Municipal Archives of the City of New York](https://www.nyc.gov/site/records/about/municipal-archives.page)
+- [The Schomburg Center for the Study of Black Culture of The New York Public Library](https://www.nypl.org/locations/schomburg)
+- [Rare Book and Manuscript Library, Columbia University](https://library.columbia.edu/libraries/rbml.html)
+- [El Centro/Center for Puerto Rican Studies, Hunter College, City University of New York](https://centropr.hunter.cuny.edu/library/) 
 
 ## Feedback
 

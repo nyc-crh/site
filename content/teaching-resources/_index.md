@@ -40,4 +40,11 @@ cards:
     btn:
       text: View resources
       url: /teaching-resources/additional-resources/
+  - title: Creating a Safe Learning Community
+    img: text-icon.jpg
+    alt: alt tag
+    text: See more resources.
+    btn:
+      text: View resources
+      url: /teaching-resources/safe-learning-community/
 ---

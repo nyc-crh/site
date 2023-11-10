@@ -6,8 +6,7 @@ draft: false
 ---
 Disability has historically been misunderstood: it has been perceived as a curse or punishment for being immoral, or been linked to racist ideas of physical or mental inferiority. In the 18th century US, children with disabilities may have been kept at home, out of the sight of the community, or abandoned and sent to an almshouse. Children who were sick or physically disabled might end up in a hospital for most of their lives.[^1] When formal schooling became more widespread for white students in the middle of the 19th century, disabled children were taken up as a cause by religious men who felt a moral calling to help them.
 
-<details class="readmore">
-  <summary>Read More</summary>
+{{% read-more %}}
 
 The earliest schools for disabled children in New York City were started by philanthropists who were not disabled themselves. They learned teaching methods from European educators who had had some success teaching Deaf, blind, and intellectually disabled children.[^2] Some of these early schools were day schools, and others were residential schools, where children lived while they were educated. The initial goals of these residential institutions were to try to rehabilitate those who could adapt to their disability and fit in with society. They soon became places to segregate disabled people away from society, where they weren’t seen.
 

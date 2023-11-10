@@ -4,7 +4,7 @@
     <img src="{{ ($image).RelPermalink }}" class="d-print-block" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 0%;"/>
 {{end}}
 {{ if .Params.text }}
-<a href="/plain-text/{{.Params.text}}" class="d-print-none">Read plain text of document</a>{{ end }}
+<a href="/plain-text/{{.Params.text}}" class="pb-3 d-print-none">Read plain text of document</a>{{ end }}
 {{ if .Params.detailedDescr }}<a href="/plain-text/{{.Params.detailedDescr}}" class="d-print-none">Detailed image description</a>{{ end }}
 {{ if .Params.audioTranscript }}<a href="/plain-text/{{.Params.audioTranscript}}" class="d-print-none">Audio transcript</a>{{ end }}
 <div class = "d-flex justify-content-center">
@@ -38,7 +38,7 @@
     {{ $closeRdLink := $.Params.closeRdLink }}
     <a href="{{$closeRdLink}}"><img src="{{ ( $closeRdImg).RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.closeRdAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/></a>
      {{end}}{{ else }}{{ end }}</div>
-     <div class="col mx-auto d-print-block float-left">{{ if .Params.categories }}
+     <div class="col mx-auto d-print-block">{{ if .Params.categories }}
         <p class="pt-5 px-3 d-print-none"><strong>Categories: </strong>{{ with .GetTerms "categories" }}
             {{ range . }}
             <a class="category-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
@@ -51,14 +51,14 @@
             {{ end }}
         {{ end }}</p>{{ end }}</div>
 
-        <div class="row justify-content-center pt-3">
+        <div class="row mx-auto pt-3">
                 <details class="d-print-block">
-                    <summary><span class="summary-title">Item Details</span>
-                        <div class="summary-chevron-up">
+                    <summary><span class="summary-title d-print-block">Item Details</span>
+                        <div class="summary-chevron-up d-print-none">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
                         </div>
                     </summary>
-                    <div class="summary-content">
+                    <div class="summary-content d-print-block">
                         <p> <strong>Date:</strong> {{ if .Params.Displaydate }}{{ .Params.Displaydate }}
                             {{ else }}{{ .Params.Date.Format "Jan 2, 2006"}}{{ end }}
                             {{ if .Params.author }} <p> <strong>Creator:</strong> {{ .Params.author | page.RenderString | safeHTML}}</p>{{ end }}
@@ -66,50 +66,50 @@
                         <p> <strong>Copyright:</strong> {{ .Params.copyright | page.RenderString | safeHTML}}</p>
                         <p> <strong>How to cite:</strong> {{ .Params.citation | page.RenderString | safeHTML}}</p>
                    </div>
-                   <div class="summary-chevron-down">
+                   <div class="summary-chevron-down d-print-none">
                     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></div>
                 </details>
                 <details>
                     <summary>
-                        <span class="summary-title">
+                        <span class="summary-title d-print-block">
                             Questions to Consider</span>
-                            <div class="summary-chevron-up">
+                            <div class="summary-chevron-up d-print-none">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
                             </div>
                     </summary>
-                    <div class="summary-content">
+                    <div class="summary-content d-print-block">
                         <ul>{{ range .Params.questions }}<li>{{ $.Page.RenderString . | safeHTML }}</li>{{ end }}</ul>
                     </div>
-                    <div class="summary-chevron-down">
+                    <div class="summary-chevron-down d-print-none">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></div>
                 </details>
                 <details class="references d-print-block">
                     <summary>
-                        <span class="summary-title">References</span>
-                        <div class="summary-chevron-up">
+                        <span class="summary-title d-print-block">References</span>
+                        <div class="summary-chevron-up d-print-none">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
                         </div>
                     </summary>
-                    <div class="summary-content">
+                    <div class="summary-content d-print-block">
                     </div>
-                    <div class="summary-chevron-down">
+                    <div class="summary-chevron-down d-print-none">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></div>
                 </details>
-                <details class="d-print-block">
+                <details class="d-print-none">
                     <summary>
                         <span class="summary-title d-print-none">How to Print this Page</span>
-                        <div class="summary-chevron-up">
+                        <div class="summary-chevron-up d-print-none">
                             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
                         </div>
                     </summary>
-                    <div class="summary-content">
+                    <div class="summary-content d-print-none">
                         <ul><li>Press Ctrl + P or Cmd + P to open the print dialogue window.</li>
                             <li>Under settings, choose "display headers and footers" if you want to print page numbers and the web address.</li>
                             <li>Embedded PDF files will not print as part of the page. For best printing results, download the PDF and print from Adobe Reader or Preview.
                             </li>
                         </ul>
                     </div>
-                    <div class="summary-chevron-down">
+                    <div class="summary-chevron-down d-print-none">
                         <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></div>
                 </details>
         </div>
