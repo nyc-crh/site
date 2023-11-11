@@ -46,7 +46,7 @@ questions:
 
 Puerto Ricans became citizens of the United States in 1917, as part of the US’s claiming control of the island. As US citizens, those who wanted to come to the mainland faced fewer barriers than immigrants from other countries. In the 1930s and 1940s, hundreds of thousands of Puerto Ricans made the choice to migrate. Many came to New York City. Racial segregation in housing meant that they often lived alongside Black families like Toni Cade Bambara’s in Harlem. They also lived alongside Italian-American and Black families in East Harlem and the Lower East Side.
 
-Many Puerto Rican migrants spoke only Spanish, and many New York City schools were not prepared or willing to support them.[^1] Many Puerto Rican students and families wanted to learn English while also keeping and respecting their home language. Instead, many Puerto Rican children, like Bambara’s young neighbor, were quickly categorized as disabled - here, as “retarded” - by school administrators on the basis of their language and their race.
+Many Puerto Rican migrants spoke only Spanish, and many New York City schools were not prepared or willing to support them.[^1] Many Puerto Rican students and families wanted to learn English while also keeping and respecting their home language. Instead, many Puerto Rican children, like Bambara’s young neighbor, were quickly categorized as disabled by school administrators on the basis of their language and their race.
 
 Decades after author Toni Cade Bambara witnessed this treatment of her neighbor, the same pattern still continued. Evelina López Antonetty and United Bronx Parents organized parents in support of bilingual education - so that Puerto Rican children could learn in both Spanish and English. They also called for careful testing of students in their own languages, so that not speaking English would not be interpreted as a disability, and so that students’ disabilities could be correctly identified.
 > It was 1948—the year after the big snow in New York, I was in the 4th grade… living in that part of Harlem strivers called “Washington Heights”—151st Street between Amsterdam & B’way.
@@ -67,7 +67,7 @@ Decades after author Toni Cade Bambara witnessed this treatment of her neighbor,
 >
 > Ohhh, so they Spanish. Quite naturally we children began speaking “Spanish” which of course nobody could understand—including us. It was the candy store man who explained that these New people came from Puerto Rico not Spain. We’d heard of that place in school— This was the 40s keep in mind—the era of Chiquita Banana and Good Neighbor Policy. They were eager to tell us about the “Spanish American War” and how Uncle Sam “saved” Cuba, the Philippines, and Puerto Rico from the bad guys. Not a word on the Cuban War for Independence or anything like that—just sunshine, Uncle Sam’s heroics, and Chiquita Banana.
 >
-> \*=*Children with Retarded Mental Development, the NYC Board of Education’s term at the time for children with intellectual or developmental disabilities.*
+> \*=*Children with Retarded Mental Development, the NYC Board of Education’s term at the time for children with intellectual or developmental disabilities. The term "retarded" is not appropriate for use today.*
 >
 > \*\*=*“people from down south” refers to Black migrants coming to the North from the US South. This is a reference to the “Great Migration,” which brought millions of Black Southerners to New York and other northern cities from 1910 to 1970.*
 >
