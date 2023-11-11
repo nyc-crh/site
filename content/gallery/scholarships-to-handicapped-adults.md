@@ -2,35 +2,38 @@
 layout: gallery
 draft: false
 date: 1958-03-01
-displaydate: "unknown"
+displaydate: "undated"
 title: Camp Scholarships Will be Awarded to Handicapped Adults
 author: United Cerebral Palsy of New York
 citation: >
  "Camp Scholarships Will be Awarded to Handicapped Adults," United Cerebral Palsy of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/scholarships-to-handicapped-adults.
 imageFeatured: scholarships-to-handicapped-adults.jpg
-imageFeaturedAlt: Newsletter clipping showing a woman in a wheelchair, turned sideways and smiling for the camera
+imageFeaturedAlt: Newsletter clipping with a woman in a wheelchair, turned sideways and smiling for the camera
+detailedDescr: 
 embed: 
 embedTitle: 
 text: scholarships-to-handicapped-adults
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: United Cerebral Palsy spreads the word about Camp Jened.
 caption: United Cerebral Palsy spreads the word about Camp Jened.
 archive_source: From the Collection of the Family of Honora and Murray Rubenstein.
 source_link: 
 copyright: Under copyright.
-categories:	
+categories: 
 - k-12 education
-- higher education
-- national
+- higher education- national
 - New York State
-- teacher activism
-tags:
-- physical disability
-- intellectual disability
+- teacher activism"
+tags: 
+- physical disabilities
+- intellectual disabilities
 - joy
 - architectural barriers
 - disabled people

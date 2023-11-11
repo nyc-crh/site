@@ -1,4 +1,4 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1900-01-09
@@ -29,7 +29,7 @@ copyright: Government document
 categories: 
 - Queens
 - parent activism
-- k-12 education
+- k-12 education"
 tags: 
 - zoning & student assignment
 - segregation

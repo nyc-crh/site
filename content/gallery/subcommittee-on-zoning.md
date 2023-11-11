@@ -25,7 +25,7 @@ eventname: The New York City Board of Education appoints a group to study racial
 caption: The New York City Board of Education appointed the 1956 Commission on Integration to study racial segregation in New York City schools and make recommendations for integrating them. This is an excerpt from a draft of their report.
 archive_source: Annie Stein Papers, Columbia University Rare Books and Manuscript Library
 source_link: https://findingaids.library.columbia.edu/ead/nnc-rb/ldpd_6909494/dsc#view_all
-copyright: Public domain
+copyright: Public domain. Courtesy of Columbia University Rare Book and Manuscript Library.
 categories: 
 - k-12 education
 - community activism
@@ -35,7 +35,7 @@ tags:
 - Black people
 - women's activism
 - zoning & school assignment
-questions:
+questions: 
 - According to the subcommittee’s draft, why were New York City Schools segregated? Why was the segregation of New York City Schools a problem? What do you think of these explanations? 
 - Do you think the report’s authors want to reveal, or want to hide, how New York’s schools became segregated? Why? 
 - In 2014, researchers identified New York City schools as [some of the most segregated in the U.S](https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf). Soon after, Mayor Bill de Blasio created a “School Diversity Advisory Group” for the New York City Department of Education to discuss ways to address this issue. How do you think Ella Baker would feel knowing about the continued segregation of New York schools? What advice do you think she would offer the School Diversity Advisory Group?

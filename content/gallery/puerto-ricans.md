@@ -23,7 +23,7 @@ closeRdImg:
 closeRdLink: 
 eventname: Toni Cade Bambara recalls how her Puerto Rican neighbor was treated when he went to school. 
 caption: Writer Toni Cade Bambara recalls being a child in Harlem when new neighbors from Puerto Rico moved in. She observed the family and how the schools treated their new students. 
-archive_source: "Toni Cade Bambara, \"Realizing the Dream of a Black University and Other Writings, Part I.\" Makeba Lavan, Conor Tomás Reed, Ed. Series 7, Number 2, Part 1, Fall 2017, [https://cuny.manifoldapp.org/read/realizing-the-dream-of-a-black-university-other-writings-part-i/section/e29ebe26-4067-4c4f-8570-e182a32a2cf3](https://cuny.manifoldapp.org/read/realizing-the-dream-of-a-black-university-other-writings-part-i/section/e29ebe26-4067-4c4f-8570-e182a32a2cf3)"
+archive_source: "Toni Cade Bambara, \"Realizing the Dream of a Black University and Other Writings, Part I.\" Makeba Lavan, Conor Tomás Reed, Ed. Series 7, Number 2, Part 1, Fall 2017, https://cuny.manifoldapp.org/read/realizing-the-dream-of-a-black-university-other-writings-part-i/section/e29ebe26-4067-4c4f-8570-e182a32a2cf3"
 source_link: https://cuny.manifoldapp.org/read/realizing-the-dream-of-a-black-university-other-writings-part-i/section/e29ebe26-4067-4c4f-8570-e182a32a2cf
 copyright: Under copyright.
 categories: 
@@ -38,7 +38,7 @@ tags:
 - disability labels
 - Latinx people
 - Black people
-questions:
+questions: 
 - What did Bambara notice about the new family? Where and how did she get information about them? Who else was gathering information or making judgements about the new family? 
 - What happened to the children in the new family when they went to school? Think about the phrase “you have no English/you have no I.Q.” How does this idea relate to the new child being placed in a “CRMD” class? How do you see racism and ableism in this situation? 
 - In the last paragraph, Bambara criticizes what her school taught her about Puerto Rico. She gives examples of what the schools did teach, and what it left out. What is the pattern that she noticed? Why do you think this mattered to her? Why do you think it would have mattered to Puerto Rican children going to school in New York?

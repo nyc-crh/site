@@ -1,38 +1,42 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1926-01-01
 displaydate: "1926 & 1937"
 title: Brotherhood of Sleeping Car Porters Rally Posters
-author:	Brotherhood of Sleeping Car Porters																								
-citation:	>
- "Brotherhood of Sleeping Car Porters Rally Posters," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/organizing-direct-action/brotherhood-of-sleeping-car-porters.																								
+author: Brotherhood of Sleeping Car Porters
+citation: >
+ "Brotherhood of Sleeping Car Porters Rally Posters," Brotherhood of Sleeping Car Porters, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brotherhood-of-sleeping-car-porters.
 imageFeatured: brotherhood-of-sleeping-car-porters.jpg
 imageFeaturedAlt: Notice to porters and maids about organizing labor rallies
+detailedDescr: 
 embed: brotherhood-of-sleeping-car-porters.pdf
 embedTitle: Brotherhood of Sleeping Car Porters Rally Posters
 text: brotherhood-of-sleeping-car-porters
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: The Brotherhood of Sleeping Car Porters organize labor rallies.
+closeRdImg: 
+closeRdLink: 
+eventname: The Brotherhood of Sleeping Car Porters
 caption: These two posters are promoting labor rallies organized by the Brotherhood of Sleeping Car Porters in 1926 and 1937. A. Philip Randolph led the founding of The Brotherhood of Sleeping Car Porters  in 1925, and he became the labor union’s first president. The Brotherhood of Sleeping Car Porters was a union of African American workers that struggled for better working conditions and challenged white supremacy in the nation’s labor movement. 
 archive_source: Newberry Library
 source_link: https://archive.org/details/nby_126266-4 
-copyright: Public Domain
-categories:
-  - National
-tags:
-  - labor unions
-  - organizing
-  - employment
-questions: 
-  - What were some of the key ideas that defined A. Philip Randolph’s politics?
-  - What do you notice about the labor rally posters? What do you wonder?
-  - Based on the texts and images in the posters, how do you think Randolph and other leaders of the Brotherhood of Sleeping Car Porters persuaded workers to engage in collective struggle? How did they try to get others interested?
----
+copyright: Public domain
+categories: 
+- national
+tags: 
+- labor unions
+- organizing
+- employment
+questions:
+- What were some of the key ideas that defined A. Philip Randolph’s politics?
+- What do you notice about the labor rally posters? What do you wonder?
+- Based on the texts and images in the posters, how do you think Randolph and other leaders of the Brotherhood of Sleeping Car Porters persuaded workers to engage in collective struggle? How did they try to get others interested?
+--- 
 
 Asa Phillip Randolph was born in Crescent City, Florida in 1889. The vibrant Black community in Jacksonville, Florida, where his family moved early in his life, provided him with a powerful education and close-knit community.[^1] However, the systemic violence of the Jim Crow South and its limited economic opportunity compelled Randolph to migrate to New York City in 1911 in pursuit of greater opportunity. He took on various jobs while living in New York and enrolled in some courses at City College.
 

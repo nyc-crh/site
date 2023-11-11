@@ -25,7 +25,7 @@ eventname: United Bronx Parents protest poor quality school lunch.
 caption: This photo shows Evelina Antonetty and two women, one carrying a child, walking across Federal Plaza in Manhattan and holding large plastic bags of food.
 archive_source: "Family of Evelina Antonetty, reprinted in Lana Dee Povitz, *Stirrings: How Activist New Yorkers Ignited a Movement for Food Justice* (Chicago: University of Chicago Press, 2019)."
 source_link: 
-copyright: Under copyright.
+copyright: Under copyright. Used with permission. Courtesy of Lana Dee Povitz.
 categories: 
 - Bronx
 - k-12 education
@@ -36,7 +36,7 @@ tags:
 - Black people
 - women's activism 
 - school facilities
-questions:
+questions: 
 - Why do you think the issue of school lunches were so important to parents in the South Bronx?
 - How did Antonetty help the parents organize? What do you think made them effective?
 - How are school lunches today? How would you change your school’s lunch program?

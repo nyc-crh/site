@@ -3,7 +3,7 @@
     <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all"><h2 class="d-print-none">You are here:</h2>
         <p class="d-print-none">{{ partial "breadcrumbs" . }}</p>
     <title>{{ .Params.title }}</title>
-                <h1 class="d-print-block">{{ .Page.Params.title }}</h1>
+                <h1 class="d-print-block">{{ .Page.Params.title | page.RenderString | safeHTML}}</h1>
                  <p class="d-print-block">{{ .Content | page.RenderString | safeHTML }}</p></details>
             <section class="timeline d-print-none">
                 <div class="container-fluid" style="text-align: left!important">

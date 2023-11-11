@@ -10,11 +10,11 @@ A team of scholars, educators, activists, and advocates contributed to this proj
 
 This project is housed at the [Center on History and Education at Teachers College, Columbia University](https://www.tc.columbia.edu/che/).
 
-{{< figure src="teachers-college-logo.jpg" alt="" class="col-md-3" link="https://www.tc.columbia.edu" >}}
+{{< figure src="teachers-college-logo.jpg" alt="" link="https://www.tc.columbia.edu" >}}
 
 The New York City Civil Rights History Project received initial funding from the National Archives’ Public Engagement with Historical Records grant program. Additional funders and partners include:
 
-{{< figure src="national-archives.jpg" alt="National Archives National Historical Publications & Records Commission" class="float-left col-md-3" link="https://www.archives.gov/" >}}
+{{< figure src="national-archives.jpg" alt="National Archives National Historical Publications & Records Commission" class="float-left" link="https://www.archives.gov/" >}}
 {{< figure src="digital-futures-institute.jpg" alt="Digital Futures Institute, Teachers College, Columbia University" class="float-left" link="https://www.tc.columbia.edu/digitalfuturesinstitute/" >}}
 {{< figure src="center-for-educators-and-schools.jpg" alt="Center for Educators & Schools, The New York Public Library" class="float-left" link="https://www.nypl.org/education/educators">}}
 {{< clearfix >}}
@@ -48,9 +48,7 @@ Where we reproduce materials created by other parties, we have made our best eff
 
 If you would like to reproduce materials created by other parties and included on this website, it is your obligation to determine and satisfy copyright or other use restrictions. You are solely responsible for determining whether the use of any digital object requires the permission of any other person or entity, and you are responsible for paying any associated fees.
 
-All other original content is licensed under a Creative Commons by-nc 4.0 license.  
-
-{{< creative-commons >}}
+All other original content is licensed under a Creative Commons by-nc 4.0 license.  {{< creative-commons >}}
 
 ## Credit
 

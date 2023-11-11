@@ -19,7 +19,7 @@ audioTitle:
 audioTranscript: 
 video: 
   srcType: youtube
-  srcLink: hInnet2nXaA
+  srcLink: hInnet2nXa
 videoTitle: Willie Mae Goodman Interview, excerpt
 closeRdImg: 
 closeRdLink: 
@@ -27,8 +27,8 @@ eventname: Willie Mae Goodman reflects on her activism fighting for her daughter
 caption: In this interview, Willie Mae Goodman describes her activism fighting for her daughter Marguerite and other disabled children and adults.
 archive_source: "\"Willowbrook Revisited,\" Staten Island Community Television"
 source_link: https://youtu.be/hInnet2nXaA
-copyright: Used with permission
-categories:
+copyright: Under copyright. Used with permission.
+categories: 
 - Staten Island
 - parent activism
 tags: 

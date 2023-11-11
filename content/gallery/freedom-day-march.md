@@ -6,37 +6,41 @@ displaydate:
 title: Freedom Day March on Film
 author: New York Police Department Surveillance Unit
 citation: >
- "Freedom Day March on Film," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/freedom-day-march.
+ "Freedom Day March on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/freedom-day-march.
 imageFeatured: freedom-day-march.jpg
-imageFeaturedAlt: Black boycotters holding signs outside of Kings County Trust Company in downtown Brooklyn. 
+imageFeaturedAlt: Black school boycotters holding signs in a protest march in downtown Brooklyn. 
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
   srcType: youtube
   srcLink: -JtthLa0Fyw
 videoTitle: Freedom Day March on Film
+closeRdImg: 
+closeRdLink: 
 eventname: A silent film recorded by the New York Police Department showing protesters at Board of Education headquarters and marching during the February 3, 1964 boycott. 
 caption: A film recorded by the New York Police Department showing protesters at Board of Education headquarters and marching during the February 3, 1964 boycott.
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~210~1233413:110-Livingston-St--and-Bernum-Place?sort=identifier%2Ctitle%2Cdate&qvq=q:0163;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=11
-copyright: Courtesy of the Municipal Archives, City of New York
+copyright: Under copyright. Used with Permission. Courtesy of the Municipal Archives, City of New York
 categories: 
 - parent activism
 - community activism
 - student activism
 - K-12 education
-- Brooklyn
-tags:
+ -Brooklyn
+tags: 
 - protest
 - racial segregation
 - organizing
 - policing & the criminal legal system 
 - multiracial organizing
-- photography & imagery
+- photography, imagery, & visual representation
 - Spanish language
 questions:
 - What do you notice about the film? What do you wonder? 

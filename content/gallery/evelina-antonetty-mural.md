@@ -4,7 +4,7 @@ draft: false
 date: 2011-02-01
 displaydate: "2011"
 title: Evelina López Antonetty Mural
-author: Tats Cru, Inc.
+author: Mural by Tats Cru, Inc.; Photography by Joe Conzo, Jr. 
 citation: >
  "Evelina López Antonetty Mural," Tats Cru, Inc., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/evelina-antonetty-mural.
 imageFeatured: evelina-antonetty-mural.jpg
@@ -23,10 +23,10 @@ closeRdImg:
 closeRdLink: 
 eventname: Tats Cru paints a mural to commemorate the life and work of Evelina López Antonetty. 
 caption: >
- "Painted by the graffiti artist group Tats Cru in 2011, this mural of Evelina López Antonetty is at 773 Prospect Ave in the South Bronx. The quote reads, "We will never stop struggling here in The Bronx, even though they've destroyed it around us. We would pitch tents if we had to rather than move from here. We would fight back, there is nothing we would not do. They will never take us away from here. I feel very much a part of this and I'm never going to leave, and, after me, my children will be here to carry on. I have very strong children and very strong grandchildren."
-archive_source: Photograph by [@tatscru](https://www.instagram.com/tatscru/?hl=−)
+ Painted by the graffiti artist group Tats Cru in 2011, this mural of Evelina López Antonetty is at 773 Prospect Ave in the South Bronx. The quote reads, "We will never stop struggling here in The Bronx, even though they've destroyed it around us. We would pitch tents if we had to rather than move from here. We would fight back, there is nothing we would not do. They will never take us away from here. I feel very much a part of this and I'm never going to leave, and, after me, my children will be here to carry on. I have very strong children and very strong grandchildren."
+archive_source: Collection of Joe Conzo, Jr. 
 source_link: 
-copyright: Under copyright. Used with permission. 
+copyright: Under copyright. Used with permission. Courtesy of Joe Conzo, Jr. 
 categories: 
 - Bronx
 - K-12 education

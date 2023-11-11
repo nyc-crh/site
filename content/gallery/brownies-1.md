@@ -4,35 +4,35 @@ draft: false
 date: 1920-01-01
 displaydate: "January 1920"
 title: "*The Brownies’ Book*, January 1920, excerpts"
-author: "*The Brownies’ Book*, January 1920, excerpts"
+author: National Association for the Advancement of Colored People
 citation: >
- "*The Brownies’ Book*, January 1920, excerpts," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies-1.
+ "*The Brownies’ Book*, January 1920, excerpts," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies1.
 imageFeatured: brownies-1.jpg
-imageFeaturedAlt: Book cover featuring a young black girl wearing a white dress, cape, and crown. The cape is tied at her wrists, which reach up, and she stands on her tiptoes, head tilted and smiling.
+imageFeaturedAlt: A young black girl smiles and poses, arms outstretched and standing on ballet pointe shoes. She wears a white dress, crown, and cape tied at her wrists. 
+detailedDescr: 
 embed: brownies-1.pdf
-embedTitle: >
- *The Brownies’ Book*, January 1920, excerpts
+embedTitle: "*The Brownies’ Book*, January 1920, excerpts"
 text: brownies-1
 mapembed: 
 audio: 
 audioTitle: 
 video: 
-videoTitle:
+videoTitle: 
 closeRdImg: kadiatou-tubman-video-sm.jpg
 closeRdLink: /teaching-resources/close-reading-examples/kadiatou-tubman-video/
-eventname: W.E.B. DuBois and the NAACP launch the children’s magazine *The Brownies’ Book*.
+eventname: W.E.B. DuBois and the NAACP launch the children’s magazine *The Brownie’s Book*.
 caption: The NAACP published *The Brownies’ Book* magazine to teach Black children the history, achievements, and beauty of Black people in the United States. These are pages from the first issue, published in January 1920. 
 archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
 copyright: Public domain
-categories:	
+categories: 
 - k-12 education
 - national
-- community activism"
-tags:	
+- community activism
+tags: 
 - Black people
 - curriculum
-- photography & imagery
+- photography, imagery, & visual representation
 - joy
 - childhood 
 - NAACP
@@ -46,7 +46,6 @@ questions:
 - How did *The Brownies’ Book* illustrate the joy and struggle of Black people simultaneously? What examples do you see from each of the pages here that relate to joy, and to struggle? 
 - Do you think of a magazine as a way to advocate for change? Why or why not?
 --- 
-
 Here are a few pages from the first issue of the magazine. The editors of the magazine made many choices about their publication. They chose the text and articles, the images, the design, and more. Looking carefully at what they produced helps us think about their goals for the publication.
 
 Notice the cover. How would you describe how the girl in the photograph is feeling? How does the image make you feel? What do you think the creators of the magazine wanted you to feel when you saw this image? How does it relate to their goals for the magazine, including (in the terminology of their time), “To make colored children realize that being ‘colored’ is a normal, beautiful thing”?

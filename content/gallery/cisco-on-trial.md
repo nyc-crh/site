@@ -22,15 +22,14 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Samuel B. Cisco is charged with violating truancy laws after refusing to send his children to a segregated school. 
-caption: >
- *The Brooklyn Daily Eagle* reported on a dramatic moment in what it later called the “Jamaica school wars.” Samuel B. Cisco tried to enroll his children, who were Black, in the local segregated white public school. White school administrators denied them admission. Mr. Cisco then refused to send his children to the segregated “colored” school. Officials responded by charging him with violating New York’s law requiring school attendance for children.
-archive_source: "*Brooklyn Daily Eagle, via* Newspapers.com - via Brooklyn Public Library"
+caption: "*The Brooklyn Daily Eagle* reported on a dramatic moment in what it later called the “Jamaica school wars.” Samuel B. Cisco tried to enroll his children, who were Black, in the local segregated white public school. White school administrators denied them admission. Mr. Cisco then refused to send his children to the segregated “colored” school. Officials responded by charging him with violating New York’s law requiring school attendance for children."
+archive_source: "*Brooklyn Daily Eagle*"
 source_link: 
-copyright: Public domain
+copyright: Public domain, via Brooklyn Newsstand
 categories: 
 - Queens
 - parent activism
-- k-12 education"
+- k-12 education
 tags: 
 - segregation
 - court cases
@@ -42,7 +41,7 @@ questions:
 - How do you think Mr. Cisco’s son Jacob, who was 6 at the time, felt about his father’s protest? 
 - Do the reporter and Mr. Cisco have the same view of the facilities available at the “colored” school? 
 - Justice Garretison denies the role of the legislature in creating segregation. On what grounds does he base this decision? How does his reasoning support continued segregation?
----
+--- 
 
 Samuel B. Cisco, a Black man, lived in Jamaica, in Queens County. At the time of this newspaper article, in 1896, Queens was not yet part of New York City, and Jamaica was a small town surrounded by a rural landscape. Mr. Cisco ran a successful scavenger business. He and his wife Elizabeth had six children.[^1] Although Mrs. Cisco is less visible in the article, she worked alongside her husband and continued their fight for years after his passing.
 

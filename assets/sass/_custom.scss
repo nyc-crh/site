@@ -497,6 +497,7 @@ details.readmore[open] summary
 { 
   display: none;
 }
+
 $details-padding: 0.75em;
 
 details {
@@ -520,10 +521,7 @@ details {
         cursor: pointer;
     }
 
-    .summary-content {
-        cursor: defaurgb(180, 50, 50);
-        padding: $details-padding;
-    }
+
 
     summary {
         list-style: none;
@@ -559,10 +557,6 @@ details {
         display: none;
     }
 }
-details.references:empty {
-    display:none;
-}
-
 .concept { 
     ol {
     li {margin-top: -2.2rem;
@@ -570,6 +564,10 @@ details.references:empty {
         margin-left: 2rem;
 }
 }
+}
+
+.references:has(.summary-content:empty) {
+    display:none;
 }
 sup, sub {
     vertical-align: baseline;
@@ -705,6 +703,6 @@ a.px-2.nav-link:hover {
 .clearfix {
     clear: both;
 }
-@page {
-    margin: 1cm;
-   }
+div.footnotes hr {
+    display: none;
+}

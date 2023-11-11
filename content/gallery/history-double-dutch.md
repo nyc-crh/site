@@ -5,30 +5,34 @@ date: 1981-06-06
 displaydate: 
 title: History of Double Dutch
 author: 
-citation: > 
- "History of Double Dutch"," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/history-double-dutch.
+citation: >
+ "History of Double Dutch," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/history-double-dutch.
 imageFeatured: history-double-dutch.jpg
 imageFeaturedAlt: Newspaper clipping
+detailedDescr: 
 embed: 
-embedTitle:
+embedTitle: 
 text: history-double-dutch
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: The *Amsterdam News* presents the history of Double Dutch.
 caption: In preparation for the upcoming Eighth Annual World International Double Dutch Tournament, New York’s oldest Black-owned newspaper, the *Amsterdam News*, explained the history of the game.
 archive_source: Amsterdam News
 source_link: 
 copyright: Under copyright. Used with permission. 
-categories:	
+categories: 
 - k-12 education
 - Manhattan
 - national
 - community activism
-tags:	
-- joy 
+tags: 
+- joy
 - Black people
 - autonomous educational spaces
 - newspapers & the media

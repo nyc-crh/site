@@ -25,7 +25,7 @@ eventname: Writer Audre Lorde is photographed at a desk, surrounded by books and
 caption: "Portrait of writer Audre Lorde at work at her desk, surrounded by papers, books, and posters. This image was taken in 1981, around the time that she was writing her autobiographical book [*Zami*](/topics/black-latina-women/young-lords/palante)."
 archive_source: National Portrait Gallery 
 source_link: https://npg.si.edu/object/npg_NPG.2020.176
-copyright: Joan E. Biren
+copyright: Under copyright. Used with permission. 
 categories: 
 - Manhattan
 - higher education
@@ -36,7 +36,7 @@ tags:
 - Black people
 - queer people
 - disabled people
-questions:
+questions: 
 - What clues does this photo offer about who Audre Lorde was and what she cared about? What do you notice about the space, the items in the space, an Lorde’s physical position? 
 - Assuming that Lorde gave permission for this image to be taken and shared, what does it tell us about how she wanted to be seen in the world? 
 - Compare this image to some of the other images linked in the text above. Which would you choose to represent Lorde, and why?

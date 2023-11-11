@@ -25,7 +25,7 @@ eventname: In the 1950s, children with intellectual disabilities could be exclud
 caption: "A reporter for *Coronet* magazine interviewed the father of a ten year-old boy with an intellectual or developmental disability (which was referred to as mental retardation at the time). The father describes the pressure to send his child Eddie to an institution and his hopes for his son."
 archive_source: "*Coronet* Magazine and the Disability History Museum"
 source_link: https://archive.org/details/sim_coronet_1955-11_39_1_0/page/48/mode/1up
-copyright: 
+copyright: Under copyright. Used with permission.
 categories: 
 - Staten Island
 - parent activism

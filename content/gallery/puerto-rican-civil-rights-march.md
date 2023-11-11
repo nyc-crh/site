@@ -3,33 +3,37 @@ layout: gallery
 draft: false
 date: 1964-03-01
 displaydate: 
-title: Puerto Rican Civil Rights March 
+title: Puerto Rican Civil Rights March on Film
 author: New York Police Department Surveillance Unit
 citation: >
- "Puerto Rican Civil Rights March ," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/puerto-rican-civil-rights-march.
+ "Puerto Rican Civil Rights March on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/puerto-rican-civil-rights-march.
 imageFeatured: puerto-rican-civil-rights-march.jpg
 imageFeaturedAlt: Protestors march, carrying signs and the Puerto Rican flag
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
   srcType: youtube
   srcLink: R858m2txeEk
-videoTitle: Puerto Rican Civil Rights March 
+videoTitle: Puerto Rican Civil Rights March on Film
+closeRdImg: 
+closeRdLink: 
 eventname: Puerto Rican community organizations are joined by others who are in solidarity with them marching at City Hall.
 caption: A film recorded by the New York Police Department showing the Puerto Rican Civil Rights march on March 1, 1964. Puerto Rican community organizations are joined by others who are in solidarity with them marching at City Hall. 
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~234~1233385:City-Hall-Puerto-Rican-March--Demon?sort=identifier%2Ctitle%2Cdate&qvq=q:0173;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
-copyright: Courtesy of the Municipal Archives, City of New York
-categories:
+copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives, City of New York
+categories: 
 - parent activism
 - student activism
-- K-12 education
+- k-12 education
 - Manhattan
-tags:
+tags: 
 - policing & the criminal legal system
 - protest
 - racial segregation
@@ -39,7 +43,7 @@ tags:
 - Latinx people
 - multiracial organizing
 - employment
-- photography & imagery
+- photography, imagery, & visual representation
 - Spanish language
 questions:
 - Why do you think the protesters march behind the US and Puerto Rican flags? What are they hoping to communicate? 

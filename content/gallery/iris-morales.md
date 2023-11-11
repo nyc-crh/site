@@ -2,7 +2,7 @@
 layout: gallery
 draft: false
 date: 1971-01-01
-displaydate: "1969-1971"
+displaydate: "undated, c. 1969-1971"
 title: Iris Morales Leads Political Education Class
 author: Michael Abramson
 citation: >
@@ -23,10 +23,9 @@ closeRdImg:
 closeRdLink: 
 eventname: The Young Lords party creates spaces for members to study history and politics. 
 caption: This photo captures Young Lords Party members sitting together in a circle during a political education class. Iris Morales (seated at the head of the table) leads the group discussion about that week’s assigned texts. 
-archive_source: >
- Reprinted in Johanna Fernández, *The Young Lords: A Radical History* (Chapel Hill: University of North Carolina Press, 2019)
+archive_source: "Reprinted in Johanna Fernández, *The Young Lords: A Radical History* (Chapel Hill: University of North Carolina Press, 2019)"
 source_link: 
-copyright: Photograph by Michael Abramson, courtesy of Johanna Fernandez
+copyright: Under copyright, used with permission. Courtesy of Johanna Fernandez. Used with permission. 
 categories: 
 - Manhattan
 - Bronx

@@ -8,30 +8,33 @@ author: The Grandparents Storylab
 citation: >
  "Rev. Malika Leigh Whitney and Double Dutch Dreamz," The Grandparents Storylab, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/rev-malika-leigh-whitney.
 imageFeatured: rev-malika-leigh-whitney.jpg
-imageFeaturedAlt: Reverand Malika Leigh Whitney, an older black woman, jumps rope with two women swinging two ropes
+imageFeaturedAlt: Reverand Malika Leigh Whitney, an older black woman, jumps rope with two women swinging two ropes.
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
-audio: >
- <iframe title="Libsyn Player" style="border: none" src="//html5-player.libsyn.com/embed/episode/id/11181746/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/000000/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+audio: rev-malika-leigh-whitney.mp3
 audioTitle: Rev. Malika Leigh Whitney and Double Dutch Dreamz
-vvideo: 
-  srcType: youtube
-  srcLink: 1tk8nMtvVa0
+audioTranscript: 
+video:	
+  srcType:	youtube
+  srcLink:	1tk8nMtvVa0
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Reverend Malika Lee Whitney describes Double Dutch Dreamz
 caption: Reverend Malika Lee Whitney describes Double Dutch Dreamz, an intergenerational space for play and learning.
 archive_source: The Grandparents Storylab
 source_link: https://www.thegrandparentsstorylab.org/double-dutch-dreamz
 copyright: Under copyright. Used with permission.
-categories:	
+categories: 
 - k-12 education
 - Manhattan
 - community activism
-tags:	
+tags: 
 - Harlem
-- joy 
+- joy
 - Black people
 - autonomous educational spaces
 - athletics

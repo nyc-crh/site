@@ -25,7 +25,7 @@ eventname: United Bronx Parents researched problems faced by Puerto Rican studen
 caption: The United Bronx Parents was an organization of parents in the South Bronx. Many members of the organization were Puerto Rican and Black New Yorkers whose children attended local public schools and were concerned about the quality of education they received there.
 archive_source: Center for Puerto Rican Studies, Library & Archive
 source_link: https://centroca.hunter.cuny.edu/Detail/objects/23897
-copyright: Used with permission
+copyright: Used with permission. Courtesy of the Center for Puerto Rican Studies, Hunter College.
 categories: 
 - Bronx
 - k-12 education
@@ -39,7 +39,7 @@ tags:
 - women's activism 
 - disability labels
 - teacher quality
-questions:
+questions: 
 - How is this report and its description of schooling for Puerto Rican students in the South Bronx in the 1970s similar to or different from the description [Toni Cade Bambara’s description of Puerto Rican students going to school in Harlem in the 1940s](../topics/black-latina-women/united-bronx-parents/puerto-ricans)? What seems to have continued? What seems to have changed? 
 - To whom was this report directed? How did United Bronx Parents make their argument? How did they use language to convince their audience? 
 - What do you think of their proposed changes in education, listed on p. 7 and 8. Are these changes still needed or relevant today?

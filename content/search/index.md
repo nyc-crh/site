@@ -5,3 +5,4 @@ sitemap:
 type: "search"
 #private: true
 ---
+{{% search-box %}}

@@ -6,32 +6,36 @@ displaydate: "1964"
 title: School Boycott!
 author: City-Wide Committee for Integrated Schools
 citation: >
- "School Boycott!" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/school-boycott.
+ "School Boycott!," City-Wide Committee for Integrated Schools, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/school-boycott.
 imageFeatured: school-boycott.jpg
-imageFeaturedAlt: Flier for school boycott showing a young Black child looking through a broken window
+imageFeaturedAlt: Flyer for school boycott showing a young Black child looking through a broken window
+detailedDescr: 
 embed: 
 embedTitle: 
 text: school-boycott
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Call for a boycott of New York City's public schools to desegregate.
 caption: A flier spreading the word about the February 3, 1964 “Freedom Day” school boycott. 
 archive_source: Queens College Special Collections & Archive
 source_link: https://library.qc.cuny.edu/archives/
-copyright: Public Domain
+copyright: Public domain. Courtesy of Queens College Special Collections and Archive.
 categories: 
 - parent activism
 - community activism
 - student activism
-- K-12 education
-tags:
+- k-12 education
+tags: 
 - protest
 - racial segregation
 - organizing
-- photography & imagery
+- photography, imagery, & visual representation
 - Black people
 questions:
 - What do you notice about the poster? What do you wonder?

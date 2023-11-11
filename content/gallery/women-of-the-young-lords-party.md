@@ -6,7 +6,7 @@ displaydate:
 title: Women of the Young Lords Party, excerpt
 author: Bronx Museum of the Arts
 citation: >
- "Women of the Young Lords Party, excerpt," Bronx Museum of the Arts, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/women-of-the-young-lords-party.
+ Women of the Young Lords Party, excerpt," Bronx Museum of the Arts, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/women-of-the-young-lords-party.
 imageFeatured: women-of-the-young-lords-party.jpg
 imageFeaturedAlt: Still image from a panel event at the Bronx Museum with women from the Young Lords 
 detailedDescr: 
@@ -16,10 +16,9 @@ text:
 mapembed: 
 audio: 
 audioTitle: 
-audioTranscript: 
 video: 
   srcType: youtube
-  srcLink: xLs4dsG4DQc?t=1204
+  srcLink: aPyn9JBOSOM
 videoTitle: Women of the Young Lords Party, excerpt
 closeRdImg: 
 closeRdLink: 
@@ -27,7 +26,7 @@ eventname: Denise Oliver and other Young Lords members reflect on their years in
 caption: This video clip comes from an event at the Bronx Museum of Arts in 2015. At the event women in the Young Lords described the political climate in which the party emerged, why they joined, and how they navigated racism and sexism within the movement. In this clip, Denise Oliver describes the political context in which she and her fellow young activists forged new paths. 
 archive_source: Bronx Museum of Arts
 source_link: https://youtu.be/xLs4dsG4DQc?t=1204
-copyright: Under copyright
+copyright: Under copyright. 
 categories: 
 - national
 - community activism

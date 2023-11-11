@@ -25,11 +25,11 @@ eventname: Harlem community members call on Superintendent William Jansen to res
 caption: This flyer calls parents and others concerned about Black and Puerto Rican children to call for Superintendent William Jansen’s resignation. 
 archive_source: Ella Baker Papers, Schomburg Center for Research in Black Culture, New York Public Library 
 source_link: https://archives.nypl.org/scm/20899
-copyright: Public domain
+copyright: Public domain. Courtesy of the Schomburg Center for Research in Black Culture.
 categories: 
 - k-12 education
 - community activism
-- parent activism
+- parent activism"
 tags: 
 - white people
 - segregation

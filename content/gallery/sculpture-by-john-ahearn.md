@@ -2,38 +2,41 @@
 layout: gallery
 draft: false
 date: 1981-01-01
-displaydate: "ca. 1981-1982"
+displaydate: "undated, c. 1981-1982"
 title: Double Dutch, sculpture by John Ahearn, Intervale Ave. and Kelly St.
 author: Sculpture by John Ahearn and Rigoberto Torres; photograph by Joe Conzo.
-citation: > 
- "Double Dutch, sculpture by John Ahearn, Intervale Ave. and Kelly St."  Sculpture by John Ahearn and Rigoberto Torres; photograph by Joe Conzo. "ca. 1981-1982"," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/sculpture-by-john-ahearn.
+citation: >
+ "Double Dutch, sculpture by John Ahearn, Intervale Ave. and Kelly St.," Sculpture by John Ahearn and Rigoberto Torres; photograph by Joe Conzo., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/sculpture-by-john-ahearn.
 imageFeatured: sculpture-by-john-ahearn.jpg
 imageFeaturedAlt: A sculpture of four girls jumping rope, installed on the side of a building
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: South Bronx teens jump Double Dutch
 caption: Sculptors John Ahearn and Rigoberto Torres made a sculpture of girls jumping Double Dutch and mounted it on a building in the South Bronx.
 archive_source: Division of Rare and Manuscript Collections, Cornell University Library, Joe Conzo Jr. Archive
 source_link: https://digital.library.cornell.edu/catalog/ss:1406035
 copyright: Under copyright. Used with permission.
-categories:	
+categories: 
 - k-12 education
-- Bronx
+- The Bronx
 - national
 - community activism
-tags:
+tags: 
 - joy 
 - Black people
 - autonomous educational spaces
 - the arts
-- photography & imagery
-- athletics
+- photography, imagery, & visual representation- athletics
 questions: 
 - Why do you think Ahearn and Torres wanted to mount this sculpture on a building in the South Bronx? If you lived in the area, how do you think you would feel about the sculpture? 
 - What are joyful places in your neighborhood or community? 

@@ -6,34 +6,37 @@ displaydate:
 title: The Will and the Way of the Boycotters
 author: Gertrude Wilson
 citation: >
- "The Will and the Way of the Boycotters," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/will-and-way-of-boycotters.
+ "The Will and the Way of the Boycotters," Gertrude Wilson, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/will-and-way-of-boycotters.
 imageFeatured: will-and-way-of-boycotters.jpg
 imageFeaturedAlt: Newspaper clipping
+detailedDescr: 
 embed: will-and-way-of-boycotters.pdf
 embedTitle: The Will and the Way of the Boycotters
 text: will-and-way-of-boycotters
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Reporter Gertrude Wilson wrote about how women and young people worked to make the February 3 boycott happen.
-caption: >
- *Amsterdam News* reporter Gertrude Wilson wrote about how women and young people worked to make the February 3 boycott happen. 
+caption: "*Amsterdam News* reporter Gertrude Wilson wrote about how women and young people worked to make the February 3 boycott happen."
 archive_source: Amsterdam News
 source_link: https://www.nypl.org/research/research-catalog/bib/b21451436
-copyright: Amsterdam News
-categories:
+copyright: Under copyright. Used with permission.
+categories: 
 - parent activism
 - community activism
 - student activism
-- K-12 education
-tags:
+- k-12 education
+tags: 
 - women's activism
 - protest
 - racial segregation
 - organizing
-- joy 
+- joy
 - autonomous educational spaces
 - multiracial organizing
 questions:

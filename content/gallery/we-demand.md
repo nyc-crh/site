@@ -25,7 +25,7 @@ eventname: City College student protesters outline the changes they want to see 
 caption: In this flyer, student protesters at City College listed the changes they wanted to see in their university, and why. 
 archive_source: CUNY Digital History Archive
 source_link: https://cdha.cuny.edu/items/show/6952
-copyright: Unknown
+copyright: Public domain. Courtesy of the CUNY Digital History Archive.
 categories: 
 - Manhattan
 - k-12 education

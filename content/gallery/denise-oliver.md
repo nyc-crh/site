@@ -8,7 +8,7 @@ author: Jesse Steve Rose
 citation: >
  "Denise Oliver," Jesse Steve Rose, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/denise-oliver.
 imageFeatured: denise-oliver.jpg
-imageFeaturedAlt: A young black woman with a somber expression wearing a beret with political buttons and a leather jacket. She's holding a disposable coffee cup and smoking a cigarette.
+imageFeaturedAlt: A young black woman with a somber expression wearing a beret with political buttons and a leather jacket. She's holding a disposable coffee cup and a cigarette.
 detailedDescr: 
 embed: 
 embedTitle: 
@@ -25,7 +25,7 @@ eventname: Denise Oliver becomes a leader in the Young Lords Party.
 caption: This photo of Denise Oliver comes from a political event hosted by the Black Panther Party and the Young Lords Party. Oliver became a high ranking member of the Young Lords and has continued her organizing work since being a member of the party. 
 archive_source: Smithsonian National Museum of African American History and Culture
 source_link: https://web.archive.org/web/20211029031109/https://nmaahc.si.edu/object/nmaahc_2014.109.7.4
-copyright: Copyright status unknown
+copyright: Copyright status unknown.
 categories: 
 - Manhattan
 - community activism
@@ -36,7 +36,7 @@ tags:
 - Black people
 - photography, imagery, & visual representation- organizing
 - women's activism
-questions:
+questions: 
 - How does Oliver’s dress and style challenge oppressive ideas imposed on Black women?
 - How might having attended a nearly all-white school influenced Oliver’s activism?
 --- 

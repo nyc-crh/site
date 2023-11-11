@@ -1,4 +1,4 @@
---- 
+---
 layout: gallery
 draft: false
 date: 1958-12-15
@@ -25,18 +25,18 @@ eventname: A judge rules in favor of parents whose children participated in the 
 caption: "*In re Matter of Charlene Skipwith, Sheldon Rector, Children Twelve Years of Age* was a 1958 family court case in which the parents of children participating in the “Harlem Nine” boycott were charged with neglect by the Board of Education. The judge ruled in favor of the parents."
 archive_source: Matter of Skipwith, 14 Misc. 2d 325, 180 N.Y.S.2d 852 (N.Y. Dom. Rel. Ct. 1958)
 source_link: 
-copyright: Public domain
+copyright: Government document
 categories: 
 - k-12 education
 - community activism
-- parent activism
+- parent activism"
 tags: 
 - segregation
 - policing & the criminal legal system
 - protest
 - zoning & school assignment
 - court cases
-questions:
+questions: 
 - What evidence do the parents offer to show that their children’s schools were unequal? 
 - How does Judge Polier explain her decision in favor of the Harlem parents?
 - Why does Judge Polier say that the Board of Education is responsible for desegregating schools?

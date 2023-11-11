@@ -23,28 +23,30 @@ closeRdImg:
 closeRdLink: 
 eventname: Audre Lorde’s autobiographical writing captures her experience in school with a vision disability. 
 caption: "In this portion of her book *Zami*, Audre Lorde speaks about growing up in Harlem. She recalls her experiences at school as a child with a vision disability, and how mother interacted with her teachers."
-archive_source: >
- "Audre Lorde, *Zami: A New Spelling of My Name* (Persephone Press, 1982)" 
+archive_source: "Audre Lorde, *Zami: A New Spelling of My Name* (Persephone Press, 1982)" 
 source_link: 
-copyright: Audre Lorde
-categories: "- Manhattan
-- higher education"
-tags: "- women's activism
+copyright: Under copyright. 
+categories: 
+- Manhattan
+- higher education
+tags: 
+- women's activism
 - the arts
 - disabled people
 - Black people
 - queer people
 - blindness & low vision
-- Harlem"
+- Harlem
 questions:
-  - How does Audre Lorde feel about reading?
-  - How does Audre Lorde's mother respond to her daughter's experience at the library, and at the school? Would you describe Lorde's mother as an educational activist? Why or why not?
-  - Lorde writes about how she came to call herself Audre, rather than Audrey. Why was naming important to her? How are names important to you and your friends?
-  - "What do you think Audre Lorde meant when, in describing her schooling experience, she wrote: \"Ability had nothing to do with expectation\"? What examples from her school experience relate to this comment? How does this comment apply, or not apply, to your experience in school?"
-  - Audre Lorde became a writer and an educator. In the City University of New York, she taught classes designed to welcome Black and Latinx young people into college and encourage them as students. How do you think her own schooling experience as a disabled Black girl might have shaped her work as an educator? How do you think her queer identity might have shaped her teaching? 
-  - >
-   Later in *Zami,* Lorde writes this about her mother: "My mother was a very powerful woman. This was so in a time when that word-combination of woman and powerful was almost unexpressable in the white american common tongue, except or unless it was accompanied by some aberrant [meaning unusual, or going against the pattern] … adjective like blind, or hunchback, or crazy, or Black." What does Lorde mean by this? How would you put this idea in your own words? How does Lorde suggest that, in the life of her mother, racism, gender, and ableism connected with one another? Do you think Lorde's words, written in 1982, are true today? Why or why not?
----
+- How does Audre Lorde feel about reading? 
+- How does Audre Lorde’s mother respond to her daughter’s experience at the library, and at the school? Would you describe Lorde’s mother as an educational activist? Why or why not? 
+- Lorde writes about how she came to call herself Audre, rather than Audrey. Why was naming important to her? How are names important to you and your friends? 
+- >
+ What do you think Audre Lorde meant when, in describing her schooling experience, she wrote: “Ability had nothing to do with expectation”? What examples from her school experience relate to this comment? How does this comment apply, or not apply, to your experience in school? 
+- Audre Lorde became a writer and an educator. In the City University of New York, she taught classes designed to welcome Black and Latinx young people into college and encourage them as students. How do you think her own schooling experience as a disabled Black girl might have shaped her work as an educator? How do you think her queer identity might have shaped her teaching? 
+- >
+ Later in *Zami,* Lorde writes this about her mother: ""My mother was a very powerful woman. This was so in a time when that word-combination of woman and powerful was almost unexpressable in the white american common tongue, except or unless it was accompanied by some aberrant [meaning unusual, or going against the pattern] … adjective like blind, or hunchback, or crazy, or Black. "" What does Lorde mean by this? How would you put this idea in your own words? How does Lorde suggest that, in the life of her mother, racism, gender, and ableism connected with one another? Do you think Lorde’s words, written in 1982, are true today? Why or why not?"
+--- 
 
 In *Zami,* Audre Lorde writes about her experiences as a child, including learning to read not in school but at a public library with a kind Black woman librarian named Augusta Baker. She also recounts her teenage and young adult years. Lorde gives the reader a sense of her family and of her early schooling in Harlem. She describes her friendships in high school and college, where she was one of a small group of Black students. She also recounts her developing identity as a lesbian, including ways that she felt she did and did not feel at home in queer spaces in Greenwich Village and elsewhere.
 

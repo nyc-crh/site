@@ -6,32 +6,36 @@ displaydate: "1964"
 title: Why the School Boycott?
 author: Jamaica Branch NAACP and Queens CORE
 citation: >
- "Why the School Boycott?," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/why-the-school-boycott.
+ "Why the School Boycott?," Jamaica Branch NAACP and Queens CORE, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/why-the-school-boycott.
 imageFeatured: why-the-school-boycott.jpg
 imageFeaturedAlt: Flyer that outlines a justification for the school boycott
+detailedDescr: 
 embed: 
 embedTitle: 
 text: why-the-school-boycott
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Call for a boycott of New York City's public schools to desegregate.
 caption: The flier by Queens Congress of Racial Equality and the Jamaica branch of the National Association for the Advancement of Colored People (or NAACP) calls for a boycott of New York City's public schools. 
 archive_source: Queens College Special Collections and Archives
 source_link: https://library.qc.cuny.edu/archives/
-copyright: Public Domain
+copyright: Public domain. Courtesy of Queens College Special Collections and Archive.
 categories: 
 - parent activism
 - community activism
-- K-12 education
-- Queens"
-tags:
+- k-12 education 
+- Queens
+tags: 
 - protest
 - racial segregation
 - organizing
-- photography & art
+- photography, imagery, & visual representation
 - Black people
 questions:
 - What do you notice about the poster? What do you wonder?

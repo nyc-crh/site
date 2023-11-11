@@ -5,33 +5,35 @@ date: 1920-02-01
 displaydate: "February 1920"
 title: "*The Brownies’ Book*, February 1920, cover"
 author: National Association for the Advancement of Colored People
-citation: > 
- "*The Brownies’ Book*, February 1920, cover," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies-2.
+citation: >
+ "*The Brownies’ Book*, February 1920, cover," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies2.
 imageFeatured: brownies-2.jpg
 imageFeaturedAlt: Book cover featuring a bust sculpture (head and neck) of a young black boy
+detailedDescr: 
 embed: 
-embedTitle: >
- *The Brownies’ Book*, February 1920, cover
+embedTitle: "*The Brownies’ Book*, February 1920, cover"
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: >
- *The Brownies’ Book* prints its second issue.
+closeRdImg: 
+closeRdLink: 
+eventname: "*The Brownie’s Book* prints its second issue."
 caption: For their second issue, *The Brownies’ Book* chose a sculpture of a Black child for the cover. The title reads “I am an American Citizen.”
 archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
 copyright: Public domain
-categories:	
+categories: 
 - k-12 education
 - national
-- community activism
-tags:	
+- community activism"
+tags: 
 - Black people
 - curriculum
-- photography & imagery
+- photography, imagery, & visual representation
 - joy
 - childhood 
 - NAACP
@@ -42,7 +44,7 @@ tags:
 questions: 
 - What words would you use to describe the sculpture? What feelings does it bring up for you? 
 - Why do you think the editors gave the cover the title “I am an American Citizen”? 
-- The *Brownies’ Book* was created in part to oppose dominant racist images of Black people at the time. It was also created to encourage Black children to be politically aware and engaged. How does this cover reflect those goals? 
+- The *Brownies’ Book* was created in part to oppose dominant racist images of Black people at the time. It was also created to encourage Black children to be politically aware and engaged. How does this cover reflect those goals? "
 --- 
 
 The NAACP and W.E.B. Du Bois created The Brownies’ Book to speak directly to Black children about the world and their lives. The images in the magazine were a key part of how the magazine worked to help its readers know (in the language of the time) that “being ‘colored’ is a normal, beautiful thing.” They also gave it the title “I am an American Citizen.”[^1]

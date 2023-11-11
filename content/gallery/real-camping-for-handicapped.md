@@ -2,48 +2,50 @@
 layout: gallery
 draft: false
 date: 1958-01-01
-displaydate: "Mid-1950s - early 1960s"
-title: Camp Jened - Real Camping for the Handicapped
+displaydate: "undated, c. mid-1950s to early 1960s"
+title: Camp Jened - Real Camping for the Handicapped, cover
 author: Camp Jened
 citation: >
- "Camp Jened - Real Camping for the Handicapped," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/real-camping-for-handicapped.
+ "Camp Jened - Real Camping for the Handicapped, cover," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/real-camping-for-handicapped.
 imageFeatured: real-camping-for-handicapped.jpg
-imageFeaturedAlt: 
-detailedDescription: >
- Brochure cover features an idyllic campground photo with an inset of a "Rip Van Winkle" sleeping next to a tree. Text reads, "Camp Jened: Children's Camp, Adult Camp, Speech Program; Real Camping for the handicapped; Speech, Hearing, Orthopedic; Nestled in Legendary Rip Van Winkle Land of the Beautiful Northern Cathskills in Greene County, Hunter, N.Y. 
+imageFeaturedAlt: Summer camp brochure cover
+detailedDescr: real-camping-for-handicapped
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: A brochure advertised Camp Jened to disabled teens and adults around the country
 caption: Camp Jened’s brochure advertised its facilities and location to potential campers from around the country and Canada.
 archive_source: Papers of Honora Rubenstein
 source_link: 
 copyright: Under copyright. Used with permission of the family of Honora and Murray Rubenstein.
-categories:	
+categories: 
 - k-12 education
 - adult education
 - national
 - New York State
 - teacher activism
-tags:	
-- physical disability
-- intellectual disability
+tags: 
+- physical disabilities
+- intellectual disabilities
 - joy
 - architectural barriers
 - disabled people
 - autonomous educational spaces
 - athletics
-- photography & imagery
+- photography, imagery, & visual representation
 questions: 
 - Why was Camp Jened created? What problems did the camp founders want to solve by creating a camp for people, particularly young people, with disabilities?
 - What does the brochure tell you about the environment of Camp Jened? What do you notice about the landscape, and the buildings? What symbols or images do you see? How do you think people with different life experiences might respond to this brochure? 
 - What do you think the brochure’s authors mean by the phrase “real camping for the handicapped”? 
-- Does this pamphlet on Camp Jened illustrate joy? Do you see any connections between Camp Jened and political struggle, such as for disability rights? 
+- Does this pamphlet on Camp Jened illustrate joy? Do you see any connections between Camp Jened and political struggle, such as for disability rights?
 --- 
 
 Camp Jened was located in the northern Catskills, on over 250 acres (which is about ⅓ the size of Central Park, or as big as 250 football fields) with 22 buildings near the town of Hunter, New York. The camp’s founders designed it to welcome disabled children and adults, who did not often have access to summer camps and outdoor recreation. Camp Jened was the first camp of its kind for disabled youth in New York and first opened in July 1953. It ran until August of 1977, and then reopened in 1980.[^1]

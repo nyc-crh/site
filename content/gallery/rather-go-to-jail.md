@@ -25,7 +25,7 @@ eventname: Mae Mallory, Viola Waddy and other members of the “Harlem Nine” b
 caption: "This *Amsterdam News* article was published on December 13, 1958. The headline, “We’d rather go to jail,” quotes Mrs. Viola Waddy, a Black mother in Harlem who refused to allow her child to attend a segregated and unequal school. Waddy and others risked imprisonment for that decision."
 archive_source: "*New York Amsterdam News*"
 source_link: 
-copyright: "*New York Amsterdam News*"
+copyright: Under copyright. Used with permission. 
 categories: 
 - k-12 education
 - community activism
@@ -38,7 +38,7 @@ tags:
 - court cases
 - women's activism
 - Black people
-questions:
+questions: 
 - The *Amsterdam News* used the term ""Harlem Nine"" to remind readers of the ""Little Rock Nine"" who desegregated Central High School in Little Rock, Arkansas one year earlier. How were the “Little Rock Nine” and “Harlem Nine” efforts similar, and different? How does the story of the “Harlem Nine” challenge your previous understandings of segregation and desegregation in the United States?
 - How did the “Harlem Nine” expose segregation and inequality in New York City’s schools? What risks did they take? How do you think their children felt about their parents’ protests? What do you think about taking risks to fight for change that you care about? 
 - What does the “Harlem Nine” case, and especially the use of the courts to punish parents who were protesting segregated schools, show us about the connection between schools and law enforcement?

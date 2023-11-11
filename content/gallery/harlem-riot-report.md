@@ -25,7 +25,7 @@ eventname: Mayor LaGuardia forms a commission to study the root causes of the 19
 caption: Mayor LaGuardia formed the LaGuardia Commission in the aftermath of the 1935 “Harlem Riot” to identify the events’ root causes and determine possible solutions. One chapter of the report, shown here, focused on education.
 archive_source: Municipal Archives of the City of New York
 source_link: https://harlemconditions.cityofnewyork.us/elementor-830/
-copyright: Used with permission
+copyright: Public domain. Courtesy of the Municipal Archives of the City of New York.
 categories: 
 - Manhattan
 - k-12 education

@@ -1,42 +1,46 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1941-01-01
-displaydate: "c. 1941-1945"
-title: Children participating in a public campaign
-author:
+displaydate: "undated, c. 1941-1945"
+title: Children Participating in a Public Campaign
+author: 
 citation: >
- "Children participating in a public campaign""c. 1941-1945"," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/children-campaign.
+ "Children Participating in a Public Campaign," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/children-campaign.
 imageFeatured: children-campaign.jpg
 imageFeaturedAlt: A group of Black and white children sit on steps beside a large stack of paper, making "V" signs with their hands and holding campaign signs
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Benjamin Franklin high school students participate in a war-time effort to conserve paper.
 caption: Benjamin Franklin High School students participating in a World War II effort to save paper.
-archive_source: Balch Historical Institute, Philadelphia
+archive_source: Balch Historical Institute, Historical Society of Philadelphia
 source_link: 
-copyright: TBD
-categories:	
+copyright: Under copyright. Used with permission. Courtesy of the Balch Historical Institute, Historical Society of Philadelphia
+categories: 
 - student activism
 - k-12 education
 - Manhattan
-tags:	
+tags: 
 - multiracial organizing
 - Harlem
 - bilingual education
 - Latinx people
 - Black people
 - joy
-- photography & imagery
+- photography, imagery, & visual representation
 - Spanish language
 - immigrants & migrants
-questions:
+questions: 
 - What do you notice about this photograph? What do you wonder about it? 
 - Who do you think took these photographs and why? How does that affect how we perceive them? 
 - In what ways do students at your school work together to connect to your community outside of your school and to make change? 

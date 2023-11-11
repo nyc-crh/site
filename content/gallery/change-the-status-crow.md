@@ -6,32 +6,36 @@ displaydate: "1964"
 title: Change the Status Crow
 author: 
 citation: >
- "Change the Status Crow," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/change-the-status-crow.
+ "Change the Status Crow," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/change-the-status-crow.
 imageFeatured: change-the-status-crow.jpg
-imageFeaturedAlt: "Hand-drawn flyer"
+imageFeaturedAlt: Boycott flyer
+detailedDescr: 
 embed: 
 embedTitle: 
-text: change-the-status-crow
+text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Organizer Milton Galamison and other desegregation advocates called for a second boycott, to take place on March 16, 1964. 
 caption: This hand-illustrated poster announces the second New York City school boycott, on March 16, 1964. 
 archive_source: Queens College Special Collection & Archive
 source_link: https://library.qc.cuny.edu/archives/
-copyright: Public Domain
-categories:
+copyright: Public domain. Courtesy of Queens College Special Collections and Archive.
+categories: 
 - parent activism
 - student activism
-- K-12 education"
-tags:
+- k-12 education
+tags: 
 - protest
 - racial segregation
 - organizing
 - North & South
-- photography & imagery
+- photography, imagery, & visual representation
 questions:
 - What do you notice about the poster? What do you wonder?
 - Who is the audience for this poster? What strategies does the poster employ to enlist that audience into the demonstration?

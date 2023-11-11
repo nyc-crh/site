@@ -2,7 +2,7 @@
 layout: gallery
 draft: false
 date: 1947-04-01
-displaydate: "October, 1947"
+displaydate: "October 1947"
 title: Your Child and Willowbrook, excerpt
 author: Willowbrook State School
 citation: >
@@ -22,10 +22,10 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Willowbrook State School opens as the largest state institution of its kind in the United States.
-caption: This brochure was produced by the Willowbrook State School to explain the institution and its parents and parents and caregivers of disabled children.
+caption: "This brochure was produced by the Willowbrook State School to explain the institution and its parents and parents and caregivers of disabled children."
 archive_source: The ARC Archives
 source_link: https://thearcny.pastperfectonline.com/library/0C9379CC-F986-45C2-A76B-581450804872
-copyright: The ARC, New York
+copyright: Public domain. Courtesy of The ARC Archive. 
 categories: 
 - Staten Island
 - parent activism
@@ -35,7 +35,7 @@ tags:
 - institutions
 - disabled people
 - exclusion from schooling
-questions: 
+questions:
 - What impression does the brochure give you of Willowbrook? 
 - What questions would you want to ask to understand what life was like at Willowbrook? What questions would you ask if you were considering whether Willowbrook would be a good place for a person you love?
 --- 

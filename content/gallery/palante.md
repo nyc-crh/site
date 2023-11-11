@@ -25,7 +25,7 @@ eventname: The Young Lords Party published a newspaper to communicate their idea
 caption: "*Palante* was a self-published newspaper in which the Young Lords highlighted important issues in their communities. This cover is from the third issue of the third volume of *Palante.*"
 archive_source: Smithsonian National Museum of African American History 
 source_link: https://nmaahc.si.edu/object/nmaahc_2014.109.7.10
-copyright: Unknown
+copyright: Copyright status unknown
 categories: 
 - Manhattan
 - higher education

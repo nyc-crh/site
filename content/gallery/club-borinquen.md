@@ -2,37 +2,40 @@
 layout: gallery
 draft: false
 date: 1945-01-01
-displaydate: "c. 1940s-1950s"
+displaydate: "undated, c. 1940s-1950s"
 title: Club Borinquen
 author: 
 citation: >
  "Club Borinquen," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/club-borinquen.
 imageFeatured: club-borinquen.jpg
 imageFeaturedAlt: Students lined up for a group photo in front of a "Club Borinquen Benjamin Franklin H.S." banner
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Benjamin Franklin High School students participate in “Club Borinquen” to celebrate their Puerto Rican identity.
 caption: Students in Club Borinquen at East Harlem’s Benjamin Franklin High School. The club name references the Taino name for the island of Puerto Rico.
-archive_source: Balch Historical Institute, Philadelphia
+archive_source: Balch Historical Institute, Historical Society of Philadelphia
 source_link: 
-copyright: 
-categories:	
-- k-12 education
+copyright: Under copyright. Used with permission. Courtesy of the Balch Historical Institute, Historical Society of Philadelphia
+categories: 
 - Manhattan
-- teacher activism
-tags:	
+- k-12 education- teacher activism
+tags: 
 - Harlem
 - bilingual education
 - Latinx people
 - Black people
 - joy
-- photography & imagery
+- photography, imagery, & visual representation
 - Spanish language
 - immigrants & migrants
 questions: 

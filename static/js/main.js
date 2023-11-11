@@ -12,10 +12,6 @@ footnotesLinks.forEach(footnote=>{
         const url= footnote.getAttribute('href');
         const reference=  document.querySelector('.references');
         const btn = document.querySelector('.references > .summary-content')
-        if(reference.classList.contains('collapse'))
-            reference.classList.add('show');
-        btn.setAttribute('aria-expanded', true);
-        btn.classList.remove('collapsed');
 
         window.location = url;
     })

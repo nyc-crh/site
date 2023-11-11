@@ -3,41 +3,44 @@ layout: gallery
 draft: false
 date: 1967-08-01
 displaydate: "August 1967"
-title: Reflections - August, 1967
+title: Reflections - August, 1967, excerpt
 author: Camp Jened
 citation: >
- "Reflections - August, 1967," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/reflections-1967.
+ "Reflections - August, 1967, excerpt," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/reflections-1967.
 imageFeatured: reflections-1967.jpg
 imageFeaturedAlt: Typed newsletter for Camp Jened
+detailedDescr: 
 embed: reflections-1967.pdf
-embedTitle: Reflections - August, 1967
+embedTitle: Reflections - August, 1967, excerpt
 text: reflections-1967
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Campers at Camp Jened wrote about their experiences.
 caption: In “Reflections,” a newspaper produced at Camp Jened, campers told each other about their experiences at camp.
 archive_source: From the papers of Denise Sherer Jacobson.
 source_link: 
 copyright: Used with permission of Denise Sherer Jacobson.
-categories:	
+categories: 
 - k-12 education
 - adult education
 - national
 - New York State
 - teacher activism
-tags:
-- physical disability
-- intellectual disability
+tags: 
+- physical disabilities
+- intellectual disabilities
 - joy
 - architectural barriers
 - disabled people
 - autonomous educational spaces
 - athletics
-- curriculum
-- student writing
+- curriculum- student writing
 questions: 
 - How do you see joy in this document? How do you see struggle? 
 - What can you tell from this document about how campers experienced Camp Jened? 

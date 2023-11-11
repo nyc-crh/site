@@ -25,7 +25,7 @@ eventname: City College students occupy campus to call for reforms in admissions
 caption: City College students hold signs supporting a student strike, after several months of organizing for changes in curriculum and admissions there and on other City University of New York campuses.
 archive_source: City College Archives
 source_link: 
-copyright: Used with permission
+copyright: Under copyright. Used with permission. Courtesy of the City College Archives.
 categories: 
 - Manhattan
 - higher education
@@ -38,9 +38,10 @@ tags:
 - photography, imagery, & visual representation
 - multiracial organizing
 - Harlem
-questions:
+questions: 
 - What do you notice about the photograph? What questions would you ask to learn more about this protest? 
-- How do you think that Lorde’s experiences as a student, as described in [*Zami*](../topics/black-latina-women/audre-lorde-cuny/zami-a-new-spelling-of-my-name), and as a queer Black woman, shaped her approach to student activism?
+- >
+ How do you think that Lorde’s experiences as a student, as described in [*Zami*](../topics/black-latina-women/audre-lorde-cuny/zami-a-new-spelling-of-my-name), and as a queer Black woman, shaped her approach to student activism? 
 --- 
 
 Although City College, where Audre Lorde taught, was in the predominantly Black and Latinx community of Harlem, there were very few Black or Latinx students who attended. In the 1968-1969 school year, City College students organized to demand change in admissions policies, curriculum, and support. They identified [“Five Demands”](/topics/black-latina-women/audre-lorde-cuny/we-demand/):

@@ -2,7 +2,7 @@
 layout: gallery
 draft: false
 date: 1959-01-01
-displaydate: "ca. 1956-1960"
+displaydate: "undated, c. 1956-1960"
 title: Mae Mallory and her daughter Patricia
 author: Burley Versatile Photography
 citation: >
@@ -28,8 +28,8 @@ source_link: https://digital.library.cornell.edu/catalog/ss:8329928
 copyright: Under copyright. Used with permission. 
 categories: 
 - Staten Island
-- parent activism"
-tags:
+- parent activism
+tags: 
 - segregation
 - policing & the criminal legal system
 - protest
@@ -42,8 +42,9 @@ questions:
 - What do you see in this image? What do you notice? What do you think is happening here? 
 - What does Mae Mallory’s expression convey? What makes you say that?
 - How might Patricia Mallory feel to be included in these photos? What about her posture and expression stand out to you?
-- "[Mallory had been active in many political struggles in New York and nationally](https://www.aaihs.org/mae-mallory-forgotten-black-power-intellectual/). The FBI targeted Mae Mallory for surveillance within its COINTELPRO program. Mallory’s [extensive FBI file includes other images of her](https://vault.fbi.gov/mae-mallory). How do the images of Mallory collected by the FBI compare to this image?"
----
+- >
+ [Mallory had been active in many political struggles in New York and nationally](https://www.aaihs.org/mae-mallory-forgotten-black-power-intellectual/). The FBI targeted Mae Mallory for surveillance within its COINTELPRO program. Mallory’s [extensive FBI file includes other images of her](https://vault.fbi.gov/mae-mallory). How do the images of Mallory collected by the FBI compare to this image?
+--- 
 
 During the “Harlem Nine”'s struggle to integrate schools in New York City, multiple newspapers, including the *New York Times* and *Amsterdam News,* published photographs of Mae Mallory with her daughter Patricia. These images accompanied articles about the legal struggles of Mallory and the other Harlem mothers who had been charged with violating the state’s compulsory education law when they kept their children out of school. In some ways, she and her daughter became the face of the “Harlem Nine.”
 

@@ -3,36 +3,37 @@ layout: gallery
 draft: false
 date: 1920-04-01
 displaydate: "April 1920"
-title: >
- *The Brownies’ Book*, April 1920, letters from readers
+title: "*The Brownie’s Book*, April 1920, letters from readers"
 author: National Association for the Advancement of Colored People
 citation: >
- "*The Brownies’ Book*, April 1920, letters from readers," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies-3.
+ "*The Brownie’s Book*, April 1920, letters from readers," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies3.
 imageFeatured: brownies-3.jpg
 imageFeaturedAlt: Letters to the editor
+detailedDescr: 
 embed: 
-embedTitle: >
- *The Brownie’s Book*, April 1920, letters from readers
+embedTitle: "*The Brownie’s Book*, April 1920, letters from readers"
 text: brownies-3
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: >
- *The Brownies’ Book*’s readers write back to the magazine.
-caption: Readers of *The Brownies’ Book* - Black children who lived around the United States - wrote back to the magazine about their lives, their hopes, and what the magazine meant to them.
+closeRdImg: 
+closeRdLink: 
+eventname: "*The Brownie’s Book*’s readers write back to the magazine."
+caption: Readers of *The Brownies’ Book*- Black children who lived around the United States- wrote back to the magazine about their lives, their hopes, and what the magazine meant to them.
 archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
 copyright: Public domain
-categories:	
+categories: 
 - k-12 education
 - national
-- community activism"
-tags:
+- community activism
+tags: 
 - Black people
 - curriculum
-- photography & imagery
+- photography, imagery, & visual representation
 - joy
 - childhood 
 - NAACP

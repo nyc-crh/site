@@ -2,35 +2,38 @@
 layout: gallery
 draft: false
 date: 1958-02-01
-displaydate: "unknown"
+displaydate: "undated"
 title: Memorandum to Counselors
 author: Camp Jened
 citation: >
  "Memorandum to Counselors," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/memorandum-to-counselors.
 imageFeatured: memorandum-to-counselors.jpg
-imageFeaturedAlt: 
+imageFeaturedAlt: Typed handout for camp counselors
+detailedDescr: 
 embed: 
 embedTitle: 
 text: memorandum-to-counselors
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Camp Jened helped its counselors learn to support disabled campers.
 caption: Counselors at Camp Jened received this guidance before they started their work at the camp. There were both disabled and non-disabled counselors at Jened.
 archive_source: Papers of Honora Rubenstein
 source_link: 
 copyright: Under copyright. Used with permission of the family of Honora and Murray Rubenstein.
-categories:	
+categories: 
 - k-12 education
-- higher education
-- national
+- higher education- national
 - New York State
 - teacher activism
-tags:
-- physical disability
-- intellectual disability
+tags: 
+- physical disabilities
+- intellectual disabilities
 - joy
 - architectural barriers
 - disabled people
