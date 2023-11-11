@@ -44,7 +44,7 @@ questions:
 
 On October 28, 1958, in two separate cases, the Board of Education charged the “Harlem Nine” parents with violating the state law requiring parents to send their children to school. Judge Nathaniel Kaplan was the presiding family court judge in the case involving four of the parents. He found them guilty of violating the law.[^1] But less than two weeks later, two of the parents had their case heard by a different judge. Judge Justine Polier dismissed the charges against the parents in her courtroom.
 
-During the trial, the parents explained that they had kept their children out of school because of the unequal conditions. The parents presented data that documented the conditions in their schools. As the parents’ attorneys argued, these patterns were common in schools serving a majority of Black and Puerto Rican students in New York City, and much less common for schools serving white students.
+During the trial, the parents explained that they had kept their children out of school because of the unequal conditions there. The parents presented data that documented the conditions in their schools. As the parents’ attorneys argued, these patterns were common in schools serving a majority of Black and Puerto Rican students in New York City, and much less common for schools serving white students.
 
 In her opinion, Judge Polier agreed with the boycotting parents. She wrote that their children were receiving “inferior educational opportunities in those schools by reason of racial discrimination.” Therefore, she ruled that the parents were not in violation of the state’s compulsory education law. If the Board of Education provided unequal and discriminatory education in its schools, it could not require children to attend them.
 
