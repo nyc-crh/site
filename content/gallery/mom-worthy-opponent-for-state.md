@@ -54,4 +54,4 @@ The GPA won: Marguerite and other Gouverneur residents were not sent back to Wil
 
 Today, Willie Mae Goodman continues to advocate for disabled people. She is concerned that some of the new smaller institutional homes that replaced Willowbrook and Gouverneur are becoming “Little Willowbrooks” that are underfunded and impersonal.[^1]
 
-[^1] See [Willie Mae Goodman Interview](/topics/black-latina-women/gouverneur-parents-association/willie-mae-goodman)
+[^1]: See [Willie Mae Goodman Interview](/topics/black-latina-women/gouverneur-parents-association/willie-mae-goodman)
