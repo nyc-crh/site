@@ -48,10 +48,10 @@ questions:
 
 Marguerite Goodman lived at the Gouverneur Hospital in lower Manhattan. Her mother, Willie Mae Goodman, organized to improve Marguerite’s life at Gouverneur. This article by the *New York Daily News* identifies the many ways she and other family members of residents worked to change Gouverneur.
 
-Goodman was one of the parents who founded the Gouverneur Parents Association. The GPA sued to make sure that Marguerite and others would not be sent back to Willowbrook; they also organized a sit-in to block traffic and call attention to their cause. Mrs. Goodman recalls members of the Black Panther Party showing up at the facility to keep residents from being put on buses for the transfer to Willowbrook.[^1] The Black Panthers and the Young Lords were nationalist groups who had been advocating for health care and education in their communities.
+Goodman was one of the parents who founded the Gouverneur Parents Association. The GPA sued to make sure that Marguerite and others would not be sent back to Willowbrook State School, where they had lived previously. The parents also organized a sit-in to block traffic and call attention to their cause. Mrs. Goodman recalls members of the Black Panther Party showing up at the facility to keep residents from being put on buses for the transfer to Willowbrook.[^1] The Black Panthers and the Young Lords had been advocating for health care and education in their communities.
 
 The GPA won: Marguerite and other Gouverneur residents were not sent back to Willowbrook.
 
-Today, Willie Mae Goodman continues to advocate for disabled people. She is concerned that some of the new smaller institutional homes that replaced Willowbrook are becoming “Little Willowbrooks” that are underfunded and impersonal.[^1]
+Today, Willie Mae Goodman continues to advocate for disabled people. She is concerned that some of the new smaller institutional homes that replaced Willowbrook and Gouverneur are becoming “Little Willowbrooks” that are underfunded and impersonal.[^1]
 
 [^1] See [Willie Mae Goodman Interview](/topics/black-latina-women/gouverneur-parents-association/willie-mae-goodman)
