@@ -51,7 +51,9 @@ Frank Picolla, the father, spoke to writer Ralph Bass about his son, Eddie. Pico
 
 Here is [the complete interview](https://archive.org/details/sim_coronet_1955-11_39_1_0/page/48/mode/1up).
 
-> Eddie is ten. He can’t dress himself, tell time or play “hide and seek” like other kids. But he can repay love and affection. EIGHT YEARS AGO, when our son Eddie was two years old, doctors told us we would have to shut him up in an institution for retarded children. I usually take my time before making up my mind, but for once I didn’t wait a split second before deciding good and loud, "Over my dead body!"
+> Eddie is ten. He can’t dress himself, tell time or play “hide and seek” like other kids. But he can repay love and affection.
+>
+> EIGHT YEARS AGO, when our son Eddie was two years old, doctors told us we would have to shut him up in an institution for retarded children. I usually take my time before making up my mind, but for once I didn’t wait a split second before deciding good and loud, "Over my dead body!"
 >
 > We haven’t put Eddie away. And even though at ten he’s like a four-year-old, I’d say we’re as happy a family as there is in the Borough of Queens in New York City where we live. I know you’ll find that hard to believe when I tell you some of the things Eddie can’t do and the things that he needs help with – the help of my wife or myself.
 >
