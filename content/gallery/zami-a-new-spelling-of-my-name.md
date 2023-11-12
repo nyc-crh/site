@@ -52,9 +52,9 @@ In *Zami,* Audre Lorde writes about her experiences as a child, including learni
 
 As a young woman, Lorde worked at a factory in Stamford, Connecticut, moved to Mexico City for a while, and then returned to New York City. She completed college and began her work as a writer in part thanks to the support of a close circle of queer women friends.
 
-Lorde refers to *Zami* as a “biomythography.” That term suggests that some parts of what she writes in *Zami* are fictional or even mythical. We do not know exactly which parts happened in Lorde's life and what portions she modified or invented. However, the basic outline of her life - as a child in Harlem with low vision - are confirmed by other sources.
+Lorde refers to *Zami* as a “biomythography.” That term suggests that some parts of what she writes in *Zami* are fictional or even mythical. We do not know exactly which parts happened in Lorde's life and what portions she modified or invented. However, some basic facts of her life, as a child in Harlem with low vision, are confirmed by other sources.
 
-Scholars have noticed that, in *Zami* and in other writings, Lorde does not speak as much about disability as she does about other aspects of her identity. She recognizes both racism and ableism, often together, were used to oppress people or make them feel less legitimate.[^1]
+Scholars have noticed that, in *Zami* and in other writings, Lorde does not speak as much about disability as she does about other aspects of her identity. She recognizes both racism and ableism, often together, were used to oppress people or make them feel less legitimate, and she often pushed against peoples' ideas of what was normal.[^1]
 
 > When I was five years old and still legally blind, I started school in a sight-conservation class in the local public school on 135th Street and Lenox Avenue. On the corner was a blue wooden booth where white women gave away free milk to Black mothers with children. I used to long for some Hearst Free Milk Fund milk, in those cute little bottles with their red and white tops, but my mother never allowed me to have any, because she said it was charity, which was bad and demeaning, and besides the milk was warm and might make me sick.
 >
@@ -100,7 +100,7 @@ Scholars have noticed that, in *Zami* and in other writings, Lorde does not spea
 >
 >…
 >
-> I bent my head down close to the desk that smelled like old spittle and rubber erasers, and on that ridiculous yellow paper with those laughably wide spaces I printed my best AUDRE. I had never been too good at keeping between straight lines no matter what their so it slanted down across the page something like this: AUDRE
+> I bent my head down close to the desk that smelled like old spittle and rubber erasers, and on that ridiculous yellow paper with those laughably wide spaces I printed my best AUDRE. I had never been too good at keeping between straight lines no matter what so it slanted down across the page something like this: AUDRE
 >
 > The notebooks were short and there was no more room for anything else on that page. So I turned the page over, and wrote again, earnestly and laboriously, biting my lip, LORDE half-showing off, half-eager to please.
 >

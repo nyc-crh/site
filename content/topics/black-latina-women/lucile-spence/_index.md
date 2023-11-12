@@ -12,7 +12,7 @@ New York City put many barriers in place to prevent Black teachers from getting 
 
 Many of the Black teachers who cleared these hurdles and did get hired as teachers worked in solidarity with one another, with white colleagues (many of whom were Jewish leftists) and with parents in their communities. Together they found a variety of ways to protest and seek equality for New York students.[^3]  
 
-During the anti-communist “Red Scare” of the early 1940s through the 1950s, Black activist educators like Spence and her peers, and some of their white Jewish colleagues, were accused of membership in the Communist Party, which, if proven, would have led to their being fired from their teaching positions.[^4] Whether they were members of the party or not, Spence and her peers sought radical change in the US. They wanted to end racism and poverty faced by many of their Black students in New York City.
+During the anti-communist “Red Scare” of the early 1940s through the 1950s, Black activist educators like Lucile Spence and her peers, and some of their white Jewish colleagues, were accused of membership in the Communist Party, which, if proven, would have led to their being fired from their teaching positions under New York law.[^4] Whether they were members of the party or not, Spence and her peers sought radical change in the US. They wanted to end racism and poverty faced by many of their Black students in New York City.
 
 [^1]: Christina Collins, *Ethnically Qualified: Race, Merit, and the Selection of Urban Teachers, 1920-1980* (New York: Teachers College Press, 2012).
 
