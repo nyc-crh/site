@@ -6,31 +6,33 @@ displaydate:
 title: Jim Crow School Kids as Mentally Unfit
 author: Constance Curtis
 citation: >
- "Jim Crow School Kids as Mentally Unfit" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jim-crow-school-kids."
+ "Jim Crow School Kids as Mentally Unfit," Constance Curtis, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jim-crow-school-kids.
 imageFeatured: jim-crow-school-kids.jpg
 imageFeaturedAlt: Newspaper clipping
+detailedDescription: 
 embed: jim-crow-school-kids.pdf
 embedTitle: Jim Crow School Kids as Mentally Unfit
 text: jim-crow-school-kids
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: >
- Queens parents criticize assignment of Black students to classes for the “mentally retarded”
+closeRdImg: 
+closeRdLink: 
+eventname: "Queens parents criticize assignment of Black students to classes for the \"mentally retarded\"" 
 caption: Black parents in South Jamaica, Queens criticized the assignment of Black children to CRMD classes. 
-archive_source: >
- *New York Amsterdam News*
+archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission.
-categories:	
+categories: 
 - Queens
-- k-12 education
 - parent activism
-tags:
+- k-12 education
+tags: 
 - disability labels
-- intellectual disability
+- intellectual disabilities
 - ableist segregation
 - racist segregation
 - NAACP
@@ -39,8 +41,10 @@ tags:
 - newspapers & the media
 questions: 
 - What did parents report was happening to their students? Why did they think this was happening? 
-- What does the term “Jim Crow” mean? Why do you think parents are using it here? 
-- What criticisms did the parents have of intelligence tests? What criticisms did they have of how the tests were used in their children’s schools? How did their criticisms compare to those made by [W.E.B. DuBois](/gallery/race-intelligence), [Horace Mann Bond](/topics/seeking-equity-for-disabled-students/tests-labels-and-segregation), and [Elizabeth Farrell](/gallery/elizabeth-farrell)? 
+- >
+ What does the term “Jim Crow” mean? Why do you think parents are using it here? 
+- >
+ What criticisms did the parents have of intelligence tests? What criticisms did they have of how the tests were used in their children’s schools? How did their criticisms compare to those made by [W.E.B. DuBois](/gallery/race-intelligence), [Horace Mann Bond](/topics/seeking-equity/tests-labels-and-segregation), and [Elizabeth Farrell](/gallery/elizabeth-farrell)? 
 - What do you think of the parents’ recommendations? Do you think these ideas would make for a fair educational environment for disabled and nondisabled students?
 --- 
 

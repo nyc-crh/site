@@ -567,8 +567,8 @@ details {
 }
 
 .references:has(.summary-content:empty) {
-    display:none;
-}
+        display:none;
+    }
 sup, sub {
     vertical-align: baseline;
     position: relative;

@@ -1,39 +1,43 @@
----
+--- 
 layout: gallery
 draft: false
-date: 1964-03-18
-displaydate: "c. 1964"
-title: Freedom School Lesson Plan
-author:	Student Non-Violent Coordinating Committee
-citation:	>
- "Freedom School Lesson Plan," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/youth-organizing/freedom-school-lesson-plan.
+date: 1964-01-04
+displaydate: "undated, c. 1964"
+title: Freedom School Lesson Plan, excerpt
+author: Student Non-Violent Coordinating Committee
+citation: >
+ "Freedom School Lesson Plan, excerpt," Student Non-Violent Coordinating Committee, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/freedom-school-lesson-plan.
 imageFeatured: freedom-school-lesson-plan.jpg
 imageFeaturedAlt: Text excerpt from planning for Freedom Schools
+detailedDescr: 
 embed: 
-embedTitle:
+embedTitle: 
 text: freedom-school-lesson-plan
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Ella Baker and others encouraged the establishment of Freedom Schools in the North.
 caption: Ella Baker and her fellow organizers encouraged the establishment of Freedom Schools in the North. Freedom Schools were learning spaces outside of traditional schools. Baker thought they could help young people to analyze racism and power and its impact on schools and youth. This page captures planning for one Freedom School and its activities. 
 archive_source: Schomburg Center, Ella Baker Papers
 source_link: 
-copyright: Courtesy of Schomburg Center, New York Public Library
-categories:
-  - K-12 education
-  - community activism
-  - student activism
-tags:
-  - autonomous educational spaces
-  - North & South
-questions:
-  - Why do you think the document is titled “North to Freedom?”? 
-  - After reading this document, what do you think African Americans migrating from the South to the North found when they arrived there? What different forms did racism take in the North? 
-  - Do you think that discussing the questions and statements for reflection on this page would prepare Black youth in the North to challenge racism, from white northern liberals and others? 
----
+copyright: Copyright status unknown. Courtesy of the Schomburg Center for Research in Black Culture.
+categories: 
+- k-12 education
+- community activism
+- student activism
+tags: 
+- autonomous educational spaces
+- North & South
+questions: 
+- Why do you think the document is titled “North to Freedom?”? 
+- After reading this document, what do you think African Americans migrating from the South to the North found when they arrived there? What different forms did racism take in the North? 
+- Do you think that discussing the questions and statements for reflection on this page would prepare Black youth in the North to challenge racism, from white Northern liberals and others?
+--- 
 
 This proposal for a Freedom School in the North comes after Freedom Summer (1964) in Mississippi and after some of the school boycotts in New York, Boston, and Chicago. It shows Baker’s approach as a teacher. Students at the Freedom School would examine why the boycotts took place, how segregation in the South and the North were similar, and how they experienced racism in places like New York. The outline also shows her insistence that northerners recognize and examine racism on their home terrain, not only in the Jim Crow South.
 

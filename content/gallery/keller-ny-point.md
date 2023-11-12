@@ -6,26 +6,30 @@ displaydate:
 title: Testimony to the Uniform Type Committee
 author: Helen Keller
 citation: >
- "Testimony to the Uniform Type Committee" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/keller-ny-point."
+ "Testimony to the Uniform Type Committee," Helen Keller, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/keller-ny-point.
 imageFeatured: keller-ny-point.jpg
 imageFeaturedAlt: A typed letter
+detailedDescription: 
 embed: 
 embedTitle: 
 text: keller-ny-point
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: The NYC Board of Education held a hearing to decide between different types of tactile type to be the standard for New York City Schools.
 caption: Helen Keller wrote a letter to the NYC Board of Education to advocate for braille to be the standard raised point type for all published materials for the blind, rather than New York Point, which didn’t include punctuation or capital letters. 
 archive_source: Helen Keller Archives
 source_link: https://www.afb.org/HelenKellerArchive?a=d&d=A-HK05-B268-BK01-001.1.17
 copyright: Public domain
-categories:	
+categories: 
 - New York State
 - community activism
-tags:	
+tags: 
 - blindness & low-vision
 - self-determination
 - communication

@@ -3,29 +3,33 @@ layout: gallery
 draft: false
 date: 1920-01-01
 displaydate: "1920"
-title: Survey of Cripples in New York City
+title: Survey of Cripples in New York City, excerpt
 author: Henry C. Wright
 citation: >
- "Survey of Cripples in New York City" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/survey-of-cripples."
+ "Survey of Cripples in New York City, excerpt," Henry C. Wright, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/survey-of-cripples.
 imageFeatured: survey-of-cripples.jpg
-imageFeaturedAlt: Pie chart showing if people became disabled before or after 16 years of age
+imageFeaturedAlt: Pie chart showing that 63% of of polio surivors surveyed became disabled before age 16, and 37% became disabled after 16 years of age
+detailedDescription: 
 embed: survey-of-cripples.pdf
-embedTitle: Survey of Cripples in New York City
+embedTitle: Survey of Cripples in New York City, excerpt
 text: survey-of-cripples
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Charities and hospitals caring for children who became disabled by polio conduct a citywide survey.
 caption: A coalition of 41 organizations, associations, and hospitals organized a survey of polio survivors after an outbreak in New York City in 1916. They developed recommendations for education, care, and assistive devices like braces and crutches.
 archive_source: >
  Henry C. Wright, *Survey of Cripples in New York City* (New York: The New York Committee on After Care of Infantile Paralysis Cases, October 1920),  via Google Books. 
-source_link: https://www.google.com/books/edition/Survey_of_cripples_in_New_York_City/c9OLDlVReZgC?hl=en&gbpv=1&dq=%22Survey+of+cripples+in+New+York+City%22&pg=PA14&printsec=frontcover
+source_link: https://www.google.com/books/edition/Survey_of_cripples_in_New_York_City/c9OLDlVReZgC
 copyright: Public domain
-categories:	
+categories: 
 - community activism
-tags:	
+tags: 
 - physical disabilities
 - disabled people
 - architectural barriers

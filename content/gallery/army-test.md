@@ -3,37 +3,41 @@ layout: gallery
 draft: false
 date: 1917-01-01
 displaydate: "1917"
-title: Army Beta Test and Results 
+title: Army Beta Test and Results
 author: Robert A. Yerkes
 citation: >
- "Army Beta Test and Results" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/army-test."
+ "Army Beta Test and Results," Robert A. Yerkes, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/army-test.
 imageFeatured: army-test.jpg
 imageFeaturedAlt: Illustrations for a Binet Simon IQ test
+detailedDescription: 
 embed: army-test.pdf
-embedTitle: Army Beta Test and Results 
+embedTitle: Army Beta Test and Results
 text: army-test
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: US Army gives its soldiers intelligence tests.
 caption: The US Army decided to give its soldiers an intelligence test. As many troops, like many Americans at the time, did not read, the test used pictures instead of words. 
 archive_source: >
  Carl Brigham, *A Study of American Intelligence* (Princeton: Princeton University Press, 1923).
 source_link: https://openlibrary.org/books/OL7054323M/A_study_of_American_intelligence
-copyright: Public Domain
+copyright: Public domain
 categories: 
-categories:	
 - national
-tags:	
+tags: 
 - disability labels
-- intellectual disability
+- intellectual disabilities
 - ableist segregation
 - racist segregation
-questions:
+questions: 
 - What do you think this test is testing? Is it testing intelligence, or something else? 
-- If one group has a lower average score than another, what does that tell us (if anything) about the scores of individuals in that group? How do the mathematical concepts of “mean” and “range” help our thinking here?
+- >
+ If one group has a lower average score than another, what does that tell us (if anything) about the scores of individuals in that group? How do the mathematical concepts of “mean” and “range” help our thinking here?
 --- 
 
 The US Army offered up its recruits as a test population for the new intelligence tests.  The tests had been Initiated in France but then modified for new uses in the US by psychologists like Henry Goddard, Lewis Terman and Robert Yerkes. The test’s creators  promised to help the Army discern levels of preparation and aptitude among its soldiers.[^1]

@@ -1,5 +1,5 @@
 {{ define "main" }}
-<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+<div class="main col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all">
    <h2> {{ .Params.title | page.RenderString | safeHTML }}</h2>
   <div class="row pack justify-content-left mx-auto">
     {{ .Content }}

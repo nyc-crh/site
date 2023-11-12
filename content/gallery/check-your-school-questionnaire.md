@@ -1,42 +1,46 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1956-01-01
-displaydate: "c. 1956"
+displaydate: "undated, c.1956"
 title: Check Your School!
-author:																									
-citation:	>
- "Check Your School!," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/youth-organizing/check-your-school-questionnaire.																								
+author: 
+citation: >
+ "Check Your School!," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/check-your-school-questionnaire.
 imageFeatured: check-your-school-questionnaire.jpg
 imageFeaturedAlt: Hand-drawn survey with questions about public school quality
+detailedDescr: 
 embed: 
 embedTitle: 
 text: check-your-school-questionnaire
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: NAACP distributes questionnaire to Black and Puerto Rican families about school segregation.
 caption: This is a copy of the questionnaire the NAACP distributed to Black and Puerto Rican families to document the conditions within their segregated schools in the 1950s. It is possible that some students collaborated with their parents to complete these forms, as they had knowledge of their schools. This data was then used to compare conditions in these schools to the segregated white schools throughout the city.
 archive_source: Schomburg Center, Ella Baker Collection
 source_link: https://archives.nypl.org/scm/20899
-copyright: NAACP
-categories:
-  - parent activism
-  - student activism
-  - K-12 education
-tags:
-  - school facilities
-  - student achievement
-  - segregation
-  - organizing
+copyright: Public domain. Courtesy of the Schomburg Center for Research in Black Culture.
+categories: 
+- parent activism
+- student activism
+- k-12 education
+tags: 
+- school facilities
+- student achievement
+- segregation
+- organizing
 questions:
-  - How did Ella Baker's type of organizing work differ from that of Bayard Rustin’s? How are those differences complementary?
-  - How might this document and the process of filling it out impact how students and families interacted with schools?
-  - How does this questionnaire reflect Baker’s organizing commitments and teaching beliefs?
-  - What would you find if you completed this questionnaire about your school?
----
+- How did this kind of organizing work of Ella Baker differ from that of Bayard Rustin’s? How are those differences complementary?
+- How might this document and the process of filling it out impact how students and families interacted with schools?
+- How does this questionnaire reflect Baker’s organizing commitments and teaching beliefs?
+- What would you find if you completed this questionnaire about your school?
+--- 
 
 Ella Baker was an influential organizer in New York City struggles against segregated schools, police brutality, voting restrictions, and more. She pushed for freedom. Baker saw the pursuit of liberation as a collective effort, and she valued the views and passions of young people. As historian Barbara Ransby put it in her biography on Ella Baker, Baker believed “people had many of the answers within themselves; teachers and leaders simply had to facilitate the process of tapping and framing that knowledge, of drawing it out...Baker’s pedagogy was democratic and reciprocal...her view of teaching for liberation was based on the need to empower ordinary people to dig within themselves and their collective experiences for the answers to social and political questions. She did not want her students to see her as the repository of all knowledge but to discover their own insights and knowledge base.”[^1]
 

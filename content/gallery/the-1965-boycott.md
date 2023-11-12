@@ -1,49 +1,53 @@
----
-date: 1965-02-01
+--- 
+layout: gallery
+draft: false
+date: 1965-12-01
 displaydate: "1965"
-title: The 1965 Boycott
-author:	New York Police Department Surveillance Unit
-citation:	>
- "The 1965 Boycott," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1965-boycott/the-1965-boycott.
+title: The 1965 Boycott on Film
+author: New York Police Department Surveillance Unit
+citation: >
+ "The 1965 Boycott on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-1965-boycott.
 imageFeatured: the-1965-boycott.jpg
 imageFeaturedAlt: Protestors march, carrying signs
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
   srcType: youtube
   srcLink: PkCVz5aeXbM
-videoTitle: The 1965 Boycott
+videoTitle: The 1965 Boycott on Film
+closeRdImg: 
+closeRdLink: 
 eventname: "\"Operation Shutdown\" boycott begins, including three junior high schools and one \"600\" school for children labeled as \"socially maladjusted\" or \"emotionally disturbed\" The boycott continues for seven weeks."
 caption: "The New York Police Department filmed a 1965 protest for integrated schools. The date suggests that this footage comes from the 1965 boycott of junior high schools and \"600\" schools." 
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~364~1232309:-Protest-for-better-integrated-scho?sort=identifier%2Ctitle%2Cdate&qvq=q:0274;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
-copyright: Courtesy of the Municipal Archives, City of New York
-categories:
-  - K-12 education
-  - special education
-  - Brooklyn
-  - student activism
-  - parent activism
-  - community activism
-tags:
-  - protest
-  - organizing
-  - segregation
-  - policing & the criminal legal system
-  - disability labels
-  - emotional disability
-  - disabled people
-  - photography & imagery
-  - Black people
-  - Latinx people
-questions:
-- How do you think the young people in this film felt about participating in this protest? What evidence can you find in the film footage? How do you think they felt about protesting school segregation at junior high and "600" schools?
-- What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police? 
----
+copyright: Under copyright. Courtesy of the Municipal Archives of the City of New York
+categories: 
+- k-12 education
+- special education
+- Brooklyn- student activism
+- parent activism
+tags: 
+- protest
+- organizing
+- segregation
+- policing & the criminal legal system
+- disability labels
+- emotional disabilities
+- disabled people
+- photography, imagery, & visual representation
+- Black people
+- Latinx people
+questions: 
+- "How do you think the young people in this film felt about participating in this protest? What evidence can you find in the film footage? How do you think they felt about protesting school segregation at junior high and \"600\" schools?"
+- What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police?
+--- 
 
 The 1965 boycott targeted segregation in New York City’s junior high schools and “600” schools. But for 2000 students - primarily Black and Puerto Rican boys - who attended the “600” day schools, those schools were places they were sent because they were labeled by the schools as “socially maladjusted” or “emotionally disturbed.” Some of the students had been ordered to attend these schools after interactions with the police and the juvenile legal system. Most students did not find a supportive educational environment there, and those who had disabilities did not receive the support they needed.
 

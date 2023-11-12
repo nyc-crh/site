@@ -6,7 +6,7 @@ displaydate:
 title: Exercises of the Pupils of the NY Institution for the Instruction of the Deaf and Dumb
 author: Samuel Akerly
 citation: >
- "Exercises of the Pupils of the NY Institution for the Instruction of the Deaf and Dumb" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/ny-institute-for-deaf.
+ "Exercises of the Pupils of the NY Institution for the Instruction of the Deaf and Dumb," Samuel Akerly, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/ny-institute-for-deaf.
 imageFeatured: ny-institute-for-deaf.jpg
 imageFeaturedAlt: A chart of illustrations showing letters of the alphabet through hand signs
 detailedDescription: 
@@ -16,16 +16,16 @@ text: ny-institute-for-deaf
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
 closeRdImg: 
-closeRdLink:
-eventname: >
- Educators teach sign language at the "New York Institution for the Instruction of the Deaf and Dumb"
+closeRdLink: 
+eventname: "Educators teach sign language at the \"New York Institution for the Instruction of the Deaf and Dumb\""
 caption: Samuel Akerly describes methods of teaching Deaf people, including the progression of communicating more complex ideas and words through sign language. A chart of illustrations demonstrates how to make letters of the alphabet through signs.
 archive_source: National Library of Medicine
 source_link: https://collections.nlm.nih.gov/catalog/nlm:nlmuid-60530610R-bk
-copyright: Public Domain
+copyright: Public domain
 categories: 
 - k-12 education
 - New York State

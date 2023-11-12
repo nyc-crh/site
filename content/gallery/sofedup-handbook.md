@@ -3,19 +3,20 @@ layout: gallery
 draft: false
 date: 1971-07-01
 displaydate: "1971"
-title: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY
+title: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY, excerpt
 author: Frederick L. Francis
 citation: >
- "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/sofedup-handbook."
+ "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY, excerpt," Frederick L. Francis, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/sofedup-handbook.
 imageFeatured: sofedup-handbook.jpg
 imageFeaturedAlt: Student handbook cover
-detailedDescription: sofedup-handbook-descr
+detailedDescription: sofedup-handbook
 embed: sofedup-handbook.pdf
-embedTitle: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY
+embedTitle: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY, excerpt
 text: sofedup-handbook
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
 closeRdImg: cj-conglio-video-sm.jpg
@@ -28,7 +29,8 @@ source_link: https://eric.ed.gov/?id=ED072576
 copyright: Under copyright.
 categories: 
 - student activism
-- higher education- Brooklyn
+- higher education
+- Brooklyn
 tags: 
 - physical disabilities
 - self-advocacy
@@ -45,7 +47,8 @@ questions:
 - How does the image on the cover of the handbook make you feel? What message do you think the authors want to send with this image? What do they think of the term “handicapped”? 
 - What passages from the text stand out to you? How does S.O.F.E.D.U.P. use the language of civil rights movements and ideas to make their case? 
 - What is S.O.F.E.D.U.P. trying to accomplish? How do they plan to go about it through their organizing? 
-- S.O.F.E.D.U.P. describes itself as an organization for “Every Disability United for Progress.” In what ways are students of “every disability” included, or not included, in Frances’s statement?
+- >
+ S.O.F.E.D.U.P. describes itself as an organization for “Every Disability United for Progress.” In what ways are students of “every disability” included, or not included, in Francis’s statement?
 --- 
 
 The late 1960s and early 1970s saw campus activism around the United States, for social change and against the Vietnam War. In New York City, students at various campuses of the City University of New York organized and protested in ways that changed their colleges and universities in the late 1960s and early 1970s. At City College, students organized a takeover of the campus demanding admission of more Black and Latinx students to the predominantly-white campus in Harlem [internal link to We Demand]. At Brooklyn College, students pushed successfully for the founding of programs in Africana Studies and Puerto Rican Studies.[^1]

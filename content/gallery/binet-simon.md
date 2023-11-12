@@ -3,20 +3,24 @@ layout: gallery
 draft: false
 date: 1914-01-01
 displaydate: "1914"
-title: The Binet-Simon Scale
+title: The Binet-Simon Scale, excerpt
 author: Raymond A. Schwegler
 citation: >
- "The Binet-Simon Scale"" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/binet-simon."
+ "The Binet-Simon Scale, excerpt," Raymond A. Schwegler, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/binet-simon.
 imageFeatured: binet-simon.jpg
 imageFeaturedAlt: Text from a manual for the Binet-Simon scale
+detailedDescription: 
 embed: 
-embedTitle: The Binet-Simon Scale
+embedTitle: The Binet-Simon Scale, excerpt
 text: binet-simon
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: American psychologists adapt Alfred Binet’s intelligence test for use in schools.
 caption: >
  Psychologists developed intelligence tests or measures of “intelligence quotient” or “IQ.” They suggested that a “normal” child will be able to accomplish these tasks by the stated age.
@@ -24,12 +28,12 @@ archive_source: >
  Raymond A. Schwegler, *A Teacher’s Manual for the Use of the Binet-Simon Scale* (Topeka: Kansas State Printing Office, 1914).
 source_link: >
  Raymond A. Schwegler, *A Teacher’s Manual for the Use of the Binet-Simon Scale* (Topeka: Kansas State Printing Office, 1914).
-copyright: Public Domain
-categories:	
+copyright: Public domain
+categories: 
 - k-12 education
-tags:
+tags: 
 - disability labels
-- intellectual disability
+- intellectual disabilities
 - ableist segregation
 questions: 
 - What factors in a child’s life could affect their ability to complete these tasks by age 8 or 10? 

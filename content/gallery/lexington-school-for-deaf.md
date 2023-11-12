@@ -1,4 +1,4 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1994-04-27
@@ -6,33 +6,35 @@ displaydate:
 title: Deaf Students Protest New School Head
 author: David Firestone
 citation: >
- "Deaf Students Protest New School Head" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/lexington-school-for-deaf."
+ "Deaf Students Protest New School Head," David Firestone, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/lexington-school-for-deaf.
 imageFeatured: lexington-school-for-deaf.jpg
-imageFeaturedAlt: Newspaper article with photo of protestors outside of a school holding signs. One reads, "Deaf CEO Now"
+imageFeaturedAlt: >
+ Protestors outside of a school holding signs. One says, "Deaf CEO Now!"
+detailedDescription: 
 embed: 
 embedTitle: 
 text: lexington-school-for-deaf
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
-videoTitle:
+videoTitle: 
 closeRdImg: nicolyn-plummer-video-sm.jpg
 closeRdLink: /teaching-resources/close-reading-examples/nicolyn-plummer-video/
 eventname: Students at Lexington School for the Deaf protest the hiring of a non-Deaf CEO.
 caption: Students at the Lexington School for the Deaf in Queens organized to demand a Deaf principal for their school.
-archive_source: >
- *New York Times*
+archive_source: "*New York Times*"
 source_link: 
-copyright: Under copyright. Used by permission.
-categories:	
+copyright: Under copyright. Used with permission.
+categories: 
 - student activism
 - Queens
 - k-12 education
-tags:	
+tags: 
 - Deaf culture
 - self-determination
-- American Sign Language
+- American Sign language
 questions: 
 - Why did Deaf people push for Deaf leaders at their schools? 
 - How might having a Deaf CEO help students and teachers?

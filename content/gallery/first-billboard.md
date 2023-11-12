@@ -6,29 +6,32 @@ displaydate: "1951"
 title: AHRC First Fundraising Billboard
 author: AHRC of New York City
 citation: >
- "AHRC First Fundraising Billboard" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/first-billboard."
+ "AHRC First Fundraising Billboard," AHRC of New York City, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/first-billboard.
 imageFeatured: first-billboard.jpg
-imageFeaturedAlt: >
- Parent activists pose in front of a billboard that reads, "Retarded Children Can be Helped! They need Research, Schools, Clinics. Give to the Association for the Help of Retarded Children
+imageFeaturedAlt: "Parent activists in front of a billboard that reads, \"Retarded Children Can be Helped! They need Research, Schools, Clinics. Give to AHRC\""
+detailedDescription: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Parents of children with intellectual and developmental disabilities come together to create day programs for their children, who were shut out of the public school system.
 caption: Parent activists pose in front of the AHRC's first fundraising billboard. The organization’s mission started out providing day programs and grew into a political advocacy organization.
 archive_source: The ARC, New York Historical Collection
 source_link: https://thearcny.pastperfectonline.com/photo/E11EC5CF-8939-4AF2-AA8B-451431910302
-copyright: The ARC, New York
-categories:	
-- community activism
+copyright: Under copyright. Used with permission. Courtesy of The ARC, New York.
+categories: 
 - New York State
-tags:
+- community activism
+tags: 
 - disabled people
-- intellectual disability
+- intellectual disabilities
 questions: 
 - When the state left parents with no option for educating their children in public schools, how did they respond? 
 - When AHRC formed, what kind of support was available for parents who didn’t want to send their children away to an institution?

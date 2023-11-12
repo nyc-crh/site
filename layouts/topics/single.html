@@ -1,6 +1,5 @@
 {{ define "main" }}
-<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
-    <p class="text-danger strong">DRAFT WORK IN PROGRESS. WE ARE SEEKING PERMISSION TO REPRODUCE COPYRIGHTED MATERIALS. YOU ARE WELCOME TO USE IN YOUR CLASSROOM, BUT PLEASE DO NOT SHARE PUBLICLY.</p>
+<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all">
         <h1> {{ .Params.title| page.RenderString | safeHTML }}</h1>
         {{$fileName:= .File.BaseFileName}}
         {{$galleryPage:= $.Site.GetPage (printf "gallery/%s" $fileName)}}

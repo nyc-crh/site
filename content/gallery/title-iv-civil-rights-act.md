@@ -1,37 +1,43 @@
----
+--- 
+layout: gallery
+draft: false
 date: 1964-07-02
 displaydate: 
-title: Title IV of the Civil Rights Act of 1964
-author:	
-citation:	>
- "Title IV of the Civil Rights Act of 1964," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/title-iv-civil-rights-act.
+title: Title IV of the Civil Rights Act of 1964, excerpt
+author: 
+citation: >
+ "Title IV of the Civil Rights Act of 1964, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/title-iv-civil-rights-act.
 imageFeatured: title-iv-civil-rights-act.jpg
 imageFeaturedAlt: Text of a statute
+detailedDescr: 
 embed: 
 embedTitle: 
 text: title-iv-civil-rights-act
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: "President Lyndon B. Johnson signed the Civil Rights Act into law, which included a \"watered down\" section on school desegregation."
-caption: The 1964 Civil Rights Act carefully defined desegregation to make it easier for northern districts like New York City not to take action on school segregation. 
+caption: The 1964 Civil Rights Act carefully defined desegregation to make it easier for Northern districts like New York City not to take action on school segregation. 
 archive_source: P.L. 88-352, Section 401b.  
 source_link: 
-copyright: Public Domain
-categories:
-  - National
-  - K-12 education
+copyright: Government document.
+categories: 
+- national
+- k-12 education
 tags: 
-  - legislation
-  - white liberalism
-  - North & South 
-  - segregation
+- legislation
+- white liberalism
+- North & South
+- segregation
 questions:
-  - In your own words, describe the document and its significance.
-  - How does the Civil Rights Act of 1964 define desegregation? Why is that definition significant? Would it challenge New York City school segregation or  allow it to continue?
----
+- In your own words, describe the document and its significance.
+- How does the Civil Rights Act of 1964 define desegregation? Why is that definition significant? Would it challenge New York City school segregation or  allow it to continue?
+--- 
 
 Signed into law by President Lyndon B. Johnson on June 2, 1964, the Civil Rights Act of 1964 outlawed discrimination based on race, religion, sex, and national origin. The Act banned segregation in public places, including schools, parks, theaters, and hotels, and it denied the use of federal funds for any program that practiced segregation. The Act even authorized the Office of Education to assist in facilitating school desegregation.
 

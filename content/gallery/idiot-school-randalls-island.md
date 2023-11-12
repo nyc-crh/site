@@ -3,40 +3,43 @@ layout: gallery
 draft: false
 date: 1867-01-01
 displaydate: "1867"
-title: “The Idiot School”
+title: The Idiot School
 author: Harper’s Magazine
 citation: >
- “The Idiot School” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/idiot-school-randalls-island."
+ "The Idiot School," Harper’s Magazine, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/idiot-school-randalls-island.
 imageFeatured: idiot-school-randalls-island.jpg
 imageFeaturedAlt: Illustration of a 19th Century classroom
+detailedDescription: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: A school for disabled students operated on Randall’s Island. 
-caption: >
- "The Idiot School" on Randalls Island was founded by French educator, Édouard Séguin in 1867. The school was designed for students with intellectual and developmental disabilities"
+caption: "\"The Idiot School\" on Randall's Island was founded by French educator, Édouard Séguin in 1867. The school was designed for students with intellectual and developmental disabilities"
 archive_source: >
  The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Picture Collection, The New York Public Library. "The idiot school" The New York Public Library Digital Collections. 1867.
 source_link: https://digitalcollections.nypl.org/items/510d47e0-d6d7-a3d9-e040-e00a18064a99
-copyright: Public Domain
-categories:	
+copyright: Public domain. Courtesy of New York Public Library Digital Collections.
+categories: 
 - Manhattan
 - k-12 education
 - adult education
-tags:	
+tags: 
 - ableist segregation
 - disabled people
-- intellectual disability
+- intellectual disabilities
 - disability labels
 - curriculum
-- photography & imagery
+- photography, imagery, & visual representation
 - newspapers & the media
-- institutions
+- institutionalization of disabled people and people labeled disabled
 questions: 
 - Look carefully at the illustration of the classroom. What do you notice about who is there and what they are doing? What do you notice about the classroom space? How does it compare to your classrooms today? What questions do you have about this image? 
 - Why did Edouard Séguin and his colleagues think that students with intellectual and physical disabilities needed to go to school away from their families and communities? Do you agree with their ideas? 

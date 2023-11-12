@@ -1,4 +1,5 @@
 site: public
 output_subdir: pagefind
+output_path: public/pagefind/
 exclude_selectors:
   - "data-pagefind-ignore"

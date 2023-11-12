@@ -3,32 +3,36 @@ layout: gallery
 draft: false
 date: 2004-01-01
 displaydate: "2004"
-title: Judy Heumann, “Feeling uncomfortable in high school”
+title: Judy Heumann Oral History
 author: Judith Heumann and Jonathan Young
 citation: >
- "Judy Heumann, “Feeling uncomfortable in high school” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/judy-heumann-oral-history."
+ "Judy Heumann Oral History," Judith Heumann and Jonathan Young, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/judy-heumann-oral-history.
 imageFeatured: text-icon.jpg
-imageFeaturedAlt: 
+imageFeaturedAlt: Text icon
+detailedDescription: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Judy Heumann reflects on her school experiences in Brooklyn, NY
 caption: Disability rights activist Judy Heumann describes her experience in school in Queens, and her early advocacy to get hired as a teacher.
 archive_source: >
  Judith Heumann, Pioneering Disability Rights Advocate and Leader in Disabled in Action, New York: Center for Independent Living, Berkeley; World Institute on Disability; and the US Department of Education 1960s-2000, an oral history conducted by Susan Brown, David Landes, Jonathan Young in 1998-2001, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 2004.
 source_link: https://oac.cdlib.org/view?docId=hb9v19p0k9;NAAN=13030&doc.view=frames&chunk.id=div00059&toc.depth=1&toc.id=0&brand=oac4
-copyright: 
-categories:	
+copyright: Under copyright. Used with permission. Courtesy of the Online Archive of California.
+categories: 
 - Queens
 - student activism
 - parent activism
 - k-12 education
-tags:	
+tags: 
 - physical disabilities
 - self-advocacy
 - architectural barriers

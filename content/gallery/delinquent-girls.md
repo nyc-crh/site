@@ -3,21 +3,24 @@ layout: gallery
 draft: false
 date: 1911-01-01
 displaydate: "1911"
-title: >
- “Delinquent Girls Tested by the Binet Scale” 
+title: Delinquent Girls Tested by the Binet Scale, excerpt
 author: Henry H. Goddard and Helen F. Hall
 citation: >
- “Delinquent Girls Tested by the Binet Scale” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/delinquent-girls."
+ "Delinquent Girls Tested by the Binet Scale, excerpt," Henry H. Goddard and Helen F. Hall, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/delinquent-girls.
 imageFeatured: delinquent-girls.jpg
 imageFeaturedAlt: Report cover page
+detailedDescription: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: >
  Henry Goddard writes about the use of intelligence tests for “delinquent girls.”
 caption: >
@@ -26,9 +29,9 @@ archive_source: >
  “The Training School,” June 1911.
 source_link: https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=45
 copyright: Public domain
-categories:	
+categories: 
 - New York State
-tags:	
+tags: 
 - disability labels
 - policing & the criminal legal system
 - institutions
@@ -38,10 +41,12 @@ tags:
 - exclusion from schooling
 questions: 
 - Why do Goddard and Hall propose giving these “delinquent girls” an intelligence test? 
-- What factors seem to be involved in deciding a girl is “delinquent” and “feeble minded”? What are the ideas of “normal” that these girls are being compared to? 
+- >
+ What factors seem to be involved in deciding a girl is “delinquent” and “feeble minded”? What are the ideas of “normal” that these girls are being compared to? 
 - Who do the authors think deserve to live with their communities, to go to school with peers, and to have families? 
 - Who do you think the authors are seeking to help? 
-- What do you think Goddard and Hall mean by “this race,” in their last sentence? 
+- >
+ What do you think Goddard and Hall mean by “this race,” in their last sentence? 
 - What connections to the present - to ideas of intelligence, ability, gender, sexuality, criminality, or more - do you see in these sources?
 --- 
 

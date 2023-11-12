@@ -3,33 +3,37 @@ layout: gallery
 draft: false
 date: 1911-01-01
 displaydate: "1911"
-title: “The Feeble Minded in New York” 
+title: The Feeble Minded in New York, excerpts
 author: Anne Moore
 citation: >
- “The Feeble Minded in New York” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/feeble-minded-in-ny."
+ "The Feeble Minded in New York, excerpts," Anne Moore, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/feeble-minded-in-ny.
 imageFeatured: feeble-minded-in-ny.jpg
 imageFeaturedAlt: Table of children withdrawn from Randall's Island
+detailedDescription: 
 embed: feeble-minded-in-ny.pdf
-embedTitle: “The Feeble Minded in New York” 
+embedTitle: The Feeble Minded in New York, excerpts
 text: feeble-minded-in-ny
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Parents withdraw their children from the school on Randall’s Island.
 caption: >
  A report describes the school for “feeble minded” children on Randall’s Island, including how parents resisted having their children there, and what powers the state wanted to have over children it labeled “feeble minded.” 
 archive_source: >
  Anne Moore, “The Feeble Minded in New York: A Report Prepared for the Public Education Association of New York,” New York: The Association, 1911.
 source_link: https://catalog.hathitrust.org/Record/001133232
-copyright: Public Domain
-categories:	
+copyright: Public domain
+categories: 
 - Manhattan
 - parent activism
-tags:
+tags: 
 - disability labels
-- intellectual disability
+- intellectual disabilities
 - ableist segregation
 - racist segregation
 - disabled people

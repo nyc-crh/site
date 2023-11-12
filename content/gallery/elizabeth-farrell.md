@@ -4,34 +4,38 @@ draft: false
 date: 1901-09-01
 displaydate: "undated"
 title: Elizabeth Farrell and Ungraded Classes
-author: 
+author: Board of Education of the City of New York
 citation: >
- "Elizabeth Farrell and Ungraded Classes" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elizabeth-farrell."
+ "Elizabeth Farrell and Ungraded Classes," Board of Education of the City of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elizabeth-farrell.
 imageFeatured: elizabeth-farrell.jpg
 imageFeaturedAlt: A white middle-aged woman teaches a classroom of boys of various ages making chairs
+detailedDescription: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: Elizabeth Farrell teaches a classroom of children with intellectual disabilities in an “ungraded class.”
+closeRdImg: 
+closeRdLink: 
+eventname: "Elizabeth Farrell teaches a classroom of children with intellectual disabilities in an \"ungraded class.\""
 caption: Elizabeth Farrell oversees boys of different ages making furniture in a classroom.
 archive_source: Council for Exceptional Children
 source_link: https://exceptionalchildren.org/
-copyright: Public Domain
-categories:	
+copyright: Public domain
+categories: 
 - k-12 education
-tags:	
+tags: 
 - ableist segregation
 - disabled people
-- intellectual disability
-- physical disability
+- intellectual disabilities
+- physical disabilities
 - disability labels
-- photography & imagery
-- institutions
+- photography, imagery, & visual representation
+- institutionalization of disabled people and people labeled disabled
 - school facilities
 questions: 
 - How did compulsory education laws change the way children with disabilities were educated?

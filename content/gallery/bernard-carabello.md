@@ -3,37 +3,41 @@ layout: gallery
 draft: false
 date: 1972-02-02
 displaydate: 
-title: Bernard Carabello
+title: Bernard Carabello Interview
 author: Geraldo Rivera and Bernard Carabello
 citation: >
- "Bernard Carabello" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/bernard-carabello."
+ "Bernard Carabello Interview," Geraldo Rivera and Bernard Carabello, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/bernard-carabello.
 imageFeatured: bernard-carabello.jpg
 imageFeaturedAlt: Video still from a news broadcast showing Bernard Carabello speaking.
+detailedDescription: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
   srcType: youtube
   srcLink: Futy8X7HwVU
-videoTitle: Bernard Carabello
+videoTitle: Bernard Carabello Interview
+closeRdImg: 
+closeRdLink: 
 eventname: Geraldo Rivera’s exposé of Willowbrook and Letchworth State Schools airs.
-caption: A clip of an interview with Bernard Carabello from Geraldo Rivera’s exposé, “The Last Great Disgrace”
+caption: >
+ A clip of an interview with Bernard Carabello from Geraldo Rivera’s exposé, “The Last Great Disgrace”
 archive_source: Geraldo Rivera
 source_link: https://www.geraldo.com/willowbrook-the-last-great-disgrace20221008000226/
 copyright: Under copyright.
-categories:	
+categories: 
 - Staten Island
 - community activism
-tags:	
+tags: 
 - disabled people
 - physical disability
-- developmental disability
 - newspapers & the media
 - self-determination
-- institutions
+- institutionalization of disabled people and people labeled disabled
 - ableist segregation
 - exclusion from schooling
 questions: 

@@ -1,41 +1,46 @@
----
+--- 
+layout: gallery
+draft: false
 date: 1999-01-01
 displaydate: "1999"
 title: >
- "The Man Who Could Fly: the Bob Beamon Story"
-author:	Bob Beamon
-citation:	>
- "'The Man Who Could Fly: the Bob Beamon Story,'" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1965-boycott/the-man-who-could-fly.
+ The Man Who Could Fly: the Bob Beamon Story, excerpt
+author: Bob Beamon
+citation: >
+ "The Man Who Could Fly: the Bob Beamon Story, excerpt," Bob Beamon, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-man-who-could-fly.
 imageFeatured: the-man-who-could-fly.jpg
 imageFeaturedAlt: Page from a yearbook
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: "Bob Beamon describes his experience in a \"600\" school"
-caption: >
- An excerpt from *The Man Who Could Fly: The Bob Beamon Story,* the memoir of former New York City school student and Olympic athlete Bob Beamon. Image is a page from the Jamaica High School yearbook from 1966. Robert Beamon is pictured in the second to last row. in this yearbook page, Beamon is the only Black student, highlighting the lack of racial diversity at Jamaica High School.
+caption: "An excerpt from *The Man Who Could Fly: The Bob Beamon Story,* the memoir of former New York City school student and Olympic athlete Bob Beamon. Image is a page from the Jamaica High School yearbook from 1966. Robert Beamon is pictured in the second to last row. in this yearbook page, Beamon is the only Black student, highlighting the lack of racial diversity at Jamaica High School." 
 archive_source: 
 source_link: 
-copyright: Genesis Press
-categories:
-  - K-12 education
-  - special education
-tags:
-  - policing & the criminal legal system
-  - athletics
-  - segregation
-  - student achievement
-  - disability labels
-  - emotional disability
+copyright: Under copyright.
+categories: 
+- k-12 education
+- special education
+tags: 
+- policing & the criminal legal system
+- athletics
+- segregation
+- student achievement
+- disability labels
+- emotional disabilities
 questions:
-  - "What led to Beamon’s placement at a \"600\" school?"
-  - When Bob Beamon attended Jamaica High School, it was a majority-white school. How do you think that might have shaped his experience there?
----
+- "What led to Beamon’s placement in a \"600\" school?"
+- When Bob Beamon attended Jamaica High School, it was a majority-white school. How do you think that might have shaped his experience there?
+--- 
 
 > Mr. Louis Schuker, the principal at Jamaica High, had a long talk with me and Coach Ellis. He said the odds of a 600 school student making it in a regular school environment were next to zero. His admonition to me was reminiscent of the one given by the judge who had sentenced me to the 600 school.
 >

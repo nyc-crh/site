@@ -6,34 +6,38 @@ displaydate: "1883"
 title: Map of Randall’s, Hart, and Blackwell Islands
 author: Letts, Son & Co.
 citation: >
- "Map of Randall’s, Hart, and Blackwell Islands" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/map-nyc-islands."
+ "Map of Randall’s, Hart, and Blackwell Islands," Letts, Son & Co., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/map-nyc-islands.
 imageFeatured: map-nyc-islands.jpg
 imageFeaturedAlt: A map showing buildings on islands in the East River
+detailedDescription: 
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: Social welfare reformers created institutions for the poor like hospitals, almshouses, asylums for orphans and people with disabilities, and housing for immigrants on islands away from the city.
 caption: >
- A map of Blackwell's Island (now called Roosevelt Island), Wards Island, and Randalls Island in the East River. The map shows building labeled: hospital, alms houses, work house, "lunatic asylum,” "emigrant refuge & hosp.,” "inebriate asylum,” “foundling asylum” (for infant children), “house of refuge,” and "idiot asylum.”
+ A map of Blackwell's Island (now called Roosevelt Island), Wards Island, and Randalls Island in the East River. The map shows building labeled: hospital, alms houses, work house, "lunatic asylum," "emigrant refuge & hosp.," "inebriate asylum," "foundling asylum” (for infant children), "house of refuge," and "idiot asylum."
 archive_source: David Rumsey Historical Map Collection
 source_link: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31479~1150435:New-York-N-
-copyright: Public Domain
-categories:	
+copyright: Public domain
+categories: 
 - Manhattan
 - k-12 education
 - adult education
-tags:
+tags: 
 - ableist segregation
 - disabled people
-- intellectual disability
+- intellectual disabilities
 - disability labels
-- photography & imagery
-- institutions
+- photography, imagery, & visual representation
+- institutionalization of disabled people and people labeled disabled
 questions: 
 - What do you notice about the facilities on these islands? How are residents similar? How are they different? How are their needs similar or different?
 - What do you know about these islands? How do you get to them today? How did people get to them in the 1800s?

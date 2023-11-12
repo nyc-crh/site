@@ -3,42 +3,48 @@ layout: gallery
 draft: false
 date: 1920-07-01
 displaydate: "July 1920"
-title: “Race Intelligence”
+title: Race Intelligence, excerpt
 author: W.E.B. DuBois
 citation: >
- “Race Intelligence” in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/race-intelligence."
+ "Race Intelligence, excerpt," W.E.B. DuBois, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/race-intelligence.
 imageFeatured: race-intelligence.jpg
 imageFeaturedAlt: Newspaper clipping
+detailedDescription: 
 embed: race-intelligence.pdf
-embedTitle: “Race Intelligence”
+embedTitle: Race Intelligence, excerpt
 text: race-intelligence
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
-eventname: >
- DuBois criticizes intelligence testing in *The Crisis*. 
+closeRdImg: 
+closeRdLink: 
+eventname: DuBois criticizes intelligence testing in *The Crisis*. 
 caption: Scholar W.E.B. DuBois criticizes intelligence testing as another attempt to claim a false scientific basis for white supremacy. 
 archive_source: National Association for the Advancement of Colored People, *The Crisis*, Volume 20, No. 3, July 1920 
 source_link: https://babel.hathitrust.org/cgi/pt?id=hvd.32044021627674&view=1up&seq=513
-copyright: Public Domain
-categories:	
+copyright: Public domain
+categories: 
 - national
 - community activism
-tags:	
+tags: 
 - disability labels
-- intellectual disability
+- intellectual disabilities
 - ableist segregation
 - racist segregation
 - NAACP
 - Black people
 questions: 
 - What are DuBois’s criticisms of intelligence tests? There are several different ones, so make sure you find more than one. 
-- What does DuBois mean that “the average included most of both races”? How are the mathematics concepts of “average” and “range” a part of his argument? 
+- >
+ What does DuBois mean that “the average included most of both races”? How are the mathematics concepts of “average” and “range” a part of his argument? 
 - What do you notice about DuBois’s rhetorical style? How does he write this piece? How do you think he wants his readers to feel? 
-- DuBois points out one kind of question on the IQ test and implies - but does not state why - it is unfair. Why is it unfair to ask test takers to “complete pictures where the net was missing in the tennis court or the ball in the bowling alley”?  
-- What criticisms do you have of the other items on the [test](/gallery/army-test)?
+- >
+ DuBois points out one kind of question on the IQ test and implies - but does not state why - it is unfair. Why is it unfair to ask test takers to “complete pictures where the net was missing in the tennis court or the ball in the bowling alley”?  
+- >
+ What criticisms do you have of the other items on the [test](/gallery/army-test)?
 --- 
 
 Scholar W.E.B. DuBois was also an editor of *The Crisis*, a magazine of the National Association for the Advancement of Colored People (or NAACP). DuBois wrote a short editorial in the magazine, responding to claims that intelligence test scores showed Black people to be less intelligent than white people.

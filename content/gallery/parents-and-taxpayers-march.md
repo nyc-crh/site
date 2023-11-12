@@ -1,48 +1,50 @@
----
+--- 
 layout: gallery
 draft: false
 date: 1964-03-12
 displaydate: 
-title: >
- "Parents and Taxpayers" March to City Hall
-author: 
+title: Parents and Taxpayers March to City Hall on Film
+author: New York Police Department Surveillance Unit
 citation: >
- "'Parents and Taxpayers' March to City Hall" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/parents-and-taxpayers-march.
+ "Parents and Taxpayers March to City Hall on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/parents-and-taxpayers-march.
 imageFeatured: parents-and-taxpayers-march.jpg
 imageFeaturedAlt: White women carry signs protesting desegregation
+detailedDescr: 
 embed:  
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
   srcType: youtube
   srcLink: efM5Ozc6L9g
-videoTitle: "\"Parents and Taxpayers\" March to City Hall"
-eventname: >
- A group of white parents calling themselves "Parents and Taxpayers" led a march from the Board of Education building in Brooklyn to City Hall in Manhattan.
-caption: >
- A group of white parents calling themselves "Parents and Taxpayers" led a march near City Hall to protest desegregation efforts. 
+videoTitle: Parents and Taxpayers March to City Hall on Film
+closeRdImg:
+closeRdLink:
+eventname: "A group of white parents calling themselves \"Parents and Taxpayers\" led a march from the Board of Education building in Brooklyn to City Hall in Manhattan."
+caption: "A group of white parents calling themselves \"Parents and Taxpayers\" led a march near City Hall to protest desegregation efforts."
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~232~1233389:City-Hall,-Police-Department--Paren?sort=identifier%2Ctitle%2Cdate&qvq=q:0171;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
-copyright: Courtesy of the Municipal Archives, City of New York
-categories:
+copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives, City of New York
+categories: 
 - parent activism
-- K-12 education
+- k-12 education
 - Queens
 - Manhattan
-tags:
+tags: 
 - segregation
-- women's organizing
+- women's activism
 - policing & the criminal legal system
 - protest
 - white people
-- photography & imagery
+- photography, imagery, & visual representation
 questions:
 - What do you notice about the video? What do you wonder?
 - Why do you think the marchers chose to carry flags? 
-- What terms do you see in the protesters’ signs? Where have you seen references to “neighborhood schools” in other documents? What does it mean to talk about “neighborhood schools” when many neighborhoods were racially segregated through policies like redlining?
+- >
+ What terms do you see in the protesters’ signs? Where have you seen references to “neighborhood schools” in other documents? What does it mean to talk about “neighborhood schools” when many neighborhoods were racially segregated through policies like redlining?
 - What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police? How do you think white parents and young people might have responded, as compared to Black and Puerto Rican parents or young people?
 --- 
 

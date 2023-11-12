@@ -3,31 +3,34 @@ layout: gallery
 draft: false
 date: 1979-02-01
 displaydate: 
-title: Jose P. vs. Ambach
+title: "*Jose P. vs. Ambach,* excerpt"
 author: John C. Gray, Esq. and Harold Adler, Esq.
 citation: >
- "Jose P. vs. Ambach"" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jose-p-vs-ambach."
+ "*Jose P. vs. Ambach,* excerpt," John C. Gray, Esq. and Harold Adler, Esq., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jose-p-vs-ambach.
 imageFeatured: jose-p-vs-ambach.jpg
 imageFeaturedAlt: Legal document
+detailedDescription: 
 embed: jose-p-vs-ambach.pdf
-embedTitle: Jose P. vs. Ambach
+embedTitle: "*Jose P. vs. Ambach,* excerpt"
 text: jose-p-vs-ambach
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
+closeRdImg: 
+closeRdLink: 
 eventname: New York City parents file suit to get access to schooling for disabled students. 
 caption: A group of New York City parents sought legal help and sued to stop the New York City Board of Education from excluding their disabled children from school.
 archive_source: Advocates for Children of New York 
 source_link: https://www.advocatesforchildren.org/sites/default/files/on_page/jose_p_complaint_february_1979.pdf?pt=1
 copyright: Public domain
-categories:	
-- Bronx
+categories: "- Bronx
 - Manhattan
 - parent activism
-- k-12 education
-tags:
+- k-12 education"
+tags: 
 - court cases
 - disabled people
 - Spanish language
@@ -38,7 +41,8 @@ questions:
 - What laws are mentioned in the complaint? What rights do these laws provide to disabled students? 
 - Why does the complaint say that it is important for disabled students to have access to education? Are these the only reasons education matters? What do you think? 
 - As of 1979, is New York City respecting the rights of disabled students? According to this complaint, what is happening for disabled students in New York City? 
-- The Education for All Handicapped Children Act of 1975 established a right to a “free appropriate public education.” The New York State Constitution says that all New Yorkers have a right to a “sound basic education” What do those phrases mean to you? If you were going to write a phrase to describe what kind of education you deserve, what would it be?
+- >
+ The Education for All Handicapped Children Act of 1975 established a right to a “free appropriate public education.” The New York State Constitution says that all New Yorkers have a right to a “sound basic education” What do those phrases mean to you? If you were going to write a phrase to describe what kind of education you deserve, what would it be?
 --- 
 
 Many major changes in education have come through federal legislation. The GI Bill of 1944 provided support for college tuition for former soldiers, many who would not have been able to afford it otherwise. Title IX of the Civil Rights Act led to the expansion of women’s access to sports in schools.
