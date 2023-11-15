@@ -34,7 +34,7 @@ tags:
 - Harlem
 - self-determination
 - Black people
-- protests
+- protest
 - curriculum
 - North & South
 - multiracial organizing

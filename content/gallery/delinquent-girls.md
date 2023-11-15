@@ -35,8 +35,8 @@ tags:
 - disability labels
 - policing & the criminal legal system
 - institutions
-- intellectual disability
-- emotional disability
+- intellectual disabilities
+- emotional disabilities
 - ableist segregation
 - exclusion from schooling
 questions: 

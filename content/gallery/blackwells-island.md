@@ -31,7 +31,7 @@ categories:
 - k-12 education
 - adult education
 tags: 
-- blindness & low-vision
+- blindness & low vision
 - institutionalization of disabled people and people labeled disabled
 - communication
 - ableist segregation

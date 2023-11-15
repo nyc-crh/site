@@ -34,7 +34,7 @@ categories:
 - community activism
 tags: 
 - disabled people
-- physical disability
+- physical disabilities
 - newspapers & the media
 - self-determination
 - institutionalization of disabled people and people labeled disabled

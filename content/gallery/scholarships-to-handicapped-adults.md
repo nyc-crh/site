@@ -28,9 +28,10 @@ source_link:
 copyright: Under copyright.
 categories: 
 - k-12 education
-- higher education- national
+- higher education
+- national
 - New York State
-- teacher activism"
+- teacher activism
 tags: 
 - physical disabilities
 - intellectual disabilities

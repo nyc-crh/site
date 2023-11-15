@@ -29,10 +29,10 @@ categories:
 tags:
 - ableist segregation
 - disabled people
-- physical disability
+- physical disabilities
 - self-advocacy
-- protests
-- photography & imagery
+- protest
+- photography, imagery, & visual representation
 - joy
 - transportation
 - employment

@@ -31,7 +31,8 @@ copyright: Under copyright. Courtesy of the Municipal Archives of the City of Ne
 categories: 
 - k-12 education
 - special education
-- Brooklyn- student activism
+- Brooklyn
+- student activism
 - parent activism
 tags: 
 - protest

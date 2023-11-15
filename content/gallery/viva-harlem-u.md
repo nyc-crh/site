@@ -33,7 +33,8 @@ tags:
 - women's activism
 - Black people
 - white people
-- protest- curriculum
+- protest
+- curriculum
 - organizing
 - photography, imagery, & visual representation
 - multiracial organizing

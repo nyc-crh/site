@@ -36,11 +36,11 @@ categories:
 - student activism
 tags: 
 - ableist segregation
-- physical disability
+- physical disabilities
 - architectural barriers
 - transportation
 - disabled people
-- protests
+- protest
 - school facilities
 - labor unions
 questions: 

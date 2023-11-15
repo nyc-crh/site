@@ -33,7 +33,7 @@ categories:
 - community activism
 - student activism
 - K-12 education
- -Brooklyn
+- Brooklyn
 tags: 
 - protest
 - racial segregation

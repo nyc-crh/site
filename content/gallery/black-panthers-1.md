@@ -9,7 +9,7 @@ citation: >
  "OPERATION SHUT DOWN flyer," Black Panther Party Harlem Branch, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/black-panthers-1.
 imageFeatured: black-panthers-1.jpg
 imageFeaturedAlt: Flyer for boycott
-detailedDescr: 
+detailedDescr: black-panthers-1
 embed: black-panthers-1.pdf
 embedTitle: OPERATION SHUT DOWN flyer
 text: 
@@ -34,7 +34,7 @@ tags:
 - Harlem
 - self-determination
 - Black people
-- protests
+- protest
 - curriculum
 - photography, imagery, & visual representation
 - organizing
@@ -55,10 +55,6 @@ Harlem was a long way from Lowndes County, but the idea of democratic power and 
 The Black Panther Party focused on many topics, including police brutality, housing, and keeping money within the Black community. But education was a key focus, as “our children are the future of our people.”[^2]
 
 When Intermediate School 201 opened in the fall of 1966, the Black Panther Party called for Operation Shut Down to boycott the school for a day. Despite the Board of Education’s promises, the new school was segregated, and the community was upset by the fact that the building lacked any windows to let students see out, or parents see in. Both showed the need for leadership that is “responsive to the needs of the community,” after a history of “irresponsible and non-concerned leadership” that had been ”detrimental to our young people.”[^3]
-
-## Watch: A Windowless School in Harlem
-
-{{< figure src="windowless-school-harlem.jpg" alt="A school building with a windowless facade" class="float-left" link="https://vimeo.com/684374095/4a1cb48a99" >}}
 
 [^1]: To read more, see the [Black Power Syllabus, Schomburg Center for Research in Black Culture](https://www.nypl.org/schomburgsyllabus/black-panther-party).
 

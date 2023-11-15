@@ -34,7 +34,8 @@ tags:
 - segregation
 - Latinx people
 - Black people
-- photography, imagery, & visual representation- organizing
+- photography, imagery, & visual representation
+- organizing
 - women's activism
 questions: 
 - How does Oliver’s dress and style challenge oppressive ideas imposed on Black women?

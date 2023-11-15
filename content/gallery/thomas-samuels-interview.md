@@ -19,7 +19,7 @@ audioTitle:
 audioTranscript: 
 video:	
   srcType:	youtube
-  srcLink:	1tk8nMtvVa0
+  srcLink:	SYvK9U1bpts
 videoTitle: Interview with Thomas Samuels
 closeRdImg: 
 closeRdLink: 

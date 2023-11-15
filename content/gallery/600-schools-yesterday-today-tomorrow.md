@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 date: 1966-09-01
 displaydate: "September 1966"
-title: "\"600\" Schools, Yesterday, Today, and Tomorrow, excerpts
+title: "\"600\" Schools, Yesterday, Today, and Tomorrow, excerpts"
 author: New York City Board of Education"
 citation: >
  "'600' Schools, Yesterday, Today, and Tomorrow, excerpts," New York City Board of Education, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/600-schools-yesterday-today-tomorrow.
@@ -33,7 +33,6 @@ categories:
 tags: 
 - segregation
 - policing & the criminal legal system
-- criminal legal system
 - Black people
 - Latinx people
 - disability labels

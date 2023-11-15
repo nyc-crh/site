@@ -40,7 +40,8 @@ tags:
 - disabled people
 - autonomous educational spaces
 - athletics
-- curriculum- student writing
+- curriculum
+- student writing
 questions: 
 - How do you see joy in this document? How do you see struggle? 
 - What can you tell from this document about how campers experienced Camp Jened? 

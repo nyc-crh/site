@@ -5,20 +5,15 @@
     <div class="row justify-content-center pt-3">
         <h1> {{ .Params.title| page.RenderString | safeHTML }}</h1>
     {{ .Content | page.RenderString | safeHTML }} </div>
-<div class="accordion accordion-flush" id="accordionFlushExample">
-    <div class="accordion-item">
-        <h2 class="accordion-header" id="flush-headingTwo">
-            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
-                References
-            </button>
-
-        </h2>
-        <div id="flush-collapseTwo" class="accordion-collapse collapse d-print-block" aria-labelledby="flush-headingTwo"
-            data-bs-parent="#accordionFlushExample">
-            <div class="accordion-body">
+    <details class="references accordion">
+        <summary>
+            <span class="summary-title">References</span>
+            <div class="summary-chevron-up d-print-none">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down"><polyline points="6 9 12 15 18 9"></polyline></svg>
             </div>
-        </div>
-    </div>
-</div>
+        </summary>
+        <div class="summary-content"></div>
+        <div class="summary-chevron-down d-print-none">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-up"><polyline points="18 15 12 9 6 15"></polyline></svg></div>
+    </details>
 {{ end }}

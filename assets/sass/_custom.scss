@@ -500,7 +500,7 @@ details.readmore[open] summary
 
 $details-padding: 0.75em;
 
-details {
+details.accordion {
     font-size: 1.2rem;
     margin: 0.5em auto;
     width: 100%;
@@ -557,6 +557,15 @@ details {
         display: none;
     }
 }
+.concept { 
+    ol {
+    li {margin-top: -2.2rem;
+        margin-bottom: 2rem;
+        margin-left: 2rem;
+}
+}
+}
+
 .concept { 
     ol {
     li {margin-top: -2.2rem;

@@ -29,8 +29,8 @@ categories:
 - New York State
 - teacher activism
 tags:	
-- physical disability
-- intellectual disability
+- physical disabilities
+- intellectual disabilities
 - joy
 - architectural barriers
 - disabled people

@@ -39,7 +39,7 @@ tags:
 - curriculum
 - student achievement
 - teacher quality
-- social & economic class
+- social and economic class
 - school facilities
 questions: 
 - Based on this report, how did NYC schools become segregated? What were the impacts of this segregation?

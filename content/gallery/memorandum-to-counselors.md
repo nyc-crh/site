@@ -28,7 +28,7 @@ source_link:
 copyright: Under copyright. Used with permission of the family of Honora and Murray Rubenstein.
 categories: 
 - k-12 education
-- higher education- national
+- higher education
 - New York State
 - teacher activism
 tags: 

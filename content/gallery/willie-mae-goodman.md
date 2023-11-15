@@ -19,7 +19,7 @@ audioTitle:
 audioTranscript: 
 video: 
   srcType: youtube
-  srcLink: hInnet2nXa
+  srcLink: 4pXVf4xWjWY
 videoTitle: Willie Mae Goodman Interview, excerpt
 closeRdImg: 
 closeRdLink: 

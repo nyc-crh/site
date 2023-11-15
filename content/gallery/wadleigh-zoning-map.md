@@ -30,7 +30,8 @@ copyright: Public domain
 categories: 
 - Manhattan
 - k-12 education
-- community activism- teacher activism
+- community activism
+- teacher activism
 tags: 
 - Black people
 - white people

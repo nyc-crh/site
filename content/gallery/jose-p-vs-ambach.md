@@ -26,10 +26,11 @@ caption: A group of New York City parents sought legal help and sued to stop the
 archive_source: Advocates for Children of New York 
 source_link: https://www.advocatesforchildren.org/sites/default/files/on_page/jose_p_complaint_february_1979.pdf?pt=1
 copyright: Public domain
-categories: "- Bronx
+categories: 
+- Bronx
 - Manhattan
 - parent activism
-- k-12 education"
+- k-12 education
 tags: 
 - court cases
 - disabled people

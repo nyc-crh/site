@@ -28,7 +28,8 @@ source_link:
 copyright: Under copyright. Used with permission. Courtesy of the Balch Historical Institute, Historical Society of Philadelphia
 categories: 
 - Manhattan
-- k-12 education- teacher activism
+- k-12 education
+- teacher activism
 tags: 
 - Harlem
 - bilingual education
