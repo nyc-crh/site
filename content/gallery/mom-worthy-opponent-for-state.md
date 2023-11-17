@@ -23,7 +23,7 @@ closeRdImg:
 closeRdLink: 
 eventname: The *New York Daily News* writes about Willie Mae Goodman's success in keeping her daughter Marguerite at the Gouverneur Hospital and improving the care of all residents there.
 caption: "The *New York Daily News* wrote about Willie Mae Goodman’s effort to improve conditions for her daughter Marguerite and others at the Gouverneur Hospital."
-archive_source: "*New York Daily News,* with thanks to Jorgé Matos Valldejuli"
+archive_source: "*New York Daily News,* with thanks to Jorge Matos Valldejuli"
 source_link: 
 copyright: Under copyright, used with permission. Courtesy of Jorge Matos Valldejuli
 categories: 
