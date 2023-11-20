@@ -4,7 +4,7 @@ layout: bundle-gallery
 draft: false
 ---
 
-Audre Lorde described herself as “a black feminist lesbian mother poet.”[^1] She was born in Harlem in 1924. Her parents were immigrants from Granada. Lorde was legally blind as a child and reported that she didn’t speak until she was 5. [Some of her writing](https://www.nyccivilrightshistory.org/topics/black-latina-women/audre-lorde-cuny/zami-a-new-spelling-of-my-name/) describes her experiences with education for children with vision disabilities in New York City.[^2]
+Audre Lorde described herself as “a black feminist lesbian mother poet.”[^1] She was born in Harlem in 1924. Her parents were immigrants from Granada. Lorde was legally blind as a child and reported that she didn’t speak until she was 5. Some of her writing describes her experiences with education for children with vision disabilities in New York City.[^2]
 
 {{% read-more %}}
 

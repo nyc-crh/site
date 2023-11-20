@@ -29,6 +29,6 @@ cards:
       url: /teaching-resources/
 ---
 
-Welcome to the New York City Civil Rights History Project. This project was inspired by New York City high school student activists who wanted to understand the history of their city and their schools.
+Welcome to the New York City Civil Rights History Project. This project was inspired by New York City high school student activists who wanted to understand the history of their city and their schools. This site is a work in progress, [sign up for updates](https://forms.gle/MjAk8NAQK8Dh3diF9) about new resources and workshops.
 
 Through historical sources, this site helps teachers and students explore the roots of racist and ableist segregation in education. And it presents the stories of community activists and their varied and persistent struggles for educational justice for all students. Both oppression and resistance shaped the city and the schools we know today.

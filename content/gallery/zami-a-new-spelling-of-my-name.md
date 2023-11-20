@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: false
+draft: true
 date: 1982-01-01
 displaydate: "1982"
 title: Zami

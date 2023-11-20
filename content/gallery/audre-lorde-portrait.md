@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Writer Audre Lorde is photographed at a desk, surrounded by books and papers.
-caption: "Portrait of writer Audre Lorde at work at her desk, surrounded by papers, books, and posters. This image was taken in 1981, around the time that she was writing her autobiographical book [*Zami*](/topics/black-latina-women/audre-lorde-cuny/zami-a-new-spelling-of-my-name)."
+caption: "Portrait of writer Audre Lorde at work at her desk, surrounded by papers, books, and posters. This image was taken in 1981, around the time that she was writing her autobiographical book *Zami*"
 archive_source: National Portrait Gallery 
 source_link: https://npg.si.edu/object/npg_NPG.2020.176
 copyright: Under copyright. Used with permission. 
