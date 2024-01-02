@@ -115,7 +115,7 @@ Statistics cannot tell the story. When there is such a shocking lack of Spanish-
 
 - We are equally opposed to the policy of keeping teachers on staff, whether or not they teach.
 
-## In conclusion:
+## In conclusion
 
 We don't want to have a "Grito de Nueva York,"
 

@@ -4,8 +4,11 @@ draft: true
 date: 1000-01-01
 displaydate: "1000-2000"
 title: Title in Title Case
+author:
+citation: 
 imageFeatured: 
 imageFeaturedAlt: 
+detailedDescr: 
 embed: 
 embedTitle: 
 text: 
@@ -14,6 +17,10 @@ audio:
 audioTitle: 
 video: 
 videoTitle: 
+relTitle: 
+relImg:
+relImgAlt: 
+relLink: 
 eventname:
 caption: 
 archive_source: 

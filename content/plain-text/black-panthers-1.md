@@ -7,6 +7,7 @@ draft: false
 Flyer 1 image description: Advertisement for a boycott with hand-drawn text and images. A black panther in motion is in the top corner, and a man wearing a tight-fitting hat stands with one hand outstretched and one hand in his pocket. A word bubble says, "Remember Sept. 12"
 
 ## Unite... For A School Boycott!
+
 Sept. 12th
 if the schools do not agree to teach HERITAGE and HISTORY.
 
@@ -15,7 +16,7 @@ if the schools do not agree to teach HERITAGE and HISTORY.
 - Better quality education for Harlem in Harlem.
 - Our community youth must unite to back up the demands of the Harlem Parents.
 
-*If schools disagree with these demands our many churches will be used in place of the schools! 
+*If schools disagree with these demands our many churches will be used in place of the schools!
 
 Watch for Further Information
 
@@ -48,4 +49,4 @@ Unite to make sure that our children be taught arts, sciences, engineering, blac
 
 ...or the schools will **Close Down**
 
-## Unity is the key!
+Unity is the key!

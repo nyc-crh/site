@@ -4,7 +4,7 @@ layout: plain-text
 draft: false
 ---
 
-Mural painting of a Puerto Rican woman, pointing with her left hand and speaking. Two children dance in a field of rubble. A Puerto Rican flag hangs on a school building. 
+Mural painting of a Puerto Rican woman, pointing with her left hand and speaking. Two children dance in a field of rubble. A Puerto Rican flag hangs on a school building.
 
 Evelina López Antonetty 1922-1984. Educator, human rights activist, advocate for Puerto Rican independence, founder of United Bronx Parents, the Bronx New York, 1980.
 

@@ -73,6 +73,25 @@
                     {{end}}
                 </div>
             </section>
+            <div class="container-fluid mt-5">
+                <div class="row">
+                  <div class="col">
+                    {{ if .Params.relTitle }}<h2 class="py-3 d-print-none">{{ .Params.relTitle }}</h2>
+             {{ $relImg := resources.Get (printf "/images/%s" $.Params.relImg)}}
+             {{ $relLink := $.Params.relLink }}
+             {{ with and $relImg $relLink }} 
+             <a href="{{$relLink}}"><img src="{{ $relImg.RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.relImgAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/></a>
+              {{end}}{{ else }}{{ end }}
+                  </div>
+                  <div class="col">
+                    {{ if .Params.relTitle2 }}<h2 class="py-3 d-print-none">{{ .Params.relTitle2 }}</h2>
+             {{ $relImg2 := resources.Get (printf "/images/%s" $.Params.relImg2)}}
+             {{ $relLink2 := $.Params.relLink2 }}
+             {{ with and $relImg2 $relLink2 }} 
+              <a href="{{$relLink2}}"><img src="{{ $relImg2.RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.relImgAlt2}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/></a>
+               {{end}}{{ else }}{{ end }}
+                  </div>
+                </div>
             <div class="col mx-auto d-flex justify-content-between py-5 d-print-none">
                 {{ with .PrevInSection }}
                 <div class="float-left g-5"><a class="previous btn btn-primary text-left" href="{{.RelPermalink}}"> Previous Item </a></div>

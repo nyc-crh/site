@@ -28,11 +28,11 @@
      {{end}}
     </div>
     <div class="col-md-6 mx-auto d-print-block"><p> {{ .Content | page.RenderString | safeHTML }}</p>
-    {{ if .Params.closeRdImg }}<h2 class="py-3 d-print-none">Watch a close reading of this document</h2>
-    {{ with .Params.closeRdImg }} 
-    {{ $closeRdImg := resources.Get (printf "/images/%s" .)}}
-    {{ $closeRdLink := $.Params.closeRdLink }}
-    <a href="{{$closeRdLink}}"><img src="{{ ( $closeRdImg).RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.closeRdAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/></a>
+    {{ if .Params.relTitle }}<h2 class="py-3 d-print-none">{{ .Params.relTitle }}</h2>
+    {{ $relImg := resources.Get (printf "/images/%s" $.Params.relImg)}}
+    {{ $relLink := $.Params.relLink }}
+    {{ with and $relImg $relLink }} 
+    <a href="{{$relLink}}"><img src="{{ $relImg.RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.relImgAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/></a>
      {{end}}{{ else }}{{ end }}</div>
      <div class="col mx-auto d-print-block">{{ if .Params.categories }}
         <p class="pt-5 px-3 d-print-none"><strong>Categories: </strong>{{ with .GetTerms "categories" }}

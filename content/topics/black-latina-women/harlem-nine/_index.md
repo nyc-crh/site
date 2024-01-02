@@ -1,6 +1,14 @@
 ---
 title: Mae Mallory and the "Harlem Nine"
 layout: bundle-gallery
+relTitle: Dr. Ashley Farmer on Mae Mallory
+relImg: dr-farmer-on-mae-mallory.jpg
+relImgAlt: Schomburg NEH Summer Institute for Teachers, Harlem's Education Movements, Changing the Civil Rights Narrative. Dr. Ashley Farmer on Mae Mallory, July 22, 2021
+relLink: https://youtu.be/eIhNF5yHplc
+relTitle2: Dr. Paula Marie Seniors on Mae Mallory
+relImg2: dr-seniors-on-mae-mallory.jpg
+relImgAlt2: Schomburg NEH Summer Institute for Teachers, Harlem's Education Movements, Changing the Civil Rights Narrative. Dr. Paula Marie Seniors on Mae Mallory, July 22, 2021
+relLink2: https://youtu.be/CUpY_l0YrBw
 draft: false
 ---
 

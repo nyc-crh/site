@@ -9,7 +9,7 @@ citation: >
  "OPERATION SHUT DOWN flyer," Black Panther Party Harlem Branch, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/black-panthers-1.
 imageFeatured: black-panthers-1.jpg
 imageFeaturedAlt: Flyer for boycott
-detailedDescr: black-panthers-1
+detailedDescr: 
 embed: black-panthers-1.pdf
 embedTitle: OPERATION SHUT DOWN flyer
 text: 
@@ -19,8 +19,10 @@ audioTitle:
 audioTranscript: 
 video: 
 videoTitle: 
-closeRdImg: 
-closeRdLink: 
+relTitle: "Watch: A Windowless School in Harlem"
+relImg: windowless-school-harlem.jpg
+relImgAlt: Video frame showing the outside of a school
+relLink: https://vimeo.com/684374095/4a1cb48a99
 eventname: Black Panther Party calls for Operation Shut Down to boycott Harlem schools.
 caption: The Black Panther Party distributed flyers in Harlem to spread the word about their planned one-day boycott of I.S. 201.  
 archive_source: Black Panther Party Harlem Branch Files, Box 1, Folder 8, Schomburg Center for Research in Black Culture, New York Public Library
