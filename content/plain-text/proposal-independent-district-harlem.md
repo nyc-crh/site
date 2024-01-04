@@ -1,5 +1,5 @@
 ---
-title: Title in Title Case
+title: A Proposal for an Independent Board of Education in Harlem (text)
 layout: plain-text
 draft: false
 ---
@@ -10,7 +10,7 @@ March 1, 1967
 For many years the civi 1 ri9hts movement in America addressed itself
 singlemindedly to one problem: the desegregation of all aspects of American
 society. This goal was predicated on the idea that as an American the black
-man had every right to participate -,ithout restrictions in all segments of the
+man had every right to participate without restrictions in all segments of the
 society. There can be no question that in the early days of the movement many
 gains were made: It is now possible for a black man to travel Scuth without
 having to sleep and eat ,n his car. It is now possible for a few carefully
