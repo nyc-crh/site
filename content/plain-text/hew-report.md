@@ -9,7 +9,7 @@ This decision concludes a compliance review of theNew York City,publicschools --
 --SpecifIcallyi we have informed the school system that it hasviolated Title VIof the Civil Rights Act of 19644 which prohibitsdiscrimination on the basis of'rice, color, national origin; Title IX of the EducationAmendments of 1972,which prohibits discrimination on the basis of sex;and Section 504 of the Rehabi-litation Act of 1973, which prohibits discriminationagainst physically or men-tally handicapped individuals.
 The findings of the review are:
 -- Minorities are receivinglower amounts of local resources for basiceduca-tion, in poorer quality facilities which have a morelimited range of curricula.
-- - Minorities aresegregated in elementary school classrooms andspecial edu-cation classes and are given unequal educationalservices.
+- Minorities are segregated in elementary school classrooms andspecial edu-cation classes and are given unequal educationalservices.
 -- Students whose primarylangauge is other than English are barredfrom mean-ingful participation in education programs.
 - - Minority and femalestudents in junior high/intermediate and highschoolsare channeled to less desirable and morerestricted academic, vocational andspecial programs and are provided with lesseffective counseling services.
 .
