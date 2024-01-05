@@ -5,13 +5,17 @@ draft: false
 ---
 
 UNITED BRONX PARENTS
+
 791 Prospect Avenue
+
 Bronx, New York 10455
+
 842--1484
 
 COMMUNITY CONTROL IS NOT DECENTRALIZATION
+
 "The Board of Education will call it decentralization. We like to carry it further. We call it community control." 
-- David Spencer, Chairman
+David Spencer, Chairman
 I.S. 201 Governing Board
 
 DECENTRALIZATION: Will mean that locally appointed or elected boards will have limited powers over the selection of personnel, allocation of budget, adaptation of curriculum, and deployment of staff. BUT IT WILL ALSO MEAN THAT THE CENTRAL HEADQUARTERS will continue to have SUBSTANTIAL POWERS. They will be able to remove any governing board, even if it is chosen by the community. They will still decide on teacher and supervisory "qualifications" and examinations. They will negotiate the contracts with the UFT, with the Supervisory union, and with the custodians. They will have final powers over budget, deciding how much each district should get. They will still control school construction.
