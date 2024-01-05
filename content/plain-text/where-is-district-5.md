@@ -5,18 +5,13 @@ draft: false
 ---
 Where Is District S?
 Lucas, Rev Lawrence E
-New York Amsterdam News ( 1962-1993); Nov 6, 1976;
+*New York Amsterdam News (1962-1993)*; Nov 6, 1976;
 ProQuest Historical Newspapers: New York Amsterdam News
 pg. A5
+
 Where·Is District 5?
-More than a ~ar and a half ago I
-resigned lrom Community School
-board Od5 after trying vainly to accomplish
-what I thought was a mandate
-from my fellow Harlemites;
-namely, to do something toward
-Improving education for our chilllren,
-Now I'm asked to serv~ on a temporary
+More than a year and a half ago I resigned lrom Community School board Dd5 after trying vainly to accomplish what I thought was a mandate from my fellow Harlemites; namely, to do something toward improving education for our children.
+  Now I'm asked to serv~ on a temporary
 board of !nlSlees In that same
 area after Ille suspension ol &he elect•
 ed school board by ChanceUor Irving
