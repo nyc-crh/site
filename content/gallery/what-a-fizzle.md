@@ -4,9 +4,9 @@ draft: false
 date: 1964-02-08
 displaydate: 
 title: What a "Fizzle!"
-author: Amsterdam News Editorial Board
+author: "*New York Amsterdam News* Editorial Board"
 citation: >
- "What a 'Fizzle!'" Amsterdam News Editorial Board, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/what-a-fizzle.
+ "What a 'Fizzle!'" *New York Amsterdam News* Editorial Board, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/what-a-fizzle.
 imageFeatured: what-a-fizzle.jpg
 imageFeaturedAlt: Newspaper clipping
 detailedDescr: 
@@ -23,7 +23,7 @@ closeRdImg:
 closeRdLink: 
 eventname: New York City schools head James Donovan called the boycott "a fizzle."
 caption: The Amsterdam News published this editorial a few days after the February 3 boycott.
-archive_source: Amsterdam News
+archive_source: "*New York Amsterdam News* Editorial Board"
 source_link: https://www.nypl.org/research/research-catalog/bib/b21451436
 copyright: Under copyright. Used with permission.
 categories: 

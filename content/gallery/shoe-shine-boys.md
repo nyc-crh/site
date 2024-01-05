@@ -25,7 +25,7 @@ closeRdImg:
 closeRdLink: 
 eventname: "\"600\" School Investigated over claim teachers used pupils as shoe shine boys"
 caption: "An *Amsterdam News* article about the \"600\" schools details abusive behavior by teachers and lack of educational programming at the school."
-archive_source: Amsterdam News via Proquest
+archive_source: "*New York Amsterdam News*"
 source_link: https://www.proquest.com/hnpnewamsterdamnews/docview/226560780/abstract/A16D6D948D4F4F56PQ/1?accountid=35635
 copyright: Under copyright. Used with permission.
 categories: 

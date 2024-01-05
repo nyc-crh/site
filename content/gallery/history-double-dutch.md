@@ -23,7 +23,7 @@ closeRdImg:
 closeRdLink: 
 eventname: The *Amsterdam News* presents the history of Double Dutch.
 caption: In preparation for the upcoming Eighth Annual World International Double Dutch Tournament, New York’s oldest Black-owned newspaper, the *Amsterdam News*, explained the history of the game.
-archive_source: Amsterdam News
+archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission. 
 categories: 

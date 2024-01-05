@@ -23,7 +23,7 @@ closeRdImg:
 closeRdLink: 
 eventname: Black girls jump Double Dutch.
 caption: Black girls jump Double Dutch, likely at an annual tournament at Lincoln Center.
-archive_source: Amsterdam News
+archive_source: "*New York Amsterdam News*"
 source_link:  
 copyright: Under copyright. Used with permission.
 categories: 

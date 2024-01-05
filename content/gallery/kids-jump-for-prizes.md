@@ -23,7 +23,7 @@ closeRdImg:
 closeRdLink: 
 eventname: The Eighth Annual World International Double Dutch Competition was held at Lincoln Center.
 caption: The *New York Amsterdam News*, New York’s oldest Black-owned newspaper, featured the wildly successful Eighth Annual World International Double Dutch competition.
-archive_source: Amsterdam News
+archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission. 
 categories: 
