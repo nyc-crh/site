@@ -3,7 +3,7 @@ title: A Proposal for an Independent Board of Education in Harlem (text)
 layout: plain-text
 draft: false
 ---
-• A PROPOSALF OR AN INDEPENDENBTO ARDO F EDUCATIONFO R HARLEM
+A PROPOSAL FOR AN INDEPENDENt BOARD OF EDUCATION FOR HARLEM
 A Draft Prepared by
 New York-Harlem CORE
 March 1, 1967
@@ -57,117 +57,32 @@ had absolutely no relation to the reality of 1 ife in Harlem. The children of
 the race can no longer be sacrificed while we wait for some distant utopia.
 We are hopeful that the proposal to follow wi 1 I be one around which Harlem
 parents and all community groups concerned with quality education can rally.
-.• A PROPOSALF OR AN INDEPENDENBTO ARDO F EDUCATIONFO R HARLEM Page 3
+
 THE SCHOOLS IN HARLEM
-Harlem 1s the largest black conmunity in the world, and is many times the
-size of many autonomous communities throughout the country. Yet, we have 1n
-Harlem a city within a city that has no control over its 0<~n destiny. The
-schools in Harlem offer a most dramatic ; llustration of this fact. To repeat
-statistics documenting t:1e worsening conditions of Harlem schools is tantamount
-to belaboring the obvious. One need only go to statistics compiled by the
-Board of Education itself to fino support for the charge of criminally inferior
-schools. In every conceivable way, education in Harlem is markedly inferior
-to standarcis maintained in schools in surrounding areas. The p;,ysical condition
-of the school bui !dings is poor. Cid structures are in constant need of
-repair and maintenance becomes an uphi 11 fight to avoici complele obsolescence.
-Bu' ldinys which were ,sd~quate decaues ayo ca1111ot meet the present requirements
-of space and safety equipment.
-The most damaging indictment that can be made of the Harlem schools is
-that they are failing to produce students who have a good working knowledge
-of the basic skills required to function in this highly competitive society.
-Not only are general achievement scores lower than in other sections of the
-city, but 85% of the students are at least a year below their supposed grade
-level 1n reading, and even lower in mathematics. Moreover, the schools are
-failing to provide children with a positive image of themselves and of their
-fellow black Americans. Staffed, for the most part, by white, middle-class
-teache,rs who bring preconceived notions about the inabi 1 ity of black children .
-to learn to the classroom, the schools are little more than mil ls for nourishing
-and re-enforcing the self-hatred already harboring in a black child
-when he enters school.
-:
-,
-A PROPOSALF OR AN INDEPENDENBTO ARDO F EDUCATIONFO R HARLEM Page 4
-Similarities Between School Segregation in Harlem and in the South
-For all practical purposes schools in H~rlem are operating under a condition
-of segregation, and there is no really valid difference between segregated
-schools in the South and segregated schools in the North, for the chief characteristic
-of a segregated system is that it is imposed on a group of people and
-they have no control over it. They do not control policy or direction and are
-powerless to bring about meaningful changes. In New York City, as in the segregated
-schools of the South, the people of Harlem have no control over their
-schools. As in the South, we have a situation where white overlords are overseeing
-the education of black children. T'1e elements of choice and control
-are the deciding difference between a system that is segregated from the rest
-of the school system and one that is separated from the rest of the school
-system. It's an undisputable fact t:,at neither of these elements exists in the
-South's segregated schools or in Harlem schools. To entertain the thought that
-the segregated schools of the South, in some ways, might have a slight advantage
-over the segregated schools of Harlem may be horrifying to some people,
-but it is not too far-fetched. In the South, black pupi Is do, after all, get
-a chance to see black people ,n positions of authority in the schools. Lest
-someone seize upon this last statement with the intention of making capital,
-let us hasten to emphasize that we hold no brief for segregated schools, North
-or South.
-J.!le .. Fai.lY.!:~-to _P ;_chiey~__l.!lt~ated Education
-Attempts to integrate the New York City school system have failed completely
-and undisputably. He seriously doubt that there is anyone around who
-honestly believes that this is a goal that can be reached in the foreseeable
-:
-•
-A PROPOSALF OR AN INDEPENDENBTO ARDO F EDUCATIONFO R HARLEM Page 5
-future. Many oi the groups that campaigned for years for this "pie-in-the-sky"
-solution to ti1e problem have ended their efforts and have now turned their attention
-to the pursuit of quality education. Integration failed in New York
-City because of (l) shifts in population and (2) the Board of Education's responsiveness
-to pressures from white groups opposed to any integration plan.
-This responsiveness was demonstrated again and again during the various campaigns
-for integrated schools when even the most half-hearted attempt on the
-part of the Board to car,·y out an integration plan was met with instant opposition
-from white groups. The Board would then either procrastinate or capitulate
-entirely. However desirable a goal integration may be for the future, its pursuit
-today will continue to end in failure.
-The Fi!ilure of C0mpensated Education
-In a recent report, the Civil Rights Comnission noted that special programs
-such as New York's Higher Horizons consisted "more of sho•,imanship than
-sol id education" and that some of them "may be trauC:ulent window-dressing to
-divert Mcgro parents who want a fair deal for their children."
-The various special programs instituted by the Board of Education have
-failed. The reason can be found in the f-:ct that these exercises in pacification
-were panaceas that did not take ccgnizance of the larger problem. Like
-the doctor who doesn't really know what is wrong with his patient and decides
-to pacify him with an innocuous drug, special programs are simply an i llustration
-of the extent of the system's lack of understanding of what is needed in
-the Harlem schools.
+
+Harlem is the largest black community in the world, and is many times the size of many autonomous communities throughout the country. Yet, we have in Harlem a city within a city that has no control over its own destiny. The schools in Harlem offer a most dramatic illustration of this fact. To repeat statistics documenting the worsening conditions of Harlem schools is tantamount to belaboring the obvious. One need only go to statistics compiled by the Board of Education itself to find support for the charge of criminally inferior schools. In every conceivable way, education in Harlem is markedly inferior to standards maintained in schools in surrounding areas. The physical condition of the school buildings is poor. Old structures are in constant need of repair and maintenance becomes an uphill fight to avoid complele obsolescence. Buildings which were adequate decades ago cannot meet the present requirements of space and safety equipment.
+
+The most damaging indictment that can be made of the Harlem schools is that they are failing to produce students who have a good working knowledge of the basic skills required to function in this highly competitive society. Not only are general achievement scores lower than in other sections of the city, but 85% of the students are at least a year below their supposed grade level in reading, and even lower in mathematics. Moreover, the schools are failing to provide children with a positive image of themselves and of their fellow black Americans. Staffed, for the most part, by white, middle-class teachers who bring preconceived notions about the inability of black children to learn to the classroom, the schools are little more than mills for nourishing and re-enforcing the self-hatred already harboring in a black child when he enters school.
+
+*Similarities Between School Segregation in Harlem and in the South*
+
+For all practical purposes schools in Harlem are operating under a condition of segregation, and there is no really valid difference between segregated schools in the South and segregated schools in the North, for the chief characteristic of a segregated system is that it is **imposed** on a group of people and they have no control over it. They do not control policy or direction and are powerless to bring about meaningful changes. In New York City, as in the segregated schools of the South, the people of Harlem have no control over their schools. As in the South, we have a situation where white overlords are overseeing the education of black children. The elements of **choice and control** are the deciding difference between a system that is segregated from the rest of the school system and one that is separated from the rest of the school system. It's an undisputable fact that neither of these elements exists in the South's segregated schools or in Harlem schools. To entertain the thought that the segregated schools of the South, in some ways, might have a slight advantage over the segregated schools of Harlem may be horrifying to some people, but it is not too far-fetched. In the South, black pupils do, after all, get a chance to see black people in positions of authority in the schools. Lest someone seize upon this last statement with the intention of making capital, let us hasten to emphasize that we hold no brief for segregated schools, North **or** South.
+
+*The Failure to Achieve Integrated Education*
+
+Attempts to integrate the New York City school system have failed completely and undisputably. We seriously doubt that there is anyone around who honestly believes that this is a goal that can be reached in the foreseeable future. Many of the groups that campaigned for years for this "pie-in-the-sky" solution to the problem have ended their efforts and have now turned their attention to the pursuit of quality education. Integration failed in New York City because of (1) shifts in population and (2) the Board of Education's responsiveness to pressures from white groups opposed to any integration plan. This responsiveness was demonstrated again and again during the various campaigns for integrated schools when even the most half-hearted attempt on the part of the Board to carry out an integration plan was met with instant opposition from white groups. The Board would then either procrastinate or capitulate entirely. However desirable a goal integration may be for the future, its pursuit today will continue to end in failure.
+
+*The Failure of Compensated Education*
+
+In a recent report, the Civil Rights Commission noted that special programs such as New York's Higher Horizons consisted "more of showmanship than solid education" and that some of them "may be fraudulent window-dressing to divert Negro parents who want a fair deal for their children."
+
+The various special programs instituted by the Board of Education have failed. The reason can be found in the fact that these exercises in pacification were panaceas that did not take cognizance of the larger problem. Like the doctor who doesn't really know what is wrong with his patient and decides to pacify him with an innocuous drug, special programs are simply an illustration of the extent of the system's lack of understanding of what is needed in the Harlem schools.
+
 THE SOLUTION
-It stands clear that any idea for improving the schools in Harlem is
-doomed to fai 1 if the idea is to be carried out under the Board of Education
-s
-•
-A PROPOSALF OR AN INDEPENDENBTO ARDO F EDUCATIONFO R HARLEM Page &
-as it ,s presently structured. T;ie educational system of N-w York City is
-large and cumbersome to administer. It is an old institution run by a settled
-and conservative bureaucracy that is inflexible and averse to change. Faced
-with running the world's largest school system, the Board has shown a singular
-lack of vision in dealing with the portion that is Harlem. T;,e tloard responds
-quickly and tavorably to the white majority, and makes as few concessions as
-possible to the black minority. In :~arlem the Board is confronted by a group
-that is different from most of the peep 1 e to ~1hom it is respons i b I e, and, more
-importantly, has less power. Tile Board has not met this challenge, and it no1~
-appears that it wi I I never have the wi 11, the understanding, or the know-how
-to do so. In short, the Soard has abdicated its responsibi 1 ity to t,,e Harlem
-community and should therefore be replaced by an independent board of education
--for Harlem.
-f,n independent board of education for Harlem can be effective on bringing
-about changes needed to improve the schools because:
-I. It will not be confronted with two groups with conflicting
-interests.
-2. It will not be the entrenched bureaucracy that is the
-main drawback of the present Board. As a result, it
-will be completely open to new ideas, new programs,
-and new concepts that may seem like heresy if viewed
-in I ight of the standards maintained by ti1e present
-system.
-3. The people themselves wi I I not feel that they are dealing
-with an alien group that does not have their best interest
-at heart, and wi 11 therefore be more I ikely to participate
-actively in the building of better schools.
+
+It stands clear that any idea for improving the schools in Harlem is doomed to fail if the idea is to be carried out under the Board of Education as it is presently structured. The educational system of New York City is large and cumbersome to administer. It is an old institution run by a settled and conservative bureaucracy that is inflexible and averse to change. Faced with running the world's largest school system, the Board has shown a singular lack of vision in dealing with the portion that is Harlem. The Board responds quickly and favorably to the white majority, and makes as few concessions as possible to the black minority. In Harlem the Board is confronted by a group that is different from most of the people to whom it is responsible, and, more importantly, has less power. The Board has not met this challenge, and it now appears that it will never have the will, the understanding, or the know-how to do so. In short, the Board has abdicated its responsibility to the Harlem community and should therefore be replaced by an **independent board of education for Harlem.**
+
+An independent board of education for Harlem can be effective on bringing about changes needed to improve the schools because:
+1. It will not be confronted with two groups with conflicting interests.
+2. It will not be the entrenched bureaucracy that is the main drawback of the present Board. As a result, it will be completely open to new ideas, new programs, and new concepts that may seem like heresy if viewed in light of the standards maintained by the present system.
+3. The people themselves will not feel that they are dealing with an alien group that does not have their best interest at heart, and will therefore be more likely to participate actively in the building of better schools.
