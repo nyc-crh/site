@@ -1,0 +1,122 @@
+{{ define "main" }}
+<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block">
+    <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="all"><h2 class="d-print-none">You are here:</h2>
+        <p class="d-print-none">{{ partial "breadcrumbs" . }}</p>
+    <title>{{ .Params.title }}</title>
+                <h1 class="d-print-block">{{ .Page.Params.title | page.RenderString | safeHTML}}</h1>
+                 <p class="d-print-block">{{ .Content | page.RenderString | safeHTML }}</p></details>
+
+                 <div class="container-fluid mt-5">
+                    <div class="row">
+                        {{ if .Params.graphicTitle }}<h2 class="py-3 d-print-none">{{ .Params.graphicTitle }}</h2>
+                 {{ $graphicImg := resources.Get (printf "/images/%s" $.Params.graphicImg)}}
+                 {{ with $graphicImg}} 
+                 <img src="{{ $graphicImg.RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.graphicImgAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+                  {{end}}{{ else }}{{ end }}
+                      <div class="row">
+                        {{ if .Params.graphicTitle2 }}<h2 class="py-3 d-print-none">{{ .Params.graphicTitle2 }}</h2>
+                 {{ $graphicImg2 := resources.Get (printf "/images/%s" $.Params.graphicImg2)}}
+                 {{ with $graphicImg2}} 
+                 <img src="{{ $graphicImg2.RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.graphicImgAlt2}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+                  {{end}}{{ else }}{{ end }}
+                      </div>
+                    </div>
+        
+            <section class="timeline d-print-none">
+                <div class="container-fluid" style="text-align: left!important">
+                  {{ range .RegularPagesRecursive.ByDate | uniq }} 
+                    {{$alt:= .Params.imageFeaturedAlt}}
+                    {{$permalink:= .RelPermalink}}
+                    {{if .Params.hasContentInGallery}}
+                    {{$fileName:= .File.BaseFileName}}
+                    {{$galleryPage:= $.Site.GetPage (printf "gallery/%s" $fileName)}}
+                    {{with $galleryPage}}
+                    <div class="timeline-item">
+                        <div class="timeline-img"></div>
+                        <a href="{{$permalink}}">
+                        <div class="timeline-content">
+                            <div class="timeline-title"><h2>{{ .Params.Title | page.RenderString | safeHTML }}</h2></div>
+                            {{ if .Params.Displaydate }}
+                            <div class="date">{{ .Params.Displaydate }}</div>
+                            {{ else }}
+                            <div class="date">{{ .Params.Date.Format "Jan 2, 2006"}}</div>{{ end }}
+                            <div class="timeline-imagewrapper">
+                                <div class="timeline-thumbnail">{{with .Params.imageFeatured}}
+                                    {{ $timelineimage := resources.GetMatch (printf "/images/%s" .)}}
+                                    {{ with $timelineimage }}
+                                    <img src="{{ ($timelineimage.Fill "160x120 top").RelPermalink }}"  alt="{{ .Params.imageFeaturedAlt }}"/>
+                                    {{ end }}{{end}}</div>
+                                    <div class="timeline-text p2"><p>{{.Params.Eventname  | page.RenderString | safeHTML }}<br>
+                                    </div>
+                            </div>
+                        </div></a>
+                    </div>
+                    {{end}} 
+                    {{else}}
+                    <div class="timeline-item">
+                        <div class="timeline-img"></div>
+                        {{ if .Params.hasContentInGallery }}<a href="{{$permalink}}">{{else}}
+                        <div class="timeline-content">
+                            <div class="timeline-title"><h2>{{ .Params.Title | page.RenderString | safeHTML }}</h2></div>
+                            {{ if .Params.Displaydate }}
+                            <div class="date">{{ .Params.Displaydate }}</div>
+                            {{ else }}
+                            <div class="date">{{ .Params.Date.Format "Jan 2, 2006"}}</div>{{ end }}
+                            <div class="timeline-imagewrapper">
+                                <div class="timeline-thumbnail">{{with .Params.imageFeatured}}
+                                    {{ $timelineimage := resources.GetMatch (printf "/images/%s" .)}}
+                                    {{ with $timelineimage }}
+                                    <img src="{{ ($timelineimage.Fill "160x120 top").RelPermalink }}"  alt="{{ .Params.imageFeaturedAlt }}" />
+                                    {{ end }}{{end}}</div>
+                                    <div class="timeline-text p2"><p>{{.Params.Eventname | page.RenderString | safeHTML }}<br>
+                                </div>
+                            </div>
+                        </div></a>{{end}}
+                    </div>
+                    {{end}}
+                  {{ end }}
+                    {{$allPages:= .Page.Parent.Pages}}
+                    {{$pages:= slice}}
+                    {{range $allPages }}
+                        {{if eq .Params.layout "docset-gallery"}} 
+                            {{$pages = $pages | append .}}
+                        {{end}}
+                    {{end}}
+                    {{$permalink:= .RelPermalink}}
+                    {{$lastIndex:= sub (len $pages) 1}}
+                    {{range $index, $page:= $pages}}
+                        {{if eq $page.RelPermalink $permalink}}
+                        {{end}}
+                    {{end}}
+                </div>
+            </section>
+            <div class="container-fluid mt-5">
+                <div class="row">
+                  <div class="col">
+                    {{ if .Params.relTitle }}<h2 class="py-3 d-print-none">{{ .Params.relTitle }}</h2>
+             {{ $relImg := resources.Get (printf "/images/%s" $.Params.relImg)}}
+             {{ $relLink := $.Params.relLink }}
+             {{ with and $relImg $relLink }} 
+             <a href="{{$relLink}}"><img src="{{ $relImg.RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.relImgAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/></a>
+              {{end}}{{ else }}{{ end }}
+                  </div>
+                  <div class="col">
+                    {{ if .Params.relTitle2 }}<h2 class="py-3 d-print-none">{{ .Params.relTitle2 }}</h2>
+             {{ $relImg2 := resources.Get (printf "/images/%s" $.Params.relImg2)}}
+             {{ $relLink2 := $.Params.relLink2 }}
+             {{ with and $relImg2 $relLink2 }} 
+              <a href="{{$relLink2}}"><img src="{{ $relImg2.RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.relImgAlt2}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/></a>
+               {{end}}{{ else }}{{ end }}
+                  </div>
+                </div>
+            <div class="col mx-auto d-flex justify-content-between py-5 d-print-none">
+                {{ with .PrevInSection }}
+                <div class="float-left g-5"><a class="previous btn btn-primary text-left" href="{{.RelPermalink}}"> Previous Item </a></div>
+                {{ end }}
+                {{ with .NextInSection }}
+                <div class="float-right g-5"><a class="next  btn btn-primary text-right" href="{{.RelPermalink}}"> Next Item </a></div>
+                {{ end }}</div>
+                <div class="col mx-auto justify-content-center d-print-none"><h2>You are here:</h2>
+                  <p>{{ partial "breadcrumbs" . }}</p></div>
+    </div>
+{{ end }}
