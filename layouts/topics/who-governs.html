@@ -12,7 +12,9 @@
                  {{ $graphicImg := resources.Get (printf "/images/%s" $.Params.graphicImg)}}
                  {{ with $graphicImg}} 
                  <img src="{{ $graphicImg.RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.graphicImgAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
-                  {{end}}{{ else }}{{ end }}
+                  {{end}}
+                  {{ if .Params.graphicImgCaption }}<p class="mt-5"><strong>Caption:</strong>{{ .Params.graphicImgCaption }}</h2>
+                   {{else}}{{ end }}{{end}}
                       <div class="row mb-5">
                         {{ if .Params.graphicTitle2 }}<h2 class="py-3 d-print-none">{{ .Params.graphicTitle2 }}</h2>
                  {{ $graphicImg2 := resources.Get (printf "/images/%s" $.Params.graphicImg2)}}
