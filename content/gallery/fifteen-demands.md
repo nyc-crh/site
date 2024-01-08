@@ -23,7 +23,7 @@ relTitle:
 relImg: 
 relImgAlt: 
 relLink: 
-eventname: Black and Puerto Rican high schooler name their demands.
+eventname: Black and Puerto Rican high schoolers name their demands.
 caption: Black and Puerto Rican high school students across the city named their demands for changes in their school, including calls for a role in school governance.  
 archive_source: New York Public Library, Schomburg Manuscripts, Archives, and Rare Books Division, Schomburg Center for Research in Black Culture, Babette Edwards Education Reform in Harlem collection, SC MG 809, box 32, folder 32.14 
 source_link: https://archives.nypl.org/scm/22268

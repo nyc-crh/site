@@ -24,7 +24,7 @@ cards:
   text: Frustrated with segregation, Black and Latinx parents push for community control. 
   btn:
     text: View the document set
-    url: /topics/who-governs-schools/community-control
+    url: /topics/who-governs-schools/decentralization
 - title: Mayoral Control
   img: bloomberg-remarks.jpg
   alt: Michael Bloomberg speaks at a conference
