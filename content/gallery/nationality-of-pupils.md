@@ -1,49 +1,42 @@
----
+--- 
 layout: gallery
-draft: true
-date: 1000-01-01
-displaydate: "1000-2000"
-title: Title in Title Case
-author:
-citation: 
-imageFeatured: 
-imageFeaturedAlt: 
-detailedDescr: 
+draft: false
+date: 1931-01-01
+displaydate: "1931"
+title: Nationality of Pupils
+author: Board of Education of the City of New York, Bureau of Reference, Research, and Statistics
+citation: >
+ "Nationality of Pupils," Board of Education of the City of New York, Bureau of Reference, Research, and Statistics, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/nationality-of-pupils.
+imageFeatured: nationality-of-pupils.jpg
+imageFeaturedAlt: Survey form listing numbers of pupils by their nationality or racial category.
+detailedDescr: nationality-of-pupils
 embed: 
 embedTitle: 
 text: 
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
 relTitle: 
-relImg:
+relImg: 
 relImgAlt: 
 relLink: 
-eventname:
-caption: 
-archive_source: 
+eventname: "The Board of Education counts its pupils by \"nationality.\""
+caption: This is a student profile index card published in 1931 during the late Progressive Era. This document, produced at P.S. 57 in Manhattan, provides an example of how education policy in New York City obsessively documented and methodically constructed racial and ethnic categories for public school students.
+archive_source: Municipal Archives of the City of New York, Board of Education Papers
 source_link: 
-copyright:
-categories:
-  - uncategorized
-tags:
-  - untagged
-questions:
-  - Question 1?
-  - Question 2?
-  - Question 3?
-references:
-  - Reference 1
-  - Reference 2
-  - Reference 3
----
-
-Some context for the item. Use Markdown styling (see link below)
-
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
-
-Here's a simple footnote,[^1]
-
-[^1]: This is the first footnote.
+copyright: Public domain
+categories: 
+- k-12 education
+tags: 
+- immigrants & migrants
+- racial segregation
+questions: 
+- Who counts as an American, according to the New York City Board of Education in 1931? How does this definition of American compare to who was in fact a US citizen at the time? 
+- What does this document tell us about how the New York City Board of Education thought about its students at this time? 
+- How might this document be influenced by or be related to how school governance worked in New York City at the time?
+--- 
+ 
+{{< in-progress >}}

@@ -1,13 +1,14 @@
----
+--- 
 layout: gallery
-draft: true
-date: 1000-01-01
-displaydate: "1000-2000"
-title: Title in Title Case
-author:
-citation: 
-imageFeatured: 
-imageFeaturedAlt: 
+draft: false
+date: 2013-05-25
+displaydate: 
+title: Interview with Jitu Weusi on Mayoral Control of New York City Schools
+author: 
+citation: >
+ "Interview with Jitu Weusi on Mayoral Control of New York City Schools," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/interview-with-jitu-weusi.
+imageFeatured: interview-with-jitu-weusi.jpg
+imageFeaturedAlt: Still image from a tv talk show
 detailedDescr: 
 embed: 
 embedTitle: 
@@ -15,35 +16,31 @@ text:
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
-videoTitle: 
+  srcType: youtube
+  srcLink: oL12PTkPwRY&t=30
+videoTitle: Interview with Jitu Weusi on Mayoral Control of New York City Schools
 relTitle: 
-relImg:
+relImg: 
 relImgAlt: 
 relLink: 
-eventname:
-caption: 
-archive_source: 
-source_link: 
-copyright:
-categories:
-  - uncategorized
-tags:
-  - untagged
-questions:
-  - Question 1?
-  - Question 2?
-  - Question 3?
-references:
-  - Reference 1
-  - Reference 2
-  - Reference 3
----
-
-Some context for the item. Use Markdown styling (see link below)
-
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
-
-Here's a simple footnote,[^1]
-
-[^1]: This is the first footnote.
+eventname: Community control activist Jitu Weisi critiques mayoral control.
+caption: This video includes an interview with Jitu Weusi on mayoral control of New York City public schools. Weusi is a critic of mayoral control who outlines the reasons he believes this structure of school governance disempowers people and the communities they live in.
+archive_source: LINKLaV
+source_link: https://www.youtube.com/watch?v=oL12PTkPwRY (:30-6:03)
+copyright: Under copyright
+categories: 
+- k-12 education
+- community activism
+tags: 
+- self-determination
+- mayoral control
+- democracy
+questions: 
+- Based on Weusi’s previous activism and work in education, why do you think he is opposed to mayoral control of schools?
+- Weusi sees mayoral control as a “dictatorship,” rather than a democratic organization of schools. Why does he view mayoral control as a “dictatorship?” Do you agree or disagree? Why?
+- How do Weusi’s priorities for education differ from those who supported mayoral control like Joel Klein and Michael Bloomberg?
+--- 
+ 
+{{< in-progress >}}

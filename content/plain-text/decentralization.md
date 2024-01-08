@@ -14,13 +14,14 @@ Bronx, New York 10455
 
 COMMUNITY CONTROL IS NOT DECENTRALIZATION
 
-"The Board of Education will call it decentralization. We like to carry it further. We call it community control." 
+"The Board of Education will call it decentralization. We like to carry it further. We call it community control."
 David Spencer, Chairman
 I.S. 201 Governing Board
 
 DECENTRALIZATION: Will mean that locally appointed or elected boards will have limited powers over the selection of personnel, allocation of budget, adaptation of curriculum, and deployment of staff. BUT IT WILL ALSO MEAN THAT THE CENTRAL HEADQUARTERS will continue to have SUBSTANTIAL POWERS. They will be able to remove any governing board, even if it is chosen by the community. They will still decide on teacher and supervisory "qualifications" and examinations. They will negotiate the contracts with the UFT, with the Supervisory union, and with the custodians. They will have final powers over budget, deciding how much each district should get. They will still control school construction.
 
-LOCAL CONTROL: 
+LOCAL CONTROL:
+
 1. Districts will define their own boundaries.
 2. Districts will elect their own representatives.
 3. The Board of Education will then transfer ALL of its powers to the local district. The local district will then be responsible DIRECTLY to the State Education Department, and only the rules and regulations of the state will be binding on the local district. (This is what happens in the suburban communities.)

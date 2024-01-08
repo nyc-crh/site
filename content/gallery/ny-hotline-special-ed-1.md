@@ -1,7 +1,7 @@
 --- 
 layout: gallery
 draft: false
-date: 1966-02-26
+date: 1996-02-26
 displaydate: 
 title: >
  New York Hotline: Special Ed #304, excerpt 1 

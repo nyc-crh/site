@@ -1,13 +1,14 @@
----
+--- 
 layout: gallery
-draft: true
-date: 1000-01-01
-displaydate: "1000-2000"
-title: Title in Title Case
-author:
-citation: 
-imageFeatured: 
-imageFeaturedAlt: 
+draft: false
+date: 1912-12-01
+displaydate: "December 1912"
+title: William Maxwell
+author: 
+citation: >
+ "William Maxwell," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/william-maxwell.
+imageFeatured: william-maxwell.jpg
+imageFeaturedAlt: An older bald white man with a moustache and glasses poses in his office.
 detailedDescr: 
 embed: 
 embedTitle: 
@@ -15,35 +16,29 @@ text:
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
 videoTitle: 
 relTitle: 
-relImg:
+relImg: 
 relImgAlt: 
 relLink: 
-eventname:
-caption: 
-archive_source: 
-source_link: 
-copyright:
-categories:
-  - uncategorized
-tags:
-  - untagged
-questions:
-  - Question 1?
-  - Question 2?
-  - Question 3?
-references:
-  - Reference 1
-  - Reference 2
-  - Reference 3
----
-
-Some context for the item. Use Markdown styling (see link below)
-
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
-
-Here's a simple footnote,[^1]
-
-[^1]: This is the first footnote.
+eventname: William Maxwell serves as the first superintendent of NYC schools.
+caption: "A formal portrait of William Maxwell, the first superintendent of the consolidated New York City School system. Original caption: Mr. William H. Maxwell who recently completed his twenty-fifth year of service as superintendent of schools of the City of New York."
+archive_source: "*The World’s Work*, Vol. 25, No. 2"
+source_link:  https://archive.org/details/worldswork25gard/page/126/mode/2up
+copyright: Public domain
+categories: 
+- k-12 education
+tags: 
+- school administration
+- white people
+- photography, imagery, & visual representation
+- newspapers & the media
+questions: 
+- What do you see in this portrait? What impression of Maxwell do you think this photograph wants to communicate? How does this portrait compare to others that you have seen, on this site or elsewhere? 
+- How did William Maxwell’s background and experience relate to common expectations for a civic or government leader in the 1880s, 1890s, and 1900s? Who was excluded by these expectations? 
+- Who are education leaders in your community today? How do you see them depicted in images like photographs or video?
+--- 
+ 
+{{< in-progress >}}
