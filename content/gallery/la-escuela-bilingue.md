@@ -44,9 +44,9 @@ tags:
 - Black people
 - the arts
 questions: 
-- Do you think PS 25 met its goal of celebrating the Spanish language and Latinx cultures? What evidence can you find in the article? 
+- Do you think P.S. 25 met its goal of celebrating the Spanish language and Latinx cultures? What evidence can you find in the article? 
 - Parents at the school are mentioned in both the text and the article. How does this article’s discussion of parents compare to the approach to parents taken in [A Day’s Work in a New York Public School](/gallery/a-days-work)?
-- PS 25 appears to be an early example of what educators today call “culturally sustaining pedagogy,” or teaching that respects and builds on the cultures that children bring with them to school. Has your school been culturally sustaining for you? What suggestions do you have to make it more so?
+- The education provided at P.S. 25 appears to be an early example of what educators today call “culturally sustaining pedagogy,” or teaching that respects and builds on the cultures that children bring with them to school. Has your school been culturally sustaining for you? What suggestions do you have to make it more so?
 --- 
 
 {{< in-progress >}}
