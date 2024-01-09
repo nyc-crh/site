@@ -46,7 +46,7 @@ questions:
  
 {{< in-progress >}}
 
-Over 1 million new Black Southern migrants and Puerto Rican immigrants had settled in New York City by the 1950s. Most of those resided in specific areas of the city, such as Harlem, the South Bronx, and Central Brooklyn. They faced many barriers including poverty and discrimination in employment and housing discrimination, and often attended schools that the Board of Education had long neglected. The city’s centralized school system had often ignored Black residents’ demands while prioritizing the needs and wants of white students and their families.[^1]
+Over 1 million new Black Southern migrants and Puerto Rican immigrants had settled in New York City by the 1950s. Most of those resided in specific areas of the city, such as Harlem, the South Bronx, and Central Brooklyn. They faced many barriers, including poverty and discrimination in employment and housing discrimination, and often attended schools that the Board of Education had long neglected. The city’s centralized school system had often ignored Black residents’ demands while prioritizing the needs and wants of white students and their families.[^1]
 
 To address these issues, civil rights groups like the Congress of Racial Equality (CORE) used a variety of tactics to equalize access to opportunities throughout New York City. Founded in Chicago in 1942, CORE gained national prominence when it initiated the Freedom Rides campaign in the South in 1961. The organization also was active in challenging housing and schooling segregation in the North, and as this document shows, rejected the idea that segregation was a southern problem alone.[^2]
 
