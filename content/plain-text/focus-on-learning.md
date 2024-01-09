@@ -1,5 +1,5 @@
 ---
-title: Title in Title Case
+title: Focus on Learning, excerpt (text)
 layout: plain-text
 draft: false
 ---

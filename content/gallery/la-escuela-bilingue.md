@@ -50,3 +50,15 @@ questions:
 --- 
 
 {{< in-progress >}}
+
+Many Puerto Rican families migrating to New York from the island in the 1950s and 1960s settled in the South Bronx, where their children enrolled in school. Coming from homes where Spanish had been the primary language, coming often from rural settings to a big city, and coming to a new climate and cultural environment all created challenges for Puerto Rican migrant students.
+
+How did New York City’s schools respond? Too many schools thought of [students’ native Spanish language](/gallery/puerto-ricans/) as a deficit rather than as an asset. But small groups of educators and parents in neighborhoods with large Puerto Rican populations created ways to help students learn English and adjust to their new home while maintaining their Spanish language and celebrating their home culture.
+
+One of the first of these new Spanish-English bilingual schools in the US opened in the South Bronx during the decentralization period. Community School District 7 supported the creation of the new school. Evelina López Antonetty and the organization she founded, [United Bronx Parents](/topics/black-latina-women/united-bronx-parents), also supported the effort. Community School District 4 in East Harlem, where many Puerto Ricans lived, also developed bilingual education programs.[^1]  
+
+A small Spanish language newspaper, *Noticias del Mundo*, published this article about the school. Historian Laura J. Kaplan located this article in her research on bilingual education at P.S. 25.[^2]
+
+[^1]: Heather Lewis, *New York City Public Schools from Brownsville to Bloomberg* (New York: Teachers College Press, 2011).
+
+[^2] Laura J. Kaplan, *P.S. 25, South Bronx: Bilingual Education and Community Control* (Ph.D. diss., CUNY Graduate Center, 2018), and available online at [https://academicworks.cuny.edu/gc_etds/2957](https://academicworks.cuny.edu/gc_etds/2957).
