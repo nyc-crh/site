@@ -54,23 +54,7 @@ Ocean Hill-Brownsville, a Black and Puerto Rican community in Brooklyn, was one 
 
 The strike reached not just Ocean Hill-Brownsville schools, but all New York City public schools. It shut down nearly all of the city’s schools for more than a month, creating great difficulties for families with children.[^2] However, some schools in community control districts and majority Black and Latinx areas stayed open, as some teachers chose to support community control.
 
-Protesters, most of whom appear to be white women teachers,  carried signs that read:
-
-- End Mob Rule
-- Return the Schools to **All** the People
-- Freedom to Teach for **All** Teachers
-- End Violence in Our Schools
-- Dignity for All Teachers
-- TWU (Transit Workers Union) Supports Teachers
-- Due Process for Teachers
-- Witches Brew while our Children Stew
-- No School is Safe without Due Process
-
-In this context, teachers’ comments about “due process” referred not to our constitutional rights, but to the provisions for how teachers were evaluated and, under some circumstances, could be considered for firing, under the union contract. The Teachers Union felt that the dismissal of the Ocean Hill-Brownsville teachers was a violation of these “due process” rules.
-
-The Ocean Hill-Brownsville struggle raised the question of what role or voice parents should have in school governance compared to what role or voice educators should have. The difficulty of resolving this question helped bring the community control districts to an end.
-
-Protesters, most of whom appear to be white women teachers,  carried signs that read:
+Protesters, most of whom appear to be white women teachers, carried signs that read:
 
 - End Mob Rule
 - Return the Schools to **All** the People
@@ -87,8 +71,10 @@ Protesters, most of whom appear to be white women teachers,  carried signs that 
 
 In this context, teachers’ comments about “due process” referred not to our constitutional rights, but to the provisions for how teachers were evaluated and, under some circumstances, could be considered for firing, under the union contract. The Teachers Union felt that the dismissal of the Ocean Hill-Brownsville teachers was a violation of these “due process” rules.
 
+The Ocean Hill-Brownsville struggle raised the question of what role or voice parents should have in school governance compared to what role or voice educators should have. The difficulty of resolving this question helped bring the community control districts to an end.
+
 This film footage was recorded by the New York Police Department’s Surveillance Unit, which recorded protest activity in the city in the 1960s and 1970s.
 
-[^1]: For more on the history of teacher unionism in New York City, before and after the founding of the United Federation of Teachers, see Jonna Perrillo, *Uncivil Rights: Teachers, Unions, and Race in the Battle for School Equity* (Chicago: Univof Chicago Press, 2012).
+[^1]: For more on the history of teacher unionism in New York City, before and after the founding of the United Federation of Teachers, see Jonna Perrillo, *Uncivil Rights: Teachers, Unions, and Race in the Battle for School Equity* (Chicago: University of Chicago Press, 2012).
 
-[^2]: Max Freedmen and Mark Winston Griffith, Season 1, 2019, in *School Colors,* produced by Brooklyn Deep, [https://www.schoolcolorspodcast.com/brooklyn](https://www.schoolcolorspodcast.com/brooklyn); Jerald E. Podair, *The Strike that Changed New York: Blacks, Whites, and the Ocean Hill-Brownsville Crisis* (New Haven: Yale University, 2002); Daniel Hiram Perlstein, *Justice, Justice: School Politics and the Eclipse of Liberalism* (New York: Peter Lang, 2004); Charles Isaacs, *Inside Ocean Hill Brownsville: A Teacher’s Education 1968-69* (Albany: State University of New York, 2014).
+[^2]: Max Freedmen and Mark Winston Griffith, Season 1, 2019, in *School Colors,* produced by Brooklyn Deep, [https://www.schoolcolorspodcast.com/brooklyn](https://www.schoolcolorspodcast.com/brooklyn); Jerald E. Podair, *The Strike that Changed New York: Blacks, Whites, and the Ocean Hill-Brownsville Crisis* (New Haven: Yale University Press, 2002); Daniel Hiram Perlstein, *Justice, Justice: School Politics and the Eclipse of Liberalism* (New York: Peter Lang, 2004); Charles Isaacs, *Inside Ocean Hill Brownsville: A Teacher’s Education 1968-69* (Albany: State University of New York Press, 2014).
