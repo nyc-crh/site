@@ -13,7 +13,7 @@
                                      {{with .img}}
                                      {{ $image := resources.Get (printf "images/%s" .)}}
                                      {{ with $image }}
-                                     <img src="{{ ($image.Fill "400x300 top").Permalink }}" class="card-img-top img-fluid" alt="{{$alt}}" />
+                                     <img src="{{ ($image.Fill "400x300 top").RelPermalink }}" class="card-img-top img-fluid" alt="{{$alt}}" />
                                      {{ end }}
                                      {{end}}
                                      <div class="card-body">

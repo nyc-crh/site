@@ -40,6 +40,9 @@ cards:
   - title: Who governs NYC schools?
     img: who-governs.jpg
     alt: Political cartoon
-    text: Coming soon!
+    text: "Crucial decisions like what students learn, who attends school where, and who teaches: all of these decisions are part of school governance."
+    btn:
+      text: View primary sources
+      url: /topics/who-governs-schools
 ---
 

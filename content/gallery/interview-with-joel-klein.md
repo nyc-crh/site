@@ -1,7 +1,7 @@
 --- 
 layout: gallery
 draft: false
-date: 2016-8-26
+date: 2016-08-26
 displaydate: 
 title: "Inside \"The Founders\": Joel Klein"
 author: 
