@@ -49,7 +49,7 @@ questions:
 
 Schools in Ocean Hill-Brownsville’s community control district stuck to some old traditions, like having a guest speaker at graduation. I.S. 55, which was one of the schools in the district, welcomed poet, educator, and theorist June Jordan to give their spring 1970 graduation speech.[^1]
 
-In her remarks, Jordan commented on large themes of life, truth, freedom, and community. She spoke of withdrawing from politics - which was connected to “the old power,” rather than to new imaginings of how communities could live together and educate their children.
+In her remarks, Jordan commented on large themes of life, truth, freedom, and community. She spoke of withdrawing from politics, which was connected to “the old power,” rather than to new imaginings of how communities could live together and educate their children.
 
 >This is a poem for all the children.
 >
@@ -122,4 +122,4 @@ Garbage burned in the street, a few days ago, here in Ocean Hill, because a garb
 >
 > We salute you, the sons and the daughters of our hearts and our pride. Congratulations.
 
-[^1]: Read more about Jordan  in “Life Studies,” ed. Conor Tomás Reed and Talia Shalev, [https://cuny.manifoldapp.org/read/life-studies-1966-1976-4ac0a256-b280-40d0-bc1a-6595b8d20c6f/section/03e39f3f-e8d0-458c-a362-cff02999b6f7](https://cuny.manifoldapp.org/read/life-studies-1966-1976-4ac0a256-b280-40d0-bc1a-6595b8d20c6f/section/03e39f3f-e8d0-458c-a362-cff02999b6f7), accessed January 6, 2024. See Conor Tomás Reed, *New York Liberation School: Study and Movement for the People’s University* (New York: Common Notions Press, 2023).
+[^1]: Read more about Jordan in “Life Studies,” ed. Conor Tomás Reed and Talia Shalev, [https://cuny.manifoldapp.org/read/life-studies-1966-1976-4ac0a256-b280-40d0-bc1a-6595b8d20c6f/section/03e39f3f-e8d0-458c-a362-cff02999b6f7](https://cuny.manifoldapp.org/read/life-studies-1966-1976-4ac0a256-b280-40d0-bc1a-6595b8d20c6f/section/03e39f3f-e8d0-458c-a362-cff02999b6f7), accessed January 6, 2024. See Conor Tomás Reed, *New York Liberation School: Study and Movement for the People’s University* (New York: Common Notions Press, 2023).

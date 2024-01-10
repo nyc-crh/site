@@ -42,16 +42,16 @@ tags:
 - Latinx people
 - Black people
 questions: 
-- This flyer is designed to persuade readers not to support school decentralization in New York. Does it persuade you? Why or why not? What counter-arguments would have been persuasive? 
+- This flier is designed to persuade readers not to support school decentralization in New York. Does it persuade you? Why or why not? What counter-arguments would have been persuasive? 
 - This document shows activists trying to reject a proposal because they think it does not go far enough. What are examples of that situation today? What is challenging about persuading people of that argument? 
-- This flyer uses the technology available to activists at the time - a typewriter and a copy machine. What tools do activists use to share their messages today? How are they similar or different?
+- This flier uses the technology available to activists at the time - a typewriter and a copy machine. What tools do activists use to share their messages today? How are they similar or different?
 --- 
 
 {{< in-progress >}}
 
 New York State’s 1969 decentralization law drew strong opposition from many Black and Puerto Rican New Yorkers who had been advocating for community control. United Bronx Parents was based in the South Bronx and had been founded in 1965 by Puerto Rican organizer [Evelina Lopez Antonetty](/topics/black-latina-women/united-bronx-parents/). United Bronx Parents had worked for years to support Puerto Rican mothers in pushing for better education for their children. Community control fit within this agenda.
 
-Some education officials suggested that decentralization - which would divide New York City into 32 separate community school districts, each with an elected board and some important responsibilities - was like community control.[^1] But Antonetty and others disagreed. They were concerned that too much power remained in the central offices of the Board of Education, and in the United Federation of Teachers, which had at times opposed community control and some of the innovations in [bilingual education](/gallery/la-escuela-bilingue) that United Bronx Parents supported.
+Some education officials suggested that decentralization - which would divide New York City into 32 separate community school districts, each with an elected board and some important responsibilities - was like community control.[^1] But Antonetty and others disagreed. They were concerned that too much power remained in the central offices of the Board of Education, and with the United Federation of Teachers, which had at times opposed community control and some of the innovations in [bilingual education](/gallery/la-escuela-bilingue) that United Bronx Parents supported.
 
 The New York State legislature did pass the decentralization law, and in the first year United Bronx Parents participated in a boycott of the election.
 
