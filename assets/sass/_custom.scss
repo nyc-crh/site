@@ -489,7 +489,6 @@ details.readmore {
 
     summary {
         list-style-type: disclosure-closed;
-        margin-left: 20px;
     }
 }
  
@@ -499,6 +498,12 @@ details.readmore[open] summary
 }
 
 $details-padding: 0.75em;
+
+summary h2 {
+    padding: 16px;
+    margin-top: -3rem;
+    margin-bottom: 1rem;
+}
 
 details.accordion {
     font-size: 1.2rem;
