@@ -14,7 +14,7 @@ cards:
 - title: Benjamin Franklin High School
   img: club-borinquen.jpg
   alt: A group of Black and white children sit on steps beside a large stack of paper, making V signs with their hands and holding campaign signs.
-  text: The high school tried to support East Harlem’s immigrant communities.
+  text: New programs support East Harlem’s immigrant and migrant communities.
   btn:
     text: View primary sources
     url: /topics/joyful-struggle/ben-franklin-hs

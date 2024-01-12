@@ -6,6 +6,8 @@ The New York City Civil Rights Project emphasizes that education has been a cent
 
 Brown v. Board of Education (1954), the Individuals with Disabilities Education Act (or IDEA) (1975), and the Americans with Disabilities Act (1990) were crucial steps in naming and protecting the rights of students of color and disabled students. Even *if* each of the civil rights recognized in these decisions and laws were always respected, injustices could still continue.
 
+{{%read-more%}}
+
 "Justice" is a broader, more ambitious, word than "rights." It includes but looks beyond rights to consider people's humanity, their dreams, their aspirations, and their power to shape their own lives. Working for justice involves solidarity, support, and connections within and across communities. Sins Invalid, a disability justice organization led by disabled people of color, says that “This is disability justice”: “All bodies are unique and essential. All bodies are whole. All bodies have strengths and needs that must be met. We are powerful not despite the complexities of our bodies, but because of them. We move together, with no body left behind.” The NYC Coalition for Educational Justice states that “Students deserve a quality public education that honors their cultures, backgrounds, and communities.” We are motivated by these and other historic visions of justice.
 
 We believe students can better understand their city and schools, and expand their own power to make changes in our world, when they have a robust understanding of the history of fights for educational justice in NYC.

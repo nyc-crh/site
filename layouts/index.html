@@ -3,8 +3,8 @@
 <head>
     {{ partial "head" . }}
 </head>
-<div class="container-fluid w-100 d-md-block p-5">
-    <div class="row justify-content-evenly">
+<div class="d-flex align-items-center p-3 mt-auto">
+    <div class="row justify-content-center align-items-center d-flex">
         <div class="col-sm-4">
             <img src="/img/nyccrh-logo-lg.jpg" alt="Illustration of protestors holding signs, a megaphone, and a banner that says New York City Civil Rights History (a teaching guide)" class="img-fluid responsive-figure-fullwidth">
         </div>
@@ -15,7 +15,7 @@
                     <div>
                         {{ with .Params.btn1 }}
                         {{ if and .text .url }}
-                        <button class="btn btn-lg btn-outline-primary interact px-4 me-2"><a href="{{ .url }}" style="text-decoration: none;">{{ .text }}</a></button>
+                        <button class="btn btn-lg btn-primary interact px-4 me-2"><a href="{{ .url }}" style="text-decoration: none;">{{ .text }}</a></button>
                         {{ end }}
                         {{ end }}
                     </div>
