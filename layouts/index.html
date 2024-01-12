@@ -3,23 +3,22 @@
 <head>
     {{ partial "head" . }}
 </head>
-<div id="main" class="container-fluid col-lg-10 py-5 d-print-block">
-    <div class="row">
-        <div class="col-sm p-5">
-            <img src="/img/nyccrh-logo-lg.jpg" alt="Illustration of protestors holding signs, a megaphone, and a banner that says New York City Civil Rights History (a teaching guide)" class="d-block mx-auto mt-5">
-          </div>
-      <div class="col-sm mx-auto justify-content-center p-5">
-        <main>
-        <title>New York City Civil Rights History, a teaching guide</title>
-            <p>{{ .Content| page.RenderString | safeHTML }}</p>
-            <div>
-                {{ with .Params.btn1 }}
-                {{ if and .text .url }}
-                <button class="btn btn-lg btn-outline-primary interact px-4 me-2"><a href="{{ .url }}" style="text-decoration: none;">{{ .text }}</a></button>
-                {{ end }}
-                {{ end }}
-            </div>
-        </main>
+<div class="container-fluid w-100 d-md-block p-5">
+    <div class="row justify-content-evenly">
+        <div class="col-sm-4">
+            <img src="/img/nyccrh-logo-lg.jpg" alt="Illustration of protestors holding signs, a megaphone, and a banner that says New York City Civil Rights History (a teaching guide)" class="img-fluid responsive-figure-fullwidth">
+        </div>
+        <div class="col-sm-4">
+            <main>
+                <title>New York City Civil Rights History, a teaching guide</title>
+                    <p>{{ .Content| page.RenderString | safeHTML }}</p>
+                    <div>
+                        {{ with .Params.btn1 }}
+                        {{ if and .text .url }}
+                        <button class="btn btn-lg btn-outline-primary interact px-4 me-2"><a href="{{ .url }}" style="text-decoration: none;">{{ .text }}</a></button>
+                        {{ end }}
+                        {{ end }}
+                    </div>
+                </main>
+         </div>
       </div>
-    </div>
-    </div>
