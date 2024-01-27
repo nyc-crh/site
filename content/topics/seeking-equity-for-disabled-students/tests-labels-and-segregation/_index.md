@@ -5,7 +5,7 @@ type: list
 draft: false
 ---
 
-A Black girl sat in her Chicago high school classroom in 1920 and heard her teacher say that native-born white students were more intelligent than Black and immigrant students. The teacher claimed that there was proof, from [a new test given to soldiers](/gallery/army-test). “A race conscious Negro girl, one of the leaders of the class, objected to this remark,” but the teacher responded by showing the student tables with [the test results](gallery/army-test). The girl later reported, “with a brave look in her eyes,” that she told the teacher that she “did not believe that the figures were accurate.”[^1]
+A Black girl sat in her Chicago high school classroom in 1920 and heard her teacher say that native-born white students were more intelligent than Black and immigrant students. The teacher claimed that there was proof, from [a new test given to soldiers](/gallery/army-test). “A race conscious Negro girl, one of the leaders of the class, objected to this remark,” but the teacher responded by showing the student tables with [the test results](gallery/army-test). “With a brave look in her eyes,” the student told the teacher that she “did not believe that the figures were accurate.”[^1]
 
 {{% read-more %}}
 
@@ -31,8 +31,8 @@ All of this discussion about intelligence tests happened in the very same years 
 
 [^4]: James Trent, *Inventing the Feeble Mind: A History of Mental Retardation in the United States*. (Berkeley: University of California Press, 1994).
 
-[^5]: Trent, *Inventing the Feeble Mind, 8. Keith Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023).
+[^5]: Trent, *Inventing the Feeble Mind*, 8. Keith Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023).
 
 [^6]: ”Eugenics and Physical Anthropology,” [https://understandingrace.org/history/science/eugenics-and-physical-anthropology-1890-1930/](https://understandingrace.org/history/science/eugenics-and-physical-anthropology-1890-1930/), accessed July 22, 2023. See also the collection of relevant essays in “The Persistence of Race Science,” *Undark*, [https://race.undark.org](https://race.undark.org), accessed July 22, 2023.
 
-[^7]: Moses Stambler, “The Effect of Compulsory Education and Child Labor Laws on High School Attendance in New York City, 1898-1917,” *History of Education Quarterly*, Summer, 1968, Vol. 8, No. 2 (Summer, 1968), pp. 189-214. Mayes, *The Unteachables*, links the expansion of compulsory education to the “invention of Black special education” in his national study.
+[^7]: Moses Stambler, “The Effect of Compulsory Education and Child Labor Laws on High School Attendance in New York City, 1898-1917,” *History of Education Quarterly*, Summer, 1968, Vol. 8, No. 2 (Summer, 1968), pp. 189-214. Mayes, *The Unteachables*, links the expansion of compulsory education to the “invention of Black special education” in a national study.
