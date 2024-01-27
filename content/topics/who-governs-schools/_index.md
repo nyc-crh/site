@@ -28,7 +28,7 @@ cards:
 - title: Mayoral Control
   img: bloomberg-remarks.jpg
   alt: Michael Bloomberg speaks at a conference
-  text: Mayor Bloomberg pushes for centralization and control of the city's shools. 
+  text: Mayor Bloomberg persuades New York State to grant mayoral control of the city's shools. 
   btn:
     text:  View primary sources
     url: /topics/who-governs-schools/mayoral-control
