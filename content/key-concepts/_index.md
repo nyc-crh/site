@@ -248,7 +248,7 @@ Students of color and disabled students and their advocates were often denied th
 
 Because these institutions are created within historically marginalized communities, and because people choose to join them - rather than being required by others to do so - we do not apply the term “segregated” to these spaces.
 
-[^54]: Barbara Ransby, *Ella Baker and the Black Freedom Movement: A Radical Democratic Vision* (Chapel Hill: University of North Carolina Press, 2003); [Russell Rickford, “Black Power as Educational Renaissance: The Harlem Landscape,” in *Educating Harlem*, ed. Ansley Erickson and Ernest Morrell (New York: Columbia University Press, 2019), 210-233](https://ansleyerickson.github.io/book/); Russell Rickford, *We Are an African People: Independent Education, Black Power, and Radical Imagination* (New York: Oxford University Press, 2016); Mark Winston-Griffith and Max Friedman, *School Colors*, Season 1, produced by Brooklyn Deep, podcast, [https://www.schoolcolorspodcast.com/brooklyn](https://www.schoolcolorspodcast.com/brooklyn); [S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY](/topics/seeking-equity-for-disabled-students/physical-access/sofedup-handbook/); Brianna DiGiovanni, “Deaf New York City Spaces,” ArcGIS StoryMaps, October 19, 2020, [https://storymaps.arcgis.com/stories/32b9eaed718947d9b647447830b41cbc](https://storymaps.arcgis.com/stories/32b9eaed718947d9b647447830b41cbc)
+[^54]: Ransby, *Ella Baker*; [Rickford, “Black Power as Educational Renaissance](https://ansleyerickson.github.io/book/); Russell Rickford, *We Are an African People: Independent Education, Black Power, and Radical Imagination* (New York: Oxford University Press, 2016); Mark Winston-Griffith and Max Friedman, [*School Colors*, Season 1](https://www.schoolcolorspodcast.com/brooklyn); [S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY](/topics/seeking-equity-for-disabled-students/physical-access/sofedup-handbook/); DiGiovanni, [“Deaf New York City Spaces,”](https://storymaps.arcgis.com/stories/32b9eaed718947d9b647447830b41cbc).
 
 </details>
 
@@ -264,7 +264,7 @@ The history of institutional and structural racism in housing, employment, wealt
 
 <h3>Suggested Primary source: <a href="https://nyccivilrightshistory.org/gallery/change-the-status-crow/">Change the Status Crow</a></h3>
 
-[^55]: Richard Rothstein, *The Color of Law: A Forgotten History of How Our Government Segregated America* (New York: Liveright Publishing, 2017); Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016); Brian Purnell and Jeanne Theoharis with Komozi Woodard, eds., *The Strange Careers of the Jim Crow North: Segregation and Struggle outside of the South* (New York: New York University Press, 2019).
+[^55]: Rothstein, *The Color of Law*; Delmont, *Why Busing Failed*; Brian Purnell and Jeanne Theoharis with Komozi Woodard, eds., *The Strange Careers of the Jim Crow North: Segregation and Struggle Outside of the South* (New York: New York University Press, 2019).
 
 [^56]: [New-York Historical Society, *Slavery in New York*](New-York Historical Society, Slavery in New York).
 
