@@ -51,7 +51,7 @@ While we recognize that Black men and Latinos - as attorneys, ministers, educato
 
 [^8]:[Evelina Antonetty](/topics/black-latina-women/united-bronx-parents/)
 
-[^9]: Erickson and Morrell, [*Educating Harlem*; Jeanne Theoharis, *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* (Boston: Beacon Press, 2018).
+[^9]: Erickson and Morrell, [*Educating Harlem*](https://ansleyerickson.github.io/book/); Jeanne Theoharis, *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* (Boston: Beacon Press, 2018).
 
 [^10]: Theoharis, *A More Beautiful and Terrible History.*
 
@@ -118,7 +118,7 @@ Finally, it is crucial to remember that all people simultaneously occupy multipl
 
 [^23]: Schalk, *Black Disability Politics*; Therí Alyce Pickens, *Black Madness: Mad Blackness* (Durham, NC: Duke University Press, 2019); Ellen Samuels, *Fantasies of Identification* (New York: New York University Press, 2014); Dennis Tyler, *Disabilities of the Color Line: Redressing Antiblackness from Slavery to the Present* (New York: New York University Press, 2022).
 
-[^24]: Jonathan Rosa, *Looking Like a Language, Sounding like a Race: Raciolinguistic Ideologies and the Learning of Latinidad* (New York: Oxford University Press, 2019); Jennifer Phuong and María Cioè-Peña, “Perfect or Mocha: Language Policing and Pathologization,” in *DisCrit Expanded: Reverberations, Ruptures, and Inquiries*, ed. Subini Annamma, Beth A. Ferri, and David J. Connor (New York: Teachers College Press, 2022), 129-144.
+[^24]: Jonathan Rosa, *Looking like a Language, Sounding like a Race: Raciolinguistic Ideologies and the Learning of Latinidad* (New York: Oxford University Press, 2019); Jennifer Phuong and María Cioè-Peña, “Perfect or Mocha: Language Policing and Pathologization,” in *DisCrit Expanded: Reverberations, Ruptures, and Inquiries*, ed. Subini Annamma, Beth A. Ferri, and David J. Connor (New York: Teachers College Press, 2022), 129-144.
 
 [^25]: Rabia Belt, “The Fat Prisoner’s Dilemma: Slow Violence, Intersectionality, and a Disability Rights Framework for the Future,” *Georgetown Law Journal* 110, no. 4 (2022): 785-833.
 
@@ -142,9 +142,9 @@ Historically, racism and ableism have worked together in harmful ways toward stu
 
 </details>
 
-[^31]: Keith A. Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023); Francine Almash, "New York City ‘600’ Schools and the Legacy of Segregation in Special Education," The Gotham Center for New York City History, June 21, 2022, [https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education).
+[^31]: Mayes, *The Unteachables*; Almash, ["New York City ‘600’ Schools](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education)." 
 
-[^32]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape,” The Research Alliance for New York City Schools at NYU Steinhardt, 2019,[https://steinhardt.nyu.edu/sites/default/files/2021-03/Special_Education_in_New_York_City_final.pdf](https://steinhardt.nyu.edu/sites/default/files/2021-03/Special_Education_in_New_York_City_final.pdf).; Beth A. Ferri and David J. Connor, *Reading Resistance: Discourses of Exclusion in Desegregation & Inclusion Debates* (New York: Peter Lang, 2006).
+[^32]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape,” The Research Alliance for New York City Schools at NYU Steinhardt, 2019, [https://steinhardt.nyu.edu/sites/default/files/2021-03/Special_Education_in_New_York_City_final.pdf](https://steinhardt.nyu.edu/sites/default/files/2021-03/Special_Education_in_New_York_City_final.pdf); Beth A. Ferri and David J. Connor, *Reading Resistance: Discourses of Exclusion in Desegregation & Inclusion Debates* (New York: Peter Lang, 2006).
 
   <details class="mb-3"><summary class="pb-3"><h2>5. Disability takes many forms. Disabled students in NYC have had, and continue to have, a wide variety of educational experiences.</h2></summary>
 
@@ -162,7 +162,7 @@ Even when experiencing oppression in schools—as when Deaf students were prohib
 
 [^34]: Margaret Price, “Education,” in *Keywords in Disability Studies*, ed. Rachel Adams, Benjamin Reiss, and David Serlin (New York: New York University Press, 2015), 64-67, [https://keywords.nyupress.org/disability-studies/](https://keywords.nyupress.org/disability-studies/).
 
-[^35]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape,” The Research Alliance for NYC Schools at NYU Steinhardt, 2019, [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city).
+[^35]: Fancsali, [“Special Education in New York City](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city).
 
 [^36]: [S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY](/topics/seeking-equity-for-disabled-students/physical-access/sofedup-handbook/) [Deaf Social Spaces](/topics/joyful-struggle/deaf-social-spaces/)
 
@@ -178,15 +178,15 @@ Some activists for educational justice in NYC have always been concerned that se
 
 Despite these challenges linked to segregation, some Black and Latinx communities and some disability communities have created strong schools and/or learning spaces for themselves.[^41]
 
-[^37]: Christopher Bonastia, *The Battle Nearer to Home: The Persistence of School Segregation in New York City* (Palo Alto: Stanford University Press, 2022); Kimberly Johnson, “Wadleigh High School: The Price of Segregation” in *Educating Harlem: A Century of Schooling and Resistance in a Black Community,* ed. Ansley T. Erickson and Ernest Morrell (Columbia University Press, 2019), 77-100, [https://ansleyerickson.github.io/book/chapters/03/](https://ansleyerickson.github.io/book/chapters/03/); Mark Winston-Griffith and Max Friedman, School Colors, Season 1, produced by Brooklyn Deep, podcast, [https://www.schoolcolorspodcast.com/brooklyn](https://www.schoolcolorspodcast.com/brooklyn)
+[^37]: Christopher Bonastia, *The Battle Nearer to Home: The Persistence of School Segregation in New York City* (Palo Alto: Stanford University Press, 2022); Kimberly Johnson, “Wadleigh High School: The Price of Segregation” in *Educating Harlem: A Century of Schooling and Resistance in a Black Community,* ed. Ansley T. Erickson and Ernest Morrell (Columbia University Press, 2019), 77-100, [https://ansleyerickson.github.io/book/chapters/03/](https://ansleyerickson.github.io/book/chapters/03/); Mark Winston-Griffith and Max Friedman, *School Colors*, Season 1, produced by Brooklyn Deep, podcast, [https://www.schoolcolorspodcast.com/brooklyn](https://www.schoolcolorspodcast.com/brooklyn)
 
-[^38]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape” (Research Alliance for NYC Schools at NYU Steinhardt, 2019), [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city); Francine Almash, “New York City ‘600’ Schools and the Legacy of Segregation in Special Education,” The Gotham Center for New York City History, June 21, 2022, [https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education); Emily B. Clark, “Deserving to Belong: Complex Narratives of Working and Learning in Self-Contained Spaces” (Ph.D diss, CUNY Graduate Center, 2021); *José P. v. Mills*, [https://www.advocatesforchildren.org/litigation/class_actions/jose_p_vs_mills](https://www.advocatesforchildren.org/litigation/class_actions/jose_p_vs_mills); Lora v. Board of Educ. of City of New York, 587 F. Supp. 1572 (E.D.N.Y. 1984. [https://law.justia.com/cases/federal/district-courts/FSupp/587/1572/1752714/](https://law.justia.com/cases/federal/district-courts/FSupp/587/1572/1752714/).; James Haskins, *Diary of a Harlem Schoolteacher* (New York: Grove Press, 1969).
+[^38]: Fancsali, [“Special Education in New York City](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city); Almash, ["New York City ‘600’ Schools](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education)."; Emily B. Clark, “Deserving to Belong: Complex Narratives of Working and Learning in Self-Contained Spaces” (Ph.D diss, CUNY Graduate Center, 2021); *José P. v. Mills*, [https://www.advocatesforchildren.org/litigation/class_actions/jose_p_vs_mills](https://www.advocatesforchildren.org/litigation/class_actions/jose_p_vs_mills); Lora v. Board of Educ. of City of New York, 587 F. Supp. 1572 (E.D.N.Y. 1984. [https://law.justia.com/cases/federal/district-courts/FSupp/587/1572/1752714/](https://law.justia.com/cases/federal/district-courts/FSupp/587/1572/1752714/).; James Haskins, *Diary of a Harlem Schoolteacher* (New York: Grove Press, 1969).
 
-[^39]: Fancsali, “Special Education”; Individuals with Disabilities Education Act, 1990, [https://sites.ed.gov/idea/statute-chapter-33/subchapter-ii/1412/a/5](https://sites.ed.gov/idea/statute-chapter-33/subchapter-ii/1412/a/5)
+[^39]: Fancsali, [“Special Education in New York City](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city); Individuals with Disabilities Education Act, 1990, [https://sites.ed.gov/idea/statute-chapter-33/subchapter-ii/1412/a/5](https://sites.ed.gov/idea/statute-chapter-33/subchapter-ii/1412/a/5)
 
-[^40]: [Marta Gutman, “Intermediate School 201: Race, Space, and Modern Architecture in Harlem,”](https://ansleyerickson.github.io/book/chapters/08/) and [Russell Rickford, “Black Power as Educational Renaissance,”](https://ansleyerickson.github.io/book/chapters/09/) in [Erickson and Morrell, *Educating Harlem*](https://ansleyerickson.github.io/book/); Winston-Griffith and Friedman, *School Colors*; Barbara Ransby, *Ella Baker and the Black Freedom Movement: A Radical Democratic Vision* (Chapel Hill: University of North Carolina Press, 2003).
+[^40]: [Marta Gutman, “Intermediate School 201: Race, Space, and Modern Architecture in Harlem,”](https://ansleyerickson.github.io/book/chapters/08/) and [Russell Rickford, “Black Power as Educational Renaissance,”](https://ansleyerickson.github.io/book/chapters/09/) in [Erickson and Morrell, *Educating Harlem*](https://ansleyerickson.github.io/book/); Winston-Griffith and Friedman, *School Colors*;  Ransby, *Ella Baker*.
 
-[^41]: Heather Lewis, *New York City Public Schools from Brownsville to Bloomberg: Community Control and its Legacy* (New York: Teachers College Press, 2015); Deidre Flowers, “A School for Modern Times: Mildred Louise Johnson and the Founding of the Modern School of Harlem,” *Journal of African American History* 105, no. 4; *Crip Camp*, directed by James Lebrecht and Nicole Newnham (2020; Rock Hill, NY: James Lebrecht, Nicole Newnham, and Sara Bolder), netflix.com;; Winston-Griffith and Friedman, School Colors, Season 1; [Deaf Social Spaces](/topics/joyful-struggle/deaf-social-spaces/)
+[^41]: Heather Lewis, *New York City Public Schools from Brownsville to Bloomberg: Community Control and its Legacy* (New York: Teachers College Press, 2015); Deidre Flowers, “A School for Modern Times: Mildred Louise Johnson and the Founding of the Modern School of Harlem,” *Journal of African American History* 105, no. 4; *Crip Camp*, directed by James Lebrecht and Nicole Newnham (2020; Rock Hill, NY: James Lebrecht, Nicole Newnham, and Sara Bolder), netflix.com;; Winston-Griffith and Friedman, *School Colors*, Season 1; [Deaf Social Spaces](/topics/joyful-struggle/deaf-social-spaces/)
 
 </details>
 
@@ -206,17 +206,17 @@ Thousands of large and small decisions by educators, teachers, judges, and other
 
 </details>
 
-[^42]: Christopher Bonastia, *The Battle Nearer to Home: The Persistence of School Segregation in New York City* (Palo Alto: Stanford University Press, 2022).
+[^42]: Bonastia, *The Battle Nearer to Home*.
 
 [^43]: Richard Rothstein, *The Color of Law: A Forgotten History of How Our Government Segregated America* (New York: Liveright Publishing, 2017).
 
 [^44]: Kevin McGruder, *Race and Real Estate: Conflict and Cooperation in Harlem, 1890-1920* (New York: Columbia University Press, 2015); Shannon King, *Whose Harlem Is This, Anyway?* (New York: New York University Press, 2015); Rothstein, *The Color of Law.*
 
-[^45]: Kim E. Nielsen, *A Disability History of the United States* (Boston: Beacon Press, 2012).
+[^45]: Nielsen, *A Disability History of the United States*.
 
 [^46]: [Kimberly Johnson, “Wadleigh High School: The Price of Segregation,” in *Educating Harlem: A Century of Schooling and Resistance in a Black Community*, ed. Ansley T. Erickson and Ernest Morrell (New York: Columbia University Press, 2019), 77-100](https://ansleyerickson.github.io/book/chapters/03/); Bonastia, *The Battle Nearer to Home.*
 
-[^47]: Francine Almash, “New York City ‘600’ Schools and the Legacy of Segregation in Special Education,” The Gotham Center for New York City History, June 21, 2022, [https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education); Keith A. Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023).
+[^47]: Almash, [“New York City ‘600’ Schools](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education);" Mayes, *The Unteachables*.
 
   <details class="mb-3"><summary class="pb-3"><h2>8. New York City never desegregated its schools.</h2></summary>
 
@@ -228,13 +228,13 @@ Since 1970, New York has operated District 75, a separate school district only f
 
 [^48]: *Brown v. Board of Education of Topeka*, 347 U.S. 483 (1954), [https://catalog.archives.gov/id/1656510](https://catalog.archives.gov/id/1656510)
 
-[^49]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016); Christopher Bonastia, *The Battle Nearer to Home: The Persistence of School Segregation in New York City* (Palo Alto: Stanford University Press, 2022)
+[^49]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016); Bonastia, *The Battle Nearer to Home*.
 
 [^50]: Individuals with Disabilities Education Act. Pub. L. No. 94-192, § 611, 89 Stat.773 (1975).
 
-[^51]: Keith A. Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023); Francine Almash, “New York City ‘600’ Schools and the Legacy of Segregation in Special Education,” The Gotham Center for New York City History, June 21, 2022, [https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education).
+[^51]: Mayes, *The Unteachables*; Almash, [“New York City ‘600’ Schools](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education). 
 
-[^52]:Cheri Fancsali, “Special Education in New York City: Understanding the Landscape” (Research Alliance for NYC Schools at NYU Steinhardt, 2019), [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city)
+[^52]:Cheri Fancsali, [“Special Education in New York City,](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city). 
 
 [^53]: John Cuscera with Gary Orfield, “New York State’s Extreme School Segregation: Inequality, Inaction, and a Damaged Future” (Los Angeles: UCLA Center for Civil Rights/Proyecto Derechos Civiles, 2014), [https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf](https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf)
 
