@@ -51,7 +51,7 @@ While we recognize that Black men and Latinos - as attorneys, ministers, educato
 
 [^8]:[Evelina Antonetty](/topics/black-latina-women/united-bronx-parents/)
 
-[^9]: Erickson and Morrell, *Educating Harlem*; Jeanne Theoharis, *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* (Boston: Beacon Press, 2018).
+[^9]: Erickson and Morrell, [*Educating Harlem*; Jeanne Theoharis, *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* (Boston: Beacon Press, 2018).
 
 [^10]: Theoharis, *A More Beautiful and Terrible History.*
 
