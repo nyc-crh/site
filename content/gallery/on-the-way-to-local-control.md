@@ -10,7 +10,7 @@ citation: >
 imageFeatured: on-the-way-to-local-control.jpg
 imageFeaturedAlt: Comparison chart of school variables and characteristics going from centralization to local control
 detailedDescr: 
-embed: 
+embed: on-the-way-to-local-control.pdf
 embedTitle: On the Way to School-Community Control, Some Observations, excerpt
 text: on-the-way-to-local-control
 mapembed: 
