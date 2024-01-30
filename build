@@ -1,0 +1,16 @@
+hugoDir='/home/nyccivil/nyccrh-git'
+siteDir='/home/nyccivil/public_html'
+
+if ! [ -d $hugoDir ]
+then
+    echo "hugoDir does not exist. Exiting."
+    exit
+fi
+
+if ! [ -d $siteDir ]
+then 
+    echo "$siteDir does not exist. Exiting."
+    exit
+fi
+
+cd $hugoDir && git pull && hugo -d $siteDir

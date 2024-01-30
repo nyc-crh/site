@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 date: 1985-10-01
 displaydate: "October 1985"
 title: Focus on Learning, excerpt

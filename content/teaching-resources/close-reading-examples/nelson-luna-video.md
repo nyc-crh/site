@@ -2,7 +2,7 @@
 layout: video
 draft: false
 title: Nelson Luna reads “We Demand”
-imageFeatured: nelson-luna-video.jpg
+imageFeatured: nelly-luna-video.jpg
 imageFeaturedAlt: Still image of a videotaped reading by Nelson Luna
 video: 
   srcType: youtube

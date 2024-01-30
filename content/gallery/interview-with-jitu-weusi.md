@@ -19,7 +19,7 @@ audioTitle:
 audioTranscript: 
 video: 
   srcType: youtube
-  srcLink: oL12PTkPwRY&t=30
+  srcLink: oL12PTkPwRY?si=S5yQHEN3nMLcBA0x&amp;start=30
 videoTitle: Interview with Jitu Weusi on Mayoral Control of New York City Schools
 relTitle: 
 relImg: 

@@ -20,9 +20,9 @@ audioTranscript:
 video: 
 videoTitle: 
 relTitle: Watch a close reading of this document
-relImg: nelson-luna-video-sm.jpg
+relImg: nelly-luna-video-sm.jpg
 relImgAlt: Still image of a videotaped reading by Nelson Luna
-relLink: /teaching-resources/close-reading-examples/nelson-luna-video/
+relLink: /teaching-resources/close-reading-examples/nelly-luna-video/
 eventname: City College student protesters outline the changes they want to see in their university. 
 caption: In this flyer, student protesters at City College listed the changes they wanted to see in their university, and why. 
 archive_source: CUNY Digital History Archive

@@ -14,7 +14,7 @@ cards:
       text: View topic
       url: /topics/black-latina-women/
   - title: Close Reading of Primary Sources
-    img: nelson-luna-video.jpg
+    img: nelly-luna-video.jpg
     alt: Video still of young person reading a document
     text: Watch and listen as educator and students activists closely read primary sources that resonate with them.
     btn:

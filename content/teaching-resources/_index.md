@@ -19,7 +19,7 @@ cards:
       text: View semester outline
       url: /teaching-resources/semester-outline/
   - title: Close Reading Examples
-    img: nelson-luna-video.jpg
+    img: nelly-luna-video.jpg
     alt: 
     text: Watch and listen as educator and students activists closely read primary sources that resonate with them. 
     btn:
