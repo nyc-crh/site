@@ -6,12 +6,12 @@ imageFeatured: nelly-luna-video.jpg
 imageFeaturedAlt: Still image of a videotaped reading by Nelly Luna
 video: 
   srcType: youtube
-  srcLink: H4_U48vxAWo
+  srcLink: fN1r6I_UeRg
 videoTitle: Nelly Luna reads “We Demand”
 videoAsl: 
   srcType: youtube
-  srcLink: 8rngChI9Bx0
+  srcLink: f0tobEnZBFU
 videoAslTitle: Nelly Luna reads “We Demand” (ASL)
 --- 
  
-Nelly Luna does a close reading of [“We Demand”](/gallery/we-demand) 
+Nelly Luna does a close reading of [“We Demand”](/gallery/we-demand)

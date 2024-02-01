@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: false
+draft: true
 date: 1977-08-27
 displaydate: 
 title: Goldie Chu

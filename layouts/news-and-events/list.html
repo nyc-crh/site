@@ -1,0 +1,31 @@
+{{ define "main" }}
+<title>{{ .Params.title }}</title>
+<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="index">
+   <div class="container-fluid">
+  <div class="row pack mx-auto">
+    <h1 class="py-4"> {{ .Params.title | page.RenderString | safeHTML }}</h2>
+    {{ range (.Paginate $.RegularPagesRecursive.ByDate).Pages}}
+    <div class="col-sm-3 card m-2">
+      <a href="{{ .Params.link }}" class="index-anchor">
+        <div class="panel panel-default py-3">
+          {{$imageFeaturedAlt:= .Params.imageFeaturedAlt}}
+          {{$title:= .Title}}
+          {{ $image := resources.Get (printf "/images/%s" .Params.imageFeatured )}}
+                    {{ with $image }}
+                    <img src="{{ ($image.Fill "300x210 top").RelPermalink }}" class="card-img-top img-fluid" alt="{{with $imageFeaturedAlt}}{{ . }}{{else}}{{$title}}{{end}}" />
+                    {{ end }}
+      <div class="panel-body pt-3">
+        <h3 class="panel-title pull-left">{{ .Params.title| page.RenderString | safeHTML }}</h3>
+      </div>
+    </div>
+  </a>
+  </div>
+  {{ end }}
+
+</div>
+<div class="row mt-5">
+  {{ partial "pagination" . }}
+ </div>
+</div>
+</div>
+{{ end }}
