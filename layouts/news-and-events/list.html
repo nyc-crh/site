@@ -4,8 +4,9 @@
    <div class="container-fluid">
   <div class="row pack mx-auto">
     <h1 class="py-4"> {{ .Params.title | page.RenderString | safeHTML }}</h2>
-    {{ range (.Paginate $.RegularPagesRecursive.ByDate).Pages}}
-    <div class="col-sm-3 card m-2">
+      <p>{{ .Content }}</p>
+    {{ range (.Paginate $.RegularPages.ByDate).Pages}}
+    <div class="col-sm-3 card m-5">
       <a href="{{ .Params.link }}" class="index-anchor">
         <div class="panel panel-default py-3">
           {{$imageFeaturedAlt:= .Params.imageFeaturedAlt}}

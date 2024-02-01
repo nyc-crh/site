@@ -29,9 +29,12 @@ menu:
   - name: Project History
     pageRef: /project-history
     weight: 6
+  - name: News and Events
+    pageRef: /news-and-events
+    weight: 7
   - name: Search
     pageRef: /search
-    weight: 7
+    weight: 8
 
 markup:
   goldmark:

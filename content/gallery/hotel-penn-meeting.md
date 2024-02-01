@@ -1,43 +1,49 @@
 --- 
 layout: gallery
 draft: false
-date: 1925-03-01
-displaydate: "March 1925"
-title: Two Public School Teachers
-author: Winhold Reiss
+date: 1937-04-17
+displaydate: 
+title: Hotel Pennsylvania Meeting Learns of Harlem School Ills
+author: 
 citation: >
- "Two Public School Teachers," Winhold Reiss, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/two-public-school-teachers.
-imageFeatured: two-public-school-teachers.jpg
-imageFeaturedAlt: A painting of two Black women, one resting her chin on her closed hand and the other holding a notebook. They both look directly at the viewer.
+ "Hotel Pennsylvania Meeting Learns of Harlem School Ills," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hotel-penn-meeting.
+imageFeatured: hotel-penn-meeting.jpg
+imageFeaturedAlt: Newspaper clipping
 detailedDescr: 
 embed: 
 embedTitle: 
-text: 
+text: hotel-penn-meeting
 mapembed: 
 audio: 
 audioTitle: 
 audioTranscript: 
 video: 
 videoTitle: 
-closeRdImg: 
-closeRdLink: 
+relTitle: 
+relImg: 
+relImgAlt: 
+relLink: 
 eventname: "*The Survey Graphic* publishes a special issue about art and intellectual life in Harlem, edited by Alain Locke."
-caption: "This painting by Winhold Reiss is titled “Two Public School Teachers.” It was printed in the March 1925 issue of *The Survey Graphic,* which focused on art and intellectual life in Harlem."
-archive_source: The Reiss Project
-source_link: https://www.winoldreiss.org/works/artwork/portraits/C51.htm
-copyright: Public domain
+caption: "This *New York Amsterdam News* reports on a Teacher Union event focused on racism and inequality in Harlem schools."
+archive_source: "*New York Amsterdam News*"
+source_link: 
+copyright: Under copyright. Used with permission. 
 categories: 
+- Manhattan
 - k-12 education
-- community activism
+- teacher activism
 tags: 
-- Harlem
 - teacher unions
-- photography, imagery, & visual representation
-- Black people 
-- women's activism
+- school facilities
+- segregation
+- Harlem
+- Black people
+- communism
+- multiracial organizing
 questions:
-- How do Lucille Spence and Melva Price present themselves? How does the portrait artist present the two teachers?
-- Why might a portrait of two teachers be included in this issue of the *Survey Graphic*?
+- What does Lucile Spence mean when she says, “The result of the continued neglect of this group in the heart of New York presents a challenging situation for the educator who sees the fruits of such neglect?” What other comments by Spence or others in the article stand out to you? 
+- How did Lucile Spence’s work as a teacher influence her activism?
+- Which of the conditions that the TU was protesting still exist in NYC schools today?
 --- 
 
 On April 16, 1937, Lucile Spence and the Teachers Union of New York organized a conference at the Hotel Pennsylvania in downtown Manhattan to discuss schools in Harlem.

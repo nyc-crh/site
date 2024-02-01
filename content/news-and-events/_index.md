@@ -6,4 +6,4 @@ author:
 citation: 
 ---
 
-Maybe some sign up info here.
+[Sign up for updates](https://forms.gle/MjAk8NAQK8Dh3diF9) about new resources and workshops.
