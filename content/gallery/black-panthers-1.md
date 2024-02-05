@@ -49,10 +49,9 @@ questions:
 - What connections do you see between the Panther’s 1966 boycott and the present day?"
 --- 
 
-Not all New York City school boycotters wanted integration.
-Civil rights organizers in Lowndes County, Mississippi, chose the image of a black panther as their symbol in their fight for voting rights and democratic power. For decades, although Black voters were the majority of the population there, they had been locked out of voting by racist restrictions. Organizers in the Mississippi Freedom Democratic Party were challenging this.
+Civil rights organizers in Lowndes County, Mississippi, chose the image of a black panther as their symbol. They were fighting for voting rights and democratic power as part of the Mississippi Freedom Democratic Party. For decades, although Black voters were the majority of the population there, they had been locked out of voting by racist restrictions. 
 
-Harlem was a long way from Lowndes County, but the idea of democratic power and self-determination was persuasive to Black people in both places. With a focus on self-determination, a Black Panther Party of Harlem started in the summer of 1966.[^1] The Party explained that “wherever our people comprise a majority of the population (like Harlem…) they should control that area.” The Party defined itself as “a social MOVEMENT of BLACK people addressing itself *specifically* to the problems faced by black people living in the midst of white America.”
+Harlem was a long way from Lowndes County, but the idea of democratic power and self-determination was persuasive to Black people in both places. With a focus on self-determination, a Black Panther Party of Harlem started in the summer of 1966.[^1] The Party explained that “wherever our people comprise a majority of the population (like Harlem…) they should control that area.” The Party defined itself as “a social MOVEMENT of BLACK people addressing itself *specifically* to the problems faced by black people living in the midst of white America.” And like the Mississippi Freedom Democratic Party, they made a black panther their symbol. 
 
 The Black Panther Party focused on many topics, including police brutality, housing, and keeping money within the Black community. But education was a key focus, as “our children are the future of our people.”[^2]
 
@@ -60,6 +59,6 @@ When Intermediate School 201 opened in the fall of 1966, the Black Panther Party
 
 [^1]: To read more, see the [Black Power Syllabus, Schomburg Center for Research in Black Culture](https://www.nypl.org/schomburgsyllabus/black-panther-party).
 
-[^2]: [Black Panther Party letter about OPERATION SHUT DOWN][(/topics/boycotting-ny-schools/black-panthers/black-panthers-2)
+[^2]: [Black Panther Party letter about OPERATION SHUT DOWN](/topics/boycotting-ny-schools/black-panthers/black-panthers-2)
 
 [^3]: [Black Panther Party, Harlem Branch, ”All Power to the People,” undated. Black Panther Party Harlem Branch Files, Schomburg Center for Research in Black Culture, New York Public Library, Box 1, Folder 8.](https://archives.nypl.org/scm/20948)
