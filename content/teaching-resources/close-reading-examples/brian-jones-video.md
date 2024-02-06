@@ -2,8 +2,8 @@
 layout: video
 draft: false
 title: Brian Jones reads "A Boycott Solves Nothing"
-imageFeatured: brian-jones-video.jpg
-imageFeaturedAlt: Still image of a videotaped reading by Brian Jones
+featured: brian-jones-video.jpg
+featuredAlt: Still image of a videotaped reading by Brian Jones
 video: 
   srcType: youtube
   srcLink: egEWayvN8S8

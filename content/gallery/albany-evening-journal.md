@@ -7,8 +7,8 @@ title: Albany Evening Journal
 author: 
 citation: >
  "Albany Evening Journal," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/albany-evening-journal.
-imageFeatured: albany-evening-journal.jpg
-imageFeaturedAlt: Newspaper clipping
+featured: albany-evening-journal.jpg
+featuredAlt: Newspaper clipping
 detailedDescr: 
 embed: 
 embedTitle: 

@@ -7,8 +7,8 @@ title: Survey of Cripples in New York City, excerpt
 author: Henry C. Wright
 citation: >
  "Survey of Cripples in New York City, excerpt," Henry C. Wright, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/survey-of-cripples.
-imageFeatured: survey-of-cripples.jpg
-imageFeaturedAlt: Pie chart showing that 63% of of polio surivors surveyed became disabled before age 16, and 37% became disabled after 16 years of age
+featured: survey-of-cripples.jpg
+featuredAlt: Pie chart showing that 63% of of polio surivors surveyed became disabled before age 16, and 37% became disabled after 16 years of age
 detailedDescription: 
 embed: survey-of-cripples.pdf
 embedTitle: Survey of Cripples in New York City, excerpt

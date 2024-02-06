@@ -7,8 +7,8 @@ title: Title IV of the Civil Rights Act of 1964, excerpt
 author: 
 citation: >
  "Title IV of the Civil Rights Act of 1964, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/title-iv-civil-rights-act.
-imageFeatured: title-iv-civil-rights-act.jpg
-imageFeaturedAlt: Text of a statute
+featured: title-iv-civil-rights-act.jpg
+featuredAlt: Text of a statute
 detailedDescr: 
 embed: 
 embedTitle: 

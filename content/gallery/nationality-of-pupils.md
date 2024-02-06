@@ -7,8 +7,8 @@ title: Nationality of Pupils
 author: Board of Education of the City of New York, Bureau of Reference, Research, and Statistics
 citation: >
  "Nationality of Pupils," Board of Education of the City of New York, Bureau of Reference, Research, and Statistics, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/nationality-of-pupils.
-imageFeatured: nationality-of-pupils.jpg
-imageFeaturedAlt: Survey form listing numbers of pupils by their nationality or racial category.
+featured: nationality-of-pupils.jpg
+featuredAlt: Survey form listing numbers of pupils by their nationality or racial category.
 detailedDescr: nationality-of-pupils
 embed: 
 embedTitle: 

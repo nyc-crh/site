@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: maria-cioe-pena.jpg
+featured: maria-cioe-pena.jpg
 name: "María Cioè-Peña"
 org: Penn GSE
 jobtitle: Assistant Professor

@@ -17,9 +17,9 @@
               <iframe title="{{with $.Params.embedTitle}}{{ . }}{{else}}{{$.Title}}{{end}}" src="{{$pdf.Permalink}}" width="100%" height="500px"></iframe>
             {{end}}
           {{else}}
-            {{ with .Params.imageFeatured }}
+            {{ with .Params.featured }}
               {{ $image := resources.Get (printf "/images/%s" .)}}
-              {{ with $image }}<img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>{{end}}
+              {{ with $image }}<img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth" alt="{{with $.Params.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>{{end}}
             {{end}}
           {{end}}
                   </div>

@@ -7,8 +7,8 @@ title: The Role of the School in a Housing Program for the Community
 author: School-Community Research Bureau of the Benjamin Franklin High School
 citation: >
  "The Role of the School in a Housing Program for the Community," School-Community Research Bureau of the Benjamin Franklin High School, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/school-housing-program.
-imageFeatured: school-housing-program.jpg
-imageFeaturedAlt: Diagram of school housing program, committees and their activities overlaid on a map of Manhattan
+featured: school-housing-program.jpg
+featuredAlt: Diagram of school housing program, committees and their activities overlaid on a map of Manhattan
 detailedDescr: 
 embed: 
 embedTitle: 

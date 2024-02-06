@@ -7,8 +7,8 @@ title: Palante, cover
 author: Young Lords Party
 citation: >
  "Palante, cover," Young Lords Party, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/palante.
-imageFeatured: palante.jpg
-imageFeaturedAlt: Newsletter cover page
+featured: palante.jpg
+featuredAlt: Newsletter cover page
 detailedDescr: 
 embed: 
 embedTitle: Palante, cover

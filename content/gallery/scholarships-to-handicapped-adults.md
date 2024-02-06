@@ -7,8 +7,8 @@ title: Camp Scholarships Will be Awarded to Handicapped Adults
 author: United Cerebral Palsy of New York
 citation: >
  "Camp Scholarships Will be Awarded to Handicapped Adults," United Cerebral Palsy of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/scholarships-to-handicapped-adults.
-imageFeatured: scholarships-to-handicapped-adults.jpg
-imageFeaturedAlt: Newsletter clipping with a woman in a wheelchair, turned sideways and smiling for the camera
+featured: scholarships-to-handicapped-adults.jpg
+featuredAlt: Newsletter clipping with a woman in a wheelchair, turned sideways and smiling for the camera
 detailedDescr: 
 embed: 
 embedTitle: 

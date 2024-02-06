@@ -7,8 +7,8 @@ title: Viva Harlem U!
 author: 
 citation: >
  "Viva Harlem U!" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/viva-harlem-u.
-imageFeatured: viva-harlem-u.jpg
-imageFeaturedAlt: College students hold signs at an outdoor rally. A large banner reads, "Support the Five Demands - Viva Harlem U."
+featured: viva-harlem-u.jpg
+featuredAlt: College students hold signs at an outdoor rally. A large banner reads, "Support the Five Demands - Viva Harlem U."
 detailedDescr: 
 embed: 
 embedTitle: 

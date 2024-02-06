@@ -7,8 +7,8 @@ title: New York City's Schools and What They Cost
 author: 
 citation: >
  "New York City's Schools and What They Cost," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/nyc-schools-what-they-cost.
-imageFeatured: nyc-schools-what-they-cost.jpg
-imageFeaturedAlt: Boys of different ages work in a woodshop
+featured: nyc-schools-what-they-cost.jpg
+featuredAlt: Boys of different ages work in a woodshop
 detailedDescription: 
 embed: nyc-schools-what-they-cost.pdf
 embedTitle: New York City's Schools and What They Cost

@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: noa-ovadia.jpg
+featured: noa-ovadia.jpg
 name: Noa Ovadia
 org: 
 jobtitle: Project team member

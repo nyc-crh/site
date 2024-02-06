@@ -1,9 +1,14 @@
-baseURL: "https://nyccivilrightshistory.org/"
-languageCode: en-us
-title: New York City Civil Rights History
-description: A Teaching Guide
-canonifyURLs: true
-relativeURLs: true
+params:
+  baseURL: "https://nyccivilrightshistory.org/"
+  languageCode: en-us
+  title: New York City Civil Rights History
+  description: A teaching and learning guide about the history of NYC Schools
+  images: nyccrh-logo.jpg
+  canonifyURLs: true
+  relativeURLs: true
+  social:
+    twitter: GoHugoIO
+  imagesFolder: images
 
 params.logo:
     logoText: New York City

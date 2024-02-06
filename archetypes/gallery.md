@@ -6,8 +6,8 @@ displaydate: "1000-2000"
 title: Title in Title Case
 author:
 citation: 
-imageFeatured: 
-imageFeaturedAlt: 
+featured: 
+featuredAlt: 
 detailedDescr: 
 embed: 
 embedTitle: 

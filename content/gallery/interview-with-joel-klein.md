@@ -7,8 +7,8 @@ title: "Inside \"The Founders\": Joel Klein"
 author: 
 citation: >
  "Inside 'The Founders': Joel Klein," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/interview-with-joel-klein.
-imageFeatured: interview-with-joel-klein.jpg
-imageFeaturedAlt: Still image from a video interview
+featured: interview-with-joel-klein.jpg
+featuredAlt: Still image from a video interview
 detailedDescr: 
 embed: 
 embedTitle: 

@@ -2,8 +2,8 @@
 layout: video
 draft: false
 title: Nicolyn Plummer reads "Deaf Students Protest New School Head"
-imageFeatured: nicolyn-plummer-video.jpg
-imageFeaturedAlt: Still image of a videotaped reading by Nicolyn Plummer
+featured: nicolyn-plummer-video.jpg
+featuredAlt: Still image of a videotaped reading by Nicolyn Plummer
 video: 
   srcType: youtube
   srcLink: IdZw1kthc0I

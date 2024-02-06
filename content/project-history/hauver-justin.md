@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: justin-hauver.jpg
+featured: justin-hauver.jpg
 name: Justin Hauver
 org:
 jobtitle: Project team member

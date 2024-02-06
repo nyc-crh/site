@@ -4,9 +4,9 @@
     <div class="row mb-5">
         <div class="col-fluid mb-5">
             <title>{{ .Params.title }}</title>
-            {{ with .Params.imageFeatured }}
+            {{ with .Params.featured }}
  {{ $image := resources.Get (printf "/images/%s" .)}}
-     <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+     <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
  {{end}}</div>
         <div class="col-fluid">
             <p>{{ .Content | page.RenderString | safeHTML }}</p></div>

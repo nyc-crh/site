@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: jeanne-theoharis.jpg
+featured: jeanne-theoharis.jpg
 name: Jeanne Theoharis
 org: 
 jobtitle:  Co-Director

@@ -7,8 +7,8 @@ title: “La Escuela Bilingüe Número 25 del Distrito Escolar 7”
 author: David Boitano
 citation: >
  “La Escuela Bilingüe Número 25 del Distrito Escolar 7," David Boitano, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/la-escuela-bilingue.
-imageFeatured: la-escuela-bilingue.jpg
-imageFeaturedAlt: Newspaper clipping
+featured: la-escuela-bilingue.jpg
+featuredAlt: Newspaper clipping
 detailedDescr: 
 embed: 
 embedTitle: “La Escuela Bilingüe Número 25 del Distrito Escolar 7”

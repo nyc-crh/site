@@ -7,8 +7,8 @@ title: William Maxwell
 author: 
 citation: >
  "William Maxwell," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/william-maxwell.
-imageFeatured: william-maxwell.jpg
-imageFeaturedAlt: An older bald white man with a moustache and glasses poses in his office.
+featured: william-maxwell.jpg
+featuredAlt: An older bald white man with a moustache and glasses poses in his office.
 detailedDescr: 
 embed: 
 embedTitle: 

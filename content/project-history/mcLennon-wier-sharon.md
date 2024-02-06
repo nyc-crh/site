@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: avatar.jpg
+featured: avatar.jpg
 name: Sharon McLennon-Wier, Ph.D. MSED, CRC, LMHC
 org: Center for the Independence of the Disabled, New York (CIDNY)
 jobtitle: Executive Director

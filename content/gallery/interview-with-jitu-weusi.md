@@ -7,8 +7,8 @@ title: Interview with Jitu Weusi on Mayoral Control of New York City Schools
 author: 
 citation: >
  "Interview with Jitu Weusi on Mayoral Control of New York City Schools," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/interview-with-jitu-weusi.
-imageFeatured: interview-with-jitu-weusi.jpg
-imageFeaturedAlt: Still image from a tv talk show
+featured: interview-with-jitu-weusi.jpg
+featuredAlt: Still image from a tv talk show
 detailedDescr: 
 embed: 
 embedTitle: 

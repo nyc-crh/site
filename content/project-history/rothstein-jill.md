@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: jill-rothstein.jpg
+featured: jill-rothstein.jpg
 name: Jill Rothstein
 org: The New York Public Library's Andrew Heiskell Braille and Talking Book Library
 jobtitle: Chief Librarian

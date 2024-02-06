@@ -7,8 +7,8 @@ title: Your Child and Willowbrook, excerpt
 author: Willowbrook State School
 citation: >
  "Your Child and Willowbrook, excerpt," Willowbrook State School, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/your-child-and-willowbrook.
-imageFeatured: your-child-and-willowbrook.jpg
-imageFeaturedAlt: Booklet cover page
+featured: your-child-and-willowbrook.jpg
+featuredAlt: Booklet cover page
 detailedDescr: 
 embed: your-child-and-willowbrook.pdf
 embedTitle: Your Child and Willowbrook, excerpt

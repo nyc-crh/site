@@ -7,8 +7,8 @@ title: Amsterdam News Readers Write and Write and Write
 author: David Spencer
 citation: >
  "Amsterdam News Readers Write and Write and Write," David Spencer, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/readers-write-and-write.
-imageFeatured: readers-write-and-write.jpg
-imageFeaturedAlt: 
+featured: readers-write-and-write.jpg
+featuredAlt: 
 detailedDescr: 
 embed: 
 embedTitle: 

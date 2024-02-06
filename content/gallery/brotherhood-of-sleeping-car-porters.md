@@ -7,8 +7,8 @@ title: Brotherhood of Sleeping Car Porters Rally Posters
 author: Brotherhood of Sleeping Car Porters
 citation: >
  "Brotherhood of Sleeping Car Porters Rally Posters," Brotherhood of Sleeping Car Porters, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brotherhood-of-sleeping-car-porters.
-imageFeatured: brotherhood-of-sleeping-car-porters.jpg
-imageFeaturedAlt: Notice to porters and maids about organizing labor rallies
+featured: brotherhood-of-sleeping-car-porters.jpg
+featuredAlt: Notice to porters and maids about organizing labor rallies
 detailedDescr: 
 embed: brotherhood-of-sleeping-car-porters.pdf
 embedTitle: Brotherhood of Sleeping Car Porters Rally Posters

@@ -7,8 +7,8 @@ title: A. Philip Randolph Letter to President John F. Kennedy
 author: A. Philip Randolph
 citation: >
  "A. Philip Randolph Letter to President John F. Kennedy," A. Philip Randolph, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/letter-to-president-kennedy.
-imageFeatured: letter-to-president-kennedy.jpg
-imageFeaturedAlt: A letter from A. Philip Randolf to President John F. Kennedy
+featured: letter-to-president-kennedy.jpg
+featuredAlt: A letter from A. Philip Randolf to President John F. Kennedy
 detailedDescr: 
 embed: 
 embedTitle: 

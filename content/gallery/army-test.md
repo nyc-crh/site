@@ -7,8 +7,8 @@ title: Army Beta Test and Results
 author: Robert A. Yerkes
 citation: >
  "Army Beta Test and Results," Robert A. Yerkes, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/army-test.
-imageFeatured: army-test.jpg
-imageFeaturedAlt: Illustrations for a Binet Simon IQ test
+featured: army-test.jpg
+featuredAlt: Illustrations for a Binet Simon IQ test
 detailedDescription: 
 embed: army-test.pdf
 embedTitle: Army Beta Test and Results

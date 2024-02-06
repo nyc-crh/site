@@ -1,7 +1,7 @@
 {
     "people": [
     { "person" {
-        "imagefeatured": "maria-susan-guarino.jpg",
+        "featured": "maria-susan-guarino.jpg",
         "name": "Maria Susan Guarino",
         "org": "Teachers College, Columbia University",
         "bio": "Maria Susan Guarino(she/her) is a Doctoral Fellow in the Curriculum and Teaching Department at Teachers College, Columbia University. She is interested in thinking about performances of disability in educational spaces and enjoys multimodal research.",
@@ -10,14 +10,14 @@
 }
 },
     {   "person" {
-        "imagefeatured": "miranda-hansen-hunt.jpg",
+        "featured": "miranda-hansen-hunt.jpg",
         "name": "Miranda Hansen-Hunt",
         "bio": "Miranda Hansen-Hunt is an anthropologist and teacher. She holds a PhD in Anthropology and Education from Teachers College, Columbia University as well as a Master's in Elementary Education from the University of Pennsylvania.",
         "workonproject": "My contributions to this project are two fold. I served as the anthropologist documenting the process of the project. I also used my knowledge of teaching and curricular design to help edit the contextualizations that accompany the archival material originally written by the team of teachers and historians."
     }
 },
     {   "person" {
-        "imagefeatured": "judy-derosier.jpg",
+        "featured": "judy-derosier.jpg",
         "name": "Judy DeRosier",
         "jobtitle": "Research Fellow",
         "bio": "Judy DeRosier is a PhD student at Teachers College, Columbia University in the Teaching of Social Studies program. Her research centers Afro-Caribbean immigrant youth and their experiences in American schooling.",
@@ -25,7 +25,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "neha-pant.jpg",
+        "featured": "neha-pant.jpg",
         "name": "Neha Pant",
         "org": "Teachers College, Columbia University ",
         "bio": "Neha Pant is a Ed.D student in Curriculum and Teaching at Teachers College, Columbia University. She is a Zankel Fellow and a graduate assistant with the writing center at TC.  Neha contributed to the NYCCRHP as a research assistant .",
@@ -33,7 +33,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "matt-kautz.jpg",
+        "featured": "matt-kautz.jpg",
         "name": "Matt Kautz",
         "org": "Eastern Michigan University",
         "jobtitle": "Assistant Professor",
@@ -42,7 +42,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "brian-jones.jpg",
+        "featured": "brian-jones.jpg",
         "name": "Brian Jones",
         "org": "Center for Educators & Schools, The New York Public Library",
         "jobtitle": "Director, Center for Educators & Schools, NYPL",
@@ -51,7 +51,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "jeanne-theoharis.jpg",
+        "featured": "jeanne-theoharis.jpg",
         "name": "Jeanne Theoharis",
         "org": "Brooklyn College of CUNY",
         "jobtitle": "Distinguished Professor of Political Science",
@@ -60,7 +60,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "errol-c-saunders-ii.jpg",
+        "featured": "errol-c-saunders-ii.jpg",
         "name": "Errol C. Saunders, II",
         "org": "Teachers College, Columbia University",
         "bio": "Errol C. Saunders II is a history teacher and the Executive Director of Pathfinder at Hopkins School, an academic enrichment program in New Haven, CT. He is a doctoral candidate in Curriculum and Teaching at Teachers College, Columbia University.",
@@ -68,7 +68,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "jill-rothstein.jpg",
+        "featured": "jill-rothstein.jpg",
         "name": "Jill Rothstein",
         "org": "Chief Librarian",
         "jobtitle": "The New York Public Library's Andrew Heiskell Braille and Talking Book Library",
@@ -76,7 +76,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "david-j-connor.jpg",
+        "featured": "david-j-connor.jpg",
         "name": "David J. Connor",
         "org": "Professor Emeritus",
         "jobtitle": "Hunter College, CUNY",
@@ -84,7 +84,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "mara-mills.jpg",
+        "featured": "mara-mills.jpg",
         "name": "Mara Mills",
         "org": "Associate Professor",
         "jobtitle": "New York University",
@@ -92,28 +92,28 @@
     }
 },
     {   "person" {
-        "imagefeatured": "lauren-lefty.jpg",
+        "featured": "lauren-lefty.jpg",
         "name": "Lauren Lefty",
         "org": "Assistant Professor",
         "bio": "Lauren Lefty is an Assistant Professor in the History Department and Director of History Education at Northern Arizona University. Her research interests include the history of education, teacher ed, and public humanities.   "
     }
 },
     {   "person" {
-        "imagefeatured": "emily-ladau.jpg",
+        "featured": "emily-ladau.jpg",
         "name": "Emily Ladau",
         "org": "Author and Disability Rights Activist",
         "bio": "Emily Ladau is a passionate disability rights activist, writer, storyteller, and digital communications consultant. She is the author of Demystifying Disability: What to Know, What to Say, and How to be an Ally."
     }
 },
     {   "person" {
-        "imagefeatured": "nicolyn-plummer.jpg",
+        "featured": "nicolyn-plummer.jpg",
         "name": "Nicolyn Plummer",
         "org": "Consultant",
         "bio": "Nicolyn is a servant leader, humanitarian contributions to disabilities and d/Deaf projects, consultant, and executive assistant of Be Bold and Be Heard show. "
     }
 },
     {   "person" {
-        "imagefeatured": "jorge-matos-valldejuli.jpg",
+        "featured": "jorge-matos-valldejuli.jpg",
         "name": "Jorge Matos Valldejuli",
         "org": "Assistant Professor & Reference Librarian",
         "jobtitle": "Hostos Community College-CUNY",
@@ -121,7 +121,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "rachel-a-norman.jpg",
+        "featured": "rachel-a-norman.jpg",
         "name": "Rachel A. Norman",
         "org": "Adult Program Coordinator",
         "jobtitle": "IntegrateNYC",
@@ -129,7 +129,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "alicia-ciocca.jpg",
+        "featured": "alicia-ciocca.jpg",
         "name": "Alicia Ciocca",
         "org": "Special Education Teacher",
         "jobtitle": "NYC Department of Education",
@@ -137,7 +137,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "sharon-mcLennon-wier.jpg",
+        "featured": "sharon-mcLennon-wier.jpg",
         "name": "Sharon McLennon-Wier, Ph.D. MSED, CRC, LMHC",
         "org": "Executive Director",
         "jobtitle": "Center for the Independence of the Disabled, New York (CIDNY)",
@@ -145,7 +145,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "taylor-mcGraw.jpg",
+        "featured": "taylor-mcGraw.jpg",
         "name": "Taylor McGraw",
         "org": "Executive Director",
         "jobtitle": "The Bell",
@@ -153,7 +153,7 @@
     }
 },
     {   "person" {
-        "imagefeatured": "maria-cioe-pena.jpg",
+        "featured": "maria-cioe-pena.jpg",
         "name": "\"María Cioè-Peña\"",
         "bio": "María Cioè-Peña is an assistant professor in Educational Linguistics at Penn GSE. Her work centers Latinx bilingual children with dis/abilities, their families and their ability to access multilingual inclusion within public schools."
     }

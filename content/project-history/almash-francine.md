@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: avatar.jpg
+featured: avatar.jpg
 name: Francine Almash
 org: 
 jobtitle: Project team member

@@ -3,8 +3,8 @@ layout: video
 draft: false
 title: >
  CJ Conglio reads "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY"
-imageFeatured: cj-conglio-video.jpg
-imageFeaturedAlt: Still image of a videotaped reading by CJ Conglio
+featured: cj-conglio-video.jpg
+featuredAlt: Still image of a videotaped reading by CJ Conglio
 video: 
   srcType: youtube
   srcLink: gBQ32FIP8Ng

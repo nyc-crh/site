@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: jasmine-leiser.jpg
+featured: jasmine-leiser.jpg
 name: Jasmine Leiser
 org:
 jobtitle: Project team member

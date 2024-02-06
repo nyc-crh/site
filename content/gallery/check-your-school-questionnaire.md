@@ -7,8 +7,8 @@ title: Check Your School!
 author: 
 citation: >
  "Check Your School!," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/check-your-school-questionnaire.
-imageFeatured: check-your-school-questionnaire.jpg
-imageFeaturedAlt: Hand-drawn survey with questions about public school quality
+featured: check-your-school-questionnaire.jpg
+featuredAlt: Hand-drawn survey with questions about public school quality
 detailedDescr: 
 embed: 
 embedTitle: 

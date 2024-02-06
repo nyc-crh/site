@@ -7,8 +7,8 @@ title: Bayard Rustin Oral History, excerpt
 author: Bayard Rustin
 citation: >
  "Bayard Rustin Oral History, excerpt," Bayard Rustin, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/bayard-rustin.
-imageFeatured: bayard-rustin.jpg
-imageFeaturedAlt: Partial transcript of oral history interview
+featured: bayard-rustin.jpg
+featuredAlt: Partial transcript of oral history interview
 detailedDescr: 
 embed: bayard-rustin.pdf
 embedTitle: Bayard Rustin Oral History, excerpt

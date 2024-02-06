@@ -7,8 +7,8 @@ title: Dayniah Manderson
 author: 
 citation: >
  "Dayniah Manderson" in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/daniyah-manderson."
-imageFeatured: dayniah-manderson.jpg
-imageFeaturedAlt: A Black woman sits in a wheelchair inside a classroom
+featured: dayniah-manderson.jpg
+featuredAlt: A Black woman sits in a wheelchair inside a classroom
 embed: 
 embedTitle: 
 text: 

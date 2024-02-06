@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: emily-ladau.jpg
+featured: emily-ladau.jpg
 name: Emily Ladau
 org: Author and Disability Rights Activist
 jobtitle: 

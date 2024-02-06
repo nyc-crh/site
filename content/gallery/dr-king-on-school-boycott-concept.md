@@ -7,8 +7,8 @@ title: The School Boycott Concept
 author: Dr. Martin Luther King, Jr.
 citation: >
  "The School Boycott Concept," Dr. Martin Luther King, Jr., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/dr-king-on-school-boycott-concept.
-imageFeatured: dr-king-on-school-boycott-concept.jpg
-imageFeaturedAlt: Newspaper clipping
+featured: dr-king-on-school-boycott-concept.jpg
+featuredAlt: Newspaper clipping
 detailedDescr: 
 embed: 
 embedTitle: 

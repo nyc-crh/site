@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: mara-mills.jpg
+featured: mara-mills.jpg
 name: Mara Mills
 org: New York University
 jobtitle: Associate Professor

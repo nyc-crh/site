@@ -2,8 +2,8 @@
 layout: video
 draft: false
 title: Nelly Luna reads “We Demand”
-imageFeatured: nelly-luna-video.jpg
-imageFeaturedAlt: Still image of a videotaped reading by Nelly Luna
+featured: nelly-luna-video.jpg
+featuredAlt: Still image of a videotaped reading by Nelly Luna
 video: 
   srcType: youtube
   srcLink: fN1r6I_UeRg

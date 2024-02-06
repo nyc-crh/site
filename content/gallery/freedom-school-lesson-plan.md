@@ -7,8 +7,8 @@ title: Freedom School Lesson Plan, excerpt
 author: Student Non-Violent Coordinating Committee
 citation: >
  "Freedom School Lesson Plan, excerpt," Student Non-Violent Coordinating Committee, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/freedom-school-lesson-plan.
-imageFeatured: freedom-school-lesson-plan.jpg
-imageFeaturedAlt: Text excerpt from planning for Freedom Schools
+featured: freedom-school-lesson-plan.jpg
+featuredAlt: Text excerpt from planning for Freedom Schools
 detailedDescr: 
 embed: 
 embedTitle: 

@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: david-connor.jpg
+featured: david-connor.jpg
 name: David J. Connor
 org: "Hunter College, CUNY"
 jobtitle: Professor Emeritus

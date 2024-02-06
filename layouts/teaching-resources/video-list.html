@@ -7,10 +7,10 @@
     <div class="col-md-4 card m-2">
       <a href="{{ .RelPermalink }}" class="index-anchor">
         <div class="panel panel-default py-3">
-          {{$imageFeaturedAlt:= .Params.imageFeaturedAlt}}
-          {{ $image := resources.Get (printf "/images/%s" .Params.imageFeatured )}}
+          {{$featuredAlt:= .Params.featuredAlt}}
+          {{ $image := resources.Get (printf "/images/%s" .Params.featured )}}
                     {{ with $image }}
-                    <img src="{{ ($image.Fill "300x210 top").RelPermalink }}" class="card-img-top img-fluid" alt="{{with $imageFeaturedAlt}}{{ . }}{{end}}" />
+                    <img src="{{ ($image.Fill "300x210 top").RelPermalink }}" class="card-img-top img-fluid" alt="{{with $featuredAlt}}{{ . }}{{end}}" />
                     {{ end }}
       
       <div class="panel-body pt-3">

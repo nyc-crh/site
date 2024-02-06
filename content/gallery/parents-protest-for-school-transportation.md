@@ -7,8 +7,8 @@ title: Parents Protest for School Transportation
 author: New York Police Department Surveillance Unit
 citation: >
  "Parents Protest for School Transportation," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/parents-protest-for-school-transportation.
-imageFeatured: parents-protest-for-school-transportation.jpg
-imageFeaturedAlt: Children with disabilities, some in wheelchairs, march with their parents near City Hall in Manhattan
+featured: parents-protest-for-school-transportation.jpg
+featuredAlt: Children with disabilities, some in wheelchairs, march with their parents near City Hall in Manhattan
 detailedDescription: 
 embed: 
 embedTitle: 

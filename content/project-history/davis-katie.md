@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: avatar.jpg
+featured: avatar.jpg
 name: Katie Davis
 org:
 job-title:

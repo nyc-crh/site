@@ -7,8 +7,8 @@ title: Exercises of the Pupils of the NY Institution for the Instruction of the 
 author: Samuel Akerly
 citation: >
  "Exercises of the Pupils of the NY Institution for the Instruction of the Deaf and Dumb," Samuel Akerly, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/ny-institute-for-deaf.
-imageFeatured: ny-institute-for-deaf.jpg
-imageFeaturedAlt: A chart of illustrations showing letters of the alphabet through hand signs
+featured: ny-institute-for-deaf.jpg
+featuredAlt: A chart of illustrations showing letters of the alphabet through hand signs
 detailedDescription: 
 embed: ny-institute-for-deaf.pdf
 embedTitle: Exercises of the Pupils of the NY Institution for the Instruction of the Deaf and Dumb

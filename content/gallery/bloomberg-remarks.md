@@ -7,8 +7,8 @@ title: Mayor Bloomberg Remarks on Education Reform
 author: Michael Bloomberg
 citation: >
  "Mayor Bloomberg Remarks on Education Reform," Michael Bloomberg, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/bloomberg-remarks.
-imageFeatured: bloomberg-remarks.jpg
-imageFeaturedAlt: Michael Bloomberg speaks at a conference
+featured: bloomberg-remarks.jpg
+featuredAlt: Michael Bloomberg speaks at a conference
 detailedDescr: 
 embed: 
 embedTitle: 

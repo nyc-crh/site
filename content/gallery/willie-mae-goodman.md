@@ -7,8 +7,8 @@ title: Willie Mae Goodman Interview, excerpt
 author: 
 citation: >
  "Willie Mae Goodman Interview, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/willie-mae-goodman.
-imageFeatured: willie-mae-goodman.jpg
-imageFeaturedAlt: Still image from a video interview of Willie Mae Goodman, an older black woman.
+featured: willie-mae-goodman.jpg
+featuredAlt: Still image from a video interview of Willie Mae Goodman, an older black woman.
 detailedDescr: 
 embed: 
 embedTitle: Willie Mae Goodman Interview, excerpt

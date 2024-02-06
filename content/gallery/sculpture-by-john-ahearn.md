@@ -7,8 +7,8 @@ title: Double Dutch, sculpture by John Ahearn, Intervale Ave. and Kelly St.
 author: Sculpture by John Ahearn and Rigoberto Torres; photograph by Joe Conzo.
 citation: >
  "Double Dutch, sculpture by John Ahearn, Intervale Ave. and Kelly St.," Sculpture by John Ahearn and Rigoberto Torres; photograph by Joe Conzo., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/sculpture-by-john-ahearn.
-imageFeatured: sculpture-by-john-ahearn.jpg
-imageFeaturedAlt: A sculpture of four girls jumping rope, installed on the side of a building
+featured: sculpture-by-john-ahearn.jpg
+featuredAlt: A sculpture of four girls jumping rope, installed on the side of a building
 detailedDescr: 
 embed: 
 embedTitle: 

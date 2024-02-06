@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: brian-jones.jpg
+featured: brian-jones.jpg
 name: Brian Jones
 org: 
 jobtitle: Co-Director

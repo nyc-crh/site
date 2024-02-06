@@ -7,8 +7,8 @@ title: What a "Fizzle!"
 author: "*New York Amsterdam News* Editorial Board"
 citation: >
  "What a 'Fizzle!'" *New York Amsterdam News* Editorial Board, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/what-a-fizzle.
-imageFeatured: what-a-fizzle.jpg
-imageFeaturedAlt: Newspaper clipping
+featured: what-a-fizzle.jpg
+featuredAlt: Newspaper clipping
 detailedDescr: 
 embed: 
 embedTitle: 

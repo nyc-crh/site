@@ -7,8 +7,8 @@ title: OPERATION SHUT DOWN flyer
 author: Black Panther Party Harlem Branch
 citation: >
  "OPERATION SHUT DOWN flyer," Black Panther Party Harlem Branch, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/black-panthers-1.
-imageFeatured: black-panthers-1.jpg
-imageFeaturedAlt: Flyer for boycott
+featured: black-panthers-1.jpg
+featuredAlt: Flyer for boycott
 detailedDescr: 
 embed: black-panthers-1.pdf
 embedTitle: OPERATION SHUT DOWN flyer

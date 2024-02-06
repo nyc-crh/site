@@ -7,8 +7,8 @@ title: Grammar School No. 33, New York City, Assembled for Morning Exercises
 author: Gustavus W. Pach
 citation: >
  "Grammar School No. 33, New York City, Assembled for Morning Exercises," Gustavus W. Pach, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/grammar-school-33.
-imageFeatured: grammar-school-33.jpg
-imageFeaturedAlt: A stereoscopic slide with photos taken from two slightly different angles shows around 100 schoolgirls seated in a large auditorium with several women teachers in the background.
+featured: grammar-school-33.jpg
+featuredAlt: A stereoscopic slide with photos taken from two slightly different angles shows around 100 schoolgirls seated in a large auditorium with several women teachers in the background.
 detailedDescr: 
 embed: 
 embedTitle: 

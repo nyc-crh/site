@@ -7,8 +7,8 @@ title: Two Public School Teachers
 author: Winhold Reiss
 citation: >
  "Two Public School Teachers," Winhold Reiss, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/two-public-school-teachers.
-imageFeatured: two-public-school-teachers.jpg
-imageFeaturedAlt: A painting of two Black women, one resting her chin on her closed hand and the other holding a notebook. They both look directly at the viewer.
+featured: two-public-school-teachers.jpg
+featuredAlt: A painting of two Black women, one resting her chin on her closed hand and the other holding a notebook. They both look directly at the viewer.
 detailedDescr: 
 embed: 
 embedTitle: 

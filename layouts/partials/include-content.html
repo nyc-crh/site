@@ -15,10 +15,10 @@
                 width="100%" height="500px"></iframe>
             {{end}}
             {{else}}
-            {{ with .imageFeatured }}
+            {{ with .featured }}
             {{ $image := resources.Get (printf "/images/%s" .)}}
             {{ with $image }}<img src="{{ ($image).Permalink }}" class="responsive-figure-fullwidth"
-                alt="{{with $.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}"
+                alt="{{with $.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}"
                 style="max-width: 100%;" />{{end}}
             {{end}}
             {{end}}

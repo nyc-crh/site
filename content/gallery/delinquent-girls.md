@@ -7,8 +7,8 @@ title: Delinquent Girls Tested by the Binet Scale, excerpt
 author: Henry H. Goddard and Helen F. Hall
 citation: >
  "Delinquent Girls Tested by the Binet Scale, excerpt," Henry H. Goddard and Helen F. Hall, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/delinquent-girls.
-imageFeatured: delinquent-girls.jpg
-imageFeaturedAlt: Report cover page
+featured: delinquent-girls.jpg
+featuredAlt: Report cover page
 detailedDescription: 
 embed: 
 embedTitle: 

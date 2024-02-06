@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: jorge-matos-valldejuli.jpg
+featured: jorge-matos-valldejuli.jpg
 name: Jorge Matos Valldejuli
 org: Hostos Community College-CUNY
 jobtitle: Assistant Professor & Reference Librarian

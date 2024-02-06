@@ -8,11 +8,11 @@
     <div class="col-md-3 card m-2">
       <a href="{{ .Permalink }}" class="index-anchor">
         <div class="panel panel-default py-3">
-          {{$imageFeaturedAlt:= .Params.imageFeaturedAlt}}
+          {{$featuredAlt:= .Params.featuredAlt}}
           {{$title:= .Title}}
-          {{ $image := resources.Get (printf "/images/%s" .Params.imageFeatured )}}
+          {{ $image := resources.Get (printf "/images/%s" .Params.featured )}}
                     {{ with $image }}
-                    <img src="{{ ($image.Fill "300x210 top").Permalink }}" class="card-img-top img-fluid" alt="{{with $imageFeaturedAlt}}{{ . }}{{else}}{{$title}}{{end}}" />
+                    <img src="{{ ($image.Fill "300x210 top").Permalink }}" class="card-img-top img-fluid" alt="{{with $featuredAlt}}{{ . }}{{else}}{{$title}}{{end}}" />
                     {{ end }}
       
       <div class="panel-body pt-3">

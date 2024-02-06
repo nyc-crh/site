@@ -7,8 +7,8 @@ title: Zami
 author: Audre Lorde
 citation: >
  "Zami," Audre Lorde, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/zami-a-new-spelling-of-my-name.
-imageFeatured: zami-a-new-spelling-of-my-name.jpg
-imageFeaturedAlt: A Black and white graphic print of a woman. Half of the background depicts nature, and the other half shows a city.
+featured: zami-a-new-spelling-of-my-name.jpg
+featuredAlt: A Black and white graphic print of a woman. Half of the background depicts nature, and the other half shows a city.
 detailedDescr: 
 embed: 
 embedTitle: 

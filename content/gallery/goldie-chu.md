@@ -7,8 +7,8 @@ title: Goldie Chu
 author: Corky Lee
 citation: >
  "Goldie Chu," Corky Lee, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/goldie-chu.
-imageFeatured: goldie-chu.jpg
-imageFeaturedAlt: A Chinese-American woman speaks into multiple microphones at a rally. A sign behind her reads &quot;A Day for Women's Rights. Ratify the ERA (Equal Rights Amendment) 8-27-77&quot;
+featured: goldie-chu.jpg
+featuredAlt: A Chinese-American woman speaks into multiple microphones at a rally. A sign behind her reads &quot;A Day for Women's Rights. Ratify the ERA (Equal Rights Amendment) 8-27-77&quot;
 detailedDescr: 
 embed: 
 embedTitle: 

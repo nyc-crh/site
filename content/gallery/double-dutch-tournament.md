@@ -7,8 +7,8 @@ title: Girls Jumping Double Dutch
 author: Photographer unknown
 citation: >
  "Girls Jumping Double Dutch," Photographer unknown, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/double-dutch-tournament.
-imageFeatured: double-dutch-tournament.jpg
-imageFeaturedAlt: Girls jump rope near Lincoln Plaza. Two girls turn the ropes and the others jump. One girl is mid-air and a fountain behind her sprays upward. The other girl has knees bent, ready to jump.
+featured: double-dutch-tournament.jpg
+featuredAlt: Girls jump rope near Lincoln Plaza. Two girls turn the ropes and the others jump. One girl is mid-air and a fountain behind her sprays upward. The other girl has knees bent, ready to jump.
 detailedDescr: 
 embed: 
 embedTitle: 

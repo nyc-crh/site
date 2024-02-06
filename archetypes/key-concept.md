@@ -1,7 +1,7 @@
 ---
 title: "Key concept heading."
-imageFeatured: 
-imageFeaturedAlt:
+featured: 
+featuredAlt:
 primarysource: Source Title in Titlecase
 itemlink: /gallery/title-of-the-item
 weight: 

@@ -7,8 +7,8 @@ title: Where is District 5?
 author: Rev. Lawrence E. Lucas
 citation: >
  "Where is District 5?," Rev. Lawrence E. Lucas, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/where-is-district-5.
-imageFeatured: where-is-district-5.jpg
-imageFeaturedAlt: Newspaper clipping
+featured: where-is-district-5.jpg
+featuredAlt: Newspaper clipping
 detailedDescr: 
 embed: 
 embedTitle: 

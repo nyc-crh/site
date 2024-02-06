@@ -7,8 +7,8 @@ title: Why the School Boycott?
 author: Jamaica Branch NAACP and Queens CORE
 citation: >
  "Why the School Boycott?," Jamaica Branch NAACP and Queens CORE, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/why-the-school-boycott.
-imageFeatured: why-the-school-boycott.jpg
-imageFeaturedAlt: Flyer that outlines a justification for the school boycott
+featured: why-the-school-boycott.jpg
+featuredAlt: Flyer that outlines a justification for the school boycott
 detailedDescr: 
 embed: 
 embedTitle: 

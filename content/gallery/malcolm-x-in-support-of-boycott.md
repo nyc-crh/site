@@ -7,8 +7,8 @@ title: Malcolm X Comments on the Boycotts
 author: 
 citation: >
  "Malcolm X Comments on the Boycotts," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/malcolm-x-in-support-of-boycott.
-imageFeatured: malcolm-x-in-support-of-boycott.jpg
-imageFeaturedAlt: Malcolm X is interviewed while standing in front of a crowd of people.
+featured: malcolm-x-in-support-of-boycott.jpg
+featuredAlt: Malcolm X is interviewed while standing in front of a crowd of people.
 detailedDescr: 
 embed:  
 embedTitle: 

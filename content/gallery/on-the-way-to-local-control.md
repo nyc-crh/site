@@ -7,8 +7,8 @@ title: On the Way to School-Community Control, Some Observations, excerpt
 author: Preston Wilcox
 citation: >
  "On the Way to School-Community Control, Some Observations, excerpt," Preston Wilcox, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/on-the-way-to-local-control.
-imageFeatured: on-the-way-to-local-control.jpg
-imageFeaturedAlt: Comparison chart of school variables and characteristics going from centralization to local control
+featured: on-the-way-to-local-control.jpg
+featuredAlt: Comparison chart of school variables and characteristics going from centralization to local control
 detailedDescr: 
 embed: on-the-way-to-local-control.pdf
 embedTitle: On the Way to School-Community Control, Some Observations, excerpt

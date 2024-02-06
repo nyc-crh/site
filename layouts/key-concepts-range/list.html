@@ -11,12 +11,12 @@
             <div class="row suggested-source">
               <h3>Suggested primary source: <br/>{{ .Params.primarysource }}</h3>
               <div class="col-sm">
-                {{$alt:= .Params.imageFeaturedAlt}}
+                {{$alt:= .Params.featuredAlt}}
                 {{$permalink:= .Params.itemlink }}
                 <a href="{{$permalink}}">
-                  {{ with .Params.imageFeatured }}
+                  {{ with .Params.featured }}
                   {{ $image := resources.Get (printf "/images/%s" .)}}
-                      <img src="{{ ($image).RelPermalink }}" class="" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 50%; float:right;"/>
+                      <img src="{{ ($image).RelPermalink }}" class="" alt="{{with $.Params.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 50%; float:right;"/>
                         {{end}}</a></div>
               </div>{{ else }}{{ end }}</div>
             </details>

@@ -7,8 +7,8 @@ title: Race Intelligence, excerpt
 author: W.E.B. DuBois
 citation: >
  "Race Intelligence, excerpt," W.E.B. DuBois, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/race-intelligence.
-imageFeatured: race-intelligence.jpg
-imageFeaturedAlt: Newspaper clipping
+featured: race-intelligence.jpg
+featuredAlt: Newspaper clipping
 detailedDescription: 
 embed: race-intelligence.pdf
 embedTitle: Race Intelligence, excerpt

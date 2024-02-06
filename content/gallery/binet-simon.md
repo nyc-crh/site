@@ -7,8 +7,8 @@ title: The Binet-Simon Scale, excerpt
 author: Raymond A. Schwegler
 citation: >
  "The Binet-Simon Scale, excerpt," Raymond A. Schwegler, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/binet-simon.
-imageFeatured: binet-simon.jpg
-imageFeaturedAlt: Text from a manual for the Binet-Simon scale
+featured: binet-simon.jpg
+featuredAlt: Text from a manual for the Binet-Simon scale
 detailedDescription: 
 embed: 
 embedTitle: The Binet-Simon Scale, excerpt

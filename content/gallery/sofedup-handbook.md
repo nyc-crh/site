@@ -7,8 +7,8 @@ title: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, 
 author: Frederick L. Francis
 citation: >
  "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY, excerpt," Frederick L. Francis, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/sofedup-handbook.
-imageFeatured: sofedup-handbook.jpg
-imageFeaturedAlt: Student handbook cover
+featured: sofedup-handbook.jpg
+featuredAlt: Student handbook cover
 detailedDescription: sofedup-handbook
 embed: sofedup-handbook.pdf
 embedTitle: S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY, excerpt

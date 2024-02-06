@@ -2,8 +2,8 @@
 title: "New York City Civil Rights History Project"
 draft: false
 layout: home
-imageFeatured: primary-source-collage.jpg
-imageFeaturedAlt: Images from the primary source gallery
+featured: primary-source-collage.jpg
+featuredAlt: Images from the primary source gallery
 cardsTitle: 
 cards:
   - title: Featured Topic

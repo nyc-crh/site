@@ -23,9 +23,10 @@
                 width="100%" height="1200px" class="d-print-none"></iframe>
      {{end}}
      {{else}}
-     {{ with .Params.imageFeatured }}
+     
+     {{ with .Params.featured }}
      {{ $image := resources.Get (printf "/images/%s" .)}}
-         <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.imageFeaturedAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
+         <img src="{{ ($image).RelPermalink }}" class="responsive-figure-fullwidth mx-auto" alt="{{with $.Params.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/>
      {{end}}
      {{end}}
     </div>

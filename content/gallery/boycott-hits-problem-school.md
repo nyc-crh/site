@@ -7,8 +7,8 @@ title: 90% Boycott Hits Problem School
 author: Martin Tolchin
 citation: >
  "90% Boycott Hits Problem School," Martin Tolchin, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/boycott-hits-problem-school.
-imageFeatured: boycott-hits-problem-school.jpg
-imageFeaturedAlt: "Rev. Milton Galamison in a \"600\" school classroom with a group of black teenagers"
+featured: boycott-hits-problem-school.jpg
+featuredAlt: "Rev. Milton Galamison in a \"600\" school classroom with a group of black teenagers"
 detailedDescr: 
 embed: 
 embedTitle: 

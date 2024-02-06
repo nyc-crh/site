@@ -36,7 +36,7 @@
             <section class="timeline d-print-none">
                 <div class="container-fluid" style="text-align: left!important">
                   {{ range .RegularPagesRecursive.ByDate | uniq }} 
-                    {{$alt:= .Params.imageFeaturedAlt}}
+                    {{$alt:= .Params.featuredAlt}}
                     {{$permalink:= .RelPermalink}}
                     {{if .Params.hasContentInGallery}}
                     {{$fileName:= .File.BaseFileName}}
@@ -52,10 +52,10 @@
                             {{ else }}
                             <div class="date">{{ .Params.Date.Format "Jan 2, 2006"}}</div>{{ end }}
                             <div class="timeline-imagewrapper">
-                                <div class="timeline-thumbnail">{{with .Params.imageFeatured}}
+                                <div class="timeline-thumbnail">{{with .Params.featured}}
                                     {{ $timelineimage := resources.GetMatch (printf "/images/%s" .)}}
                                     {{ with $timelineimage }}
-                                    <img src="{{ ($timelineimage.Fill "160x120 top").RelPermalink }}"  alt="{{ .Params.imageFeaturedAlt }}"/>
+                                    <img src="{{ ($timelineimage.Fill "160x120 top").RelPermalink }}"  alt="{{ .Params.featuredAlt }}"/>
                                     {{ end }}{{end}}</div>
                                     <div class="timeline-text p2"><p>{{.Params.Eventname  | page.RenderString | safeHTML }}<br>
                                     </div>
@@ -74,10 +74,10 @@
                             {{ else }}
                             <div class="date">{{ .Params.Date.Format "Jan 2, 2006"}}</div>{{ end }}
                             <div class="timeline-imagewrapper">
-                                <div class="timeline-thumbnail">{{with .Params.imageFeatured}}
+                                <div class="timeline-thumbnail">{{with .Params.featured}}
                                     {{ $timelineimage := resources.GetMatch (printf "/images/%s" .)}}
                                     {{ with $timelineimage }}
-                                    <img src="{{ ($timelineimage.Fill "160x120 top").RelPermalink }}"  alt="{{ .Params.imageFeaturedAlt }}" />
+                                    <img src="{{ ($timelineimage.Fill "160x120 top").RelPermalink }}"  alt="{{ .Params.featuredAlt }}" />
                                     {{ end }}{{end}}</div>
                                     <div class="timeline-text p2"><p>{{.Params.Eventname | page.RenderString | safeHTML }}<br>
                                 </div>

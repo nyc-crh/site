@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: nicolyn-plummer.jpg
+featured: nicolyn-plummer.jpg
 name: Nicolyn Plummer
 org: 
 jobtitle: Consultant

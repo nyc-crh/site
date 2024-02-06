@@ -7,8 +7,8 @@ title: First Patriotic Election in the Beach Street Industrial School
 author: Jacob Riis
 citation: >
  "First Patriotic Election in the Beach Street Industrial School," Jacob Riis, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/first-patriotic-election.
-imageFeatured: first-patriotic-election.jpg
-imageFeaturedAlt: Around 10 schoolchildren of various races and genders line up with ballots in hand. One of two women teachers is placing a ballot in a box on a desk.
+featured: first-patriotic-election.jpg
+featuredAlt: Around 10 schoolchildren of various races and genders line up with ballots in hand. One of two women teachers is placing a ballot in a box on a desk.
 detailedDescr: 
 embed: 
 embedTitle: 

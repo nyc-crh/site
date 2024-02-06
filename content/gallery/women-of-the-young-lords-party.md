@@ -7,8 +7,8 @@ title: Women of the Young Lords Party, excerpt
 author: Bronx Museum of the Arts
 citation: >
  Women of the Young Lords Party, excerpt," Bronx Museum of the Arts, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/women-of-the-young-lords-party.
-imageFeatured: women-of-the-young-lords-party.jpg
-imageFeaturedAlt: Still image from a panel event at the Bronx Museum with women from the Young Lords 
+featured: women-of-the-young-lords-party.jpg
+featuredAlt: Still image from a panel event at the Bronx Museum with women from the Young Lords 
 detailedDescr: 
 embed: 
 embedTitle: 

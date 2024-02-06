@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: alicia-ciocca.jpg
+featured: alicia-ciocca.jpg
 name: Alicia Ciocca
 org: NYC Department of Education
 jobtitle: Special Education Teacher

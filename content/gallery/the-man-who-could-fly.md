@@ -8,8 +8,8 @@ title: >
 author: Bob Beamon
 citation: >
  "The Man Who Could Fly: the Bob Beamon Story, excerpt," Bob Beamon, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-man-who-could-fly.
-imageFeatured: the-man-who-could-fly.jpg
-imageFeaturedAlt: Page from a yearbook
+featured: the-man-who-could-fly.jpg
+featuredAlt: Page from a yearbook
 detailedDescr: 
 embed: 
 embedTitle: 

@@ -7,8 +7,8 @@ title: Mae Mallory and her daughter Patricia
 author: Burley Versatile Photography
 citation: >
  "Mae Mallory and her daughter Patricia," Burley Versatile Photography, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mae-mallory-and-daughter.
-imageFeatured: mae-mallory-and-daughter.jpg
-imageFeaturedAlt: A middle-aged Black woman holds the arm of her teenaged daughter. They stand in a doorway, likely at a school.
+featured: mae-mallory-and-daughter.jpg
+featuredAlt: A middle-aged Black woman holds the arm of her teenaged daughter. They stand in a doorway, likely at a school.
 detailedDescr: 
 embed: 
 embedTitle: 

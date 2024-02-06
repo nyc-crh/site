@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: rachel-a-norman.jpg
+featured: rachel-a-norman.jpg
 name: Rachel A. Norman
 org: IntegrateNYC
 jobtitle: Adult Program Coordinator

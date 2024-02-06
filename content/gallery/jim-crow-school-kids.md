@@ -7,8 +7,8 @@ title: Jim Crow School Kids as Mentally Unfit
 author: Constance Curtis
 citation: >
  "Jim Crow School Kids as Mentally Unfit," Constance Curtis, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jim-crow-school-kids.
-imageFeatured: jim-crow-school-kids.jpg
-imageFeaturedAlt: Newspaper clipping
+featured: jim-crow-school-kids.jpg
+featuredAlt: Newspaper clipping
 detailedDescription: 
 embed: jim-crow-school-kids.pdf
 embedTitle: Jim Crow School Kids as Mentally Unfit

@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: dulce-michelle-marquez.jpg
+featured: dulce-michelle-marquez.jpg
 name: Dulce Michelle Marquez
 org:
 job-title:

@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: murray-jessica.jpg
+featured: murray-jessica.jpg
 name: Jessica Murray
 org: 
 jobtitle: Co-Director and Developer

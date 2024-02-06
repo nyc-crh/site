@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: matthew-kautz.jpg
+featured: matthew-kautz.jpg
 name: Matt Kautz
 org: 
 jobtitle:  Project team member

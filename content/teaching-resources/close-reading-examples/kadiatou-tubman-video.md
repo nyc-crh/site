@@ -3,8 +3,8 @@ layout: video
 draft: false
 title: >
  Kadiatou Tubman reads *"The Brownies’ Book*, January 1920, excerpts"
-imageFeatured: kadiatou-tubman-video.jpg
-imageFeaturedAlt: Still image of a videotaped reading by Kadiatou Tubman
+featured: kadiatou-tubman-video.jpg
+featuredAlt: Still image of a videotaped reading by Kadiatou Tubman
 video: 
   srcType: youtube
   srcLink: KLoX7TEBuTw

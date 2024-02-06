@@ -7,8 +7,8 @@ title: NAACP Youth Council News Bulletin, excerpts
 author: 
 citation: >
  "NAACP Youth Council News Bulletin, excerpts," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/naacp-youth-council.
-imageFeatured: naacp-youth-council.jpg
-imageFeaturedAlt: Hand-drawn cover of a newsletter that shows a boy kneeling and praying next to his bed
+featured: naacp-youth-council.jpg
+featuredAlt: Hand-drawn cover of a newsletter that shows a boy kneeling and praying next to his bed
 detailedDescr: 
 embed: naacp-youth-council.pdf
 embedTitle: NAACP Youth Council News Bulletin, excerpts

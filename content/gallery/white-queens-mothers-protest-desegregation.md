@@ -7,8 +7,8 @@ title: White Queens Mothers Protest Desegregation
 author: Associated Press
 citation: >
  "White Queens Mothers Protest Desegregation," Associated Press, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/white-queens-mothers-protest-desegregation.
-imageFeatured: white-queens-mothers-protest-desegregation.jpg
-imageFeaturedAlt: A group of white women walk in the rain and hold signs protesting desegregation.
+featured: white-queens-mothers-protest-desegregation.jpg
+featuredAlt: A group of white women walk in the rain and hold signs protesting desegregation.
 detailedDescr: 
 embed:  
 embedTitle: 

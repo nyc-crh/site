@@ -7,8 +7,8 @@ title: Wadleigh’s School Zone
 author: Matthew Kautz
 citation: >
  "Wadleigh’s School Zone," Matthew Kautz, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/wadleigh-zoning-map.
-imageFeatured: wadleigh-zoning-map.jpg
-imageFeaturedAlt: Map showing the spatial segregation of the White and Black populations in upper Manhattan
+featured: wadleigh-zoning-map.jpg
+featuredAlt: Map showing the spatial segregation of the White and Black populations in upper Manhattan
 detailedDescr: 
 embed: 
 embedTitle: 

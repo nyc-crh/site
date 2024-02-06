@@ -7,8 +7,8 @@ title: Puerto Ricans (Spoken Version)
 author: Toni Cade Bambara
 citation: >
  "Puerto Ricans (Spoken Version)," Toni Cade Bambara, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/puerto-ricans.
-imageFeatured: text-icon.jpg
-imageFeaturedAlt: Graphic icon of a document
+featured: text-icon.jpg
+featuredAlt: Graphic icon of a document
 detailedDescr: 
 embed: 
 embedTitle: 

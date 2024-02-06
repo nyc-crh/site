@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: ivelisse-ramos.jpg
+featured: ivelisse-ramos.jpg
 name: Ivelisse Ramos
 org:
 jobtitle: Project team member

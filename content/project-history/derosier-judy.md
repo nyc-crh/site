@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: judy-derosier.jpg
+featured: judy-derosier.jpg
 name: Judy DeRosier
 org: 
 jobtitle:  Project team member

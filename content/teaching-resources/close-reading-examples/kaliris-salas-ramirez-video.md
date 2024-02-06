@@ -2,8 +2,8 @@
 layout: video
 draft: false
 title: Kaliris Salas-Ramirez reads “We’d Rather Go to Jail”
-imageFeatured: kaliris-salas-ramirez-video.jpg
-imageFeaturedAlt: Still image of a videotaped reading by Kaliris Salas-Ramirez
+featured: kaliris-salas-ramirez-video.jpg
+featuredAlt: Still image of a videotaped reading by Kaliris Salas-Ramirez
 video: 
   srcType: youtube
   srcLink: j9cAY_lyPeA

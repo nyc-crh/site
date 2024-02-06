@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: erickson-ansley.jpg 
+featured: erickson-ansley.jpg 
 name: Ansley Erickson
 org: 
 jobtitle: Co-Director

@@ -7,8 +7,8 @@ title: Community Control March
 author: 
 citation: >
  "Community Control March," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/community-control-march.
-imageFeatured: community-control-march.jpg
-imageFeaturedAlt: Black education advocates march over the Brooklyn Bridge together, arms linked. A large sign reads &quot;Self-Determination for Black Communities, Youth Against War & Fascism&quot;
+featured: community-control-march.jpg
+featuredAlt: Black education advocates march over the Brooklyn Bridge together, arms linked. A large sign reads &quot;Self-Determination for Black Communities, Youth Against War & Fascism&quot;
 detailedDescr: 
 embed: 
 embedTitle: 

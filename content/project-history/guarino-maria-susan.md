@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: maria-susan-guarino.jpg
+featured: maria-susan-guarino.jpg
 name: Maria Susan Guarino
 org: 
 jobtitle: Project team member

@@ -7,8 +7,8 @@ title: "*In the matter of Charlene Skipwith*, excerpt"
 author: 
 citation: >
  "*In the matter of Charlene Skipwith*, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/matter-of-skipwith.
-imageFeatured: matter-of-skipwith.jpg
-imageFeaturedAlt: Text of a court decision
+featured: matter-of-skipwith.jpg
+featuredAlt: Text of a court decision
 detailedDescr: 
 embed: matter-of-skipwith.pdf
 embedTitle: "*In the matter of Charlene Skipwith*, excerpt"

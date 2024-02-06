@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: avatar.jpg
+featured: avatar.jpg
 name: CJ Conglio
 org: SUNY New Paltz
 jobtitle: Student

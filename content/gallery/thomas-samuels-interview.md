@@ -7,8 +7,8 @@ title: Interview with Thomas Samuels
 author: Thomas Samuels and Brianna DiGiovanni
 citation: >
  "Interview with Thomas Samuels," Thomas Samuels and Brianna DiGiovanni, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/thomas-samuels-interview.
-imageFeatured: thomas-samuels-interview.jpg
-imageFeaturedAlt: Still image from video interview with Thomas Samuels, an older Black man, who signs.
+featured: thomas-samuels-interview.jpg
+featuredAlt: Still image from video interview with Thomas Samuels, an older Black man, who signs.
 detailedDescr: 
 embed: 
 embedTitle: 

@@ -7,8 +7,8 @@ title: Evelina Antonetty and United Bronx Parents Protest School Lunch
 author: Irving Savlowitz
 citation: >
  "Evelina Antonetty and United Bronx Parents Protest School Lunch," Irving Savlowitz, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/evelina-antonetty-ubp-protest-lunch.
-imageFeatured: evelina-antonetty-ubp-protest-lunch.jpg
-imageFeaturedAlt: Parents protest poor school lunch quality at Federal Plaza in Manhattan. One woman carries a child and other parents carry garbage bags of food.
+featured: evelina-antonetty-ubp-protest-lunch.jpg
+featuredAlt: Parents protest poor school lunch quality at Federal Plaza in Manhattan. One woman carries a child and other parents carry garbage bags of food.
 detailedDescr: 
 embed: 
 embedTitle: 

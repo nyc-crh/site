@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: avatar.jpg
+featured: avatar.jpg
 name: Lauren Lefty
 org: Northern Arizona University
 jobtitle: Assistant Professor

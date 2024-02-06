@@ -7,8 +7,8 @@ title: Black Panther Party letter about OPERATION SHUT DOWN
 author: Black Panther Party Harlem Branch
 citation: >
  "Black Panther Party letter about OPERATION SHUT DOWN," Black Panther Party Harlem Branch, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/black-panthers-2.
-imageFeatured: black-panthers-2.jpg
-imageFeaturedAlt: Letter
+featured: black-panthers-2.jpg
+featuredAlt: Letter
 detailedDescr: 
 embed: 
 embedTitle: 

@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: errol-c-saunders-ii.jpg
+featured: errol-c-saunders-ii.jpg
 name: Errol C. Saunders, II
 org: 
 jobtitle:  Project team member

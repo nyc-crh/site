@@ -7,8 +7,8 @@ title: “We’d Rather Go to Jail.”
 author: Sara Slack
 citation: >
  "We’d Rather Go to Jail,” Sara Slack, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/rather-go-to-jail.
-imageFeatured: rather-go-to-jail.jpg
-imageFeaturedAlt: Newspaper clipping
+featured: rather-go-to-jail.jpg
+featuredAlt: Newspaper clipping
 detailedDescr: 
 embed: rather-go-to-jail.pdf
 embedTitle: “We’d Rather Go to Jail.”

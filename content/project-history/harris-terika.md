@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: terika-harris.jpg
+featured: terika-harris.jpg
 name: Terika Harris
 org:
 jobtitle: Project team member

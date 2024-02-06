@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: luna-nelson.jpg
+featured: luna-nelson.jpg
 name: Nelly Luna
 org: 
 jobtitle: Project team member

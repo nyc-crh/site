@@ -7,8 +7,8 @@ title: City Hall; Teachers Demonstration
 author: New York Police Department Surveillance Unit
 citation: >
  "City Hall; Teachers Demonstration," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/teachers-demonstration.
-imageFeatured: teachers-demonstration.jpg
-imageFeaturedAlt: Teachers protesting and carrying signs near City Hall
+featured: teachers-demonstration.jpg
+featuredAlt: Teachers protesting and carrying signs near City Hall
 detailedDescr: 
 embed: 
 embedTitle: 

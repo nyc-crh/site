@@ -7,8 +7,8 @@ title: Change the Status Crow
 author: 
 citation: >
  "Change the Status Crow," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/change-the-status-crow.
-imageFeatured: change-the-status-crow.jpg
-imageFeaturedAlt: Boycott flyer
+featured: change-the-status-crow.jpg
+featuredAlt: Boycott flyer
 detailedDescr: 
 embed: 
 embedTitle: 

@@ -7,8 +7,8 @@ title: JHS 103, PS 194, and City Hall
 author: James Booker
 citation: >
  "JHS 103, PS 194, and City Hall," James Booker, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jhs-103-ps-194-city-hall.
-imageFeatured: jhs-103-ps-194-city-hall.jpg
-imageFeaturedAlt: Two young people sing at a protest
+featured: jhs-103-ps-194-city-hall.jpg
+featuredAlt: Two young people sing at a protest
 detailedDescr: 
 embed: jhs-103-ps-194-city-hall.pdf
 embedTitle: JHS 103, PS 194, and City Hall

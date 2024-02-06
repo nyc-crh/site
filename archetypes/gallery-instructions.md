@@ -4,8 +4,8 @@ draft: false
 date: 1000-01-01
 displaydate: "1000-2000"
 title: Title in Title Case
-imageFeatured: title-of-the-image.jpg
-imageFeaturedAlt: alt tag
+featured: title-of-the-image.jpg
+featuredAlt: alt tag
 embed: title-of-the-file.pdf
 embedTitle: title of pdf here
 text: path-to-plain-text-version

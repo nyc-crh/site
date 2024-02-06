@@ -8,8 +8,8 @@ title: >
 author: New York Hotline, WNYC
 citation: >
  "New York Hotline: Special Ed #304, excerpt 1," New York Hotline, WNYC, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/ny-hotline-special-ed-1.
-imageFeatured: ny-hotline-special-ed-1.jpg
-imageFeaturedAlt: Still image from a tv talk show
+featured: ny-hotline-special-ed-1.jpg
+featuredAlt: Still image from a tv talk show
 detailedDescription: 
 embed: 
 embedTitle: 

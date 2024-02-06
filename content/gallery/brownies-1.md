@@ -7,8 +7,8 @@ title: "*The Brownies’ Book*, January 1920, excerpts"
 author: National Association for the Advancement of Colored People
 citation: >
  "*The Brownies’ Book*, January 1920, excerpts," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies1.
-imageFeatured: brownies-1.jpg
-imageFeaturedAlt: A young black girl smiles and poses, arms outstretched and standing on ballet pointe shoes. She wears a white dress, crown, and cape tied at her wrists. 
+featured: brownies-1.jpg
+featuredAlt: A young black girl smiles and poses, arms outstretched and standing on ballet pointe shoes. She wears a white dress, crown, and cape tied at her wrists. 
 detailedDescr: 
 embed: brownies-1.pdf
 embedTitle: "*The Brownies’ Book*, January 1920, excerpts"

@@ -7,8 +7,8 @@ title: Map of Randall’s, Hart, and Blackwell Islands
 author: Letts, Son & Co.
 citation: >
  "Map of Randall’s, Hart, and Blackwell Islands," Letts, Son & Co., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/map-nyc-islands.
-imageFeatured: map-nyc-islands.jpg
-imageFeaturedAlt: A map showing buildings on islands in the East River
+featured: map-nyc-islands.jpg
+featuredAlt: A map showing buildings on islands in the East River
 detailedDescription: 
 embed: 
 embedTitle: 

@@ -7,8 +7,8 @@ title: The High Tide of Immigration
 author: Louis Dalrymple
 citation: >
  "The High Tide of Immigration," Louis Dalrymple, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/high-tide-of-immigration.
-imageFeatured: high-tide-of-immigration.jpg
-imageFeaturedAlt: A political cartoon of Uncle Sam and immigrants swimming to the US shore.
+featured: high-tide-of-immigration.jpg
+featuredAlt: A political cartoon of Uncle Sam and immigrants swimming to the US shore.
 detailedDescr: high-tide-of-immigration
 embed: 
 embedTitle: 

@@ -7,8 +7,8 @@ title: Elizabeth Farrell and Ungraded Classes
 author: Board of Education of the City of New York
 citation: >
  "Elizabeth Farrell and Ungraded Classes," Board of Education of the City of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elizabeth-farrell.
-imageFeatured: elizabeth-farrell.jpg
-imageFeaturedAlt: A white middle-aged woman teaches a classroom of boys of various ages making chairs
+featured: elizabeth-farrell.jpg
+featuredAlt: A white middle-aged woman teaches a classroom of boys of various ages making chairs
 detailedDescription: 
 embed: 
 embedTitle: 

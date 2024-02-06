@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: natacha-robert.jpg
+featured: natacha-robert.jpg
 name: Natacha Robert
 org:
 jobtitle: Project team member

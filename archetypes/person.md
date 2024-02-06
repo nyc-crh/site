@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured:
+featured:
 name:
 org:
 jobtitle:

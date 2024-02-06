@@ -7,8 +7,8 @@ title: Program for Malcolm X Memorial Service, cover
 author: 
 citation: >
  "Program for Malcolm X Memorial Service, cover," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/malcolm-x-memorial.
-imageFeatured: malcolm-x-memorial.jpg
-imageFeaturedAlt: Flyer with a portrait of Malcolm X. Friday, Feb. 21st is Black Awareness day. Born May 19, 1925. Murdered February 21st, 1965. Malcolm X Memorial Service
+featured: malcolm-x-memorial.jpg
+featuredAlt: Flyer with a portrait of Malcolm X. Friday, Feb. 21st is Black Awareness day. Born May 19, 1925. Murdered February 21st, 1965. Malcolm X Memorial Service
 detailedDescr: 
 embed: 
 embedTitle: 

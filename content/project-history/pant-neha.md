@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: neha-pant.jpg
+featured: neha-pant.jpg
 name: Neha Pant
 org: 
 jobtitle: Project team member

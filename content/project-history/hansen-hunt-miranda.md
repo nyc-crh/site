@@ -1,6 +1,6 @@
 ---
 draft: false
-imageFeatured: avatar.jpg
+featured: avatar.jpg
 name: Miranda Hansen-Hunt
 org: 
 jobtitle:  Project team member
