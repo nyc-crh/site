@@ -14,7 +14,7 @@ Later in life, Lorde described her experience of chronic illness, including brea
 
 Lorde wrote that as a child she had been “fat, black, nearly blind, and ambidextrous,” but she did not talk about herself using the term disability or disabled.[^5] Scholar Sami Schalk encourages us to think about how Black people negotiate and experience disability, and how they have at times worked for racial and disability justice together, even if they have not used the term disability in their work.[^6]
 
-Lorde’s ideas about how people's lives are shaped by multiple parts of their identities, including race, gender, sexuality, class, ability, body size, and more, have helped many people think about disability. Lorde offered an example of how to recognize how people experience multiple kinds of marginalization or oppression, while refusing to make a “hierarchy of oppressions.”[^7]
+Lorde’s ideas about how people's lives are shaped by multiple parts of their identities, including race, gender, sexuality, class, ability, body size, and more, have helped many people think about disability. Lorde offered an example of understanding that people experience multiple kinds of marginalization or oppression, while refusing to make a “hierarchy of oppressions.”[^7]
 
 Recognizing Lorde’s work as an activist educator, we can ask how her experiences across her intersecting identities and experience with racism, sexism, heteronormativity, and ableism influenced the kind of teacher she chose to be.
 
@@ -22,7 +22,7 @@ Recognizing Lorde’s work as an activist educator, we can ask how her experienc
 
 [^2]: Audre Lord, *Zami: A New Spelling of My Name* (Watertown, MA: Persephone Press, 1982).
 
-[^3]: Audre Lorde, “'I teach myself in outline': Notes, Journals, Syllabi, and an Excerpt from Deotha,” Contributors Iemanjá Brown and Miriam Atkin,  [https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf](https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf)
+[^3]: Audre Lorde, “'I teach myself in outline': Notes, Journals, Syllabi, and an Excerpt from Deotha,” Contributors Iemanjá Brown and Miriam Atkin,  [https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf](https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf). For more on Lorde's work in the classroom, see Conor Tomás Reed, _New York Liberation School: Study and Movement for the People's Univeristy_ (New York: Common Notions Press, 2023). For more on the 1969 City College protests, see [Greta Schiller and Andrea Weiss, _The Five Demands_. Icarus Films, 2023](https://thefivedemandsfilm.com/) and their related teaching resources. 
 
 [^4]: Audre Lorde, *The Cancer Journals* (London: Penguin, 2020); Tracy K. Smith, “How Audre Lorde’s Experience of Breast Cancer Fortified Her Revolutionary Politics,” *LitHub*, October 14, 2020, [https://lithub.com/how-audre-lordes-experience-of-breast-cancer-fortified-her-revolutionary-politics/](https://lithub.com/how-audre-lordes-experience-of-breast-cancer-fortified-her-revolutionary-politics/)
 

@@ -50,10 +50,7 @@ questions:
 
 The Black Panther Party’s Harlem Branch, founded in 1966, defined Black Power as “having the right to self-determination or the power to decide what should go down in our community,” and “being the decision makers, the policy makers.”[^1]
 
-Many stories about the Black Panther Party emphasize only their embrace of armed struggle, and pay more attention to the Oakland, California chapter of the party than the New York chapter. The New York chapter engaged in educational activism. Across multiple chapters, the party provided important kinds of community service like providing free breakfast for children and operating community health clinics [^2]
-
 Harlem’s Black Panther Party emphasized self-determination in education, as you can see in this letter announcing the party and its planned protest about education in the neighborhood.
 
 [^1]: [Black Panther and Black Power,” Black Panther Party Harlem Branch Files, Box 1, Folder 9, Schomburg Center for Research in Black Culture, New York Public Library](https://archives.nypl.org/scm/20948)
 
-[^2]: “The Black Panther Party’s Free Breakfast Program, 1969-1980, *The Black Past*, [https://www.blackpast.org/african-american-history/black-panther-partys-free-breakfast-program-1969-1980/](https://www.blackpast.org/african-american-history/black-panther-partys-free-breakfast-program-1969-1980/), accessed November 10, 2023. See also Alondra Nelson, *Body and Soul: The Black Panther Party and the Fight against Medical Discrimination* (Minneapolis: University of Minnesota Press, 2011).
