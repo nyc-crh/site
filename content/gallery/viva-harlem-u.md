@@ -43,7 +43,7 @@ questions:
 - What do you notice about the photograph? What questions would you ask to learn more about this protest? 
 --- 
 
-Although City College, where Audre Lorde taught, was in the predominantly Black and Latinx community of Harlem, there were very few Black or Latinx students who attended. In the 1968-1969 school year, City College students organized to demand change in admissions policies, curriculum, and support. They identified [“Five Demands”](/topics/black-latina-women/audre-lorde-cuny/we-demand/):
+Although City College, where Audre Lorde taught, was in the predominantly Black and Latinx community of Harlem, there were very few Black or Latinx students who attended. In the 1968-1969 school year, City College students organized to demand change in admissions policies, curriculum, and support. They identified [five demands](/topics/black-latina-women/audre-lorde-cuny/we-demand/):
 
 1. “A school of Black and Puerto Rican Studies”
 
@@ -60,6 +60,9 @@ Some faculty members, including Audre Lorde, showed their solidarity with the st
 The student strike was successful in achieving major changes at City College and in the City University system. It helped bring about the creation of Black studies and Puerto Rican studies programs at Brooklyn College, where Audre Lorde later taught. Student activism also supported the continuation of the SEEK (Search for Education, Elevation and Knowledge) program and led to a new open admissions policy at CUNY. Any student who completed high school in New York City would be admitted to at least one of the CUNY community colleges or four-year colleges.[^3]  
 
 However, CUNY campuses remained inaccessible for many disabled students. In the early 1970s, disabled students at Brooklyn College formed the activist organization SOFEDUP and waged their own protests for an accessible education.[^4]
+
+See more documents and oral histories related to the history of activism in the CUNY system at the [CUNY Digital History Archive](https://cdha.cuny.edu/).
+
 
 [^1]: “We Demand.”
 
