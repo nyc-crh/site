@@ -2,6 +2,8 @@
 title: Elizabeth Cisco Resisting Segregation in Queens
 layout: bundle-gallery
 draft: false
+featured: elizabeth-cisco.jpg
+featuredAlt: Mrs. Elizabeth Cisco is a Black woman seated in an ornate chair and wearing a formal full-length dress
 ---
 
 Both New York City and New York State operated racially segregated schools in the 1800s. New York City, which at the time included only Manhattan, stopped operating schools labeled as “colored” schools in 1883. But New York State did not change its law then. Some school districts, including Jamaica, Queens, continued to require Black students to enroll only in designated “colored schools.[^1]

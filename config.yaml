@@ -3,7 +3,6 @@ params:
   languageCode: en-us
   title: New York City Civil Rights History
   description: A teaching and learning guide about the history of NYC Schools
-  images: nyccrh-logo.jpg
   canonifyURLs: true
   relativeURLs: true
   social:

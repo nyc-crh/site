@@ -8,7 +8,7 @@ author:
 citation: >
  "We Demand," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/we-demand.
 featured: we-demand.jpg
-featuredAlt: A simple typewritten flyer with a title, "We Demand" at the top and a list of changes student organizers wanted to see in their university.
+featuredAlt: A simple typewritten flyer with a title, &quot;We Demand&quot; at the top and a list of changes student organizers wanted to see in their university.
 detailedDescr: 
 embed: we-demand.pdf
 embedTitle: We Demand

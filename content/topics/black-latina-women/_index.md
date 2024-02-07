@@ -2,6 +2,8 @@
 layout: docset-gallery
 title: Black and Latina Women’s Educational Activism
 weight: 1
+featured: elizabeth-cisco.jpg
+featuredAlt: Mrs. Elizabeth Cisco is a Black woman seated in an ornate chair and wearing a formal full-length dress
 draft: false
 cards:
 - title: Elizabeth Cisco Resisting Segregation in Queens

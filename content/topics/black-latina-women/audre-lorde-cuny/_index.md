@@ -2,6 +2,8 @@
 title: Audre Lorde and Student Protest at CUNY
 layout: bundle-gallery
 draft: false
+featured: audre-lorde-portrait.jpg
+featuredAlt: Audre Lorde, a Black woman, is seated at a desk in an office surrounded by books and papers. Her face tilts down toward a document she is reading.
 ---
 
 Audre Lorde described herself as “a black feminist lesbian mother poet.”[^1] She was born in Harlem in 1924. Her parents were immigrants from Granada. Lorde was legally blind as a child and reported that she didn’t speak until she was 5. Some of her writing describes her experiences with education for children with vision disabilities in New York City.[^2]
