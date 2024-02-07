@@ -2,6 +2,8 @@
 layout: docset-gallery
 title: Joyful Struggle
 weight: 1
+featured: kids-jump-for-prizes.jpg
+featuredAlt: Black children jump rope in front of a crowd of seated people. A referree watches closely.  
 draft: false
 cards:
 - title: '*The Brownies’ Book*'

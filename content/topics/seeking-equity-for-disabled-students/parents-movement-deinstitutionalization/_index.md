@@ -1,8 +1,10 @@
 ---
 title: The Parents’ Movement for Deinstitutionalization and School Access
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
+featured: first-billboard.jpg
+featuredAlt: Parent activists in front of a billboard that reads, &quot;Retarded Children Can be Helped! They need Research, Schools, Clinics. Give to AHRC&quot;
 ---
 
 From the 1850s on, residential institutions for people with intellectual and developmental disabilities became widespread in New York and the United States. Many parents sent their children to these state schools, hoping they would be rehabilitated and come home. Other parents needed help and support to care for children who could not handle their own care needs. Once they moved in, many people never left these institutions.

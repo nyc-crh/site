@@ -8,6 +8,8 @@ graphicTitle2:
 graphicImg2: 
 graphicImgAlt2: 
 draft: false
+featured: community-control-march.jpg
+featuredAlt: Black education advocates march over the Brooklyn Bridge together, arms linked. A large sign reads &quot;Self-Determination for Black Communities, Youth Against War & Fascism&quot;
 --- 
 
 {{< in-progress >}}

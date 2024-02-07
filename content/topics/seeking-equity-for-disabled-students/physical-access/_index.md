@@ -1,8 +1,10 @@
 ---
 title: 'Fighting to Fit In: Physical Access'
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
+featured: sofedup-handbook.jpg
+featuredAlt: Student handbook cover
 ---
 
 One of the most persistent problems for physically disabled students seeking education is the lack of wheelchair accessibility. There are barriers to building entrances and interior spaces like classrooms, bathrooms, libraries, cafeterias, and gyms. In a place like New York City, many buildings and transportation systems are old and were built without wheelchairs or other mobility aids in mind. Schools still operate in those buildings today, and students with disabilities are still denied access to an equal education due to architectural barriers.

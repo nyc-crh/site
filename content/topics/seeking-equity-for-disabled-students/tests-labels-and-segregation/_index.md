@@ -1,8 +1,10 @@
 ---
 title: Tests, Labels, and Segregation in New York City
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
+featured: binet-simon.jpg
+featuredAlt: Text from a manual for the Binet-Simon scale
 ---
 
 A Black girl sat in her Chicago high school classroom in 1920 and heard her teacher say that native-born white students were more intelligent than Black and immigrant students. The teacher claimed that there was proof, from [a new test given to soldiers](/gallery/army-test). “A race conscious Negro girl, one of the leaders of the class, objected to this remark,” but the teacher responded by showing the student tables with [the test results](gallery/army-test). “With a brave look in her eyes,” the student told the teacher that she “did not believe that the figures were accurate.”[^1]

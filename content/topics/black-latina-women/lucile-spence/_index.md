@@ -2,6 +2,8 @@
 title: Lucile Spence and Teacher Activism 
 layout: bundle-gallery
 draft: false
+featured: two-public-school-teachers.jpg
+featuredAlt: A painting of two Black women, one resting her chin on her closed hand and the other holding a notebook. They both look directly at the viewer.
 ---
 
 In the 1910s, '20s, and '30s, New York’s Black population grew dramatically. Black southerners arrived as part of the Great Migration, fleeing violence, poverty, and political oppression in the Jim Crow South. Black migrants from the Caribbean arrived in substantial numbers as well. There were more and more Black children in New York City’s schools. But there were very few Black teachers.[^1]

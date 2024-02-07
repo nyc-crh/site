@@ -1,8 +1,10 @@
 ---
 title: The Right to Communicate
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
+featured: lexington-school-for-deaf.jpg
+featuredAlt: Protestors outside of a school holding signs. One says, &quot;Deaf CEO Now!&quot;
 ---
 
 All students need to be able to communicate and be understood in school. Students who are D/deaf or hard-of-hearing or blind or low-vision need information in accessible formats so they can read, understand, and communicate with their teachers and peers. Students who are learning English need  to be able to communicate at school in their native language and receive supports for their disabilities in their native language. Because of a lack of understanding about different types of disability, lack of support for language education, and poor screening of children’s learning needs, language and disability have often intersected in ways that deprive children of the right educational support.

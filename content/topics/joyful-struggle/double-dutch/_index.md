@@ -3,6 +3,8 @@ title: Double Dutch
 layout: bundle-gallery
 type: list
 draft: false
+featured: history-double-dutch.jpg
+featuredAlt: Newspaper clipping
 ---
 
 What does childhood look like? Why is play important in childhood? Who gets to be a child?

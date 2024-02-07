@@ -3,6 +3,8 @@ layout: docset-gallery
 title: Seeking Equity for Disabled Students
 weight: 1
 draft: false
+featured: lexington-school-for-deaf.jpg
+featuredAlt: Protestors outside of a school holding signs. One says, &quot;Deaf CEO Now!&quot;
 cards:
 - title: The Beginnings of Special Education
   img: idiot-school-randalls-island.jpg

@@ -8,6 +8,8 @@ graphicTitle2:
 graphicImg2: 
 graphicImgAlt2: 
 draft: false
+featured: bloomberg-remarks.jpg
+featuredAlt: Michael Bloomberg speaks at a conference
 --- 
 
 {{< in-progress >}}

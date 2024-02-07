@@ -2,6 +2,8 @@
 title: 'Deaf Social Spaces'
 layout: bundle-gallery
 draft: false
+featured: thomas-samuels-interview.jpg
+featuredAlt: Still image from video interview with Thomas Samuels, an older Black man, who signs.
 ---
 
 Some of the first schools for disabled people in the US were built for Deaf students. But in the 1800s and through much of the 1900s, many of those schools were not led by Deaf people.[^1] At times the schools were designed to shape Deaf students to be more acceptable to and more assimilated into hearing society, rather than recognizing that Deaf people had communities and cultures of their own. Nonetheless, Deaf students found ways to express themselves and communicate with joy.

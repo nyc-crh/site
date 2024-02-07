@@ -1,5 +1,7 @@
 --- 
 title: Focus on Learning, excerpt
+featured: focus-on-learning.jpg
+featuredAlt: Text icon
 layout: "tc-single"
 draft: false
 hasContentInGallery: true

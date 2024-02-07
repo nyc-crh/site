@@ -8,8 +8,7 @@ author: New York State Board of Charities
 citation: >
  "Chart of Inmates in the State Institutions," New York State Board of Charities, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/chart-of-inmates.
 featured: chart-of-inmates.jpg
-featuredAlt: >
- Pie chart showing the percent of classes of "inmates" at state institutions 
+featuredAlt: Pie chart showing the percent of classes of &quot;inmates&quot; at state institutions 
 detailedDescription: chart-of-inmates
 embed: 
 embedTitle: 

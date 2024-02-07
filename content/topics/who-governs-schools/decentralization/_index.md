@@ -9,6 +9,8 @@ graphicTitle2: 1970-2002; Decentralized school governance
 graphicImg2: decentralized-gov-graphic.jpg
 graphicImgAlt2: Diagram showing the relationship between voters, the mayor, borough presidents, board of education, district boards, and the rest of the school system 
 draft: false
+featured: la-escuela-bilingue.jpg
+featuredAlt: Newspaper clipping
 --- 
 
 {{< in-progress >}}

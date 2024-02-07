@@ -10,6 +10,8 @@ relImg2: dr-seniors-on-mae-mallory.jpg
 relImgAlt2: Schomburg NEH Summer Institute for Teachers, Harlem's Education Movements, Changing the Civil Rights Narrative. Dr. Paula Marie Seniors on Mae Mallory, July 22, 2021
 relLink2: https://youtu.be/CUpY_l0YrBw
 draft: false
+featured: mae-mallory-and-daughter.jpg
+featuredAlt: A middle-aged Black woman holds the arm of her teenaged daughter. They stand in a doorway, likely at a school.
 ---
 
 Although the *Brown v. Board of Education* decision said that school segregation was unconstitutional, New York City’s schools remained segregated well after that 1954 decision. The Board of Education convened committees to study integration, and parents organized to demand action, but school officials minimized the problem or said it was beyond their control.

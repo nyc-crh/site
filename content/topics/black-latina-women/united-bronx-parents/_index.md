@@ -3,6 +3,8 @@ title: 'Evelina López Antonetty and United Bronx Parents/Padres Unidos del Bron
 layout: bundle-gallery
 type: list
 draft: false
+featured: evelina-antonetty-ubp-protest-lunch.jpg
+featuredAlt: Parents protest poor school lunch quality at Federal Plaza in Manhattan. One woman carries a child and other parents carry garbage bags of food.
 ---
 
 Many Puerto Ricans moved to and from the US mainland in the 1920s and 1930s. One of these migrants was Evelina López, who came to East Harlem as a child in 1933.[^1] As an adult and a mother, Evelina López Antonetty (her married name) became an education advocate. She lived in the South Bronx, where the Puerto Rican population grew dramatically after World War II ended and people came in search of work.[^2]

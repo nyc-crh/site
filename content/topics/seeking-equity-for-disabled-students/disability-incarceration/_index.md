@@ -1,8 +1,10 @@
 ---
 title: 'Behavior and Control: Disability and Incarceration'
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
+featured: chart-of-inmates.jpg
+featuredAlt: Pie chart showing the percent of classes of &quot;inmates&quot; at state institutions 
 ---
 
 People who didn’t fit into “normal” society were segregated into institutions on islands around New York City, alongside prisons and juvenile reform centers. In the late 19th century, these institutions became incorporated as nonprofit organizations overseen by the New York State Charities Board. Residents were all called “inmates,” classed together by their disabilities or level of “delinquency,” and usually further segregated by gender.

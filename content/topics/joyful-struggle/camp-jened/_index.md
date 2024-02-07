@@ -2,6 +2,8 @@
 title: 'Camp Jened'
 layout: bundle-gallery
 draft: false
+featured: baseball.jpg
+featuredAlt: A young man pitches a ball to a boy sitting in a wheelchair and holding a bat. Other children and young adults look ready to react.
 ---
 
 Steven L. Sles went to summer camp when he was 13. The day started with the pledge of allegiance to the flag. After some chores and clean-up, campers participated in a range of activities including arts and crafts, music, theater, swimming, and photography, all before lunch. In the evenings, there was a campfire where campers and counselors shared stories and roasted marshmallows. Sles attended Camp Jened in the upstate town of Hunter, New York. Sles, who had cerebral palsy, called his camp “A Haven for the Handicapped.”[^1]

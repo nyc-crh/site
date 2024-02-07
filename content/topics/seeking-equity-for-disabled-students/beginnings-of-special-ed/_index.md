@@ -1,9 +1,12 @@
 ---
 title: The Beginnings of Special Education
-layout: docset-gallery
+layout: bundle-gallery
 type: list
 draft: false
+featured: idiot-school-randalls-island.jpg
+featuredAlt: Illustration of a 19th Century classroom
 ---
+
 Disability has historically been misunderstood: it has been perceived as a curse or punishment for being immoral, or been linked to racist ideas of physical or mental inferiority. In the 18th century US, children with disabilities may have been kept at home, out of the sight of the community, or abandoned and sent to an almshouse. Children who were sick or physically disabled might end up in a hospital for most of their lives.[^1] When formal schooling became more widespread for white students in the middle of the 19th century, disabled children were taken up as a cause by religious men who felt a moral calling to help them.
 
 {{% read-more %}}

@@ -3,6 +3,8 @@ layout: docset-gallery
 title: Who Governs Schools?
 weight: 1
 draft: false
+featured: who-governs.jpg
+featuredAlt: Political cartoon
 cards:
 - title: "From the \"Masses\" to \"Experts\"" 
   img: grammar-school-33.jpg

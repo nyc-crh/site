@@ -3,6 +3,8 @@ title: The Less-Known 1965 Boycott
 layout: bundle-gallery
 type: list
 draft: false
+featured: boycott-hits-problem-school.jpg
+featuredAlt: Rev. Milton Galamison in a &quot;600&quot; school classroom with a group of black teenagers
 ---
 
 New York City’s “600” schools were established in the 1940s to educate young people who were, in the opinion of educators or the courts, “defiant, disruptive, disrespectful, and hostile to all authority.”[^1] These schools got their name from New York’s school numbering system. They had school numbers, like PS 617, in the six hundreds.

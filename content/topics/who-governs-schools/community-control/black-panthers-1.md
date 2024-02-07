@@ -1,5 +1,7 @@
 --- 
 title: OPERATION SHUT DOWN flyer
+featured: black-panthers-1.jpg
+featuredAlt: Flyer for boycott
 layout: "tc-single"
 draft: false
 hasContentInGallery: true

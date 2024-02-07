@@ -2,6 +2,8 @@
 title: The 1964 Boycotts
 layout: bundle-gallery
 draft: false
+featured: school-boycott.jpg
+featuredAlt: Flyer for school boycott showing a young Black child looking through a broken window
 ---
 
 In 1954, the Supreme Court ruled in *Brown v. Board of Education* that segregated schools were unconstitutional. New York activists like Ella Baker, Mae Mallory, Lucile Spence, and Kenneth Clark had worked tirelessly to desegregate the city’s schools starting in the 1930s. However, city and school officials used a variety of tactics to sustain segregation.

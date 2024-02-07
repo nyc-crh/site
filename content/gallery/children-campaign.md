@@ -8,7 +8,7 @@ author:
 citation: >
  "Children Participating in a Public Campaign," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/children-campaign.
 featured: children-campaign.jpg
-featuredAlt: A group of Black and white children sit on steps beside a large stack of paper, making "V" signs with their hands and holding campaign signs
+featuredAlt: A group of Black and white children sit on steps beside a large stack of paper, making &quot;V&quot; signs with their hands and holding campaign signs
 detailedDescr: 
 embed: 
 embedTitle: 

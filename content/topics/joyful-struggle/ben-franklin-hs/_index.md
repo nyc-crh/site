@@ -3,6 +3,8 @@ date: 1000-01-01
 title: Benjamin Franklin High School
 layout: bundle-gallery
 draft: false
+featured: club-borinquen.jpg
+featuredAlt: Students lined up for a group photo in front of a &quot;Club Borinquen Benjamin Franklin H.S.&quot; banner
 ---
 
 East Harlem in the 1930s and 1940s was a dense urban community with people from all over the world. Italian-Americans whose families had been in New York one or two generations or had just arrived, Puerto Ricans who came from the island seeking more economic opportunity, and Black migrants from the US South and the Caribbean: all converged in East Harlem. Many East Harlemites found crowded and often crumbling housing, and Puerto Rican and Black workers experienced continued racism in industries like the garment trades (where people made and distributed clothing).[^1]  

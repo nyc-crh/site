@@ -1,5 +1,7 @@
 ---
 title: Willie Mae Goodman fighting Willowbrook 
+featured: willie-mae-and-marguerite-goodman.jpg
+featuredAlt: Marguerite Goodman and Willie Mae Goodman sit next to each other. Both are smiling. 
 layout: bundle-gallery
 draft: false
 ---

@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: false
+draft: true
 date: 1970-03-01
 displaydate: "1970"
 title: I.S. 55 Graduation Speech

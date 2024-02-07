@@ -8,8 +8,7 @@ author: New York City Board of Education"
 citation: >
  "'600' Schools, Yesterday, Today, and Tomorrow, excerpts," New York City Board of Education, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/600-schools-yesterday-today-tomorrow.
 featured: 600-schools-yesterday-today-tomorrow.jpg
-featuredAlt: >
- Cover of Committee Study: "600" Schools, Yesterday, Today, and Tomorrow
+featuredAlt: "Cover of Committee Study: &quot;600&quot; Schools, Yesterday, Today, and Tomorrow"
 detailedDescr: 
 embed: 600-schools-yesterday-today-tomorrow.pdf
 embedTitle: "\"600\" Schools, Yesterday, Today, and Tomorrow, excerpts"

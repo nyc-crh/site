@@ -2,6 +2,8 @@
 title: Denise Oliver and the Women of the Young Lords Party
 layout: bundle-gallery
 draft: false
+featured: denise-oliver.jpg
+featuredAlt: A young black woman with a somber expression wearing a beret with political buttons and a leather jacket. She's holding a disposable coffee cup and a cigarette.
 ---
 
 The Young Lords organized in New York’s Puerto Rican communities starting in 1969. They sought self-determination and justice for those living in New York and independence for the island of Puerto Rico, which was then (and is now) a territory of the United States. This meant that Puerto Ricans were US citizens, but they had less control over their own island and less influence in the US government than people in US states. Many Puerto Ricans had migrated to New York City after World War II in search of jobs. Many found employment, but also experienced racism, resistance to their Spanish language, and continued poverty.

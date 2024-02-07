@@ -3,6 +3,8 @@ layout: docset-gallery
 title: Boycotting New York’s Segregated Schools
 weight: 2
 draft: false
+featured: school-boycott.jpg
+featuredAlt: Flyer for school boycott showing a young Black child looking through a broken window
 cardsTitle: 
 cards:
 - title: The 1964 Boycotts

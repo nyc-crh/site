@@ -4,6 +4,8 @@ title: '*The Brownies’ Book*'
 layout: bundle-gallery
 type: list
 draft: false
+featured: brownies-1.jpg
+featuredAlt: A young black girl smiles and poses, arms outstretched and standing on ballet pointe shoes. She wears a white dress, crown, and cape tied at her wrists. 
 ---
 
 In October 1919, W.E.B. Du Bois and his collaborators at *Crisis* (the NAACP’s official magazine) proposed that they publish a new magazine. They outlined seven objectives. (Note that they used the language of their time to describe children they would call Black or African-American today):

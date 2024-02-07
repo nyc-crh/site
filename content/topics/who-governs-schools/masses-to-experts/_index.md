@@ -8,6 +8,8 @@ graphicTitle2: 1902-1970; Centralized school governance, part 2
 graphicImg2: centralized-gov-graphic-3.jpg
 graphicImgAlt2: Diagram showing the relationship between voters, the mayor, borough presidents, and the school system 
 draft: false
+featured: grammar-school-33.jpg
+featuredAlt: A stereoscopic slide with photos taken from two slightly different angles shows around 100 schoolgirls seated in a large auditorium with several women teachers in the background.
 --- 
 
 {{< in-progress >}}
