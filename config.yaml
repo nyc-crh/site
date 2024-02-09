@@ -1,11 +1,13 @@
 baseURL: "https://nyccivilrightshistory.org/"
 languageCode: en-us
 title: New York City Civil Rights History
-description: A teaching and learning guide about the history of NYC Schools
+description: A teaching guide to the history of NYC schools
 canonifyURLs: true
 relativeURLs: true
 params:
   imagesFolder: /images
+  images:
+  - nyccrh-logo.jpg
 
 params.logo:
     logoText: New York City Civil Rights History project
