@@ -5,7 +5,7 @@
   <div class="row pack mx-auto">
     <h1 class="py-4"> {{ .Params.title | page.RenderString | safeHTML }}</h2>
       <p>{{ .Content }}</p>
-    {{ range (.Paginate $.RegularPages.ByDate).Pages}}
+    {{ range (.Paginate $.RegularPages.ByDate.Reverse).Pages}}
     <div class="col-sm-3 card m-5">
       <a href="{{ .Params.link }}" class="index-anchor">
         <div class="panel panel-default py-3">
@@ -17,6 +17,7 @@
                     {{ end }}
       <div class="panel-body pt-3">
         <h3 class="panel-title pull-left">{{ .Params.title| page.RenderString | safeHTML }}</h3>
+        <p>{{ .Params.Date.Format "January 2, 2006"}}</p>
       </div>
     </div>
   </a>

@@ -31,7 +31,7 @@ categories:
 - k-12 education
 tags: 
 - ableist segregation
-- disabled people
+- Disabled people
 - intellectual disabilities
 - physical disabilities
 - Deaf culture
@@ -39,7 +39,7 @@ tags:
 - emotional disabilities
 - disability labels
 - photography, imagery, & visual representation
-- institutionalization of disabled people and people labeled disabled
+- institutionalization of Disabled people and people labeled disabled
 - school facilities
 questions: 
 - What do the authors see as the biggest challenge facing the school system?

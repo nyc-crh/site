@@ -24,7 +24,7 @@ cards:
   - title: Joyful Struggle
     img: kids-jump-for-prizes.jpg
     alt: Black children jump rope in front of a crowd of seated people. A referree watches closely. 
-    text: When you imagine a movement or a protest, what do you see? These primary sources show joy, play, pride, and beauty in Black and Latinx communities and in disabled people’s communities and help us think about how joy can be political. 
+    text: When you imagine a movement or a protest, what do you see? These primary sources show joy, play, pride, and beauty in Black and Latinx communities and in Disabled people’s communities and help us think about how joy can be political. 
     btn:
       text: View primary sources
       url: /topics/joyful-struggle/

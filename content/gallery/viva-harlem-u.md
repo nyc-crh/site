@@ -59,7 +59,7 @@ Some faculty members, including Audre Lorde, showed their solidarity with the st
 
 The student strike was successful in achieving major changes at City College and in the City University system. It helped bring about the creation of Black studies and Puerto Rican studies programs at Brooklyn College, where Audre Lorde later taught. Student activism also supported the continuation of the SEEK (Search for Education, Elevation and Knowledge) program and led to a new open admissions policy at CUNY. Any student who completed high school in New York City would be admitted to at least one of the CUNY community colleges or four-year colleges.[^3]  
 
-However, CUNY campuses remained inaccessible for many disabled students. In the early 1970s, disabled students at Brooklyn College formed the activist organization SOFEDUP and waged their own protests for an accessible education.[^4]
+However, CUNY campuses remained inaccessible for many Disabled students. In the early 1970s, Disabled students at Brooklyn College formed the activist organization SOFEDUP and waged their own protests for an accessible education.[^4]
 
 See more documents and oral histories related to the history of activism in the CUNY system at the [CUNY Digital History Archive](https://cdha.cuny.edu/).
 

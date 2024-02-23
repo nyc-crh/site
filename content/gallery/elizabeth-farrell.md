@@ -30,12 +30,12 @@ categories:
 - k-12 education
 tags: 
 - ableist segregation
-- disabled people
+- Disabled people
 - intellectual disabilities
 - physical disabilities
 - disability labels
 - photography, imagery, & visual representation
-- institutionalization of disabled people and people labeled disabled
+- institutionalization of Disabled people and people labeled disabled
 - school facilities
 questions: 
 - How did compulsory education laws change the way children with disabilities were educated?

@@ -3,7 +3,10 @@ title: Mayoral Control
 layout: who-governs
 graphicTitle: 2002-today; Mayoral control of schools
 graphicImg: mayoral-control-graphic.jpg
-graphicImgAlt: Diagram showing the relationship between voters, the mayor, community education council, panel on education policy and the school system 
+graphicImgAlt: Diagram showing the relationship between voters, the mayor, community education council, panel on education policy and the school system
+graphicImgCaption:
+graphicImgDescr: >
+ Diagram titled "Who governs NYC schools? Mayoral Control of Schools,  2002-today." A flow chart depicts a simplified version of the system. Voters elect the mayor, has the power to appoint the chancellor and the majority of the members of the Panel on Education Policy. The Chancellor has authority over hiring district superintendents, who hire principals and teachers to teach the students. Voters elect borough presidents, who each appoint one member of the panel on education policy. Parents elect Community Education Councils. Starting in 2022, the Community Education Councils together selected five members of the Panel on Education Policy. 
 graphicTitle2:  
 graphicImg2: 
 graphicImgAlt2: 

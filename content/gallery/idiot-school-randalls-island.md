@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: A school for disabled students operated on Randall’s Island. 
+eventname: A school for Disabled students operated on Randall’s Island. 
 caption: "\"The Idiot School\" on Randall's Island was founded by French educator, Édouard Séguin in 1867. The school was designed for students with intellectual and developmental disabilities"
 archive_source: >
  The Miriam and Ira D. Wallach Division of Art, Prints and Photographs: Picture Collection, The New York Public Library. "The idiot school" The New York Public Library Digital Collections. 1867.
@@ -33,13 +33,13 @@ categories:
 - adult education
 tags: 
 - ableist segregation
-- disabled people
+- Disabled people
 - intellectual disabilities
 - disability labels
 - curriculum
 - photography, imagery, & visual representation
 - newspapers & the media
-- institutionalization of disabled people and people labeled disabled
+- institutionalization of Disabled people and people labeled disabled
 questions: 
 - Look carefully at the illustration of the classroom. What do you notice about who is there and what they are doing? What do you notice about the classroom space? How does it compare to your classrooms today? What questions do you have about this image? 
 - Why did Edouard Séguin and his colleagues think that students with intellectual and physical disabilities needed to go to school away from their families and communities? Do you agree with their ideas? 

@@ -23,7 +23,7 @@ video:
 videoTitle: Parents Protest for School Transportation
 closeRdImg: 
 closeRdLink: 
-eventname: Parents and children protest for transportation to school for disabled students during a 3-month bus driver strike. 
+eventname: Parents and children protest for transportation to school for Disabled students during a 3-month bus driver strike. 
 caption: A bus driver strike meant that disabled children who relied on buses to get to school lost their transportation, keeping many from being able to attend school. Police surveillance cameras record parents and children protesting at City Hall to end the strike so they could get back to school.
 archive_source: Municipal Archives of the City of New York Digital Collection
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~1346~1232503:-Demonstration-for-better-access-to
@@ -39,12 +39,12 @@ tags:
 - physical disabilities
 - architectural barriers
 - transportation
-- disabled people
+- Disabled people
 - protest
 - school facilities
 - labor unions
 questions: 
-- This bus strike prevented many disabled students from attending school, denying them their right to an education. Do you think access to transportation affects schools and students today? How so?
+- This bus strike prevented many Disabled students from attending school, denying them their right to an education. Do you think access to transportation affects schools and students today? How so?
 - News coverage emphasized white mothers who were at home all day with their children. What made this economically feasible? For whom was this not an option? 
 - >
  Why do you think Mayor Koch focused his emergency transportation program, “Operation Kiddie Lift,” on children with physical disabilities, rather than on all disabled children?

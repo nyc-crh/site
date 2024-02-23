@@ -7,7 +7,7 @@ featured: sofedup-handbook.jpg
 featuredAlt: Student handbook cover
 ---
 
-One of the most persistent problems for physically disabled students seeking education is the lack of wheelchair accessibility. There are barriers to building entrances and interior spaces like classrooms, bathrooms, libraries, cafeterias, and gyms. In a place like New York City, many buildings and transportation systems are old and were built without wheelchairs or other mobility aids in mind. Schools still operate in those buildings today, and students with disabilities are still denied access to an equal education due to architectural barriers.
+One of the most persistent problems for physically Disabled students seeking education is the lack of wheelchair accessibility. There are barriers to building entrances and interior spaces like classrooms, bathrooms, libraries, cafeterias, and gyms. In a place like New York City, many buildings and transportation systems are old and were built without wheelchairs or other mobility aids in mind. Schools still operate in those buildings today, and students with disabilities are still denied access to an equal education due to architectural barriers.
 
 {{% read-more %}}
 
@@ -15,7 +15,7 @@ Even after compulsory school laws came into effect, children with physical disab
 
 Some children disabled by polio became disability rights activists as adults. After receiving home instruction for several years, Judy Heumann attended a special education class in 1956 with other physically disabled children.[^2] Her mother struggled to find a school to accept her, but she eventually made it to high school and college, hoping to become a teacher.
 
-Congress passed the Architectural Barriers Act in 1968, and required government agencies who received federal money to make any buildings they designed, built, or altered wheelchair accessible. Another important federal law was Section 504 of the Rehabilitation Act of 1973, which barred discrimination against disabled people by government agencies receiving federal dollars. Since most schools and colleges receive federal money, these laws applied—but only when the school system renovated or altered buildings. The problem is that many existing school buildings remained inaccessible.
+Congress passed the Architectural Barriers Act in 1968, and required government agencies who received federal money to make any buildings they designed, built, or altered wheelchair accessible. Another important federal law was Section 504 of the Rehabilitation Act of 1973, which barred discrimination against Disabled people by government agencies receiving federal dollars. Since most schools and colleges receive federal money, these laws applied—but only when the school system renovated or altered buildings. The problem is that many existing school buildings remained inaccessible.
 
 By 1970, Judy Heumann had graduated from college and was seeking a teaching position. The New York City Board of Education denied her application because she failed a physical exam. She filed the first federal civil rights lawsuit charging disability discrimination against the NYC Board of Education.[^3] That same year, student activists at Brooklyn College established, S.O.F.E.D.U.P. (Students Organized for Every Disability United for Progress). Their organization had some success in improving their campus, demanding access to all majors and all classrooms. They also called attention to broader patterns of discrimination against people with various disabilities.
 

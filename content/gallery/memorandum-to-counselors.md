@@ -36,7 +36,7 @@ tags:
 - intellectual disabilities
 - joy
 - architectural barriers
-- disabled people
+- Disabled people
 - autonomous educational spaces
 - athletics
 - curriculum

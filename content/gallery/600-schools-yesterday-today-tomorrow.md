@@ -36,7 +36,7 @@ tags:
 - Latinx people
 - disability labels
 - emotional disabilities
-- disabled people
+- Disabled people
 questions:
 - "How do the authors of the report describe students in the \"600\" schools? How do they describe the schools?"
 - The authors are describing a part of the NYC school system more than fifty years ago. What parts of their description seem similar to schools in NYC today? What parts have changed?

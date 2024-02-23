@@ -9,7 +9,7 @@
                     <div class="gy-3 row">
                         {{ range $index,$card:= . }}
                         <div class="col-md-4">
-                            <div class="h-100 card mb-3">
+                            <a href="{{ .btn.url }}"><div class="h-100 card mb-3">
                                 {{$alt:= .alt}}  
                                 {{with .img}}
                                 {{ $image := resources.Get (printf "images/%s" .)}}
@@ -19,14 +19,14 @@
                                 {{end}}
                                 <div class="card-body">
                                     <h2 class="card-title">{{ .title | page.RenderString | safeHTML }}</h2>
-                                    <p class="card-text">{{ .text | page.RenderString | safeHTML }}</p>
+                                    <p class="card-text mb-3">{{ .text | page.RenderString | safeHTML }}</p>
                                     {{ with .btn }}
                                     {{ if and .url .text }}
                                     <a href="{{ .url }}" class="btn btn-primary">{{ .text }}</a>
                                     {{ end }}
                                     {{ end }}
                                 </div>
-                            </div>
+                            </div></a>
                         </div>
                         {{ end }}
                     </div>

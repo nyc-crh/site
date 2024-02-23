@@ -23,9 +23,9 @@ relTitle: Watch a close reading of this document
 relImg: cj-conglio-video-sm.jpg
 relImgAlt: Still image of a videotaped reading by CJ Conglio
 relLink: /teaching-resources/close-reading-examples/cj-conglio-video/
-eventname: S.O.F.E.D.U.P. organizes at Brooklyn College for accessible education for disabled students.
+eventname: S.O.F.E.D.U.P. organizes at Brooklyn College for accessible education for Disabled students.
 caption: >
- S.O.F.E.D.U.P., “Students Organized For Every Disability United for Progress,” was founded at Brooklyn College to promote activism by and for disabled students to eliminate architectural and bureaucratic barriers and increase educational access.. Their handbook described their goals and vision.
+ S.O.F.E.D.U.P., “Students Organized For Every Disability United for Progress,” was founded at Brooklyn College to promote activism by and for Disabled students to eliminate architectural and bureaucratic barriers and increase educational access.. Their handbook described their goals and vision.
 archive_source: Education Resources Information Center (ERIC)
 source_link: https://eric.ed.gov/?id=ED072576
 copyright: Under copyright.
@@ -37,7 +37,7 @@ tags:
 - physical disabilities
 - self-advocacy
 - architectural barriers
-- disabled people
+- Disabled people
 - organizing
 - ableist segregation
 - employment

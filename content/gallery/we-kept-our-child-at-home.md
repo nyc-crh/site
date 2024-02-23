@@ -33,7 +33,7 @@ tags:
 - Willowbrook
 - segregation
 - institutions
-- disabled people
+- Disabled people
 - intellectual disabilities
 - white people
 - social and economic class

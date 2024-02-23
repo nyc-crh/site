@@ -50,7 +50,7 @@ questions:
 - What connections to the present - to ideas of intelligence, ability, gender, sexuality, criminality, or more - do you see in these sources?
 --- 
 
-Henry Goddard was a psychologist living and working in New Jersey. He was the head of the Vineland Institute, but also researched and wrote about disabled people and people labeled as disabled in locations around the country. In this report, he comments on the use of the [Binet intelligence test](/gallery/binet-simon) to determine whether “delinquent girls” had the mental capacity to be responsible for their actions, or whether they did not.
+Henry Goddard was a psychologist living and working in New Jersey. He was the head of the Vineland Institute, but also researched and wrote about Disabled people and people labeled as disabled in locations around the country. In this report, he comments on the use of the [Binet intelligence test](/gallery/binet-simon) to determine whether “delinquent girls” had the mental capacity to be responsible for their actions, or whether they did not.
 
 Goddard and colleagues tested 56 of the girls at one reform school - where girls were sent by the courts - and concluded that 52 of them were “feeble minded,” or intellectually disabled.
 

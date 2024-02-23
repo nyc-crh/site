@@ -15,4 +15,4 @@ Histories of oppression, ableism, and racism are often left out of the curriculu
 
 Educators, we ask that you acknowledge these difficulties and make space for students’ emotional responses. Be intentional in choosing and preparing to teach this material, assess students’ maturity and readiness, and establish clear parameters that will ensure safe, constructive, and respectful dialogue. Please consult these [Resources for creating a safe learning community.](/teaching-resources/safe-learning-community)
 
-Students, we ask that you consider how you and your peers’ identities (as disabled or nondisabled people, your racial and cultural identity, your gender and sexuality) and life experiences may affect how you respond to these materials.
+Students, we ask that you consider how you and your peers’ identities (as Disabled or nondisabled people, your racial and cultural identity, your gender and sexuality) and life experiences may affect how you respond to these materials.

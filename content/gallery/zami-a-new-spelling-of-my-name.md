@@ -32,7 +32,7 @@ categories:
 tags: 
 - women's activism
 - the arts
-- disabled people
+- Disabled people
 - Black people
 - queer people
 - blindness & low vision

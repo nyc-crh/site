@@ -41,7 +41,7 @@ tags:
 - policing & the criminal legal system
 - disability labels
 - emotional disabilities
-- disabled people
+- Disabled people
 - photography, imagery, & visual representation
 - Black people
 - Latinx people

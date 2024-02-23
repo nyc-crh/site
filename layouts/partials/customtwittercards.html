@@ -1,6 +1,6 @@
+<meta name="twitter:card" content="summary_large_image" />
 {{ with .Params.featured }}
      {{ $image := resources.Get (printf "/images/%s" .)}}
-<meta name="twitter:card" content="summary_large_image" />
 <meta name="twitter:image" content="{{ $image.Permalink }}"/>
 {{ else }}
 <meta name="twitter:image" content="https://nyccivilrightshistory.org/img/nyccrh-logo-lg.jpg"/>

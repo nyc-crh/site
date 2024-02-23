@@ -36,7 +36,7 @@ tags:
 - intellectual disabilities
 - ableist segregation
 - racist segregation
-- disabled people
+- Disabled people
 questions: 
 - Based on Table C, what leads children to being placed at this school? What is the category of “feeble minded”? What is included and what is excluded? 
 - What factors do you think affected whether a family could take care of a child with intellectual disabilities or other disabilities at home? 
@@ -46,7 +46,7 @@ questions:
 
 A school for children with intellectual and developmental disabilities opened on Randall’s Island in the East River in the 1860s - alongside the city’s almshouse, hospitals, and prisons. By the early 1900s, the school had been renamed the “Custodial Asylum and School for the Feeble-Minded.”[^1] At the time, the term “feeble minded” was a label used by educators, doctors, and government officials to indicate that a person had an intellectual disability. Intelligence tests were an important, if not the only, factor in deciding whether a person would be labeled “feeble minded.”
 
-Ideas from the eugenics movement shaped the school on Randall’s Island. Eugenicists  believed that laws and science should be used to “improve” the human population, usually by increasing the population of white, non-disabled people and restricting the existence of people of color and disabled people.[^2] With this goal in mind, they favored segregation of intellectually disabled people and restrictions on their reproduction.
+Ideas from the eugenics movement shaped the school on Randall’s Island. Eugenicists  believed that laws and science should be used to “improve” the human population, usually by increasing the population of white, non-disabled people and restricting the existence of people of color and Disabled people.[^2] With this goal in mind, they favored segregation of intellectually Disabled people and restrictions on their reproduction.
 
 This report about the school on Randall’s Island, written by a representative of the Public Education Association, includes two kinds of evidence about the school. First, there is a list of children who had been living on Randall’s Island but whose parents removed them from the school. What can we tell about these children and their families? What can we tell about children’s experiences at the school?
 

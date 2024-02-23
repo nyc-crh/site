@@ -4,9 +4,14 @@ layout: who-governs
 graphicTitle: 1966-1970; Community control demonstration districts
 graphicImg: community-control-graphic.jpg
 graphicImgAlt: Diagram showing the relationship between voters, governing board for a neighborhood, and the school system as part of an experiment
+graphicImgCaption:
+graphicImgDescr: >
+ Diagram titled “Who governs (some) NYC schools? 1966-1970: Community Control Demonstration Districts.” In the city’s three community control demonstration districts, parents and voters elect the members of their local district’s governing board. (Parents who were not eligible to vote in other elections could vote in school board elections). The board has authority to hire a district superintendent, principals, and teachers, who taught the students in the schools in the demonstration district. 
 graphicTitle2:  
 graphicImg2: 
 graphicImgAlt2: 
+graphicImgCaption2:
+graphicImgDescr2:
 draft: false
 featured: community-control-march.jpg
 featuredAlt: Black education advocates march over the Brooklyn Bridge together, arms linked. A large sign reads &quot;Self-Determination for Black Communities, Youth Against War & Fascism&quot;
@@ -26,7 +31,7 @@ But community control advocates felt this authority to hire and fire needed to b
 
 This conflict over teacher hiring led to a city-wide teachers strike that extended over several weeks in the fall of 1968. The strike made it clear that the UFT at the time - if not all of the individual teachers it represented - stood against Black and Latinx community self-determination in education.[^3]
 
-Alongside the controversy, educators, students and others worked to make self-determination a reality in the schools of the community control districts. There were unique challenges and opportunities in each district. Although the community control period was short-lived, it offered examples of what Black, Latinx, and Asian American New Yorkers of the time hoped for their schools. Unfortunately, existing historical research doesn’t provide an answer to the important question of how disabled students experienced schools in the community control districts.
+Alongside the controversy, educators, students and others worked to make self-determination a reality in the schools of the community control districts. There were unique challenges and opportunities in each district. Although the community control period was short-lived, it offered examples of what Black, Latinx, and Asian American New Yorkers of the time hoped for their schools. Unfortunately, existing historical research doesn’t provide an answer to the important question of how Disabled students experienced schools in the community control districts.
 
 [^1]:  Jonna Perrillo, *Uncivil Rights: Teachers, Unions, and Race in the Battle for School Equity* (Chicago: University of Chicago Press, 2012), Christopher Hayes, *The Harlem Uprising: Segregation and Inequality in Postwar New York City* (New York: Columbia University Press, 2021), Ansley T. Erickson and Ernest Morrell, eds., *Educating Harlem: A Century of Schooling and Resistance in a Black Community* (New York: Columbia University Press, 2019), Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016), Max Freedmen and Mark Winston Griffith, *School Colors*, 2019, produced by Brooklyn Deep,[https://www.schoolcolorspodcast.com/](https://www.schoolcolorspodcast.com/).
 

@@ -35,7 +35,7 @@ tags:
 - American Sign language
 - self-determination
 - institutions
-- disabled people
+- Disabled people
 questions: 
 - What were the common misconceptions about deafness in the 19th century?
 - Why did hearing people object to deaf people using sign language? 

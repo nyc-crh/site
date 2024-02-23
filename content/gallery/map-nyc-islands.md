@@ -33,15 +33,15 @@ categories:
 - adult education
 tags: 
 - ableist segregation
-- disabled people
+- Disabled people
 - intellectual disabilities
 - disability labels
 - photography, imagery, & visual representation
-- institutionalization of disabled people and people labeled disabled
+- institutionalization of Disabled people and people labeled disabled
 questions: 
 - What do you notice about the facilities on these islands? How are residents similar? How are they different? How are their needs similar or different?
 - What do you know about these islands? How do you get to them today? How did people get to them in the 1800s?
-- Why do you think some disabled people - like those with intellectual disabilities - were sent to institutions on islands in the river, while others - like deaf students - went to schools in Manhattan?
+- Why do you think some Disabled people - like those with intellectual disabilities - were sent to institutions on islands in the river, while others - like deaf students - went to schools in Manhattan?
 --- 
 
 In the 1830s, the City purchased Randall’s Island to use as a remote burial ground for the poor and an almshouse. Blackwell’s and Wards Islands were purchased later, and more institutions were built on the three islands to house and care for “various indigent, criminal, ill, poor, and disabled populations.”[^1] Journalist W. H. Davenport visited the “insane asylum” and “orphanage and idiot asylum,” publishing his accounts of the residents and life in those facilities.[^2] The articles give a view of the conditions in these early reform institutions. Nondisabled children at the orphanage were taught in classes overseen by the NYC Department of Education. Children with physical disabilities (of which there were many) were taught how to craft products that could be sold. Children at the “idiot asylum” also had classes with a goal of preparing them for “useful occupations.”[^3]

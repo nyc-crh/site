@@ -33,7 +33,7 @@ tags:
 - Willowbrook
 - segregation
 - institutions
-- disabled people
+- Disabled people
 - exclusion from schooling
 questions:
 - What impression does the brochure give you of Willowbrook? 

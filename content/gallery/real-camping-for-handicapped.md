@@ -37,7 +37,7 @@ tags:
 - intellectual disabilities
 - joy
 - architectural barriers
-- disabled people
+- Disabled people
 - autonomous educational spaces
 - athletics
 - photography, imagery, & visual representation
@@ -52,7 +52,7 @@ Camp Jened was located in the northern Catskills, on over 250 acres (which is ab
 
 The camp’s facilities and its geographic location were featured on a brochure that was mailed around the country and to Canada to recruit campers. The brochure was also mailed out across the country and left at doctors clinics and places servicing disabled youth in New York. Other campers also heard about Jened via word of mouth, as former campers and their families appreciated the feeling of inclusion they experienced at the camp.[^2]
 
-At Camp Jened, campers made a lean-to for a pet lamb, performed in theatrical plays, and held “Olympic style” competitions with accessible sports. Some of the staff at Camp Jened were disabled people themselves, and all staff were specially trained in supporting disabled people. There were also tennis courts at the camp and organized swim time periods everyday in the afternoon. The child campers were given a lot of responsibility at the camp, and would sometimes camp out under the stars together. Many reported that time outside was their favorite part.[^3]
+At Camp Jened, campers made a lean-to for a pet lamb, performed in theatrical plays, and held “Olympic style” competitions with accessible sports. Some of the staff at Camp Jened were Disabled people themselves, and all staff were specially trained in supporting Disabled people. There were also tennis courts at the camp and organized swim time periods everyday in the afternoon. The child campers were given a lot of responsibility at the camp, and would sometimes camp out under the stars together. Many reported that time outside was their favorite part.[^3]
 
 [^1]: Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, April 19, 2023, via Zoom; Denise Sherer Jacobson, interviewed by Jasmine Leiser, April 4, 2023, via Zoom; “Camp Jened To Continue Treatments,” *New York Herald Tribune,* April 30, 1953, Collection of Honora Rubenstein.
 

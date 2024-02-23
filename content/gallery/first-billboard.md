@@ -30,7 +30,7 @@ categories:
 - New York State
 - community activism
 tags: 
-- disabled people
+- Disabled people
 - intellectual disabilities
 questions: 
 - When the state left parents with no option for educating their children in public schools, how did they respond? 

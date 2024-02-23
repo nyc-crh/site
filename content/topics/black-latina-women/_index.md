@@ -62,7 +62,7 @@ Histories of the civil rights movement tend to emphasize charismatic male leader
 
 {{% read-more %}}
   
-They also tend to focus on activism against racism and racial segregation more than struggles against ableism and for disability rights. And when they do document disability rights struggles, they tend to focus on white activists and white disabled people rather than Black or Latinx disabled people and activists. Accounts of this history almost always neglect the ways that racism and ableism have been connected over time, and how some activists fought against both together.[^2]
+They also tend to focus on activism against racism and racial segregation more than struggles against ableism and for disability rights. And when they do document disability rights struggles, they tend to focus on white activists and white Disabled people rather than Black or Latinx Disabled people and activists. Accounts of this history almost always neglect the ways that racism and ableism have been connected over time, and how some activists fought against both together.[^2]
 
 Black and Latina women saw that segregation was a problem in their city. They identified a range of racist and ableist policies that caused it, and criticized the culture of poverty theories that blamed Black and Latinx families for their children's educational deficits. They found multiple ways to challenge segregation. They went to court, organized boycotts, demanded policy changes, pushed for new opportunities for their community’s children, advocated for their own children, and much more. Some created educational spaces within their activist groups. Some did this work as parents, some as teachers, and some as community organizers. Some were all three.
 

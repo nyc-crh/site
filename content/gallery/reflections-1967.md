@@ -37,7 +37,7 @@ tags:
 - intellectual disabilities
 - joy
 - architectural barriers
-- disabled people
+- Disabled people
 - autonomous educational spaces
 - athletics
 - curriculum
@@ -58,7 +58,7 @@ Camper Denise Sherer Jacobson kept this copy of “Reflections,” decades after
 
 In “Reflections,” campers provide a catalog of the camp’s activities. Activities included gardening and hiking—which Jened worked to make accessible to those in wheelchairs—and more. Sherer Jacobson’s favorite activities were the ones that emphasized a feeling of community. For many, camp community continued for years, as campers who were part of the “Camp Jened Family” gathered at reunions to celebrate and reminisce.[^4]
 
-Many campers later reflected that Camp Jened, during those months of July and August, felt like the first time they really had a community. The camp’s organizers wanted to encourage this feeling, because they were concerned that many disabled students felt isolated.[^5]
+Many campers later reflected that Camp Jened, during those months of July and August, felt like the first time they really had a community. The camp’s organizers wanted to encourage this feeling, because they were concerned that many Disabled students felt isolated.[^5]
 
 [^1]: “Camp Jened to Continue Treatments,” *New York Herald Tribune*, April 20, 1958,  Collection of Denise Sherer Jacobson.
 

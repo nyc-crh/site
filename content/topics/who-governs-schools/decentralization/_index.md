@@ -5,9 +5,15 @@ graphicTitle: Map of Decentralized Districts
 graphicImg: district-boundaries.jpg
 graphicImgAlt: Map of NYC showing 31 school districts
 graphicImgCaption: Map by Judith Kafka and Cici Matheny.
+graphicImgDescr: >
+ Diagram titled “Who governs NYC schools? Decentralized school governance, 1970-2002.” A flow chart depicts a simplified version of the system, which is very complex. Under this system, voters elect the mayor, who appoints two members of the central board of education. Voters elect borough presidents, who each appoint one member of the central board of education. And voters and parents elect the members of the community school boards. (Here, parents who were not eligible to vote in other elections could vote in school board elections). The central board of education has the power to appoint the Chancellor, who then sets guidelines for the community school boards. The community school boards appoint their district’s superintendent (until 1996, when this power returned to the Chancellor). The district superintendent is in charge of hiring principals and teachers for the district, within the bounds of union contracts. These principals and teachers work in the district’s schools and teach the city’s students. 
+ 
+ The decentralized structure leaves some power in the central board of education, and moves other powers to the community school boards. High schools are not part of community school boards, and District 75 is a separate district for Disabled students under the central board. 
 graphicTitle2: 1970-2002; Decentralized school governance
 graphicImg2: decentralized-gov-graphic.jpg
 graphicImgAlt2: Diagram showing the relationship between voters, the mayor, borough presidents, board of education, district boards, and the rest of the school system 
+graphicImgCaption2:
+graphicImgDescr2: 
 draft: false
 featured: la-escuela-bilingue.jpg
 featuredAlt: Newspaper clipping
@@ -23,7 +29,7 @@ The decentralization law came about in part because the state government had bee
 
 Important new educational ideas emerged in some decentralized districts. Innovations like small schools and bilingual education flourished in decentralized districts with supportive leaders. Some district superintendents fostered major improvements in student learning.[^1] These ideas have continued to shape what New York’s schools look like and how they operate today.
 
-Meanwhile, many parts of New York City’s school system were never decentralized. Some students with disabilities attended schools in their community school districts, but others were assigned separate schools in what became known as District 75. District 75 did not have a particular geographic location, unlike the community school districts. District 75 schools were all over the city, and served only disabled students. Parents in community school districts could elect their local school board, but there was no such board for District 75.
+Meanwhile, many parts of New York City’s school system were never decentralized. Some students with disabilities attended schools in their community school districts, but others were assigned separate schools in what became known as District 75. District 75 did not have a particular geographic location, unlike the community school districts. District 75 schools were all over the city, and served only Disabled students. Parents in community school districts could elect their local school board, but there was no such board for District 75.
 
 Decentralization did not bring strong local democratic participation in school governance. Very few New Yorkers participated in community school district elections, and some district officials and community school district board members used their funds in corrupt or illegal ways. These criticisms, alongside concern about poor levels of achievement in many New York City schools, led the New York State Assembly to revisit the decentralization plan. In 1996, the legislature changed the law to remove some of the community school boards’ main powers, including the power to select and appoint the district superintendent.
 

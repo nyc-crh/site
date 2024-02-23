@@ -33,7 +33,7 @@ tags:
 - Willowbrook
 - segregation
 - institutions
-- disabled people
+- Disabled people
 - intellectual disabilities
 - physical disabilities
 - Black people
@@ -43,7 +43,7 @@ tags:
 - exclusion from schooling
 questions:
 - "One of the hospital officials described Willie Mae Goodman’s activism this way: “… her complaining is good – she keeps us on our toes and she keeps the staff and parents inspired.” How do you think Mrs. Goodman would have felt about this description? Whose job is it to ensure good and safe care and education for Marguerite Goodman?"
-- What are the different ways that Mrs. Goodman worked to improve the lives of her daughter Marguerite and other disabled people?
+- What are the different ways that Mrs. Goodman worked to improve the lives of her daughter Marguerite and other Disabled people?
 --- 
 
 Marguerite Goodman lived at the Gouverneur Hospital in lower Manhattan. Her mother, Willie Mae Goodman, organized to improve Marguerite’s life at Gouverneur. This article by the *New York Daily News* identifies the many ways she and other family members of residents worked to change Gouverneur.
@@ -52,6 +52,6 @@ Goodman was one of the parents who founded the Gouverneur Parents Association. T
 
 The GPA won: Marguerite and other Gouverneur residents were not sent back to Willowbrook.
 
-Today, Willie Mae Goodman continues to advocate for disabled people. She is concerned that some of the new smaller institutional homes that replaced Willowbrook and Gouverneur are becoming “Little Willowbrooks” that are underfunded and impersonal.[^1]
+Today, Willie Mae Goodman continues to advocate for Disabled people. She is concerned that some of the new smaller institutional homes that replaced Willowbrook and Gouverneur are becoming “Little Willowbrooks” that are underfunded and impersonal.[^1]
 
 [^1]: See [Willie Mae Goodman Interview](/topics/black-latina-women/gouverneur-parents-association/willie-mae-goodman)

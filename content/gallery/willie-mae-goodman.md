@@ -35,7 +35,7 @@ tags:
 - Willowbrook
 - segregation
 - institutions
-- disabled people
+- Disabled people
 - intellectual disabilities
 - developmental disabilities
 - physical disabilities

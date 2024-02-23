@@ -35,7 +35,7 @@ tags:
 - photography, imagery, & visual representation
 - Black people
 - queer people
-- disabled people
+- Disabled people
 questions: 
 - What clues does this photo offer about who Audre Lorde was and what she cared about? What do you notice about the space, the items in the space, an Lorde’s physical position? 
 - Assuming that Lorde gave permission for this image to be taken and shared, what does it tell us about how she wanted to be seen in the world? 

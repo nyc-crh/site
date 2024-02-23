@@ -34,7 +34,7 @@ categories:
 - Manhattan
 tags: 
 - Deaf culture
-- disabled people
+- Disabled people
 - joy
 - American Sign language
 - curriculum

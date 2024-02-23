@@ -32,10 +32,10 @@ categories:
 - adult education
 tags: 
 - blindness & low vision
-- institutionalization of disabled people and people labeled disabled
+- institutionalization of Disabled people and people labeled disabled
 - communication
 - ableist segregation
-- disabled people
+- Disabled people
 questions: 
 - Why do you think people would have created housing for only blind men? 
 - What kind of access to communication did blind children have at this time? What kind of access to communication did they not have? 

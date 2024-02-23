@@ -88,6 +88,6 @@ February 1, 1979
 
 [^5]: The defendants in the case are those accused of causing some harm. Here the defendants are people in decision-making positions in education in New York State and New York City.
 
-[^6]: This section outlines the harms that have been done to the named plaintiffs because of the actions of the defendant – New York education officials. Put differently, this section describes the consequences of New York not respecting these disabled students’ rights.
+[^6]: This section outlines the harms that have been done to the named plaintiffs because of the actions of the defendant – New York education officials. Put differently, this section describes the consequences of New York not respecting these Disabled students’ rights.
 
 [^7]: This is an outdated term meant for a person who had one of several possible physical disabilities that may have involved muscle spasms. It is not acceptable for use today.

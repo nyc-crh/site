@@ -33,7 +33,7 @@ tags:
 - protest
 - racial segregation
 - queer people
-- disabled people
+- Disabled people
 - physical disabilities
 - communism
 questions:

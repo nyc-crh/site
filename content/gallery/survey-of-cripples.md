@@ -31,13 +31,13 @@ categories:
 - community activism
 tags: 
 - physical disabilities
-- disabled people
+- Disabled people
 - architectural barriers
 questions: 
 - How many of the city’s physically disabled residents were children in 1920? 
 - Based on the recommendations of the author of this report, what kind of education do you think disabled children might have received at this time? 
 - Why does the author think education was so important for physically disabled children?
-- Sometimes physical disabilities are the result of ongoing environmental or social dangers. What causes physical disabilities in your communities today? What kinds of educational support do disabled people receive?
+- Sometimes physical disabilities are the result of ongoing environmental or social dangers. What causes physical disabilities in your communities today? What kinds of educational support do Disabled people receive?
 --- 
 
 Polio was a mass-disabling event that spanned nearly 50 years between the time the virus appeared in 1908 to the discovery of a vaccine in 1955. Most people who caught polio became sick, but many people died and many others became partially or totally paralyzed. Children were especially likely to catch the virus because their immune systems were less developed. In New York City, a major outbreak took place in 1916, killing more than 2,000 people and disabling thousands more. Many children who survived polio were cared for at home or lived at hospitals.
