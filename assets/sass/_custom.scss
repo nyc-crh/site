@@ -177,7 +177,7 @@ blockquote {
 }
 
 .date {
-    background-color: #bb3f3f;
+    background-color: #993333;
     display: inline-block;
     color: #fff;
     padding: 10px;
@@ -219,7 +219,8 @@ blockquote {
 }
 
 .nav-link {
-    color: #000
+    color: #993333;
+    font-weight: bolder;
 }
 
 .timeline-thumbnail {
@@ -254,7 +255,8 @@ blockquote {
     z-index: 3;
     color: #fff;
     background-color: #993333;
-    border-color: #993333
+    border-color: #993333;
+    text-decoration: underline;
 }
 
 .breadcrumb-item .breadcrumb-item::before {
@@ -641,15 +643,19 @@ sup, sub {
 
 }
 .navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
-    background-color: white;
-    color: #993333;
+    background-color: #993333;
+    color: white;
     font-size: 1.2rem;
+    font-weight: bolder;
 }
 a.nav-item.nav-link{
     font-size: 1.2rem;
 }
 .nav-link:hover, .nav-link:focus {
-    text-decoration: underline;
+    background-color: #be1927;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bolder;
 }
 a.px-2.nav-link:hover {
     text-decoration: none;

@@ -4,14 +4,15 @@
    <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="navbar-nav">
-          <a class="nav-item nav-link active" href="/gallery">Gallery View <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link active" href="/gallery">Gallery View</a>
           <a class="nav-item nav-link" href="/timeline">Timeline View</a>
           <a class="nav-item nav-link" href="/categories">Categories</a>
           <a class="nav-item nav-link" href="/tags">Tags</a>
+          <a class="nav-item nav-link" href="/search">Search</a>
         </div>
     </nav>
+    <h1 class="py-4">{{ .Title }}</h1>
   <div class="row pack mx-auto">
-    <h1 class="py-4"> {{ .Params.title | page.RenderString | safeHTML }}</h2>
     {{ range (.Paginate $.RegularPagesRecursive.ByDate).Pages}}
     <div class="col-sm-2 card m-1">
       <a href="{{ .RelPermalink }}" class="index-anchor">

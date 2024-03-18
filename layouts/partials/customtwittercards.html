@@ -7,6 +7,9 @@
 {{end}}
 <meta name="twitter:title" content="{{ .Title }}"/>
 <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end -}}"/>
+<meta name="twitter:image:alt" content="{{.Params.featuredAlt }}">
+
+
 
 
 {{- /* Deprecate site.Social.twitter in favor of site.Params.social.twitter */}}

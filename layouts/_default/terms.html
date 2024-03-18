@@ -1,12 +1,12 @@
 {{ define "main" }}
 <div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="index">
-  <div class="row pack justify-content-center mx-auto">
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
       <div class="navbar-nav">
         <a class="nav-item nav-link" href="/gallery">Gallery View</a>
         <a class="nav-item nav-link" href="/timeline">Timeline View</a>
         <a class="nav-item nav-link" href="/categories">Categories</a>
-        <a class="nav-item nav-link  active" href="/tags">Tags <span class="sr-only">(current)</span></a>
+        <a class="nav-item nav-link  active" href="/tags">Tags</a>
+        <a class="nav-item nav-link" href="/search">Search</a>
       </div>
   </nav>
   <title>Tags</title>
@@ -16,6 +16,5 @@
       <li><a href="/tags/{{ $value.Name }}">{{ $value.Name | title }}</a>({{ $value.Count }})</li>
      {{ end }}
     </ul>
-  </div>
   </div>
   {{ end }}

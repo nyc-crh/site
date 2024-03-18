@@ -56,7 +56,7 @@ cards:
     url: /topics/black-latina-women/united-bronx-parents
 ---
 
-This collection explores Black and Latina women’s education advocacy in New York City from  from the late 1800s to the present.
+This collection explores Black and Latina women’s education advocacy in New York City from the late 1800s to the present.
   
 Histories of the civil rights movement tend to emphasize charismatic male leadership, like that of Dr. Martin Luther King, Jr., and pay much less attention to Black and Latina women. [^1]
 
