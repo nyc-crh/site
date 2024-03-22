@@ -49,7 +49,7 @@ questions:
 
 {{< in-progress >}}
 
-New York State’s 1969 decentralization law drew strong opposition from many Black and Puerto Rican New Yorkers who had been advocating for community control. United Bronx Parents was based in the South Bronx and had been founded in 1965 by Puerto Rican organizer [Evelina Lopez Antonetty](/topics/black-latina-women/united-bronx-parents/). United Bronx Parents had worked for years to support Puerto Rican mothers in pushing for better education for their children. Community control fit within this agenda.
+New York State’s 1969 decentralization law drew strong opposition from many Black and Puerto Rican New Yorkers who had been advocating for community control. United Bronx Parents was based in the South Bronx and had been founded in 1965 by Puerto Rican organizer [Evelina López Antonetty](/topics/black-latina-women/united-bronx-parents/). United Bronx Parents had worked for years to support Puerto Rican mothers in pushing for better education for their children. Community control fit within this agenda.
 
 Some education officials suggested that decentralization - which would divide New York City into 32 separate community school districts, each with an elected board and some important responsibilities - was like community control.[^1] But Antonetty and others disagreed. They were concerned that too much power remained in the central offices of the Board of Education, and with the United Federation of Teachers, which had at times opposed community control and some of the innovations in [bilingual education](/gallery/la-escuela-bilingue) that United Bronx Parents supported.
 
