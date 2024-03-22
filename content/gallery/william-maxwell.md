@@ -36,7 +36,7 @@ tags:
 - photography, imagery, & visual representation
 - newspapers & the media
 questions: 
-- What do you see in this portrait? What impression of Maxwell do you think this photograph wants to communicate? How does this portrait compare to portraits of other people that you have seen, on this site or elsewhere, including [Elizabeth Cisco](internal link) and [Two Public School Teachers](internal link)? 
+- What do you see in this portrait? What impression of Maxwell do you think this photograph wants to communicate? How does this portrait compare to portraits of other people that you have seen, on this site or elsewhere, including [Elizabeth Cisco](/content/gallery/elizabeth-cisco) and [Two Public School Teachers](/content/gallery/two-public-school-teachers)? 
 - How did William Maxwell’s background and experience relate to common expectations for a civic or government leader in the 1880s, 1890s, and 1900s? Who was excluded by these expectations? 
 - Who are the education leaders in your community today? How do you see them depicted in images like photographs or video?
 --- 
