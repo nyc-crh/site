@@ -39,7 +39,7 @@ tags:
 - democracy
 questions: 
 - Based on Weusi’s previous activism and work in education, why do you think he is opposed to mayoral control of schools?
-- Weusi sees mayoral control as a “dictatorship,” rather than a democratic organization of schools. Why does he view mayoral control as a “dictatorship?” Do you agree or disagree? Why?
+- Weusi sees mayoral control as a “dictatorship,” rather than a democratic organization of schools. Why does he view mayoral control as a “dictatorship”? Do you agree or disagree? Why?
 - How do Weusi’s priorities for education differ from those who supported mayoral control like Joel Klein and Michael Bloomberg?
 --- 
  
