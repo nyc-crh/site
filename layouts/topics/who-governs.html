@@ -15,7 +15,7 @@
                   {{end}}{{ else }}{{ end }}
                   {{ if .Params.graphicImgCaption }}<p class="mt-5"><strong>Caption: </strong>{{ .Params.graphicImgCaption }}</h2>
                    {{end}}
-                   {{ if .Params.graphicImgDescr }}<p class="mt-5"><strong>Detailed image description: </strong>{{ .Params.graphicImgDescr }}</h2>
+                   {{ if .Params.graphicImgDescr }}<p class="mt-5"><strong>Detailed image description: </strong>{{ .Params.graphicImgDescr | page.RenderString | safeHTML }}</h2>
                     {{end}}
                       <div class="row mb-5">
                         {{ if .Params.graphicTitle2 }}<h2 class="py-3 d-print-none">{{ .Params.graphicTitle2 }}</h2>
@@ -25,7 +25,7 @@
                   {{end}}{{ else }}{{ end }}
                   {{ if .Params.graphicImgCaption2 }}<p class="mt-5"><strong>Caption:</strong>{{ .Params.graphicImgCaption2 }}</h2>
                     {{end}}
-                    {{ if .Params.graphicImgDescr2 }}<p class="mt-5"><strong>Detailed image description:</strong>{{ .Params.graphicImgDescr2 }}</h2>
+                    {{ if .Params.graphicImgDescr2 }}<p class="mt-5"><strong>Detailed image description:</strong>{{ .Params.graphicImgDescr2 | page.RenderString | safeHTML }}</h2>
                         {{end}}                
                       </div>
                     </div>

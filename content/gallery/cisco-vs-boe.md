@@ -21,8 +21,8 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: After her husband passes away, Mrs. Elizabeth Cisco continues the fight against segregation in the courts.   
-caption: Samuel and Elizabeth Cisco of Jamaica, New York (which is part of Queens in New York City today) had been challenging school segregation for years. After Mr. Cisco passed away in 1897, Mrs. Cisco continued her struggle with a suit against the school board of Queens. The above document is a selection from the judge’s decision in the case.
+eventname: After her husband passes away, Mrs. Elizabeth Cisco continues the fight against segregation in the courts.
+caption: Samuel and Elizabeth Cisco of Jamaica, New York (which is part of Queens in New York City today) had been challenging school segregation for years. After Mr. Cisco passed away in 1897, Mrs. Cisco continued her struggle with a suit against the school board of Queens. This document is a selection from the judge’s decision in the case.
 archive_source: People ex Rel. Cisco v. School Board, 44 App. Div. 469, 61 N.Y.S. 330 (N.Y. App. Div. 1899)
 source_link: 
 copyright: Government document
