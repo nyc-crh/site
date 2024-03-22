@@ -1,3 +1,4 @@
+<img class="d-none"data-pagefind-meta="image[src], image_alt[alt]" src="/images/{{.Params.featured }}"alt="{{with $.Params.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}"/>
 <p><strong>Caption:</strong> {{ .Params.caption | page.RenderString | safeHTML }}</p>
 {{ if .Params.text }}
 <div class="pb-3 d-print-none"><a href="/plain-text/{{.Params.text}}">Read plain text of document</a></div>{{ end }}
