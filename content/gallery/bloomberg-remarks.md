@@ -41,7 +41,7 @@ tags:
 - democracy
 questions: 
 - Based on this video clip, what do you think Mayor Bloomberg thinks are the purposes of schools? Do you agree or disagree with his view? Why? How do his views compare to others that you have read about? 
-- "Mayor Bloomberg points out that for many Americans \"wages are stagnating\" and that \"too many young people are unable to find the career path [that leads] to the American dream.\" He thinks this is a result of poor performance in education. What other factors might be involved?"
+- "Mayor Bloomberg points out that for many Americans \"wages are stagnating\" and that \"too many young people are unable to find the career path [that leads] to the American Dream.\" He thinks this is a result of poor performance in education. What other factors might be involved?"
 - Why does Mayor Bloomberg associate the growth of charter schools with educational improvements? What evidence does he use to support his answer? Is that evidence convincing to you? Why or why not?
 --- 
 
