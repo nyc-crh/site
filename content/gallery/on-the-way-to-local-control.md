@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 date: 1970-02-20
 displaydate: 
-title: On the Way to School-Community Control, Some Observations, excerpt
+title: On the Way to School - Community Control, Some Observations, excerpt
 author: Preston Wilcox
 citation: >
  "On the Way to School-Community Control, Some Observations, excerpt," Preston Wilcox, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/on-the-way-to-local-control.
@@ -40,8 +40,8 @@ tags:
 - Black people
 questions: 
 - What did Wilcox mean when he argued that predominantly Black schools should be controlled by the local community?
-- Were community-controlled schools as Preston Wilcox understood them similar to the local ward-controlled system of governance in place from the 1840s to 1902. How so? How were they different? 
-- Wilcox compares community control - meaning schools that serve Black students being controlled by the Black community - with centralized schools, which in New York City at the time were led by predominantly white educators and officials. Which of the benefits of community control, in his view, are most appealing to you? Which are you unsure about or have concerns about?
+- Were community-controlled schools as Preston Wilcox understood them similar to the local ward-controlled system of governance in place from the 1840s to 1902? How so? How were they different? 
+- Wilcox compares community control - meaning schools that serve Black students being controlled by the Black community - with centralized schools, which in New York City at the time were led by predominantly white educators and officials. Which of the benefits of community control, in his view, are most appealing to you? Which are you unsure about or do you have concerns about?
 --- 
  
 {{< in-progress >}}
