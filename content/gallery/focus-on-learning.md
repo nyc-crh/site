@@ -23,7 +23,7 @@ relTitle:
 relImg: 
 relImgAlt: 
 relLink: 
-eventname: NYU researchers outline special education reforms
+eventname: NYU researchers outline special education reforms.
 caption: Researchers at NYU were invited by Board of Education Chancellor Ramon Cortines to study special education in the city. Their report discussed integrating special education into general education programs and districts.
 archive_source: Education Resources Information Center
 source_link: https://eric.ed.gov/?id=ED392187
