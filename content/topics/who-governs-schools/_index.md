@@ -30,7 +30,7 @@ cards:
 - title: Mayoral Control
   img: bloomberg-remarks.jpg
   alt: Michael Bloomberg speaks at a conference
-  text: Mayor Bloomberg persuades New York State to grant mayoral control of the city's shools. 
+  text: Mayor Bloomberg persuades New York State to grant mayoral control of the city's schools. 
   btn:
     text:  View primary sources
     url: /topics/who-governs-schools/mayoral-control
@@ -38,7 +38,7 @@ cards:
 
 {{< in-progress >}}
 
-Maybe the most important question in education is: who decides? Choices about what students learn, who attends school where, who teaches: the lives of more than a million students in NYC are shaped by these kinds of decisions each day. New York City and state officials are today debating who makes decisions about New York City schools and how. The history of these debates can help inform our choices in the present.
+Maybe the most important question in education is: who decides? Choices about what students learn, who attends school where, and who teaches: the lives of more than a million students in NYC are shaped by these kinds of decisions each day. New York City and state officials are today debating who makes decisions about New York City schools and how. The history of these debates can help inform our choices in the present.
 
 {{% read-more %}}
 
@@ -50,7 +50,7 @@ New York City’s public school system - established in 1842 - started as a very
 
 In the 1960s, parents and community leaders in a few NYC neighborhoods pushed hard to get more power in their own hands, allowing them to make more decisions about schools serving their children.[^2] That effort helped prompt a new wave of decentralized governance that was in place until 2002, when the current system of mayoral control began. Today, the mayor has a great deal of power over the city’s school system, as he selects the chancellor and controls the majority of seats on the city’s Panel on Education Policy.
 
-This collection explores how, over different periods of time, people have advocated for changes in how New York City governs its schools. It focuses especially on people who argued for change in the system, to understand their arguments and their hopes for new systems of governance. Discussions of school governance were always related to the context of the system at the time: who the students were, where they lived and where they went to school, how fairly, or unfairly, the school system served students in different communities. School governance debates connected to many civil rights and educational justice struggles, and often reflected racist and xenophobic ideas as well as efforts to challenge them.  In both the past and the present, white politicians and education reformers have turned to racist ideas in their arguments about how schools should be governed. Meanwhile Black, Latinx, Indigenous peoples, and immigrant communities of various racial backgrounds have combated these ideas and provided their own alternate visions.
+This collection explores how, over different periods of time, people have advocated for changes in how New York City governs its schools. It focuses especially on people who argued for change in the system, to understand their arguments and their hopes for new systems of governance. Discussions of school governance were always related to the context of the system at the time: who the students were, where they lived and where they went to school, and how fairly, or unfairly, the school system served students in different communities. School governance debates connected to many civil rights and educational justice struggles, and often reflected racist and xenophobic ideas as well as efforts to challenge them.  In both the past and the present, white politicians and education reformers have turned to racist ideas in their arguments about how schools should be governed. Meanwhile Black, Latinx, Indigenous peoples, and immigrant communities of various racial backgrounds have combated these ideas and provided their own alternate visions.
 
 [^1]:  Diane Ravitch, *The Great School Wars: A History of the New York Public Schools* (Baltimore: Johns Hopkins University Press, 1974).
 
