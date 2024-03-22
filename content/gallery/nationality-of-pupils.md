@@ -24,7 +24,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: "The Board of Education counts its pupils by \"nationality.\""
-caption: This is a student profile index card published in 1931 during the late Progressive Era. This document, produced at P.S. 57 in Manhattan, provides an example of how education policy in New York City obsessively documented and methodically constructed racial and ethnic categories for public school students.
+caption: This is a student profile index card published in 1931 during the late Progressive Era. This document, produced at P.S. 57 in Manhattan, provides an example of how education officials in New York City extensively documented and methodically constructed racial and ethnic categories for public school students.
 archive_source: Municipal Archives of the City of New York, Board of Education Papers
 source_link: 
 copyright: Public domain
