@@ -44,7 +44,7 @@ tags:
 questions: 
 - Why did the parents in Ocean Hill-Brownsville want community-controlled schools? 
 - What did the parents' comments demonstrate about their commitment to their children’s education? What did it show about how the city’s schools were operated?
-- Notice that one of the speakers explains that they “do not want Black Power.” What do you think they mean by this? Why do you think they says this in this context? 
+- Notice that one of the speakers explains that they “do not want Black Power.” What do you think they mean by this? Why do you think they say this in this context? 
 --- 
  
 {{< in-progress >}}
