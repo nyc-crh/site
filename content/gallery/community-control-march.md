@@ -45,7 +45,7 @@ tags:
 questions: 
 - What do you see in this photo? What questions do you have? 
 - What do you think “self-determination” means in the context of education? How are “self-determination” and community control of schools connected? 
-- Why would activists choose to participate in a march? How is this kind of protest similar to or different than others, such as boycotts, legal suits, petitions, or others?
+- Why would activists choose to participate in a march? How is this kind of protest similar to or different than others, such as boycotts, legal suits, petitions, etc?
 --- 
  
 {{< in-progress >}}
