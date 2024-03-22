@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 date: 1984-06-13
 displaydate: 
-title: “La Escuela Bilingüe Número 25 del Distrito Escolar 7”
+title: La Escuela Bilingüe Número 25 del Distrito Escolar 7
 author: David Boitano
 citation: >
  “La Escuela Bilingüe Número 25 del Distrito Escolar 7," David Boitano, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/la-escuela-bilingue.
@@ -11,7 +11,7 @@ featured: la-escuela-bilingue.jpg
 featuredAlt: Newspaper clipping
 detailedDescr: 
 embed: 
-embedTitle: “La Escuela Bilingüe Número 25 del Distrito Escolar 7”
+embedTitle: La Escuela Bilingüe Número 25 del Distrito Escolar 7
 text: la-escuela-bilingue
 mapembed: 
 audio: 
@@ -61,4 +61,4 @@ A small Spanish language newspaper, *Noticias del Mundo*, published this article
 
 [^1]: Heather Lewis, *New York City Public Schools from Brownsville to Bloomberg* (New York: Teachers College Press, 2011).
 
-[^2] Laura J. Kaplan, *P.S. 25, South Bronx: Bilingual Education and Community Control* (Ph.D. diss., CUNY Graduate Center, 2018), and available online at [https://academicworks.cuny.edu/gc_etds/2957](https://academicworks.cuny.edu/gc_etds/2957).
+[^2]: Laura J. Kaplan, *P.S. 25, South Bronx: Bilingual Education and Community Control* (Ph.D. diss., CUNY Graduate Center, 2018), and available online at [https://academicworks.cuny.edu/gc_etds/2957](https://academicworks.cuny.edu/gc_etds/2957).
