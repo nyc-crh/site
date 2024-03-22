@@ -46,6 +46,7 @@ questions:
 - How do you think Black and Latinx students and families who supported community control felt when they saw white teachers marching to demonstrate against community control?
 - How are teachers’ interests aligned with or similar to the interests of their students and the communities in which they teach? How are they different? 
 - Who is involved in deciding who teaches at your school? Who do you think should be involved in deciding who teaches at your school? What are the pros and cons of these approaches?
+- What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? Why do you think the NYPD was recording this footage? How does that affect what we can learn from it?
 --- 
  
 {{< in-progress >}}
