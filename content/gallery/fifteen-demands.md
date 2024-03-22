@@ -42,7 +42,7 @@ tags:
 - Black people
 - Latinx people
 questions: 
-- How do these student activist demands compare to those of adult advocating for community control? Where are they similar and where are they different?
+- How do these student activists' demands compare to those of adults advocating for community control? Where are they similar and where are they different?
 - Which of these demands feel like they still apply today, and which no longer apply to schools, in your view? 
 - Do you agree with the 14th demand? Would this structure be helpful in your school? How would it be similar to or different from the governance structure of the [community control districts](/topics/who-governs-schools/community-control)?
 --- 
@@ -51,7 +51,7 @@ questions:
 
 In 1969, high school students across the country were involved in a variety of kinds of activism, including protests against the Vietnam War. New York students also organized in pursuit of justice and equity in their own schools.[^1] Their efforts were separate from, but also influenced by, discussions of self-determination and democracy underway at the time.
 
-This document shows a set of demands that Black and Latinx students working across several New York City high schools prepared. Notice how student concerns overlap with, but in some cases are different than, adult organizers. Student organizers expressed their opposition to the presence and actions of police officers in New York City schools. Some adult organizers, like Preston Wilcox, were concerned about this issue, but many adult organizers at the time did not make it a priority.
+This document shows a set of demands that Black and Latinx students working across several New York City high schools prepared. Notice how student concerns overlap with, but in some cases are different than, adult organizers'. Student organizers expressed their opposition to the presence and actions of police officers in New York City schools. Some adult organizers, like Preston Wilcox, were concerned about this issue, but many adult organizers at the time did not make it a priority.
 
 The students organized a one-day boycott of their high schools, to demonstrate their commitment to these demands.[^2]
 
