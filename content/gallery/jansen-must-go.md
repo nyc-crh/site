@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Harlem community members call on Superintendent William Jansen to resign.
-caption: This flyer encourages parents and others concerned about Black and Puerto Rican children to call for Superintendent William Jansen’s resignation. 
+caption: This flier encourages parents and others concerned about Black and Puerto Rican children to call for Superintendent William Jansen’s resignation. 
 archive_source: Ella Baker Papers, Schomburg Center for Research in Black Culture, New York Public Library 
 source_link: https://archives.nypl.org/scm/20899
 copyright: Public domain. Courtesy of the Schomburg Center for Research in Black Culture.
@@ -38,13 +38,13 @@ tags:
 - zoning & school assignment
 - women's activism
 questions:
-- What feelings do you think this flyer is trying to convey? How does it do so? What choices - about language, about design - help it communicate? 
-- What do you think Parents in Action Against Educational Discrimination wants people to do after seeing the flyer?
+- What feelings do you think this flier is trying to convey? How does it do so? What choices - about language, about design - help it communicate? 
+- What do you think Parents in Action Against Educational Discrimination wants people to do after seeing the flier?
 - How are their arguments about New York City schools similar to or different from others that you have seen in other sources?
 --- 
 
 
-Harlem residents like Ella Baker and Mae Mallory, alongside other parents and community members in Brooklyn and in Jamaica, Queens, pushed the New York City Board of Education to integrate their schools. They [gathered information about conditions in schools serving Black and Latinx students](/gallery/check-your-school-questionnaire), and conducted “street meetings” where parents and interested community members could talk with each other about their concerns.
+Harlem residents like Ella Baker and Mae Mallory, alongside other parents and community members in Brooklyn and in Jamaica, Queens, pushed the New York City Board of Education to integrate their schools. They [gathered](/gallery/check-your-school-questionnaire) information about conditions in schools serving Black and Latinx students, and conducted “street meetings” where parents and interested community members could talk with each other about their concerns.
 
 Ella Baker was one of the founders of the group Parents In Action Against Educational Discrimination. She was a veteran activist who had worked in Harlem, New York City, and across the South for nearly two decades. But she was not interested in becoming a figurehead or a celebrated public voice of a movement. She wanted to organize in a way that helped everyone learn and develop their own leadership skills.[^1] She said that “strong people don’t need strong leaders.”[^2]  
 
