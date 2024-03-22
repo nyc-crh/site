@@ -45,7 +45,7 @@ questions:
 - If you were to work with fellow students to make change, what issue would you work on? What goal would you set? How would joy be part of your work?
 --- 
 
-Benjamin Franklin High School students came together in clubs that celebrated their cultural identities, like Club Borinquen and clubs focused on Italian-American culture. And they worked together on projects to make change in the world, as when they gathered resources to help in the effort to win World War II.
+Benjamin Franklin High School students came together in clubs that celebrated their cultural identities, like Club Borinquen and clubs focused on Italian American culture. And they worked together on projects to make change in the world, as when they gathered resources to help in the effort to win World War II.
 
 But they also took on projects that sought and in some cases won major change in their very local community in East Harlem.
 
