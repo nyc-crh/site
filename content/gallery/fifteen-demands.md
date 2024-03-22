@@ -44,7 +44,7 @@ tags:
 questions: 
 - How do these student activist demands compare to those of adult advocating for community control? Where are they similar and where are they different?
 - Which of these demands feel like they still apply today, and which no longer apply to schools, in your view? 
-- Do you agree with demand #14? Would this structure be helpful in your school? How would it be similar to or different from the governance structure of the [community control districts](/topics/who-governs-schools/community-control)
+- Do you agree with the 14th demand? Would this structure be helpful in your school? How would it be similar to or different from the governance structure of the [community control districts](/topics/who-governs-schools/community-control)?
 --- 
  
 {{< in-progress >}}
@@ -55,6 +55,6 @@ This document shows a set of demands that Black and Latinx students working acro
 
 The students organized a one-day boycott of their high schools, to demonstrate their commitment to these demands.[^2]
 
-[^1]: Noah Remnick, “‘The Police State in Franklin K. Lane’: Desegregation, Student Resistance, and the Carceral Turn at a New York City High School,” *Journal of Urban History* 49, no.5, published online January 11, 2023, 00961442221142060, [https://doi.org/10.1177/00961442221142060](https://doi.org/10.1177/00961442221142060), Neil Phillip Buffett, “Crossing the Line: High School Student Activism, the New York High School Student Union, and the 1968 Ocean Hill-Brownsville Teachers’ Strike,” *Journal of Urban History* 45, no. 6 (December 2018).
+[^1]: Noah Remnick, “‘The Police State in Franklin K. Lane’: Desegregation, Student Resistance, and the Carceral Turn at a New York City High School,” *Journal of Urban History* 49, no. 5, published online January 11, 2023, [https://doi.org/10.1177/00961442221142060](https://doi.org/10.1177/00961442221142060); Neil Phillip Buffett, “Crossing the Line: High School Student Activism, the New York High School Student Union, and the 1968 Ocean Hill-Brownsville Teachers’ Strike,” *Journal of Urban History* 45, no. 6 (December 2018).
 
-[^2]: “One-Day Boycott By HS Students,” *New York Amsterdam News*, May 10, 1969.
+[^2]: “One-Day Boycott by HS Students,” *New York Amsterdam News*, May 10, 1969.
