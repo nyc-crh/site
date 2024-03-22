@@ -35,11 +35,11 @@ cards:
     btn:
       text: View primary sources
       url: /topics/seeking-equity-for-disabled-students
-  - title: How did NYC segregate its schools?
+  - title: How did NYC Segregate its Schools?
     img: brooklyn-holc-map.jpg
     alt: Map of New York City labeled &quot;House Number and Transit Guide&quot;
     text: Coming soon!
-  - title: Who governs NYC schools?
+  - title: Who Governs NYC Schools?
     img: who-governs.jpg
     alt: Political cartoon
     text: "Crucial decisions like what students learn, who attends school where, and who teaches: all of these decisions are part of school governance."
