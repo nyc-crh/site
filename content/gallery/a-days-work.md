@@ -23,8 +23,8 @@ relTitle:
 relImg: 
 relImgAlt: 
 relLink: 
-eventname: A photographer captures children in a NYC public school. 
-caption: Photographer Florence Maynard captured New York City public school students at a time when the city’s schools served many thousands of students who had recently immigrated from Europe, the Caribbean, and other parts of the world. These students were lined up to receive a “commendation,” or award, from their principal.
+eventname: A photographer captures an image of children in a NYC public school. 
+caption: Photographer Florence Maynard captured a group of New York City public school students lined up to receive a “commendation,” or award, from their principal. 
 archive_source: "*The World’s Work*, Vol. 4, No. 6"
 source_link: https://archive.org/details/sim_worlds-work_1902-10_4_6/page/2644/mode/1up
 copyright: Public domain
