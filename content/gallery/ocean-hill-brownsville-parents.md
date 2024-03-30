@@ -47,4 +47,4 @@ questions:
 - Notice that one of the speakers explains that they “do not want Black Power.” What do you think they mean by this? Why do you think they say this in this context? 
 --- 
  
-{{< in-progress >}}
+This video captures New York City parents speaking of their desires for community control of their schools. They wanted to have a voice in public schools in their local community, and to ensure that their students achieved the equal education that was their right. They were motivated, as one parent pointed out, by their experience with poor conditions in their children’s schools. 
