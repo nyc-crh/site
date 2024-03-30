@@ -1,5 +1,5 @@
 --- 
-title: "Inside \"The Founders\": Joel Klein"
+title: "Inside \"The Founders\": Joel Klein," excerpt
 featured: interview-with-joel-klein.jpg
 featuredAlt: Still image from a video interview
 layout: "tc-single"
