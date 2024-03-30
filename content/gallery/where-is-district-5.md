@@ -1,4 +1,4 @@
---- 
+---
 layout: gallery
 draft: false
 date: 1976-11-06
