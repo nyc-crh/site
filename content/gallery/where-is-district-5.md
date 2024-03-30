@@ -44,8 +44,6 @@ questions:
 - Rev. Lucas named several problems with how Harlem’s Community School District 5 was operating under decentralization. Do you think these are problems that suggest ending, or keeping but reforming, decentralization? 
 - Reverend Lucas closes with a comment about Harlem residents not valuing education. Based on evidence from other documents on this site, do you agree with his point?
 --- 
- 
-{{< in-progress >}}
 
 Under decentralized school governance, each community school district had its own school board, and members of that board were elected by parents and voters who lived within the community school district’s boundaries. (It’s important to specify parents *and* voters because parents who were not citizens, and therefore could not vote in most elections, could vote in community school board elections where their children attended school.)
 
