@@ -8,7 +8,7 @@ author:
 citation: >
  "William Maxwell," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/william-maxwell.
 featured: william-maxwell.jpg
-featuredAlt: An older bald white man with a moustache and glasses poses in his office. A caption reads "Mr. William H. Maxwell who recently completed his twenty-fifth year of service as superintendent of schools of the City of New York."
+featuredAlt: An older bald white man with a moustache and glasses poses in his office. The caption reads "Mr. William H. Maxwell who recently completed his twenty-fifth year of service as superintendent of schools of the City of New York."
 detailedDescr: 
 embed: 
 embedTitle: 
