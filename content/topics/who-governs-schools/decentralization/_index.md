@@ -17,12 +17,9 @@ featured: la-escuela-bilingue.jpg
 featuredAlt: Newspaper clipping
 --- 
 
-{{< in-progress >}}
-
 In 1969, New York’s state government passed a new law about how New York City schools would operate. The law used the term “decentralization” to describe the new plan, which would divide the city into 31 (later 32) separate “community school districts.” These district lines are still in effect today.
 
 {{% read-more %}}
-
 The decentralization law came about in part because the state government had been pushing to break up the very large New York City system into smaller (and in their view more manageable) sections for a long time. And it came about because conflict between the teachers union and community control structures left state and city officials feeling like *some* decentralization, but not [community control](/topics/who-governs-schools/community-control/), was desirable. That is, New York’s 1969 school governance plan was a compromise. It was a more decentralized system than [the centralized system in place from 1902-1969](/topics/who-governs-schools/masses-to-experts/). But decentralized community school districts had much less power than the community control districts had. Some community control advocates strongly opposed the new decentralization plan, arguing that it maintained centralized power and was very far from the educational self-determination that Black and Latinx communities had been seeking.
 
 Important new educational ideas emerged in some decentralized districts. Innovations like small schools and bilingual education flourished in decentralized districts with supportive leaders. Some district superintendents fostered major improvements in student learning.[^1] These ideas have continued to shape what New York’s schools look like and how they operate today.
