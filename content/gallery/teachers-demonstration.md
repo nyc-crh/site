@@ -48,10 +48,8 @@ questions:
 - Who is involved in deciding who teaches at your school? Who do you think should be involved in deciding who teaches at your school? What are the pros and cons of these approaches?
 - What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? Why do you think the NYPD was recording this footage? How does that affect what we can learn from it?
 --- 
- 
-{{< in-progress >}}
 
-Ocean Hill-Brownsville, a Black and Puerto Rican community in Brooklyn, was one of the three community control districts in New York City. In the spring of 1968, the district’s governing board decided to fire 19 white teachers. Those teachers were affiliated with the United Federation of Teachers (UFT). The local community board and parents believed the union and its members were actively working against the community-control experiment that they had recently achieved. The UFT argued that the local board did not have the authority to fire those teachers. The UFT called a strike at the start of the next school year.[^1]  
+Ocean Hill-Brownsville, a Black and Puerto Rican community in Brooklyn, was one of the three community control demonstration districts in New York City. In the spring of 1968, the district’s governing board decided to fire 19 white teachers. Those teachers were affiliated with the United Federation of Teachers (UFT). The local community board and parents believed the union and its members were actively working against the community-control experiment that they had recently achieved. The UFT argued that the local board did not have the authority to fire those teachers. The UFT called a strike at the start of the next school year.[^1]  
 
 The strike reached not just Ocean Hill-Brownsville schools, but all New York City public schools. It shut down nearly all of the city’s schools for more than a month, creating great difficulties for families with children.[^2] However, some schools in community control districts and majority Black and Latinx areas stayed open, as some teachers chose to support community control.
 
@@ -70,7 +68,7 @@ Protesters, most of whom appear to be white women teachers, carried signs that r
 - JHS 281 Brooklyn
 - No School is Safe without Due Process
 
-In this context, teachers’ comments about “due process” referred not to our constitutional rights, but to the provisions for how teachers were evaluated and, under some circumstances, could be considered for firing, under the union contract. The Teachers Union felt that the dismissal of the Ocean Hill-Brownsville teachers was a violation of these “due process” rules.
+In this context, teachers’ comments about “due process” referred not to constitutional rights, but to the provisions for how teachers were evaluated and, under some circumstances, could be considered for firing, under the union contract. The Teachers Union felt that the dismissal of the Ocean Hill-Brownsville teachers was a violation of these “due process” rules.
 
 The Ocean Hill-Brownsville struggle raised the question of what role or voice parents should have in school governance compared to what role or voice educators should have. The difficulty of resolving this question helped bring the community control districts to an end.
 
@@ -78,4 +76,4 @@ This film footage was recorded by the New York Police Department’s Surveillanc
 
 [^1]: For more on the history of teacher unionism in New York City, before and after the founding of the United Federation of Teachers, see Jonna Perrillo, *Uncivil Rights: Teachers, Unions, and Race in the Battle for School Equity* (Chicago: University of Chicago Press, 2012).
 
-[^2]: Max Freedmen and Mark Winston Griffith, Season 1, 2019, in *School Colors,* produced by Brooklyn Deep, [https://www.schoolcolorspodcast.com/brooklyn](https://www.schoolcolorspodcast.com/brooklyn); Jerald E. Podair, *The Strike that Changed New York: Blacks, Whites, and the Ocean Hill-Brownsville Crisis* (New Haven: Yale University Press, 2002); Daniel Hiram Perlstein, *Justice, Justice: School Politics and the Eclipse of Liberalism* (New York: Peter Lang, 2004); Charles Isaacs, *Inside Ocean Hill Brownsville: A Teacher’s Education 1968-69* (Albany: State University of New York Press, 2014).
+[^2]: Max Freedman and Mark Winston Griffith, Season 1, 2019, in *School Colors,* produced by Brooklyn Deep, [https://www.schoolcolorspodcast.com/brooklyn](https://www.schoolcolorspodcast.com/brooklyn); Jerald E. Podair, *The Strike that Changed New York: Blacks, Whites, and the Ocean Hill-Brownsville Crisis* (New Haven: Yale University Press, 2002); Daniel Hiram Perlstein, *Justice, Justice: School Politics and the Eclipse of Liberalism* (New York: Peter Lang, 2004); Charles Isaacs, *Inside Ocean Hill Brownsville: A Teacher’s Education 1968-69* (Albany: State University of New York Press, 2014).
