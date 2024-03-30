@@ -42,8 +42,6 @@ questions:
 - What historical figures and special days get attention at your school? How does it matter? 
 - Who decides what topics, events, and people are important to recognize at your school?
 --- 
- 
-{{< in-progress >}}
 
 In the East Harlem community control district, teachers emphasized subjects that connected to their students’ African heritage. They also made use of the school’s physical spaces to recognize Black history, including in programs that welcomed members of the community around the school.[^1]
 
