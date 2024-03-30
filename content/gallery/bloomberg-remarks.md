@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 date: 2012-01-20
 displaydate: 
-title: Mayor Bloomberg Remarks on Education Reform
+title: Mayor Bloomberg Remarks on Education Reform (excerpt)
 author: Michael Bloomberg
 citation: >
  "Mayor Bloomberg Remarks on Education Reform," Michael Bloomberg, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/bloomberg-remarks.
@@ -25,11 +25,11 @@ relTitle:
 relImg: 
 relImgAlt: 
 relLink: 
-eventname: Mayor Bloomberg explains his view of school improvement. 
-caption: Mayor Michael Bloomberg delivered a speech to the United States Conference of Mayors on Education Reform, where he spoke in favor of mayoral control.
+eventname: Mayor Bloomberg explains his view of school improvement under mayoral control. 
+caption: Mayor Michael Bloomberg delivered a speech to the United States Conference of Mayors on education reform. He described what he saw as accomplishments in the first ten years of mayoral control in New York City. 
 archive_source: C-Span
 source_link: https://www.c-span.org/video/?303798-2/mayor-bloomberg-remarks-education-reform
-copyright: Public domain
+copyright: Government document
 categories: 
 - k-12 education
 tags:
@@ -45,4 +45,4 @@ questions:
 - Why does Mayor Bloomberg associate the growth of charter schools with educational improvements? What evidence does he use to support his answer? Is that evidence convincing to you? Why or why not?
 --- 
 
-{{< in-progress >}}
+At the 2012 United States Conference of Mayors, New York City mayor Michael Bloomberg reflected on the first ten years of mayoral control in New York City’s schools. He shared his thoughts on the purposes of schools in the US and his concerns about them. He explained why he believes mayoral control has been a success in New York City. He also highlighted his belief that the expansion of charter schools - which were new schools funded with public dollars but governed by private groups outside of the New York City Department of Education - had improved education in New York City.  
