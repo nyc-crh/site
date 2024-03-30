@@ -18,8 +18,6 @@ featured: grammar-school-33.jpg
 featuredAlt: A stereoscopic slide with photos taken from two slightly different angles shows around 100 schoolgirls seated in a large auditorium with several women teachers in the background.
 --- 
 
-{{< in-progress >}}
-
 New York’s population has often grown via immigration and migration. In the mid-1800s, the city saw large immigrant communities arrive from Ireland and Germany. In the later decades, from the 1880s onward, new waves of immigrants came from Italy, Russia, and other southern and eastern European countries. Immigrants sought relief from political and religious persecution and opportunities for employment that would help them move out of poverty. In the early 20th century, these European immigrants who would later be identified as white were joined by Black people who were immigrating from the Caribbean or migrating from the US South. Between 1870 and 1910, New York's population grew from less than a million people to more than 4.7 million—with foreign immigration making up about 40% of the increase.[^1] Immigrant and migrant New Yorkers expanded the city, helped fill jobs in the growing economy, and provided large numbers of new students who needed to go to school.
 
 {{% read-more %}}
