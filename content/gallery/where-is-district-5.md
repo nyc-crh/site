@@ -1,4 +1,4 @@
---- 
+---
 layout: gallery
 draft: false
 date: 1976-11-06
@@ -25,7 +25,7 @@ relImgAlt:
 relLink: 
 eventname: A Harlem minister criticizes his local school district.
 caption: A Harlem minister explains his criticisms of his local school district. 
-archive_source: *New York Amsterdam News*
+archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission.
 categories: 
