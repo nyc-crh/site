@@ -1,5 +1,5 @@
 --- 
-title: Mayor Bloomberg Remarks on Education Reform
+title: Mayor Bloomberg Remarks on Education Reform (excerpt)
 featured: bloomberg-remarks.jpg
 featuredAlt: Michael Bloomberg speaks at a conference
 layout: "tc-single"
