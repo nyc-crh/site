@@ -1,18 +1,18 @@
 --- 
 title: From the “Masses” to “Experts”
 layout:  who-governs
-graphicTitle: 1873-1896; Centralized school governance, part 1
-graphicImg: centralized-gov-graphic-2.jpg
+graphicTitle: Centralized school governance, part 1<br />1873-1896
+graphicImg: centralized-gov-graphic-1.jpg
 graphicImgAlt: Diagram showing the relationship between voters, the mayor, and the school system 
 graphicImgCaption:
 graphicImgDescr: >
- Centralized Governance, Part 1 - Diagram titled “Who governs NYC schools? 1873-1896: Centralized School Governance, Part 1.” Voters elect the mayor, who appoints the central board of education. The central board appoints a superintendent for the whole school system, and school trustees (who are like school board members) for each local district. The trustees have the power to hire principals and teachers, who lead the schools and teach the students. This model is based on Manhattan and the Bronx, whose schools consolidated in 1873. There may have been differences in school governance in Queens, Brooklyn, and Staten Island. 
-graphicTitle2: 1902-1970; Centralized school governance, part 2
-graphicImg2: centralized-gov-graphic-3.jpg
+ This visualization focuses on who made decisions about hiring in NYC schools. Other areas, like school construction or purchasing materials for schools, may have differed.Voters elect the mayor, who appoints the central board of education. The central board appoints a superintendent for the whole school system, and school trustees (who are like school board members) for each local district. The trustees have the power to hire principals and teachers, who lead the schools and teach the students. This model is based on Manhattan and the Bronx, whose schools consolidated in 1873. There may have been differences in school governance in Queens, Brooklyn, and Staten Island.<br /><br />Note that this model is based on Manhattan and the Bronx. More research is needed to determine if there were variations in Brooklyn, Queens, and Richmond/Staten Island. 
+graphicTitle2: Centralized school governance, part 2<br />1902-1970
+graphicImg2: centralized-gov-graphic-2.jpg
 graphicImgAlt2: Diagram showing the relationship between voters, the mayor, borough presidents, and the school system 
 graphicImgCaption2:
 graphicImgDescr2: >
- Centralized Governance, Part 2 - Diagram titled “Who governs NYC schools? 1902-1970: Centralized School Governance, Part 2.” Voters elect the mayor, who appoints the central board of education. The central board of education appoints district superintendents, who hired principals and teachers. Hiring was shaped in part by the city’s board of examiners, who control the process for becoming a teacher or principal until 1990. After 1961, hiring is governed by the teachers union contract. Voters also elect borough presidents, who appoint local boards of education for each district. These districts had limited power.
+ This visualization focuses on who made decisions about hiring in NYC schools. Other areas, like school construction or purchasing materials for schools, may have differed. Voters elect the mayor, who appoints the central board of education. The central board of education appoints district superintendents, who hired principals and teachers. Hiring was shaped in part by the city’s board of examiners, who control the process for becoming a teacher or principal until 1990. After 1961, hiring is governed by the teachers union contract. Voters also elect borough presidents, who appoint local boards of education for each district. These districts had limited power.<br /><br />\*Hiring is governed by rules established by the Board of Examiners and (after 1961) union contracts.
 draft: false
 featured: grammar-school-33.jpg
 featuredAlt: A stereoscopic slide with photos taken from two slightly different angles shows around 100 schoolgirls seated in a large auditorium with several women teachers in the background.

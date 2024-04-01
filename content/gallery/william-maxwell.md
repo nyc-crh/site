@@ -24,7 +24,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: William Maxwell serves as the first superintendent of NYC schools.
-caption: "A formal portrait of William Maxwell, the first superintendent of the consolidated New York City School system. 
+caption: "A formal portrait of William Maxwell, the first superintendent of the consolidated New York City School system."
 archive_source: "*The World’s Work*, Vol. 25, No. 2"
 source_link:  https://archive.org/details/worldswork25gard/page/126/mode/2up
 copyright: Public domain

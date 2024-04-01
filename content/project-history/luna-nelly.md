@@ -3,7 +3,7 @@ draft: false
 featured: luna-nelson.jpg
 name: Nelly Luna
 org: 
-jobtitle: Project team member
+jobtitle: Associate Director of Youth Engagement
 team: true
 weight: 
 bio: Nelly Luna is a healing centered education strategist. Nelly is the co-founder of youth led education justice group, Teens Take Charge. Nelly worked as a research fellow at Teachers College. They are also the founder of the organization, CREATE. 
