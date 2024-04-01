@@ -41,6 +41,6 @@ questions:
 - What types of disability are represented on this chart? Are they visible or non-visible disabilities?
 --- 
 
-State institutions grew throughout New York state after the founding of the New York Asylum in 1851 and into the mid-20th century. Labeled "inmates," people with different types of disabilities were often counted and categorized alongside “reformatory” inmates, or delinquent youth, some of whom may have also been disabled. Other classes of inmates included “tuberculosis patients,” “Indian children,” and “veterans and widows of veterans.”
+State institutions grew throughout New York State after the founding of the New York Asylum in 1851 and into the mid-20th century. Labeled "inmates," people with different types of disabilities were often counted and categorized alongside “reformatory” inmates, or delinquent youth, some of whom may have also been disabled. Other classes of inmates included “tuberculosis patients,” “Indian children,” and “veterans and widows of veterans.”
 
 Several of these institutions were built in New York City on the underused islands between Manhattan and Brooklyn, segregating people completely from society.

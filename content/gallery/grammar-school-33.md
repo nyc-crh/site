@@ -24,7 +24,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: New York City students gather in a school auditorium. 
-caption: This image depicts a publicly-funded New York City school in the latter half of the 19th century during the early Progressive Era. During this period, schools prioritized serving large numbers of students. 
+caption: A school auditorium full of elementary- or middle-school-aged students. 
 archive_source: New York Public Library Digital Collections
 source_link: https://digitalcollections.nypl.org/items/510d47e1-ebe8-a3d9-e040-e00a18064a99
 copyright: Public domain
@@ -42,6 +42,16 @@ questions:
 - How do the students in the room appear to be similar to one another? Given what you know about who was attending school in New York City at the time, how might they have been different from one another?
 --- 
 
-{{< in-progress >}}
+New York City’s rapid growth in the 1880s and 1890s meant a dramatically increasing number of children in the city, and in schools. Not every child in New York attended school. Starting in 1874 New York State had laws that required students of some ages to attend school, but there was little enforcement and there were loopholes that allowed families to keep children out of school if the family said they needed the child to work. Continued racial segregation by law in some parts of the city limited Black students’ access to some schools. Meanwhile some Disabled children were not considered eligible for schooling, so these young people were excluded from school.[^1]
 
-As typical of this era, teachers oversaw large class sizes of mixed-age students. With an emphasis on order, they even appointed older, more academically successful students to monitor younger or assist lower performing groups. Since Progressive reformers were mostly upper-middle-class and wealthy white residents, they also used their own or others’ private wealth and influence to build and resource schools.
+Despite these limitations on who attended, New York City’s schools and classrooms were bursting at the seams in the late 1800s and early 1900s. Many classrooms had more than fifty students, all seated close together on shared benches rather than individual desks. Having so many students and little space to move limited what kinds of work could happen in classrooms. Lectures, repetition, and memorization were common. Many teachers felt pressured to keep order and follow rules that were designed to move a huge number of students through the schools efficiently, rather than to support students as individuals.[^2] 
+
+Many New York City schools still separated boys and girls in separate classes or entrances, but students were mixed together across many home languages. Although immigrant students often arrived in New York City with little familiarity in English, classes were taught only in English. Older students who had just arrived but spoke little English might be placed, awkwardly, in classrooms with very young students, in hopes that this would give them a chance to learn the language.[^3] 
+
+[^1]: Moses Stambler, “The Effect of Compulsory Education and Child Labor Laws on High School Attendance in New York City, 1898-1917, History of Education Quarterly, Vol. 8, No. 2 (Summer, 1968), pp. 189-214,  https://www.jstor.org/stable/367352. On racial segregation in New York City schools, see the [Elizabeth Cisco materials (on Jamaica, Queens)](https://nyccivilrightshistory.org/topics/black-latina-women/cisco-resisting-segregation/) and Judith Kafka, “The Colored People Have Dispersed,” GothamBlog, September 29, 2020, [https://www.gothamcenter.org/blog/the-colored-people-have-dispersed-race-space-and-schooling-in-late-19th-century-brooklyn](	https://www.gothamcenter.org/blog/the-colored-people-have-dispersed-race-space-and-schooling-in-late-19th-century-brooklyn); Advocates for Children, “Still Waiting, After all These Years: The Inclusion of Children with Special Needs in New York City Public Schools,” November 1, 2001. [https://advocatesforchildren.org/policy-resource/lre-coalition-still-waiting](https://advocatesforchildren.org/policy-resource/lre-coalition-still-waiting/), accessed October 15, 2023. 	
+
+[^2]: David B. Tyack, *The One Best System: A History of American Urban Education* (Cambridge: Harvard University Press, 1974), Diane Ravitch, *The Great School Wars: A History of the New York Public Schools* (Baltimore: Basic Books, 1974)
+
+[^3]: Larry Cuban, How Teachers Taught: Constancy and Change in American Classrooms, 1890-1980 (New York: Longman, 1984); Tyack, *The One Best System;” Ravitch, *The Great School Wars.*
+
+[^4]: Ravitch, *The Great School Wars* 

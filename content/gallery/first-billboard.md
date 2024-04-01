@@ -39,12 +39,12 @@ questions:
 
 Parents of children with intellectual and developmental disabilities were often told to send their children to a state residential school if their IQ scores were low. Schools could set a cut-off for IQ scores and then exclude children with scores below that cut-off from public special education classes.[^1] Some families who had the financial means chose to keep their children at home, but still wanted them to be educated. One such parent, Ann Greenberg, placed a classified ad in the New York Post, looking for parents interested in starting their own day program for children with developmental and intellectual disabilities. Her advertisement (and others like this billboard) eventually attracted hundreds of people looking for similar support for their children.[^2]
 
-The group later named itself  the Association for the Help of Retarded Children (AHRC), and established several chapters in and around New York City. It was one of the earliest organizations of its kind in the country. [^3] They also pushed for community hospitals, group homes for adults, established a siblings network, and worked with the NYC Board of Education and CUNY to expand opportunities for educational access.[^4]
+The group later named itself  the Association for the Help of Retarded Children (AHRC), and established several chapters in and around New York City. It was one of the earliest organizations of its kind in the country.[^3] They also pushed for community hospitals and group homes for adults, established a siblings network, and worked with the NYC Board of Education and CUNY to expand opportunities for educational access.[^4]
 
-[^1]: Margaret A. Winzer. *The History of Special Education: From Isolation to Integration*. (Washington, DC: Gallaudet University Press, 1993), 275.
+[^1]: Margaret A. Winzer, *The History of Special Education: From Isolation to Integration* (Washington, D.C.: Gallaudet University Press, 1993), 275.
 
-[^2]: AHRC New York. “70 Years Later, A Classified Ad Still Changing Lives.” *AHRC New York City* (blog), July 6, 2018. [https://www.ahrcnyc.org/news/70-years-later-a-classified-ad-still-changing-lives/](https://www.ahrcnyc.org/news/70-years-later-a-classified-ad-still-changing-lives/).
+[^2]: AHRC New York, “70 Years Later, A Classified Ad Still Changing Lives,” *AHRC New York City* (blog), July 6, 2018, [https://www.ahrcnyc.org/news/70-years-later-a-classified-ad-still-changing-lives/](https://www.ahrcnyc.org/news/70-years-later-a-classified-ad-still-changing-lives/).
 
 [^3]: Keith Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023), 76.
 
-[^4]: AHRC New York City. “Our History.” *AHRC New York City* (blog). [https://www.ahrcnyc.org/about/history/](https://www.ahrcnyc.org/about/history/) Accessed July 31, 2023.
+[^4]: AHRC New York City, “Our History,” *AHRC New York City* (blog), accessed July 31, 2023, [https://www.ahrcnyc.org/about/history/](https://www.ahrcnyc.org/about/history/).

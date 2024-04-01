@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Judy Heumann reflects on her school experiences in Brooklyn, NY
+eventname: Judy Heumann reflects on her school experiences in Brooklyn, NY.
 caption: Disability rights activist Judy Heumann describes her experience in school in Queens, and her early advocacy to get hired as a teacher.
 archive_source: >
  Judith Heumann, Pioneering Disability Rights Advocate and Leader in Disabled in Action, New York: Center for Independent Living, Berkeley; World Institute on Disability; and the US Department of Education 1960s-2000, an oral history conducted by Susan Brown, David Landes, Jonathan Young in 1998-2001, Regional Oral History Office, The Bancroft Library, University of California, Berkeley, 2004.
@@ -45,15 +45,15 @@ questions:
 - What parts of Judy Heumann’s story feel familiar to you or are similar to your own experience? What parts are different from your own experience?
 --- 
 
-Judith (Judy) Heumann was one of tens of thousands of children who contracted polio during outbreaks in the late 1940s and early 1950s and became physically disabled. As a young girl, she received home instruction until her mother was able to get Judy enrolled at P.S. 219 in Queens when she was in the fourth grade. On her first day of school she rode with other children in a wheelchair-accessible bus. She met the paraprofessionals who would help her and other Disabled students get around the school, use the bathroom, and get physical, occupational, or speech therapy.[^1] She recalled that everyone in her class used braces or a wheelchair, and that they were taught in a basement classroom separated from the “kids upstairs”—the non-Disabled students. Heumann’s special education class resembled the ungraded classes from the early 20th century, and included students aged 9-21.[^2] They were grouped together because of their physical access needs, in spite of a wide range of academic and social needs.
+Judith (Judy) Heumann was one of tens of thousands of children who contracted polio during outbreaks in the late 1940s and early 1950s and became physically disabled. As a young girl, she received home instruction until her mother was able to get Judy enrolled at P.S. 219 in Queens when she was in the fourth grade. On her first day of school she rode with other children in a wheelchair-accessible bus. She met the paraprofessionals who would help her and other Disabled students get around the school, use the bathroom, and get physical, occupational, or speech therapy.[^1] She recalled that everyone in her class used braces or a wheelchair, and that they were taught in a basement classroom separated from the “kids upstairs”—the non-Disabled students. Heumann’s special education class resembled the ungraded classes from the early 20th century, and included students aged 9-21.[^2] They were grouped together because of their physical access needs, in spite of their wide range of academic and social needs.
 
-When she was in elementary school, Heumann felt like teachers had no expectations for Disabled students to continue on to middle school, high school, or college, and that she and her peers were given minimal instruction as a result.[^3] But Judy did make it to high school. She describes in this interview that she felt nervous about the competitiveness of school, and about being measured against nonDisabled students. She recalls “not feeling that comfortable” in high school because it was difficult to get around on her own without a motorized wheelchair. She felt like she never did well on tests because she spent so much of her early education in unstructured environments with low expectations. She found that she was more comfortable around other children with disabilities, especially so at [Camp Jened](/topics/joyful-struggle/camp-jened), where she and other children felt a sense of freedom knowing that their needs were met as “a given.” [^4]
+When she was in elementary school, Heumann felt like teachers had no expectations for Disabled students to continue on to middle school, high school, or college, and that she and her peers were given minimal instruction as a result.[^3] But Judy did make it to high school. She describes in this interview that she felt nervous about the competitiveness of school, and about being measured against nonDisabled students. She recalls “not feeling that comfortable” in high school because it was difficult to get around on her own without a motorized wheelchair. She felt like she never did well on tests because she spent so much of her early education in unstructured environments with low expectations. She found that she was more comfortable around other children with disabilities, especially so at [Camp Jened](/topics/joyful-struggle/camp-jened), where she and other children felt a sense of freedom knowing that their needs were met as “a given.”[^4]
 
 This insecurity also translated to college, when she only applied to schools that didn’t require graduate exams. In college, Heumann decided she wanted to teach second grade and applied for a job with the NYC Board of Education. In order to get her teaching certificate, she was required to have a physical examination in addition to oral and written examinations. In 1970, when her certification was denied because of “paralysis of the lower extremities,” she filed a federal lawsuit charging that the BOE had discriminated against her due to her disability.[^5] The case was settled a few months later and Heumann went on to teach for several years before moving to Berkeley, CA.
 
 In 1972, she helped to found Disabled In Action, a cross-disability organization that has been involved in numerous disability rights struggles in New York City and beyond.[^6]
 
-She argued for the use of the word “disabled” over the term “handicapped” and helped to shape the Americans with Disabilities Act. In 1993, she was appointed as Assistant Secretary for the Office of Special Education and Rehabilitative Services for the U.S. Department of Education, and attended the [Disability Independence Day March](/gallery/disability-independence-day-march) in New York City later that year. Judy spent the rest of her life advocating for people with disabilities, and came to be known as the “mother of the disability rights movement.”[^7]
+She argued for the use of the word “disabled” over the term “handicapped” and helped to shape the Americans with Disabilities Act. In 1993, she was appointed as Assistant Secretary for the Office of Special Education and Rehabilitative Services for the US Department of Education, and attended the [Disability Independence Day March](/gallery/disability-independence-day-march) in New York City later that year. Judy Heumann spent the rest of her life advocating for people with disabilities, and came to be known as the “mother of the disability rights movement.”[^7]
 
 > ## Feeling uncomfortable in high school
 >
@@ -105,16 +105,16 @@ She argued for the use of the word “disabled” over the term “handicapped�
 >
 > **Heumann:**  I don't know. It's the grading, it's the competitiveness, it's feeling very insecure about getting a wrong answer. But I think it really is because I wasn't prepared to do it. I mean,I was in such an unstructured environment for so long. My family, you know, we had a very verbal family where we talked a lot, we interacted a lot, we were pretty aggressive in expressing our views. Definitely we had lots of debates, and that I didn't feel insecure with, but there's just something about the final analysis of, you know, taking these tests that I've never done well on.
 
-[^1]: Judith Heumann. *Being Heumann: An Unrepentant Memoir of a Disability Rights Activist.* (Boston: Beacon Press, 2020), 19-20.
+[^1]: Judith Heumann, *Being Heumann: An Unrepentant Memoir of a Disability Rights Activist,* (Boston: Beacon Press, 2020), 19-20.
 
-[^2]: Heumann. *Being Heumann*, 22.
+[^2]: Heumann, *Being Heumann*, 22.
 
-[^3]: Heumann.  *Being Heumann*, 21.
+[^3]: Heumann,  *Being Heumann*, 21.
 
-[^4]: Heumann.  *Being Heumann*, 27.
+[^4]: Heumann,  *Being Heumann*, 27.
 
-[^5]: Andrew H. Malcolm, “Woman in Wheel Chair Sues to Become Teacher.” *The New York Times*, May 27, 1970, [https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html](https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html).
+[^5]: Andrew H. Malcolm, “Woman in Wheel Chair Sues to Become Teacher,” *New York Times*, May 27, 1970, [https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html](https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html).
 
-[^6]: “Disabled In Action: Interview with Founder Judy Heumann.” n.d. [https://disabledinaction.org/heumann.html](https://disabledinaction.org/heumann.html), Accessed July 24, 2023. .
+[^6]: “Disabled In Action: Interview with Founder Judy Heumann,” accessed July 24, 2023, [https://disabledinaction.org/heumann.html](https://disabledinaction.org/heumann.html). 
 
-[^7]: “Judy Heumann | Advocate For Rights Of Disabled People | Judithheumann.” n.d. *Judy Heumann* (blog). [https://judithheumann.com/project/about/](https://judithheumann.com/project/about/), Accessed July 24, 2023.
+[^7]: “Judy Heumann | Advocate For Rights Of Disabled People | Judithheumann,” *Judy Heumann* (blog), accessed July 24, 2023, [https://judithheumann.com/project/about/](https://judithheumann.com/project/about/).
