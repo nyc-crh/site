@@ -7,8 +7,8 @@ graphicImgAlt: Diagram showing the relationship between voters, governing board 
 graphicImgCaption:
 graphicImgDescr: >
 This visualization focuses on who made decisions about hiring in NYC schools.Other areas, like school construction or purchasing materials for schools, may have differed. In the city’s three community control demonstration districts, parents and voters elect the members of their local district’s governing board. (Parents who were not eligible to vote in other elections could vote in school board elections). The board has authority to hire a district superintendent, principals, and teachers, who taught the students in the schools in the demonstration district. 
-    * This slide describes the governance structure in 3 community control demonstration districts that were located in East Harlem, Ocean Hill-Brownsville, and the Lower East Side. 
-    ** Parents are included here in addition to voters because community members who were not US citizens and thus could not vote in other elections could participate in school board elections. 
+    \* This slide describes the governance structure in 3 community control demonstration districts that were located in East Harlem, Ocean Hill-Brownsville, and the Lower East Side. 
+    \** Parents are included here in addition to voters because community members who were not US citizens and thus could not vote in other elections could participate in school board elections. 
     
     
 graphicTitle2:  
