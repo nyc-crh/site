@@ -52,6 +52,6 @@ This report about the school on Randall’s Island, written by a representative 
 
 Second, there are statements about what the school is doing and what reforms would help it, from the perspective of the author and her organization.  
 
-[^1]: Anne Moore, “The Feeble Minded in New York: A Report Prepared for the Public Education Association of New York,” New York: The Association, 1911.
+[^1]: Anne Moore, “The Feeble Minded in New York: A Report Prepared for the Public Education Association of New York” (New York: The Association, 1911).
 
-[^2]:”Eugenics and Physical Anthropology,” [https://understandingrace.org/history/science/eugenics-and-physical-anthropology-1890-1930/](https://understandingrace.org/history/science/eugenics-and-physical-anthropology-1890-1930), Accessed July 22, 2023.
+[^2]:”Eugenics and Physical Anthropology,” accessed July 22, 2023, [https://understandingrace.org/history/science/eugenics-and-physical-anthropology-1890-1930/](https://understandingrace.org/history/science/eugenics-and-physical-anthropology-1890-1930).
