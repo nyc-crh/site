@@ -50,20 +50,20 @@ Ungraded classes were smaller than standard classes, which typically included at
 
 Elizabeth Farrell believed that all children should have access to public education and disagreed with institutionalization. In the “ungraded classes” disabled children were still segregated into separate classes, both to give more attention to their needs and to keep them away from “normal” children.[^5]
 
-Farrell later found herself defending her classes against criticism from Henry H. Goddard, and Mary Dunphy, who directed state institutions in Vineland, NJ and on Randall’s Island. They argued for complete segregation of disabled children into institutions like theirs.[^6]
+Farrell later found herself defending her classes against criticism from Henry H. Goddard and Mary Dunphy, both of whom directed institutions for disabled people. They argued for complete segregation of disabled children into institutions like theirs.[^6]
 
-By the early 1930s, after an expansion in the use of [intelligence testing](/topics/seeking-equity/tests-labels-and-segregation/) there were 11,000 students in ungraded classes throughout New York City Public Schools.[^7]  
+By the early 1930s, after an expansion in the use of [intelligence testing](/topics/seeking-equity/tests-labels-and-segregation/), there were 11,000 students in ungraded classes throughout New York City public schools.[^7]  
 
 [^1]: Kimberly Kode, *Elizabeth Farrell and the History of Special Education*, Council for Exceptional Children, 33. [https://eric.ed.gov/?id=ED474364](https://eric.ed.gov/?id=ED474364).
 
 [^2]: Kode, *Elizabeth Farrell and the History of Special Education*, 52.
 
-[^3]: “NEW YORK CITY’S SCHOOLS AND WHAT THEY COST; The Greatest System in the Country, Costing Annually Something Like $50,000,000, It Is Unable to Accommodate All Children Seeking an Education Here,” *The New York Times*, [https://www.nytimes.com/1908/09/13/archives/new-york-citys-schools-and-what-they-cost-the-greatest-system-in.html](https://www.nytimes.com/1908/09/13/archives/new-york-citys-schools-and-what-they-cost-the-greatest-system-in.html])
+[^3]: "New York City’s Schools and What They Cost; The Greatest System in the Country, Costing Annually Something Like $50,000,000, It Is Unable to Accomodate All Children Seeking an Education Here,” *The New York Times*, September 13, 1908. 
 
-[^4]: Margaret A. Winzer, *The History of Special Education: From Isolation to Integration.* (Washington, DC: Gallaudet University Press, 1993), 139.
+[^4]: Margaret A. Winzer, *The History of Special Education: From Isolation to Integration* (Washington, DC: Gallaudet University Press, 1993), 139.
 
 [^5]: Kode, *Elizabeth Farrell and the History of Special Education*, 34.
 
-[^6]: Michael M. Gerber, “A History of Special Education,” In *Handbook of Special Education*, 3–15. Routledge, 2017, 11.
+[^6]: Michael M. Gerber, “A History of Special Education,” in *Handbook of Special Education* (New York: Routledge Press, 2017), 3-15.
 
-[^7]: “ELIZABETH FARRELL DIES IN CLEVELAND; Founded Ungraded Class System In This City, Starting With Small Group Now Numbers 11,000.” *The New York Times*, October 17, 1932, [https://www.nytimes.com/1932/10/17/archives/elizabeth-farrell-dies-in-cleveland-founded-ungraded-class-system.html](https://www.nytimes.com/1932/10/17/archives/elizabeth-farrell-dies-in-cleveland-founded-ungraded-class-system.html).
+[^7]: “Elizabeth Farrell Dies in Cleveland; Founded Ungraded Class System in this City in This City, Starting with Small Group Now Numbers 11,000,” New York Times, October 17, 1932, [https://www.nytimes.com/1932/10/17/archives/elizabeth-farrell-dies-in-cleveland-founded-ungraded-class-system.html](https://www.nytimes.com/1932/10/17/archives/elizabeth-farrell-dies-in-cleveland-founded-ungraded-class-system.html).
