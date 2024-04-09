@@ -37,7 +37,7 @@ cards:
 - title: The Right to Communicate
   img: lexington-school-for-deaf.jpg
   alt: Newspaper article with photo of protestors outside of a school holding signs. One reads, "Deaf CEO Now"
-  text: Students who are D/deaf or hard-of-hearing or blind or low-vision need information in accessible formats, and students who are learning English have struggled to communicate.
+  text: Students who are D/deaf or hard of hearing, or blind or low-vision, need information in accessible formats, and students who are learning English have struggled to communicate.
   btn:
     text: View primary sources
     url: /topics/seeking-equity-for-disabled-students/right-to-communicate
