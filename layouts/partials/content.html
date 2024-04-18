@@ -4,7 +4,7 @@
 <div class="pb-3 d-print-none"><a href="/plain-text/{{.Params.text}}">Read plain text of document</a></div>{{ end }}
 {{ if .Params.detailedDescr }}<div class="pb-3 d-print-none"><a href="/plain-text/{{.Params.detailedDescr}}">Detailed image description</a></div>{{ end }}
 {{ if .Params.audioTranscript }}<div class="pb-3 d-print-none"><a href="/plain-text/{{.Params.audioTranscript}}" >Audio transcript</a></div>{{ end }}
-<div class = "d-flex justify-content-center">
+<div class="d-flex justify-content-center" style="height: 700px;">
     {{$video:=.Params.video}}
     {{with or .Params.video .Params.embed}}
       {{with $video}}
