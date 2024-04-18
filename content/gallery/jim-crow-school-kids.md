@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: "Queens parents criticize assignment of Black students to classes for the \"mentally retarded\"" 
+eventname: "Queens parents criticize assignment of Black students to classes for the \"mentally retarded\"." 
 caption: Black parents in South Jamaica, Queens criticized the assignment of Black children to CRMD classes. 
 archive_source: "*New York Amsterdam News*"
 source_link: 
@@ -42,7 +42,7 @@ tags:
 questions: 
 - What did parents report was happening to their students? Why did they think this was happening? 
 - >
- What does the term “Jim Crow” mean? Why do you think parents are using it here? 
+ What does the term “Jim Crow” mean? Why do you think parents were using it here? 
 - >
  What criticisms did the parents have of intelligence tests? What criticisms did they have of how the tests were used in their children’s schools? How did their criticisms compare to those made by [W.E.B. DuBois](/gallery/race-intelligence), [Horace Mann Bond](/topics/seeking-equity/tests-labels-and-segregation), and [Elizabeth Farrell](/gallery/elizabeth-farrell)? 
 - What do you think of the parents’ recommendations? Do you think these ideas would make for a fair educational environment for disabled and nonDisabled students?
@@ -50,7 +50,7 @@ questions:
 
 By the 1940s, New York City schools frequently used intelligence tests to decide which kind of schooling a child needed. The difference of a few points on a single test could mean placement or exclusion from a regular class with academic instruction. CRMD classes - or classes for “children with retarded mental development” as they were called by the Board of Education - had much lower expectations for students and too frequently had teachers who were not trained to support students with intellectual and other disabilities.[^1]
 
-A group of Black parents became concerned about the assignment of Black children to CRMD classes in the schools of South Jamaica in Queens. They felt that the assignments were not accurate and they were harmful, because students could be disabled by classes that did not offer them academic opportunities like their peers. Working with the local Better Schools Coordinating Council, the parents publicly criticized the schools and demanded change and took their concerns to the press. They also secured their own intelligence tests, given by noted psychologist Dr. Mamie Phipps Clark. The results showed that half of the students scored above the Board of Education’s cutoff for CRMD classes.[^2]
+A group of Black parents became concerned about the assignment of Black children to CRMD classes in the schools of South Jamaica in Queens. They felt that the assignments were not accurate and they were harmful, because students could be disabled by classes that did not offer them academic opportunities like their peers. Working with the local Better Schools Coordinating Council, the parents publicly criticized the schools, demanded change, and took their concerns to the press. They also secured their own intelligence tests, given by noted psychologist Dr. Mamie Phipps Clark. The results showed that half of the students scored above the Board of Education’s cutoff for CRMD classes.[^2]
 
 In an article published a week after this one, also in the *Amsterdam News*, Board of Education officials denied some of the charges but did agree to test students more frequently, and to involve more knowledgeable professionals in deciding whether a child would be placed in a CMRD class.[^3]  
 
@@ -58,7 +58,7 @@ While the parents of South Jamaica won some changes, the patterns that they were
 
 [^1]: Keith Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023). As Mayes explains, most school systems used the term “educable mentally retarded” instead of CRMD, and that term remains in use in some settings. He also emphasizes that the cut-off line for categories of disability like CRMD were shifting and arbitrary. See also Jim Haskins, *Diary of a Harlem Schoolteacher* (New York: New Press, 1979).
 
-[^2]: Curtis, Constance. “School Reshapes Course for Retarded Kids.” *New York Amsterdam News*, June 1, 1946.
+[^2]: Constance Curtis, “School Reshapes Course for Retarded Kids,” *New York Amsterdam News*, June 1, 1946.
 
 [^3]: Curtis, “School Reshapes Course for Retarded Kids.”
 

@@ -4,10 +4,11 @@
 <div class="pb-3 d-print-none"><a href="/plain-text/{{.Params.text}}">Read plain text of document</a></div>{{ end }}
 {{ if .Params.detailedDescr }}<div class="pb-3 d-print-none"><a href="/plain-text/{{.Params.detailedDescr}}">Detailed image description</a></div>{{ end }}
 {{ if .Params.audioTranscript }}<div class="pb-3 d-print-none"><a href="/plain-text/{{.Params.audioTranscript}}" >Audio transcript</a></div>{{ end }}
-<div class="d-flex justify-content-center" style="height: 700px;">
-    {{$video:=.Params.video}}
-    {{with or .Params.video .Params.embed}}
-      {{with $video}}
+<div class="d-flex justify-content-center">
+    {{$video:= .Params.video}}
+    {{$audio:= .Params.audio}}
+    {{with or .Params.video .Params.embed .Params.audio}}
+    {{with $video}}
       {{if eq $video.srcType "youtube"}}
         <iframe loading="lazy" width="854" height="480" class="responsive-figure-fullwidth mx-auto" src="https://www.youtube.com/embed/{{.srcLink}}" title="{{with $.Params.videoTitle}}{{ . }}{{else}}{{$.Title}}{{end}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     {{else if eq $video.srcType "vimeo"}} 
@@ -18,13 +19,17 @@
         This browser doesn't support video tag.
      </video>
      {{end}}
+     {{else}}
+     {{with $audio}}
+      {{ if eq $audio.srcType "apple" }}
+        <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="{{.srcLink}}" title="{{with $.Params.audioTitle}}{{ . }}{{else}}{{$.Title}}{{end}}"></iframe>
+    {{else if eq $audio.srcType "other"}} This browser doesn't support this player{{end}}
      {{else}} 
      {{ $pdf := resources.Get (printf "/images/%s" $.Params.embed)}}
             <iframe title="{{with $.Params.embedTitle}}{{ . }}{{else}}{{$.Title}}{{end}}" src="{{$pdf.RelPermalink}}"
                 width="100%" height="1200px" class="d-print-none"></iframe>
-     {{end}}
+     {{end}}{{end}}
      {{else}}
-     
      {{ with .Params.featured }}
      {{ $image := resources.Get (printf "/images/%s" .)}}
          <img data-pagefind-meta="image[src], image_alt[alt]" src="{{ ($image).RelPermalink }}"

@@ -38,7 +38,7 @@ tags:
 - curriculum
 - North & South
 - multiracial organizing
-- Asian-American people
+- Asian American people
 - organizing
 questions: 
 - Why is education important to the Black Panther Party?

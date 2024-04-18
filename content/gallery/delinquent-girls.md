@@ -4,9 +4,9 @@ draft: false
 date: 1911-01-01
 displaydate: "1911"
 title: Delinquent Girls Tested by the Binet Scale, excerpt
-author: Henry H. Goddard and Helen F. Hall
+author: Henry H. Goddard and Helen F. Hill
 citation: >
- "Delinquent Girls Tested by the Binet Scale, excerpt," Henry H. Goddard and Helen F. Hall, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/delinquent-girls.
+ "Delinquent Girls Tested by the Binet Scale, excerpt," Henry H. Goddard and Helen F. Hill, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/delinquent-girls.
 featured: delinquent-girls.jpg
 featuredAlt: Report cover page
 detailedDescription: 
@@ -40,13 +40,13 @@ tags:
 - ableist segregation
 - exclusion from schooling
 questions: 
-- Why do Goddard and Hall propose giving these “delinquent girls” an intelligence test? 
+- Why do Goddard and Hill propose giving these “delinquent girls” an intelligence test? 
 - >
  What factors seem to be involved in deciding a girl is “delinquent” and “feeble minded”? What are the ideas of “normal” that these girls are being compared to? 
 - Who do the authors think deserve to live with their communities, to go to school with peers, and to have families? 
 - Who do you think the authors are seeking to help? 
 - >
- What do you think Goddard and Hall mean by “this race,” in their last sentence? 
+ What do you think Goddard and Hill mean by “this race,” in their last sentence? 
 - What connections to the present - to ideas of intelligence, ability, gender, sexuality, criminality, or more - do you see in these sources?
 --- 
 
@@ -54,11 +54,11 @@ Henry Goddard was a psychologist living and working in New Jersey. He was the he
 
 Goddard and colleagues tested 56 of the girls at one reform school - where girls were sent by the courts - and concluded that 52 of them were “feeble minded,” or intellectually disabled.
 
-Goddart wrote: 
+Goddard and his colleague Helen Hill wrote: 
 
 > Perhaps nowhere among our social problems can one be found which is so discouraging as that of the wayward girl. As one looks over the inmates of our reformatories and sees the group of healthy, physically well-developed young women, who in many instances are quite attractive, and are potentially capable of much that is good, but who do not conform to the conventions of society, who have committed perhaps the worst offense that a young girl can, one is compelled to say, almost with a groan, "Cannot something be done to save such girls?" With the advent of the Binet tests, and the increased confidence which their growing use has inculcated, we were led to ask the question, “Is it possible that we can determine by these tests whether these wayward girls are responsible, or are they of a high grade defective class who do as they do because they have not mind enough to do differently?"
 
-The text includes short profiles of “delinquent girls” as perceived by Goddard and the institution where they were living:
+The text includes short profiles of “delinquent girls” as perceived by Goddard and Hill and the institution where they were living:
 
 > No. 8 is 19 years old, tests [mental age](/gallery/binet-simon) of 9. Father intemperate, abusive. Never supported family. Mother intemperate, never kept house for family. One brother in City Orphanage. Two brothers intemperate and worthless. One sister married to worthless colored man. Girl's history: Immoral, often staying out all night. Smoking cigarettes, swearing, etc. Stubborn, willful and thoughtless. Likes little children and is fond of playing with dolls. School work sometimes learned rather quickly, other times work was very poor and seemed to go backward, rather than forward. Careless about clothing. Was put in good family. Was very careless, untidy and dishonest.
 >

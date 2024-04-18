@@ -29,7 +29,7 @@ archive_source: Preston Wilcox Papers
 source_link: Preston Wilcox Papers
 copyright: Under copyright
 categories: 
-- k-12 education
+- K-12 education
 - community activism
 tags: 
 - democracy

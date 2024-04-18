@@ -1,12 +1,12 @@
 --- 
 title: The Push for Community Control
 layout: who-governs
-graphicTitle: 1966-1970; Community control demonstration districts
+graphicTitle: "Community control demonstration districts*<br />1966-1970"
 graphicImg: community-control-graphic.jpg
 graphicImgAlt: Diagram showing the relationship between voters, governing board for a neighborhood, and the school system as part of an experiment
 graphicImgCaption:
 graphicImgDescr: >
- Diagram titled “Who governs (some) NYC schools? 1966-1970: Community Control Demonstration Districts.” In the city’s three community control demonstration districts, parents and voters elect the members of their local district’s governing board. (Parents who were not eligible to vote in other elections could vote in school board elections). The board has authority to hire a district superintendent, principals, and teachers, who taught the students in the schools in the demonstration district. 
+ This visualization focuses on who made decisions about hiring in NYC schools. Other areas, like school construction or purchasing materials for schools, may have differed. In the city’s three community control demonstration districts, parents and voters elect the members of their local district’s governing board. (Parents who were not eligible to vote in other elections could vote in school board elections). The board has authority to hire a district superintendent, principals, and teachers, who taught the students in the schools in the demonstration district.<br /><br />\* This slide describes the governance structure in 3 community control demonstration districts that were located in East Harlem, Ocean Hill-Brownsville, and the Lower East Side.<br />\** Parents are included here in addition to voters because community members who were not US citizens and thus could not vote in other elections could participate in school board elections
 graphicTitle2:  
 graphicImg2: 
 graphicImgAlt2: 

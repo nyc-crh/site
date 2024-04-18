@@ -23,8 +23,8 @@ relTitle:
 relImg: 
 relImgAlt: 
 relLink: 
-eventname: A political cartoon captures anti-immigrant attitudes.
-caption: This is a political cartoon published in 1903 during the Progressive Era, when immigration accounted for much of the new population growth in New York City. Many immigrants came from Europe by boat in search of economic and social opportunities spanning decades. This document clearly targeted the city’s local white audience by presenting strong anti-immigration, white supremacist, and American patriotic rhetoric, each as socially acceptable ideas. 
+eventname: A political cartoon depicts anti-immigrant attitudes.
+caption: A political cartoon depicts anti-immigrant attitudes.
 archive_source: "*Judge* Magazine"
 source_link: https://shec.ashp.cuny.edu/files/original/d_4725_watermarked150_3acbee8f7e.jpg 
 copyright: Public domain
@@ -37,8 +37,12 @@ tags:
 - newspapers & the media
 questions: 
 - What do you think the message of this political cartoon is? Who do you think it is trying to speak to? 
-- What idea of the United States does this political cartoon communicate? What relationship does it suggest between US patriotism and immigration? 
+- What idea of the United States does this political cartoon communicate? What relationship does it suggest between US patriotism (represented by Uncle Sam) and immigration? What does the caption say about how immigration now - at the time of the cartoon - is different from immigration in previous periods? 
 - How could the anti-immigrant or xenophobic sentiment depicted in this cartoon have mattered for school governance in New York City? How could it affect how people thought about who should be in charge of a system with a large majority of immigrant students and a predominantly white and Protestant Christian political elite?
 --- 
 
-{{< in-progress >}}
+Immigrants helped New York City grow and prosper in the late 1800s and early 1900s, yet they faced many anti-immigrant attitudes in their new home city. Negative attitudes towards immigrants increased as more people from Southern and Eastern European countries (like Italy and Russia), rather than from Northern and Western countries (like Ireland and Germany), began to arrive. Many New Yorkers perceived these new immigrants to be very culturally, religiously, and at times racially different than themselves. Notice the choices that cartoonist Louis Dalrymple made in this cartoon. What people or groups does he include, and how does he show them visually? What text does he include, and what message does this send? What does the caption say? 
+
+Some New Yorkers welcomed new immigrants, but others - including some who had power to shape the city’s school system - worried that immigrants were a threat to US society. Immigrants would become citizens, and then exercise their rights to vote and participate in US democracy. Immigrants would vote for the local school board, or even run for elected office themselves. Reformers argued that the city should move power away from local elected boards and to experts and others appointed by the mayor. In doing so, they took power away from local voters, including many immigrants, to influence the schools that their children attended and that were in their own communities.[^1] 
+
+[^1]: David B. Tyack, *The One Best System: A History of American Urban Education* (Cambridge: Harvard University Press, 1974).
