@@ -30,7 +30,7 @@ cards:
 - title: 'Fighting to Fit In: Physical Access'
   img: sofedup-handbook.jpg
   alt: The cover of the handbook features an illustration of a man sitting in a wheelchair facing forward with arms outstretched to the side. His hands push apart the words, “handi” and “capped.”
-  text: One of the most persistent problems for physically Disabled students seeking education is the lack of wheelchair accessible schools. 
+  text: One of the most persistent problems for physically Disabled students seeking education is the lack of wheelchair-accessible schools. 
   btn:
     text: View primary sources
     url: /topics/seeking-equity-for-disabled-students/physical-access
