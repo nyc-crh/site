@@ -9,7 +9,7 @@ cards:
 - title: The Beginnings of Special Education
   img: idiot-school-randalls-island.jpg
   alt: Illustration of a 19th Century classroom
-  text: The earliest schools segregated disabled children in hopes they could attend school with nonDisabled students or fit in with society as adults.
+  text: The earliest schools segregated disabled children in hopes they could attend school with non-disabled students or fit in with society as adults.
   btn:
     text: View primary sources
     url: /topics/seeking-equity-for-disabled-students/beginnings-of-special-ed
