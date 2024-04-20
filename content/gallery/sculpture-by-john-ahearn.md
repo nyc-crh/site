@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: South Bronx teens jump Double Dutch
+eventname: South Bronx teens jump Double Dutch.
 caption: Sculptors John Ahearn and Rigoberto Torres made a sculpture of girls jumping Double Dutch and mounted it on a building in the South Bronx.
 archive_source: Division of Rare and Manuscript Collections, Cornell University Library, Joe Conzo Jr. Archive
 source_link: https://digital.library.cornell.edu/catalog/ss:1406035
