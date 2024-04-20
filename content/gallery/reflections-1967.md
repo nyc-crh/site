@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Campers at Camp Jened wrote about their experiences.
+eventname: Campers at Camp Jened write about their experiences.
 caption: In “Reflections,” a newspaper produced at Camp Jened, campers told each other about their experiences at camp.
 archive_source: From the papers of Denise Sherer Jacobson.
 source_link: 
