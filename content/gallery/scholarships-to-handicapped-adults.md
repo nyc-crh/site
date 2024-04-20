@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 date: 1958-03-01
 displaydate: "undated"
-title: Camp Scholarships Will be Awarded to Handicapped Adults
+title: Camp Scholarships Will Be Awarded to Handicapped Adults
 author: United Cerebral Palsy of New York
 citation: >
  "Camp Scholarships Will be Awarded to Handicapped Adults," United Cerebral Palsy of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/scholarships-to-handicapped-adults.
@@ -52,6 +52,6 @@ Camp Jened was a private camp, and it charged campers’ families for attendance
 
 Once Camp Jened gained more publicity and recognition, some donors provided funds for scholarships. United Cerebral Palsy helped found and support Camp Jened. Their newsletter contained this article, which let other disabled adults and families of disabled children know about Camp Jened and describes scholarships for campers.[^2]
 
-[^1]: United Cerebral Palsy, “Camp Scholarships Will Be Awarded to Handicapped Adults,” Collection of Honora Rubenstein; im LeBrech, interviewed by Dr. Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, March 29, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, April 19, 2023, via Zoom.
+[^1]: United Cerebral Palsy, “Camp Scholarships Will Be Awarded to Handicapped Adults,” Collection of Honora Rubenstein; Jim LeBrecht, interviewed by Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, March 29, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, April 19, 2023, via Zoom.
 
-[^2]: United Cerebral Palsy, “Camp Scholarships Will Be Awarded”; Denise Sherer Jacobson, interviewed by Jasmine Leiser, April 4, 2023, via Zoom;; The News Published By Ruth Kirzon Group for Handicapped Children, Inc., Florence Vogel, “Excellent Results Reported By Camp Committee,” *The News,” published by Ruth Kirzon Group for Handicapped Children, Collection of Honora Rubenstein.
+[^2]: United Cerebral Palsy, “Camp Scholarships Will Be Awarded”; Denise Sherer Jacobson, interviewed by Jasmine Leiser, April 4, 2023, via Zoom; Florence Vogel, “Excellent Results Reported By Camp Committee,” *The News,* published by Ruth Kirzon Group for Handicapped Children, Collection of Honora Rubenstein.
