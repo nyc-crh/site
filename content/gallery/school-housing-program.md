@@ -51,4 +51,4 @@ But they also took on projects that sought and in some cases won major change in
 
 East Harlem housing was crowded, and often the buildings were in poor repair after decades of heavy use and insufficient repair. Students recognized this problem and began to document it via community study. They conducted surveys, drew maps, and talked with local politicians. In the 1930s and 1940s, programs that were part of the federal New Deal created new opportunities for cities to build public housing. Students organized rallies and put pressure on their local congressman to support new public housing for East Harlem. And he did. Public housing built in the area provided better ventilation, more light, and often more room than previous tenement apartments.[^1]  
 
-[^1]: Michael C. Johanek and John Puckett, *Leonard Covello and the Making of Benjamin Franklin High School : Education as If Citizenship Mattered* (Philadelphia: Temple University Press, 2007).
+[^1]: Michael C. Johanek and John Puckett, *Leonard Covello and the Making of Benjamin Franklin High School: Education as If Citizenship Mattered* (Philadelphia: Temple University Press, 2007).
