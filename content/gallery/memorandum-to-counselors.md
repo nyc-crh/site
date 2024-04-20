@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Camp Jened helped its counselors learn to support disabled campers.
+eventname: Camp Jened helps its counselors learn to support disabled campers.
 caption: Counselors at Camp Jened received this guidance before they started their work at the camp. There were both disabled and non-disabled counselors at Jened.
 archive_source: Papers of Honora Rubenstein
 source_link: 
@@ -41,7 +41,7 @@ tags:
 - athletics
 - curriculum
 questions: 
-- What can you tell from the document about howCamp Jened leaders wanted their  counselors to think about their campers? What do the words and images convey about what kind of experience they wanted the campers to have? 
+- What can you tell from the document about how Camp Jened leaders wanted their  counselors to think about their campers? What do the words and images convey about what kind of experience they wanted the campers to have? 
 - Do you see joy in this document? Do you see struggle? 
 - Camp Jened employed both disabled counselors and non-disabled counselors. Camp Jened recognized that counselors needed to be prepared to work well with disabled campers. If you have a disability, what do you want the adults who work with you to know about how best to support you?
 --- 
@@ -56,8 +56,8 @@ The number of campers varied. In 1955, there were 65 child campers and 25 adult 
 
 [^1]: Memorandum to Counselors, Collection of Honora Rubenstein.
 
-[^2]: “Camp Jened To Continue Treatments,” *New York Herald Tribune*, April 30, 1953, Collection of Honora Rubenstein
+[^2]: “Camp Jened To Continue Treatments,” *New York Herald Tribune*, April 30, 1953, Collection of Honora Rubenstein.
 
-[^3]: “Disabled Kids, Adults Attend Upstate Camp,” *Sunday News New York’s Picture Newspaper,* May 1, 1955, Collection of Honora Rubenstein.
+[^3]: “Disabled Kids, Adults Attend Upstate Camp,” *Sunday News/New York’s Picture Newspaper,* May 1, 1955, Collection of Honora Rubenstein.
 
-[^4]: “Camp Jened To Continue Treatments,” *New York Herald Tribune*; “Disabled Kids, Adults Attend Upstate Camp,” *Sunday News New York’s Picture Newspaper*; Jim LeBrecht, interviewed by Dr. Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, March 29, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, April 19, 2023, via Zoom; Reunion Remarks, Collection of Honora Rubenstein; Steven L. Sles, “A Haven for the Handicapped,” January 18, 1954, Collection of Honora Rubenstein; United Cerebral Palsy, “Camp Scholarships Will Be Awarded to Handicapped Adults,”Collection of Honora Rubenstein.
+[^4]: “Camp Jened To Continue Treatments,” *New York Herald Tribune*; “Disabled Kids, Adults Attend Upstate Camp,” *Sunday News/New York’s Picture Newspaper*; Jim LeBrecht, interviewed by Dr. Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, March 29, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, April 19, 2023, via Zoom; Reunion Remarks, Collection of Honora Rubenstein; Steven L. Sles, “A Haven for the Handicapped,” January 18, 1954, Collection of Honora Rubenstein; United Cerebral Palsy, “Camp Scholarships Will Be Awarded to Handicapped Adults,” Collection of Honora Rubenstein.
