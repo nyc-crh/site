@@ -36,7 +36,7 @@ tags:
 - Deaf culture
 - Disabled people
 - joy
-- American Sign language
+- American Sign Language
 - curriculum
 - self-advocacy
 - autonomous educational spaces
@@ -47,7 +47,7 @@ questions:
 - Who should decide how young people communicate at school—students, teachers, parents, or someone else?
 - How do you see joy in this interview? How do you see politics or struggle? 
 - >
- Does Samuels’ story remind you of places in your own life? If so, why? (Try to explain using a “because” statement, like “This reminds me of _______ because ________.”
+ Does Samuels’ story remind you of places in your own life? If so, why? (Try to explain using a “because” statement, like “This reminds me of _______ because ________.”)
 --- 
 
 **Transcript:** At school, when we interacted, initially, signing was not allowed, that we’d be punished if we used signing. We only signed when we knew the teachers weren’t looking. We hid our signs. But when we were outside of school, we used sign freely. When groups of us went on trips, we signed. So, for me, I didn’t sleep at the school. I commuted back and forth between home and school on the train and it was a lot of fun. When class was over, at 2:30, we couldn’t wait to get together and get on the train. You know, in New York City, we had an area where we would all meet that was well known, under the 14th Street train. We’d gather and converse and just have a great time. I enjoyed that so much. We didn’t have student clubs or groups, so that time at 14th Street was what we did. We met as a group and had a good time together. Also, we did have sports teams. They were run by Deaf clubs. So, interacting and spending time in that setting exposed me to many great things.
