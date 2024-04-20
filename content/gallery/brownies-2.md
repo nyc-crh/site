@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: "*The Brownie’s Book* prints its second issue."
+eventname: "*The Brownies' Book* prints its second issue."
 caption: For their second issue, *The Brownies’ Book* chose a sculpture of a Black child for the cover. The title reads “I am an American Citizen.”
 archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
@@ -44,12 +44,12 @@ tags:
 questions: 
 - What words would you use to describe the sculpture? What feelings does it bring up for you? 
 - Why do you think the editors gave the cover the title “I am an American Citizen”? 
-- The *Brownies’ Book* was created in part to oppose dominant racist images of Black people at the time. It was also created to encourage Black children to be politically aware and engaged. How does this cover reflect those goals? "
+- The *Brownies’ Book* was created in part to oppose dominant racist images of Black people at the time. It was also created to encourage Black children to be politically aware and engaged. How does this cover reflect those goals? 
 --- 
 
-The NAACP and W.E.B. Du Bois created The Brownies’ Book to speak directly to Black children about the world and their lives. The images in the magazine were a key part of how the magazine worked to help its readers know (in the language of the time) that “being ‘colored’ is a normal, beautiful thing.” They also gave it the title “I am an American Citizen.”[^1]
+The NAACP and W.E.B. Du Bois created *The Brownies’ Book* to speak directly to Black children about the world and their lives. The images in the magazine were a key part of how the magazine worked to help its readers know (in the language of the time) that “being ‘colored’ is a normal, beautiful thing.” They also gave it the title “I am an American Citizen.”[^1]
 
-The Constitution recognized all African Americans, and all people born in the US of any race, as US Citizens. However, there were many ways that Black people were denied their full rights as citizens. Southern states prevented Black people from voting. Lynchings—killings outside the legal system—took the lives of hundreds of Black people, and racism limited Black people’s opportunities at work, in education, and more, in both the North and South.
+The Constitution recognized all African Americans, and all people born in the US of any race, as US citizens. However, there were many ways that Black people were denied their full rights as citizens. Southern states prevented Black people from voting. Lynchings—killings outside the legal system—took the lives of hundreds of Black people, and racism limited Black people’s opportunities at work, in education, and more, in both the North and South.
 
 Despite these experiences of racism and injustice, African Americans valued their citizenship and worked to secure their full rights as citizens.
 
