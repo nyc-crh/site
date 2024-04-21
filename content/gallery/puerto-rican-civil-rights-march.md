@@ -64,12 +64,11 @@ Signs read:
 > We demand the teaching of Puerto Rican history
 > Jim Crow no enseña democracia
 > Mejor education significa mejor trabajos para vivir
-> Separate but equal doesn’t work
 
 This footage gives us a glimpse of one march led by Puerto Ricans and participated in by Black and white New Yorkers. But the footage was not created for us. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program: “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt [or visible] and covert [or hidden]  surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.” [^2] That “broad range” includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. Based on their decision to send the surveillance film team to this march, we can see that the police perceived the marchers  as “potential security threats.” That is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^3]
 
-[^1]: For more on Puerto Rican organizing in New York City, see Sonya Song-Ha Lee, *Building a Latino Civil Rights Movement: Puerto Ricans, African Americans, and the Struggle for Racial Justice in New York City* (University of North Carolina Press, 2016) and Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in 20th Century New York City* (University of Chicago Press, 2010).
+[^1]: For more on Puerto Rican organizing in New York City, see Sonya Song-Ha Lee, *Building a Latino Civil Rights Movement: Puerto Ricans, African Americans, and the Struggle for Racial Justice in New York City* (Chapel Hill: University of North Carolina Press, 2016) and Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in 20th Century New York City* (Chicago: University of Chicago Press, 2010).
 
 [^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services. [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3), accessed February 7, 2023.
 
-[^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America.* (Harvard University Press, 2016).
+[^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Harvard University Press, 2016).
