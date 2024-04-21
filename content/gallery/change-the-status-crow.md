@@ -2,7 +2,7 @@
 layout: gallery
 draft: false
 date: 1964-03-01
-displaydate: "1964"
+displaydate: "March 16, 1964"
 title: Change the Status Crow
 author: 
 citation: >
