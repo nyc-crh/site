@@ -24,7 +24,7 @@ videoTitle: Malcolm X Comments on the Boycotts
 closeRdImg: 
 closeRdLink: 
 eventname: Malcolm X answers questions about the boycott in this interview video. 
-caption: This is a video with responses from Adam Clayton Powell, Jr. and Malcolm X to questions about the boycott, its aims, and effectiveness. The video is from the second boycott (March 16, 1964), which was smaller than the February 3, 1964 boycott. 
+caption: This is a video with responses from Adam Clayton Powell, Jr. and Malcolm X to questions about the boycott, its aims, and its effectiveness. The video is from the second boycott (March 16, 1964), which was smaller than the February 3, 1964 boycott. 
 archive_source: WSB-TV
 source_link: https://www.youtube.com/watch?v=nvQ7X0gb30Q
 copyright: Under copyright.
@@ -44,4 +44,4 @@ questions:
 - Why do you think Malcolm X focuses attention on “white liberals” in New York?
 --- 
 
-The second school boycott took place on March 16, 1964. Although fewer people participated in the second boycott than the first, protests against the city’s segregated and unequal school systems remained strong. Black New Yorkers held different opinions on the source of oppression and how to respond to it. The organizers of the boycotts, for instance, believed that school integration provided a way to move towards a more equal society. Some, like Malcolm X, supported Black Nationalism, which promoted economic self-sufficiency, pride in Black identity, and the formation of an independent nation. However, despite these differing views, Malcolm X took part in the second boycott, and he describes why he participated in this interview.
+The second school boycott took place on March 16, 1964. Although fewer people participated in the second boycott than the first, protests against the city’s segregated and unequal school systems remained strong. Black New Yorkers held different opinions on the source of oppression and how to respond to it. The organizers of the boycotts, for instance, believed that school integration provided a way to move towards a more equal society. Some, like Malcolm X, supported Black nationalism, which promoted economic self-sufficiency, pride in Black identity, and the formation of an independent nation. However, despite these differing views, Malcolm X took part in the second boycott, and he describes why he participated in this interview.
