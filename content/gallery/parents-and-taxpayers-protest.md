@@ -43,15 +43,15 @@ questions:
 - What do you notice about the video and image? What do you wonder?
 - What strategies did groups like Parents and Taxpayers use to maintain segregation?
 - >
- What terms do you see in the protesters’ signs? Where have you seen references to “neighborhood schools” in other documents? What does it mean to talk about “neighborhood schools” when many neighborhoods were racially segregated. One white woman carried an elaborate sign that read: 
+ What terms do you see on the protesters’ signs? Where have you seen references to “neighborhood schools” in other documents? What does it mean to talk about “neighborhood schools” when many neighborhoods were racially segregated through policies like redlining? 
+- >
+ One white woman carried an elaborate sign that read: 
  Board of Ed, Wha Hoppen?
  No –  IGC classes [or “intellectually gifted children” classes]
  No – “600” schools [for children with emotional disabilities]
  No – IQ tests
- Yes – Lower Requirements.
-- >
- You can read more about the “600” schools in [The Less-Known 1965 Boycott](https://nyccivilrightshistory.org/teaching-collections/boycotting-ny-schools/1965-boycott). What does this protester think links gifted classes, separate “600” schools, and IQ tests? Why does a PAT member seem to support these, while claiming the Board of Education has “lower requirements” 
-- What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? Why do you think it was recorded? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police? through policies like redlining?
+ Yes – Lower Requirements.You can read more about the “600” schools in [The Less-Known 1965 Boycott](https://nyccivilrightshistory.org/teaching-collections/boycotting-ny-schools/1965-boycott). What does this protester think links gifted classes, separate “600” schools, and IQ tests? Why does a PAT member seem to support these, while claiming the Board of Education has “lower requirements”?
+- What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? Why do you think it was recorded? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police? 
 - Do you see similar activism today, from the protesters or counter-protesters? Why or why not? 
 --- 
 
@@ -87,4 +87,4 @@ This footage helps us see this moment in history. But it was not created for thi
 
 [^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed February 7, 2023, [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3).
 
-[^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge: Harvard University Press, 2016).
+[^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).
