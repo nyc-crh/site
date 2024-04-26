@@ -41,7 +41,7 @@ tags:
 - photography, imagery, & visual representation
 - organizing
 questions: 
-- Based on the fliers, what are the Panthers hoping to achieve through this boycott?
+- Based on the fliers, what were the Panthers hoping to achieve through this boycott?
 - >
  One of the fliers calls for unity, including “candy store owners, beauticians, barbers, restaurants, street gangs, organized black community youth, welfare, black community fathers and mothers, pool hall managers.” Why do you think this call for unity was important, and why did they mention these groups in particular?
 - >
