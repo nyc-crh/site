@@ -38,7 +38,7 @@ tags:
 - newspapers & the media
 - ableist segregation
 questions:
-- How does Dr. Johnson mock Mrs. Cisco? How does his language perpetuate harm? Do you see racism, misogyny, and/or ableism here? How? 
+- How did Dr. Johnson mock Mrs. Cisco? How did his language perpetuate harm? Do you see racism, misogyny, and/or ableism here? How? 
 - At this time women do not yet have the franchise - that is, they are not yet able to vote. How does this fact combined with what we know about Mrs. Cisco’s struggle for educational justice and this scene illuminate how various forms of discrimination work together?
 - How would you feel in Mrs. Elizabeth Cisco’s position here? What emotions - good or bad, or contradictory - do you think she was experiencing?
 --- 
