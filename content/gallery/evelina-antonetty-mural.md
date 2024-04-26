@@ -36,9 +36,9 @@ tags:
 - Latinx people
 - women's activism
 questions:
-- How did the artists choose to represent Antonetty? What do her expression and gesture mean to you? What are the artists trying to convey by painting her this way?
+- How did the artists choose to represent Antonetty? What do her expression and gesture mean to you? What were the artists trying to convey by painting her this way?
 - Read the quote on the right side of the mural. What is the tone and message of the quote? Why might the artists have chosen that quote for this mural?
-- The mural is filled with multiple images, a quote from Antonetty, and a list of her various roles, responsibilities, and commitments. How do you think these different parts of the mural connect  to one another? How do these different parts relate to your understanding of Antonetty?
+- The mural is filled with multiple images, a quote from Antonetty, and a list of her various roles, responsibilities, and commitments. How do you think these different parts of the mural connect to one another? How do these different parts relate to your understanding of Antonetty?
 --- 
 
 This mural of Evelina López Antonetty was painted by graffiti artist group Tats Cru in 2011. It is at 773 Prospect Ave in the South Bronx. In the mural, the artists refer to some of the terms that local residents used to refer to Antonetty. She was affectionately nicknamed the “mother of the Puerto Rican Community” and the “hell lady of the Bronx” for her unyielding activism and support of the Puerto Rican community.
