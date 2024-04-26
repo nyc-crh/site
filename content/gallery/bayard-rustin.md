@@ -37,7 +37,7 @@ tags:
 - physical disabilities
 - communism
 questions:
-- In this interview, Bayard Rustin discusses why A. Philip Randolph counted on him as an organizer. What reasons does Rustin give for Randolph’s trust in him? What were the organizing tasks that Rustin completed?
+- In this interview, Bayard Rustin discussed why A. Philip Randolph counted on him as an organizer. What reasons did Rustin give for Randolph’s trust in him? What were the organizing tasks that Rustin completed?
 - How did Bayard Rustin’s work align with the political framework of A. Philip Randolph?
 - How do you think Bayard Rustin felt working in movements that acknowledged his organizing genius while also asking him to stay behind the scenes because of his sexuality?
 --- 
