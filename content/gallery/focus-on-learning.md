@@ -41,7 +41,7 @@ tags:
 - learning disability
 - disability labels
 questions: 
-- The researchers identify several criticisms of special education. Have these concerns been addressed, or do they continue today? 
+- The researchers identified several criticisms of special education. Have these concerns been addressed, or do they continue today? 
 - Although most students in special education attended schools in a community school district, others were in a separate district only for Disabled students. Did Disabled students experience “decentralized” school governance? How did this affect their parents' ability to advocate for their children? 
 - The researchers suggested that Disabled students attend classrooms and schools with non-disabled students. Several Disabled students and their parents raised concerns about this. What were the students' and parents' concerns?
 --- 
