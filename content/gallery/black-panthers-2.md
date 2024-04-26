@@ -41,9 +41,9 @@ tags:
 - Asian American people
 - organizing
 questions: 
-- Why is education important to the Black Panther Party?
+- Why was education important to the Black Panther Party?
 - >
- George Miller signs the letter “yours for unity, power, and self determination.” How do you see these themes reflected in the text of the letter?
+ George Miller signed the letter “yours for unity, power, and self determination.” How do you see these themes reflected in the text of the letter?
 - >
  Why do you think the party chose a “shut down,” or a boycott, of schools as their form of protest?
 --- 
