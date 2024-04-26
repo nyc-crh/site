@@ -42,7 +42,7 @@ tags:
 - exclusion from schooling
 questions: 
 - What were conditions like for residents of Willowbrook State School?  
-- Some of the coverage about Bernard Carabello focused on his IQ and the narrative that he didn’t belong at Willowbrook. How does this contrast with how Geraldo Rivera describes Carabello's understanding of the world? How would you revise Rivera’s remarks if you were trying to make the same points today?
+- Some of the coverage about Bernard Carabello focused on his IQ and the narrative that he didn’t belong at Willowbrook. How does this contrast with how Geraldo Rivera described Carabello's understanding of the world? How would you revise Rivera’s remarks if you were trying to make the same points today?
 --- 
 
 As institutions became more widespread, more parents sent their children with intellectual and developmental disabilities away, hoping they would be rehabilitated and come home. Many of them never did. New York built five institutions for Disabled people, starting in 1855 with a state school in Syracuse, and followed by schools in Rome, Newark, and Letchworth Village. The city also operated an “Idiot School” or “Asylum” on Randall’s Island.
