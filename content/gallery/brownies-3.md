@@ -44,7 +44,7 @@ tags:
 questions: 
 - Where do you see joy in these letters? Where do you see struggle? 
 - What about the children’s lives here is similar to your own? What seems different? 
-- What does *The Brownies’ Book* mean to these young readers? 
+- What did *The Brownies’ Book* mean to these young readers? 
 - Is there a *Brownies’ Book* in your life? In other words, what are the places where you read about news, people, and ideas in a community that matters to you?
 --- 
 
