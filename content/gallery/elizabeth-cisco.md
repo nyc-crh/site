@@ -42,7 +42,7 @@ questions:
 - What message do you think Mrs. Cisco wanted to send through this picture? What choices do you think she made that helped send that message?
 - Do you use photography to represent yourself? What kinds of decisions do you make about how you appear in photographs, and why?
 - How do you feel seeing a portrait of a Black woman who helped make segregation illegal in New York schools? 
-- Historian Evelyn Brooks Higginbotham writes about the “politics of respectability.” She uses that term to argue that Black women of Cisco’s generation were contesting white supremacy while also insisting that Black people conformed “to the dominant society’s norms of manners and morals.” Do you think that this portrait of Mrs. Cisco reflects “the politics of respectability”? Why might activist women like Mrs. Cisco might have chosen to present themselves as “respectable”?
+- Historian Evelyn Brooks Higginbotham writes about the “politics of respectability.” She uses that term to argue that Black women of Cisco’s generation were contesting white supremacy while also insisting that Black people conformed “to the dominant society’s norms of manners and morals.” Do you think that this portrait of Mrs. Cisco reflects “the politics of respectability”? Why might activist women like Mrs. Cisco have chosen to present themselves as “respectable”?
 - Another Black woman activist in New York at the time - [Elizabeth Jennings](https://www.mcny.org/sites/default/files/2021-06/MCNYElizabethJenningsGraham.pdf) - was also photographed. What similarities or differences do you see between her portrait and that of Mrs. Cisco?
 --- 
 
