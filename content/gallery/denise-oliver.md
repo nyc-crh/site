@@ -38,8 +38,8 @@ tags:
 - organizing
 - women's activism
 questions: 
-- How does Oliver’s dress and style challenge oppressive ideas imposed on Black women?
-- How might having attended a nearly all-white school influenced Oliver’s activism?
+- How did Oliver’s dress and style challenge oppressive ideas imposed on Black women?
+- How might having attended a nearly all-white school have influenced Oliver’s activism?
 --- 
 
 Denise Oliver, born in Brooklyn in 1947, grew up in Queens. Her father, George Bodine Oliver, was a drama professor, a Tuskegee Airman, and one of the first Black actors to integrate Broadway in the 1940s. He was also active in New York’s Black leftist political circles, working alongside members of the Communist Party and their allies. Her mother, Marjorie Roberts Oliver, taught at a high school in Queens when Black teachers were a small proportion of the city’s teaching force.[^1] Eventually, Denise Oliver would follow in the educational footsteps of her parents and work as a teacher. She first taught at University of the Streets, a school for youth of color who had been pushed out or expelled from the city’s schools.[^2]
