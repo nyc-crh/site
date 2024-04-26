@@ -38,9 +38,9 @@ tags:
 - white liberalism
 - protest
 questions:
-- What words and phrases does *THe New York Times* use to describe civil rights activists and Black and Latinx parents and children? What words and phrases does the New York Times use to describe the mayor and the Board of Education? 
-- Who or what does *The New York Times* believe is causing segregation in New York, or interfering with desegregation? 
-- What does the *NYT* believe that Black and Puerto Rican parents and children should do to improve education? How does this editorial in *The New York Times* compare to the coverage of the boycott by the *Amsterdam News*? [link to that document set here] 
+- What words and phrases did *THe New York Times* use to describe civil rights activists and Black and Latinx parents and children? What words and phrases did the New York Times use to describe the mayor and the Board of Education? 
+- Who or what did *The New York Times* believe was causing segregation in New York, or interfering with desegregation? 
+- What did the *NYT* believe that Black and Puerto Rican parents and children should do to improve education? How does this editorial in *The New York Times* compare to the coverage of the boycott by the *Amsterdam News*? [link to that document set here] 
 - What effect do you think this *NYT* editorial had? Consider who reads the *NYT* and how many people read it.
 --- 
  
