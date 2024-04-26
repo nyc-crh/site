@@ -40,9 +40,9 @@ tags:
 - employment
 - democracy
 questions: 
-- Based on this video clip, what do you think Mayor Bloomberg thinks are the purposes of schools? Do you agree or disagree with his view? Why? How do his views compare to others that you have read about? 
-- "Mayor Bloomberg points out that for many Americans \"wages are stagnating\" and that \"too many young people are unable to find the career path [that leads] to the American Dream.\" He thinks this is a result of poor performance in education. What other factors might be involved?"
-- Why does Mayor Bloomberg associate the growth of charter schools with educational improvements? What evidence does he use to support his answer? Is that evidence convincing to you? Why or why not?
+- Based on this video clip, what do you think Mayor Bloomberg thought were the purposes of schools? Do you agree or disagree with his view? Why? How do his views compare to others that you have read about? 
+- "Mayor Bloomberg pointed out that for many Americans \"wages are stagnating\" and that \"too many young people are unable to find the career path [that leads] to the American Dream.\" He thought this was a result of poor performance in education. What other factors might be involved?"
+- Why did Mayor Bloomberg associate the growth of charter schools with educational improvements? What evidence did he use to support his answer? Is that evidence convincing to you? Why or why not?
 --- 
 
 At the 2012 United States Conference of Mayors, New York City Mayor Michael Bloomberg reflected on the first ten years of mayoral control in New York City’s schools. He shared his thoughts on the purposes of schools in the US and his concerns about them. He explained why he believed mayoral control had been a success in New York City. He also highlighted his belief that the expansion of charter schools - which were new schools funded with public dollars but governed by private groups outside of the New York City Department of Education - had improved education in New York City.  
