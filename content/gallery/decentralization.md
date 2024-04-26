@@ -42,7 +42,7 @@ tags:
 - Latinx people
 - Black people
 questions: 
-- This flier is designed to persuade readers not to support school decentralization in New York. Does it persuade you? Why or why not? What counter-arguments would have been persuasive? 
+- This flier was designed to persuade readers not to support school decentralization in New York. Does it persuade you? Why or why not? What counter-arguments would have been persuasive? 
 - This document shows activists trying to reject a proposal because they think it does not go far enough. What are examples of that situation today? What is challenging about persuading people of that argument? 
 - This flier uses the technology available to activists at the time - a typewriter and a copy machine. What tools do activists use to share their messages today? How are they similar or different?
 --- 
