@@ -38,8 +38,8 @@ tags:
 - emotional disabilities
 - Disabled people
 questions:
-- "How do the authors of the report describe students in the \"600\" schools? How do they describe the schools?"
-- The authors are describing a part of the NYC school system more than fifty years ago. What parts of their description seem similar to schools in NYC today? What parts have changed?
+- "How did the authors of the report describe students in the \"600\" schools? How did they describe the schools?"
+- The authors were describing a part of the NYC school system more than fifty years ago. What parts of their description seem similar to schools in NYC today? What parts have changed?
 - "Based on this document and [others on the \"600\" schools](topics/boycotting-ny-schools/1965-boycott), how do you think students who attended the \"600\" schools would have described their schools? How would their descriptions have compared to those of the report’s authors?" 
 --- 
 
