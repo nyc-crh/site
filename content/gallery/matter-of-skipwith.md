@@ -37,9 +37,9 @@ tags:
 - zoning & school assignment
 - court cases
 questions: 
-- What evidence do the parents offer to show that their children’s schools were unequal? 
-- How does Judge Polier explain her decision in favor of the Harlem parents?
-- Why does Judge Polier say that the Board of Education is responsible for desegregating schools?
+- What evidence did the parents offer to show that their children’s schools were unequal? 
+- How did Judge Polier explain her decision in favor of the Harlem parents?
+- Why did Judge Polier say that the Board of Education was responsible for desegregating schools?
 --- 
 
 On October 28, 1958, in two separate cases, the Board of Education charged the “Harlem Nine” parents with violating the state law requiring parents to send their children to school. Judge Nathaniel Kaplan was the presiding family court judge in the case involving four of the parents. He found them guilty of violating the law.[^1] But less than two weeks later, two of the parents had their case heard by a different judge. Judge Justine Polier dismissed the charges against the parents in her courtroom.
