@@ -39,12 +39,12 @@ tags:
 - newspapers & the media
 - childhood
 questions: 
-- Do you agree with the student who called in, that students in special education are treated differently in school today?
+- Do you agree with the student who called in that students in special education are treated differently in school today?
 - Why do you think that is? How would you respond to the student’s questions, based on your observations or experiences in school today? 
 - >
  During the conversation, Waldemar Rojas, who was a special education official working at the Board of Education, said that the student should know that “she’s as valuable to every one of us as any other child.” What does it take for you to feel valuable in your school? What can schools do to make students feel that they are valued?
 - >
- How do your ideas compare to the suggestions made by another speaker on the panel, Diana Autin? Are the changes she suggests – like smaller class size and more support for students’ different needs – enough to create schools where “everyone accepts people's differences and respects people because or despite their differences”?
+ How do your ideas compare to the suggestions made by another speaker on the panel, Diana Autin? Are the changes she suggested – like smaller class size and more support for students’ different needs – enough to create schools where “everyone accepts people's differences and respects people because or despite their differences”?
 - In historical records, it is difficult to find and hear the voices of Disabled students. Why do you think that is? What happens when we try to understand the history of disability and special ed without their voices?
 --- 
 
