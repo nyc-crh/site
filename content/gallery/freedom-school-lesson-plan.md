@@ -34,9 +34,9 @@ tags:
 - autonomous educational spaces
 - North & South
 questions: 
-- Why do you think the document is titled “North to Freedom?”? 
+- Why do you think the document is titled “North to Freedom”? 
 - After reading this document, what do you think African Americans migrating from the South to the North found when they arrived there? What different forms did racism take in the North? 
-- Do you think that discussing the questions and statements for reflection on this page would prepare Black youth in the North to challenge racism, from white northern liberals and others?
+- Do you think that discussing the questions and statements for reflection on this page would have prepared Black youth in the North to challenge racism, from white northern liberals and others?
 --- 
 
 This proposal for a Freedom School in the North comes after Freedom Summer (1964) in Mississippi and after some of the school boycotts in New York, Boston, and Chicago. It shows Baker’s approach as a teacher. Students at the Freedom School would examine why the boycotts took place, how segregation in the South and the North were similar, and how they experienced racism in places like New York. The outline also shows her insistence that northerners recognize and examine racism on their home terrain, not only in the Jim Crow South.
