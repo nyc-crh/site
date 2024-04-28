@@ -42,7 +42,7 @@ tags:
 - institutionalization of Disabled people and people labeled disabled
 - school facilities
 questions: 
-- What do the authors see as the biggest challenge facing the school system?
+- What did the authors see as the biggest challenge facing the school system?
 - Do you notice anything about the gender of students in the description of classes or the accompanying photos? Do you notice anything about race?  
 - What do you notice about how children with different disabilities are described? What do you notice about how they are taught?
 --- 
