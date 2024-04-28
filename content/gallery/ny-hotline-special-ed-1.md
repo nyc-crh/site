@@ -43,7 +43,7 @@ tags:
 - newspapers & the media
 questions: 
 - Imagine a classroom where every student has what they need to learn. What materials are in the room? Who is in the room? What is happening in the room?  
-- According to the video, what factors lead to students being labeled as learning disabled?
+- According to the video, what factors led to students being labeled as learning disabled?
 - How do you think large class sizes and lack of teacher knowledge affect students who have learning disabilities? 
 - What do you think has changed since 1996 when this video was made? What do you think has stayed the same?
 --- 
