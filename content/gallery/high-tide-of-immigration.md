@@ -36,9 +36,9 @@ tags:
 - democracy
 - newspapers & the media
 questions: 
-- What do you think the message of this political cartoon is? Who do you think it is trying to speak to? 
-- What idea of the United States does this political cartoon communicate? What relationship does it suggest between US patriotism (represented by Uncle Sam) and immigration? What does the caption say about how immigration now - at the time of the cartoon - is different from immigration in previous periods? 
-- How could the anti-immigrant or xenophobic sentiment depicted in this cartoon have mattered for school governance in New York City? How could it affect how people thought about who should be in charge of a system with a large majority of immigrant students and a predominantly white and Protestant Christian political elite?
+- What do you think the message of this political cartoon is? Who do you think it was trying to speak to? 
+- What idea of the United States did this political cartoon communicate? What relationship did it suggest between US patriotism (represented by Uncle Sam) and immigration? What does the caption say about how immigration at the time of the cartoon was different from immigration in previous periods? 
+- How could the anti-immigrant or xenophobic sentiment depicted in this cartoon have mattered for school governance in New York City? How could it have affected how people thought about who should be in charge of a system with a large majority of immigrant students and a predominantly white and Protestant Christian political elite?
 --- 
 
 Immigrants helped New York City grow and prosper in the late 1800s and early 1900s, yet they faced many anti-immigrant attitudes in their new home city. Negative attitudes towards immigrants increased as more people from Southern and Eastern European countries (like Italy and Russia), rather than from Northern and Western countries (like Ireland and Germany), began to arrive. Many New Yorkers perceived these new immigrants to be very culturally, religiously, and at times racially different than themselves. Notice the choices that cartoonist Louis Dalrymple made in this cartoon. What people or groups does he include, and how does he show them visually? What text does he include, and what message does this send? What does the caption say? 
