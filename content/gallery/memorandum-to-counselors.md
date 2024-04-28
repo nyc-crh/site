@@ -41,7 +41,7 @@ tags:
 - athletics
 - curriculum
 questions: 
-- What can you tell from the document about how Camp Jened leaders wanted their  counselors to think about their campers? What do the words and images convey about what kind of experience they wanted the campers to have? 
+- What can you tell from the document about how Camp Jened leaders wanted their counselors to think about their campers? What do the words and images convey about what kind of experience they wanted the campers to have? 
 - Do you see joy in this document? Do you see struggle? 
 - Camp Jened employed both disabled counselors and non-disabled counselors. Camp Jened recognized that counselors needed to be prepared to work well with disabled campers. If you have a disability, what do you want the adults who work with you to know about how best to support you?
 --- 
