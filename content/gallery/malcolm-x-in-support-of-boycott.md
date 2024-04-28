@@ -41,7 +41,7 @@ tags:
 questions:
 - Why do you think Malcolm X participated in the second boycott? Does it surprise you that he did? Why or why not?
 - Why do you think Malcolm X invoked segregation in Mississippi's schools? What point was he trying to make?
-- Why do you think Malcolm X focuses attention on “white liberals” in New York?
+- Why do you think Malcolm X focused attention on “white liberals” in New York?
 --- 
 
 The second school boycott took place on March 16, 1964. Although fewer people participated in the second boycott than the first, protests against the city’s segregated and unequal school systems remained strong. Black New Yorkers held different opinions on the source of oppression and how to respond to it. The organizers of the boycotts, for instance, believed that school integration provided a way to move towards a more equal society. Some, like Malcolm X, supported Black nationalism, which promoted economic self-sufficiency, pride in Black identity, and the formation of an independent nation. However, despite these differing views, Malcolm X took part in the second boycott, and he describes why he participated in this interview.
