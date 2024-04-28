@@ -42,7 +42,7 @@ tags:
 questions:
 - What do you see in this image? What do you notice? What do you think is happening here? 
 - What does Mae Mallory’s expression convey? What makes you say that?
-- How might Patricia Mallory feel to be included in these photos? What about her posture and expression stand out to you?
+- How might Patricia Mallory have felt to be included in these photos? What about her posture and expression stand out to you?
 - >
  [Mallory had been active in many political struggles in New York and nationally](https://www.aaihs.org/mae-mallory-forgotten-black-power-intellectual/). The FBI targeted Mae Mallory for surveillance within its COINTELPRO program. Mallory’s [extensive FBI file includes other images of her](https://vault.fbi.gov/mae-mallory). How do the images of Mallory collected by the FBI compare to this image?
 --- 
