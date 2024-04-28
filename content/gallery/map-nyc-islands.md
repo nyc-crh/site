@@ -39,7 +39,7 @@ tags:
 - photography, imagery, & visual representation
 - institutionalization of Disabled people and people labeled disabled
 questions: 
-- What do you notice about the facilities on these islands? How are residents similar? How are they different? How are their needs similar or different?
+- What do you notice about the facilities on these islands? How were residents similar? How were they different? How were their needs similar or different?
 - What do you know about these islands? How do you get to them today? How did people get to them in the 1800s?
 - Why do you think some Disabled people - like those with intellectual disabilities - were sent to institutions on islands in the river, while others - like deaf students - went to schools in Manhattan?
 --- 
