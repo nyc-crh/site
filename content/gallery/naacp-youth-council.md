@@ -36,7 +36,7 @@ tags:
 - student writing
 - photography, imagery, & visual representation
 questions:
-- What do you notice about this issue of NAACP Youth Council publication? What do you wonder?
+- What do you notice about this issue of the NAACP Youth Council publication? What do you wonder?
 - What kind of stories are included in this issue of the publication? Do these stories and the voices that tell them reflect the perspectives of young people? What examples do you see in the text? 
 - How might this type of organizing work complement direct action protests (e.g. marches and boycotts) and political negotiations (e.g. March on Washington meeting with President Kennedy)? How is it different?
 --- 
