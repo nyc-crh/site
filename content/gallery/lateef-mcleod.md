@@ -28,7 +28,7 @@ categories:
 tags: 
 questions: 
 - What is a passage from the poem that stood out to you? 
-- What choices does McLeod make as a writer to emphasize the idea of place - where people can be, where they can’t be, where they want to be?
+- What choices did McLeod make as a writer to emphasize the idea of place - where people can be, where they can’t be, where they want to be?
 - Why do you think McLeod, living as a Black Disabled person today, chose to write a poem about these laws from more than one hundred years ago? 
 - What has changed since the era of the Ugly Laws? What remains the same? 
 --- 
