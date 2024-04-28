@@ -41,9 +41,9 @@ questions:
 - How does the complaint describe José P? What else would you like to know about him as a person, and about his life? 
 - What laws are mentioned in the complaint? What rights do these laws provide to Disabled students? 
 - Why does the complaint say that it is important for Disabled students to have access to education? Are these the only reasons education matters? What do you think? 
-- As of 1979, is New York City respecting the rights of Disabled students? According to this complaint, what is happening for Disabled students in New York City? 
+- In 1979, was New York City respecting the rights of Disabled students? According to this complaint, what was happening for Disabled students in New York City? 
 - >
- The Education for All Handicapped Children Act of 1975 established a right to a “free appropriate public education.” The New York State Constitution says that all New Yorkers have a right to a “sound basic education” What do those phrases mean to you? If you were going to write a phrase to describe what kind of education you deserve, what would it be?
+ The Education for All Handicapped Children Act of 1975 established a right to a “free appropriate public education.” The New York State Constitution says that all New Yorkers have a right to a “sound basic education.” What do those phrases mean to you? If you were going to write a phrase to describe what kind of education you deserve, what would it be?
 --- 
 
 Many major changes in education have come through federal legislation. The GI Bill of 1944 provided support for college tuition for former soldiers, many who would not have been able to afford it otherwise. Title IX of the Civil Rights Act led to the expansion of women’s access to sports in schools.
