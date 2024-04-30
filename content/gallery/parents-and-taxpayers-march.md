@@ -44,7 +44,7 @@ questions:
 - What do you notice about the video? What do you wonder?
 - Why do you think the marchers chose to carry flags? 
 - >
- What terms do you see on the protesters’ signs? Where have you seen references to “neighborhood schools” in other documents? What does it mean to talk about “neighborhood schools” when many neighborhoods were racially segregated through policies like redlining?
+ What terms do you see on the protesters’ signs? Where have you seen references to “neighborhood schools” in other documents? What did it mean to talk about “neighborhood schools” when many neighborhoods were racially segregated through policies like redlining?
 - What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police? How do you think white parents and young people might have responded, as compared to Black and Puerto Rican parents or young people?
 --- 
 
