@@ -46,8 +46,8 @@ tags:
 - photography, imagery, & visual representation
 - Spanish language
 questions:
-- Why do you think the protesters march behind the US and Puerto Rican flags? What are they hoping to communicate? 
-- Why do you think that the marching organizations included Puerto Rican organizations, Black organizations, and labor unions, among others? What links these organizations together? 
+- Why do you think the protesters marched behind the US and Puerto Rican flags? What were they hoping to communicate? 
+- Why do you think that the marching organizations included Puerto Rican organizations, Black organizations, and labor unions, among others? What linked these organizations together? 
 - What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police?
 --- 
 
