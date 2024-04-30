@@ -41,7 +41,7 @@ tags:
 questions: 
 - What did Wilcox mean when he argued that predominantly Black schools should be controlled by the local community?
 - Were community-controlled schools as Preston Wilcox understood them similar to the local ward-controlled system of governance in place from the 1840s to 1902? How so? How were they different? 
-- Wilcox compares community control - meaning schools that serve Black students being controlled by the Black community - with centralized schools, which in New York City at the time were led by predominantly white educators and officials. Which of the benefits of community control, in his view, are most appealing to you? Which are you unsure about or do you have concerns about?
+- Wilcox compared community control - meaning schools that serve Black students being controlled by the Black community - with centralized schools, which in New York City at the time were led by predominantly white educators and officials. Which of the benefits of community control, in his view, are most appealing to you? Which are you unsure about or do you have concerns about?
 --- 
 
 Preston Wilcox was a human rights activist and professor at Columbia University who supported Black studies on college campuses and community control for K-12 schools. Wilcox became deeply involved with East Harlem’s community control district.
