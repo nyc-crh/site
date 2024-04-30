@@ -39,9 +39,9 @@ tags:
 - school administration
 - North & South
 questions: 
-- How did CORE describe segregation in this document? In their view, what made community control of schools a powerful challenge to segregated schooling?
-- CORE compared segregation in the North to the South. In what ways did CORE describe segregation in the North as different or similar to that of the South?
-- At the end of this document, CORE listed three ways they believe an independent school board in Harlem would bring “about changes needed to improve the schools.” What were those three ways? Do you agree?
+- How does CORE describe segregation in this document? In their view, what makes community control of schools a powerful challenge to segregated schooling?
+- CORE compares segregation in the North to the South. In what ways does CORE describe segregation in the North as different or similar to that of the South?
+- At the end of this document, CORE lists three ways they believe an independent school board in Harlem would bring “about changes needed to improve the schools.” What are those three ways? Do you agree?
 --- 
 
 Over 1 million new Black Southern migrants and Puerto Rican immigrants had settled in New York City by the 1950s. Most resided in Harlem, the South Bronx, and Central Brooklyn. They faced many barriers, including poverty and discrimination in employment and housing discrimination, and often attended schools that the Board of Education had long neglected. The city’s centralized school system had often ignored Black residents’ demands while prioritizing the needs and wants of white students and their families.[^1]
