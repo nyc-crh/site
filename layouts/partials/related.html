@@ -1,0 +1,16 @@
+{{ $page := . }}
+{{ $opts := dict
+  "indices" (slice "tags" "keywords")
+  "document" $page
+  "namedSlices" (slice (keyVals "title") (keyVals "date" $page.Date))
+  "fragments" (slice "heading-1" "heading-2")
+}}
+{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ with $related }}
+<h3>See Also</h3>
+<ul>
+ {{ range . }}
+ <li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
+ {{ end }}
+</ul>
+{{ end }}

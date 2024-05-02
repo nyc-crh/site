@@ -56,7 +56,7 @@
             <a class="tag-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
             {{ end }}
         {{ end }}</p>{{ end }}</div>
-
+        {{ if .Params.docset }}<div class="col mx-auto d-print-block"><p class="px-3">This item is part of <a href="/topics/{{.Params.docset}}/{{.Params.bundle}}">"{{.Params.bundleTitle | page.RenderString | safeHTML}}"</a> in <a href="/topics/{{.Params.docset}}">"{{.Params.docsetTitle  | page.RenderString | safeHTML}}"</a></p></div>{{end}}
         <div class="row mx-auto pt-3">
                 <details class="accordion d-print-block">
                     <summary><span class="summary-title d-print-block">Item Details</span>

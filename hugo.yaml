@@ -136,4 +136,14 @@ taxonomies:
 
 timeout: 60000
 
-
+related:
+  includeNewer: true
+  threshold: 90
+  toLower: false
+  indices:
+    - name: title
+      weight: 30
+    - name: date
+      weight: 20
+    - name: eventname
+      weight: 50
