@@ -39,7 +39,7 @@ tags:
 - women's activism
 questions:
 - What feelings do you think this flier is trying to convey? How does it do so? What choices - about language, about design - help it communicate? 
-- What do you think Parents in Action Against Educational Discrimination wants people to do after seeing the flier?
+- What do you think Parents in Action Against Educational Discrimination wanted people to do after seeing the flier?
 - How are their arguments about New York City schools similar to or different from others that you have seen in other sources?
 --- 
 

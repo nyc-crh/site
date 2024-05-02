@@ -40,13 +40,13 @@ tags:
 - ableist segregation
 - exclusion from schooling
 questions: 
-- Why do Goddard and Hill propose giving these “delinquent girls” an intelligence test? 
+- Why did Goddard and Hill propose giving these “delinquent girls” an intelligence test? 
 - >
- What factors seem to be involved in deciding a girl is “delinquent” and “feeble minded”? What are the ideas of “normal” that these girls are being compared to? 
-- Who do the authors think deserve to live with their communities, to go to school with peers, and to have families? 
-- Who do you think the authors are seeking to help? 
+ What factors seemed to be involved in deciding a girl was “delinquent” and “feeble minded”? What were the ideas of “normal” that these girls were being compared to? 
+- Who did the authors think deserved to live with their communities, to go to school with peers, and to have families? 
+- Who do you think the authors were seeking to help? 
 - >
- What do you think Goddard and Hill mean by “this race,” in their last sentence? 
+ What do you think Goddard and Hill meant by “this race,” in their last sentence? 
 - What connections to the present - to ideas of intelligence, ability, gender, sexuality, criminality, or more - do you see in these sources?
 --- 
 

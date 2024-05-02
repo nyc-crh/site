@@ -37,7 +37,7 @@ tags:
 - photography, imagery, & visual representation
 - childhood
 questions: 
-- Look at the young people in the room in the photograph. What do you notice about them? What do you think it felt like to be a student in this space? Do you think this would be a supportive environment for the students? Why or why not? 
+- Look at the young people in the room in the photograph. What do you notice about them? What do you think it felt like to be a student in this space? Do you think this would have been a supportive environment for the students? Why or why not? 
 - Look for the adults in the room. What do you notice about them? What do their positions in the room and body postures communicate?
 - How do the students in the room appear to be similar to one another? Given what you know about who was attending school in New York City at the time, how might they have been different from one another?
 --- 

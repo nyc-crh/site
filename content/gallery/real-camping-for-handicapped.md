@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: A brochure advertised Camp Jened to disabled teens and adults around the country
+eventname: A brochure advertises Camp Jened to disabled teens and adults around the country.
 caption: Camp Jened’s brochure advertised its facilities and location to potential campers from around the country and Canada.
 archive_source: Papers of Honora Rubenstein
 source_link: 

@@ -23,7 +23,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Reverend Malika Lee Whitney describes Double Dutch Dreamz
+eventname: Reverend Malika Lee Whitney describes Double Dutch Dreamz.
 caption: Reverend Malika Lee Whitney describes Double Dutch Dreamz, an intergenerational space for play and learning.
 archive_source: The Grandparents Storylab
 source_link: https://www.thegrandparentsstorylab.org/double-dutch-dreamz

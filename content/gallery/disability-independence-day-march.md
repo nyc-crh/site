@@ -63,6 +63,6 @@ The more recent disability justice movement was founded in part in response to t
 
 [^3]: Nielsen, *A Disability History*.  
 
-[^4]: Emily Ladau, *Demystifying Disability\: What to Know, What to Say, and How to Be an Ally* (New York: Clarkson Potter/Ten Speed, 2021); Jim LeBrecht, interviewed by Dr. Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom
+[^4]: Emily Ladau, *Demystifying Disability\: What to Know, What to Say, and How to Be an Ally* (New York: Clarkson Potter/Ten Speed, 2021); Jim LeBrecht, interviewed by Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom.
 
 [^5]: Patty Bern and Sins Invalid, *Skin, Tooth, and Bone: The Basis of Movement is Our People: A Disability Justice Primer*, 2nd ed. (Berkeley: Sins Invalid, 2019).

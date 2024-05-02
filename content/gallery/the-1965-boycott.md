@@ -23,7 +23,7 @@ video:
 videoTitle: The 1965 Boycott on Film
 closeRdImg: 
 closeRdLink: 
-eventname: "\"Operation Shutdown\" boycott begins, including three junior high schools and one \"600\" school for children labeled as \"socially maladjusted\" or \"emotionally disturbed\" The boycott continues for seven weeks."
+eventname: "The Operation Shut Down boycott begins, including three junior high schools and one \"600\" school for children labeled as \"socially maladjusted\" or \"emotionally disturbed.\" The boycott continues for seven weeks."
 caption: "The New York Police Department filmed a 1965 protest for integrated schools. The date suggests that this footage comes from the 1965 boycott of junior high schools and \"600\" schools." 
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~364~1232309:-Protest-for-better-integrated-scho?sort=identifier%2Ctitle%2Cdate&qvq=q:0274;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1

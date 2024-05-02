@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: "Dr. King writes about the \"school boycott concept\" and it's application across the country."
+eventname: "Dr. King writes about the \"school boycott concept\" and its application across the country."
 caption: "In this op-ed, published in the *New York Amsterdam News*, Dr. Martin Luther King, Jr. writes about the \"school boycott concept\" and its application across the country, particularly in the North."
 archive_source: "*New York Amsterdam News*"
 source_link: https://www.nypl.org/research/research-catalog/bib/b21451436
@@ -41,8 +41,8 @@ tags:
 - segregation
 questions:
 - Why do you think Dr. King wrote this op-ed and why do you think he published it in the *Amsterdam News?* Who was the intended audience and what was his intended purpose?
-- "Dr. King references the idea that some think the boycotts may alienate certain \"allies\"in the movement. To whom do you think he is referring? What is his response to that idea?"
-- In your opinion, what is Dr. King’s view on the use of school boycotts?
+- "Dr. King referenced the idea that some thought the boycotts might alienate certain \"allies\" in the movement. To whom do you think he was referring? What was his response to that idea?"
+- In your opinion, what was Dr. King’s view on the use of school boycotts?
 --- 
 
 In this op-ed, Dr. Martin Luther King, Jr. writes about the “school boycott concept” and its application across the country, particularly in the North. He is writing more than two months after the February 1964 boycott, and nearly a month after the March one in New York City. There had been other large-scale school boycotts in other cities, too, as in Chicago in 1963.

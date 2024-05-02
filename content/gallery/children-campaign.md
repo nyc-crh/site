@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Benjamin Franklin high school students participate in a war-time effort to conserve paper.
+eventname: Benjamin Franklin High School students participate in a wartime effort to conserve paper.
 caption: Benjamin Franklin High School students participating in a World War II effort to save paper.
 archive_source: Balch Historical Institute, Historical Society of Philadelphia
 source_link: 
@@ -52,6 +52,6 @@ In the 1930s and 1940s, Benjamin Franklin High School was a dynamic place. Its s
 
 Benjamin Franklin’s diverse student population didn’t all experience the war in the same way. During World War II, many Black Americans spoke of the “Double V” - the goal to have victory in the war, and victory over racism at home. Black soldiers returning home, including to Harlem, experienced racism in spite of their great risk and sacrifice for their country.[^2]
 
-[^1]: Johanek, Michael C., and John Puckett. *Leonard Covello and the Making of Benjamin Franklin High School : Education as If Citizenship Mattered.* Philadelphia: Temple University Press, 2007.
+[^1]: Michael C. Johanek and John Puckett, *Leonard Covello and the Making of Benjamin Franklin High School: Education as If Citizenship Mattered* (Philadelphia: Temple University Press, 2007).
 
-[^2]: Kimberley Atkins Stohr and John Ringer, “In 'Half American,' historian Matthew Delmont tells the story of World War II from the Black perspective,” WBUR On Point, October 24, 2022, [https://www.wbur.org/onpoint/2022/10/24/how-black-americans-fought-world-war-ii-at-home-and-abroad](https://www.wbur.org/onpoint/2022/10/24/how-black-americans-fought-world-war-ii-at-home-and-abroad)
+[^2]: Kimberly Atkins Stohr and John Ringer, “In 'Half American,' historian Matthew Delmont tells the story of World War II from the Black perspective,” WBUR On Point, October 24, 2022, [https://www.wbur.org/onpoint/2022/10/24/how-black-americans-fought-world-war-ii-at-home-and-abroad](https://www.wbur.org/onpoint/2022/10/24/how-black-americans-fought-world-war-ii-at-home-and-abroad).

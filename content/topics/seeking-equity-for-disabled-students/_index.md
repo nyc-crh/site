@@ -9,7 +9,7 @@ cards:
 - title: The Beginnings of Special Education
   img: idiot-school-randalls-island.jpg
   alt: Illustration of a 19th Century classroom
-  text: The earliest schools segregated disabled children in hopes they could attend school with nonDisabled students or fit in with society as adults.
+  text: The earliest schools segregated disabled children in hopes they could attend school with non-disabled students or fit in with society as adults.
   btn:
     text: View primary sources
     url: /topics/seeking-equity-for-disabled-students/beginnings-of-special-ed
@@ -30,14 +30,14 @@ cards:
 - title: 'Fighting to Fit In: Physical Access'
   img: sofedup-handbook.jpg
   alt: The cover of the handbook features an illustration of a man sitting in a wheelchair facing forward with arms outstretched to the side. His hands push apart the words, “handi” and “capped.”
-  text: One of the most persistent problems for physically Disabled students seeking education is the lack of wheelchair accessible schools. 
+  text: One of the most persistent problems for physically Disabled students seeking education is the lack of wheelchair-accessible schools. 
   btn:
     text: View primary sources
     url: /topics/seeking-equity-for-disabled-students/physical-access
 - title: The Right to Communicate
   img: lexington-school-for-deaf.jpg
   alt: Newspaper article with photo of protestors outside of a school holding signs. One reads, "Deaf CEO Now"
-  text: Students who are D/deaf or hard of hearing, or blind or low-vision, need information in accessible formats, and students who are learning English have struggled to communicate.
+  text: Students who are d/Deaf or hard of hearing, or blind or low-vision, need information in accessible formats, and students who are learning English have struggled to communicate.
   btn:
     text: View primary sources
     url: /topics/seeking-equity-for-disabled-students/right-to-communicate
@@ -53,7 +53,7 @@ New York City has always provided education in exclusive and segregating ways, f
 
 {{% read-more %}}
 
-A wide variety of human differences that have been stigmatized throughout history are now gathered under the term “disabled.” Thus disability is extremely diverse as a social category. Both the category of disability and the exclusion of disabled children have been linked to race, citizenship, language, class, gender, and sexuality. A hierarchy among types of disability was also visible in the geography of the nineteenth century city: charitable schools for the blind and deaf were located in Manhattan, but a school for intellectually Disabled people sat on Randall’s Island in the East River, among hospitals, asylums, prisons, and orphanages housing society’s “undesirables.”
+A wide variety of human differences that have been stigmatized throughout history are now gathered under the term “disabled.” Thus disability is extremely diverse as a social category. Both the category of disability and the exclusion of disabled children have been linked to race, citizenship, language, class, gender, and sexuality. A hierarchy among types of disability was also visible in the geography of the 19th century city: Charitable schools for the blind and deaf were located in Manhattan, but a school for intellectually Disabled people sat on Randall’s Island in the East River, among hospitals, asylums, prisons, and orphanages housing society’s “undesirables.”
 
 Advocates for children with disabilities have focused their efforts on building new programs or facilities for disabled children. They were motivated by a desire to help, but these new institutions (especially when they were underfunded), created problems of their own (and even horrors, as in the inhumane conditions at Willowbrook State School). Many educators, very few of whom were disabled themselves, sought to minimize students’ disabilities so they could fit in with the rest of society. For example, Deaf students were not allowed to use sign language to communicate in school settings even though sign language supported their language development and culture.
 

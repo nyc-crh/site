@@ -17,7 +17,7 @@ audio:
 audioTitle: 
 video: 
 videoTitle: 
-eventname: Campers play baseball at Camp Jened
+eventname: Campers play baseball at Camp Jened.
 caption: Campers play baseball at Camp Jened.
 archive_source: Collection of Sheldon “Shelly” Koy
 source_link: 
@@ -52,10 +52,10 @@ Camp Jened’s whole facility was chosen and modified to be accessible for campe
 
 In the years before the Americans with Disabilities Act, and in many cases still today, schools didn’t and don’t provide opportunities for disabled children to participate in organized sports. Joining peers on the baseball field at Camp Jened brought joy and helped build community at the camp.[^5]
 
-[^1]: New York Herald Tribune, “Camp Jened To Continue Treatments” [April 30th 1958], Collection of Honora Rubenstein.
-[^2]: Dr. Jessica Murray and Jasmine Leiser, Zoom Interview with Jim LeBrecht, April 28th 2023
+[^1]: "Camp Jened to Continue Treatments,” *New York Herald Tribune*, April 30, 1958, Collection of Honora Rubenstein.
+[^2]: Jim LeBrecht, interviewed by Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom.
 [^3]: Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, March 29, 2023, via Zoom; Steven L. Sles, “A Haven for the Handicapped,” January 18, 1954, Collection of Honora Rubenstein; Jackie and Jeff Rubenstein, interview.
 
-[^4]: Sles, “A Haven for the Handicapped”; Jackie and Jeff Rubenstein, interview;; Denise Sherer Jacobson, interviewed by Jasmine Leiser, April 4, 2023, via Zoom; Memorandum to Counselors, Collection of Honora Rubenstein; *Crip Camp*, directed by James Lebrecht and Nicole Newnham (2020: James Lebrecht, Nicole Newnham, and Sara Bolder), netflix.com
+[^4]: Sles, “A Haven for the Handicapped”; Jackie and Jeff Rubenstein, interview; Denise Sherer Jacobson, interviewed by Jasmine Leiser, April 4, 2023, via Zoom; Memorandum to Counselors, Collection of Honora Rubenstein; *Crip Camp*, directed by James Lebrecht and Nicole Newnham (2020: James Lebrecht, Nicole Newnham, and Sara Bolder), netflix.com.
 
-[^5]: *Crip Camp*, directed by James Lebrecht and Nicole Newnham (2020: James Lebrecht, Nicole Newnham, and Sara Bolder), netflix.com; “Camp Jened—Real Camping for the Handicapped” (brochure), mid-1950s, Collection of Honora Rubenstein; Sles, “A Haven for the Handicapped.” For more photographs of Camp Jened, see Nicole Newnham and Jim LeBrecht,N. *The Camp That Ignited a Movement*, Ford Foundation, August 5, 2020. [https://www.fordfoundation.org/news-and-stories/stories/posts/the-camp-that-ignited-a-movement/](https://www.fordfoundation.org/news-and-stories/stories/posts/the-camp-that-ignited-a-movement/.). Unfortunately we are unable to identify by name the Camp Jened baseball players in this photograph.
+[^5]: *Crip Camp*, directed by James Lebrecht and Nicole Newnham (2020: James Lebrecht, Nicole Newnham, and Sara Bolder), netflix.com; “Camp Jened—Real Camping for the Handicapped” (brochure), mid-1950s, Collection of Honora Rubenstein; Sles, “A Haven for the Handicapped.” For more photographs of Camp Jened, see Nicole Newnham and Jim LeBrecht, *The Camp That Ignited a Movement*, Ford Foundation, August 5, 2020, [https://www.fordfoundation.org/news-and-stories/stories/posts/the-camp-that-ignited-a-movement/](https://www.fordfoundation.org/news-and-stories/stories/posts/the-camp-that-ignited-a-movement/). Unfortunately we are unable to identify by name the Camp Jened baseball players in this photograph.

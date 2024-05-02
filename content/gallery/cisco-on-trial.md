@@ -43,8 +43,8 @@ tags:
 - protest
 questions:
 - How do you think Mr. Cisco’s son Jacob, who was 6 at the time, felt about his father’s protest? 
-- Do the reporter and Mr. Cisco have the same view of the facilities available at the “colored” school? 
-- Justice Garretison denies the role of the legislature in creating segregation. On what grounds does he base this decision? How does his reasoning support continued segregation?
+- Did the reporter and Mr. Cisco have the same view of the facilities available at the “colored” school? 
+- Justice Garretison denied the role of the legislature in creating segregation. On what grounds did he base this decision? How did his reasoning support continued segregation?
 --- 
 
 Samuel B. Cisco, a Black man, lived in Jamaica, in Queens County. At the time of this newspaper article, in 1896, Queens was not yet part of New York City, and Jamaica was a small town surrounded by a rural landscape. Mr. Cisco ran a successful scavenger business. He and his wife Elizabeth had six children.[^1] Although Mrs. Cisco is less visible in the article, she worked alongside her husband and continued their fight for years after his passing.

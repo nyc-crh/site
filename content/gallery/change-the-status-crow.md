@@ -2,7 +2,7 @@
 layout: gallery
 draft: false
 date: 1964-03-01
-displaydate: "1964"
+displaydate: "March 16, 1964"
 title: Change the Status Crow
 author: 
 citation: >
@@ -38,8 +38,8 @@ tags:
 - photography, imagery, & visual representation
 questions:
 - What do you notice about the poster? What do you wonder?
-- Who is the audience for this poster? What strategies does the poster employ to enlist that audience into the demonstration?
-- How does the poster connect struggles against segregated schools in the South with those in the North?
+- Who was the audience for this poster? What strategies did the poster employ to enlist that audience into the demonstration?
+- How did the poster connect struggles against segregated schools in the South with those in the North?
 - How would you feel if you participated in a protest with nearly 500,000 people and didn’t see change? What would you do next?
 --- 
 

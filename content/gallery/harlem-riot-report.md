@@ -39,8 +39,8 @@ tags:
 - employment
 questions:
 - Based on the report, how would you describe the conditions in Harlem schools in the 1930s? How are those conditions influenced by segregation? 
-- Mayor LaGuardia tried to shield the findings of his own commission from the general public. Why do you think he did that? What would have been the consequences if he was successful?
-- In 1935, the Commission concluded that persistent police brutality, racial discrimination in the labor market, segregated housing, and unequal education sparked what was called at the time a “riot.” How do the events of 1935 compare to more recent protests  against police violence or other forms of injustice? 
+- Mayor LaGuardia tried to shield the findings of his own commission from the general public. Why do you think he did that? What would have been the consequences if he had been successful?
+- In 1935, the Commission concluded that persistent police brutality, racial discrimination in the labor market, segregated housing, and unequal education had sparked what was called at the time a “riot.” How do the events of 1935 compare to more recent protests against police violence or other forms of injustice? 
 - Have the issues identified by the commission in 1935 been addressed today?
 --- 
 

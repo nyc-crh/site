@@ -36,7 +36,7 @@ tags:
 questions: 
 - Who counts as an American, according to the New York City Board of Education in 1931? How does this definition of American compare to who was in fact a US citizen at the time? 
 - What does this document tell us about how the New York City Board of Education thought about its students at this time? 
-- How might this document be influenced by or be related to how school governance worked in New York City at the time?
+- How might this document have been influenced by or have been related to how school governance worked in New York City at the time?
 --- 
  
 Who were New York City’s students? This seemingly simple question became the focus of a citywide research project led by the Board of Education. From 1931 to 1947, the Board sent an index card like this one to each of its hundreds of schools. Those schools served a massive and still-growing population of students born in New York City, students who had been born outside the US (often in Europe or the Caribbean), and students who had been born in the US South and had participated in the Great Migration of African Americans to northern cities like New York. Through this migration, New York City’s small Black population grew very quickly in the 1910s, 1920s, and 1930s.[^1] 

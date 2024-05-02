@@ -37,7 +37,7 @@ tags:
 - protest
 questions: 
 - How did the Board of Education describe the boycott? How do you think boycotting students and organizers felt when they heard this? 
-- How do you think the editors of the *Amsterdam News* feel about the boycott? What evidence do you see in the text? 
+- How do you think the editors of the *Amsterdam News* felt about the boycott? What evidence do you see in the text? 
 - What do the editors want to happen next?
 --- 
 

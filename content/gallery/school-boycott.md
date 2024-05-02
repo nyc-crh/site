@@ -44,4 +44,4 @@ questions:
 - Notice the sign that read “Jim Crow can’t teach democracy.” What was going on in the 1950s that made US citizens more likely to link their civil rights struggles to the idea of democracy?
 --- 
 
-The City Wide Committee for Integrated Schools included several New York City civil rights organizations. They produced this flier to recruit participants for the February 3, 1964 boycott. They used different kinds of text and a photograph to make their argument that a boycott was important and necessary.
+The Citywide Committee for Integrated Schools included several New York City civil rights organizations. They produced this flier to recruit participants for the February 3, 1964 boycott. They used different kinds of text and a photograph to make their argument that a boycott was important and necessary.

@@ -35,7 +35,7 @@ tags:
 - ableist segregation
 - racist segregation
 questions: 
-- What do you think this test is testing? Is it testing intelligence, or something else? 
+- What do you think this test was testing? Was it testing intelligence, or something else? 
 - >
  If one group has a lower average score than another, what does that tell us (if anything) about the scores of individuals in that group? How do the mathematical concepts of “mean” and “range” help our thinking here?
 --- 

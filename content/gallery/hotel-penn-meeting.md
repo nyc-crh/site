@@ -41,7 +41,7 @@ tags:
 - communism
 - multiracial organizing
 questions:
-- What does Lucile Spence mean when she says, “The result of the continued neglect of this group in the heart of New York presents a challenging situation for the educator who sees the fruits of such neglect?” What other comments by Spence or others in the article stand out to you? 
+- What did Lucile Spence mean when she said “The result of the continued neglect of this group in the heart of New York presents a challenging situation for the educator who sees the fruits of such neglect?” What other comments by Spence or others in the article stand out to you? 
 - How did Lucile Spence’s work as a teacher influence her activism?
 - Which of the conditions that the TU was protesting still exist in NYC schools today?
 --- 

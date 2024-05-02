@@ -22,7 +22,7 @@ relTitle: Watch a close reading of this document
 relImg: kadiatou-tubman-video-sm.jpg
 relImgAlt: Still image of a videotaped reading by Kadiatou Tubman
 relLink: /teaching-resources/close-reading-examples/kadiatou-tubman-video/
-eventname: W.E.B. DuBois and the NAACP launch the children’s magazine *The Brownie’s Book*.
+eventname: W.E.B. DuBois and the NAACP launch the children’s magazine *The Brownies' Book*.
 caption: The NAACP published *The Brownies’ Book* magazine to teach Black children the history, achievements, and beauty of Black people in the United States. These are pages from the first issue, published in January 1920. 
 archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
@@ -50,8 +50,8 @@ questions:
 --- 
 Here are a few pages from the first issue of the magazine. The editors of the magazine made many choices about their publication. They chose the text and articles, the images, the design, and more. Looking carefully at what they produced helps us think about their goals for the publication.
 
-Notice the cover. How would you describe how the girl in the photograph is feeling? How does the image make you feel? What do you think the creators of the magazine wanted you to feel when you saw this image? How does it relate to their goals for the magazine, including (in the terminology of their time), “To make colored children realize that being ‘colored’ is a normal, beautiful thing”?
+Notice the cover. How would you describe how the girl in the photograph is feeling? How does the image make you feel? What do you think the creators of the magazine wanted you to feel when you saw this image? How does it relate to their goals for the magazine, including (in the terminology of their time) “To make colored children realize that being ‘colored’ is a normal, beautiful thing”?
 
-Notice the title page, and the table of contents, listing the magazines’ articles. The frontispiece says that the magazine is “designed for all children, but especially for *ours*.” Who do the magazine’s creators mean by “ours”? Why is this magazine, focused on “joy and beauty,” particularly important for “our” children? What do you notice about the articles listed in the table of contents?
+Notice the title page, and the table of contents, listing the magazine's articles. The frontispiece, or inside cover, says that the magazine is “designed for all children, but especially for *ours*.” Who do the magazine’s creators mean by “ours”? Why is this magazine, focused on “joy and beauty,” particularly important for “our” children? What do you notice about the articles listed in the table of contents?
 
 And finally, notice the article included here, “Little People of the Month.” One of the featured “little people,” or children, is Lucile Spence, who was graduating from Wadleigh High School in Harlem, in New York City. A few years after this article was published, Spence became [a teacher, and then an activist for educational equity, in New York](/topics/black-latina-women/lucile-spence).

@@ -39,8 +39,8 @@ tags:
 - childhood
 - Black people
 questions: 
-- What phrases from this speech most struck you? What ideas about education, about community control, or about life for people of color, do these phrases relate to? 
-- Based on her remarks in this speech, why does community control of schools matter to June Jordan? 
+- What phrases from this speech most struck you? What ideas about education, about community control, or about life for people of color do these phrases relate to? 
+- Based on her remarks in this speech, why did community control of schools matter to June Jordan? 
 - Do you think that June Jordan’s vision of education has been achieved? What has been accomplished, and what has not yet been? 
 - Who would you invite to speak at your graduation?
 --- 

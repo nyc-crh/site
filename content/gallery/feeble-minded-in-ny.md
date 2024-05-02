@@ -38,10 +38,10 @@ tags:
 - racist segregation
 - Disabled people
 questions: 
-- Based on Table C, what leads children to being placed at this school? What is the category of “feeble minded”? What is included and what is excluded? 
+- Based on Table C, what lead children to being placed at this school? What was the category of “feeble minded”? What was included and what was excluded? 
 - What factors do you think affected whether a family could take care of a child with intellectual disabilities or other disabilities at home? 
 - Sections of the text on pages 86 and 93 make suggestions about who should decide where a person with intellectual disabilities lives. What do you think about these proposals? Who do you think should decide where a person with intellectual disabilities lives? What factors might be involved in that decision? 
-- Who is the school on Randall’s Island trying to help? What sections of the text support your answer?
+- Who was the school on Randall’s Island trying to help? What sections of the text support your answer?
 --- 
 
 A school for children with intellectual and developmental disabilities opened on Randall’s Island in the East River in the 1860s - alongside the city’s almshouse, hospitals, and prisons. By the early 1900s, the school had been renamed the “Custodial Asylum and School for the Feeble-Minded.”[^1] At the time, the term “feeble minded” was a label used by educators, doctors, and government officials to indicate that a person had an intellectual disability. Intelligence tests were an important, if not the only, factor in deciding whether a person would be labeled “feeble minded.”

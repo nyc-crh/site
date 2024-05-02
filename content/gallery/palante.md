@@ -41,8 +41,8 @@ tags:
 - women's activism
 questions:
 - What text do you see on the cover? What images do you see on the cover? 
-- How are the Young Lords using art to present themselves, their struggles, and their ideas for liberation? 
-- How does Denise Oliver present herself in this cover? What representations of gender, including femininity and masculinity, do you see here?
+- How were the Young Lords using art to present themselves, their struggles, and their ideas for liberation? 
+- How did Denise Oliver present herself in this cover? What representations of gender, including femininity and masculinity, do you see here?
 --- 
 
 *Palante* was a self-published newspaper in which the various branches of the Young Lords Party highlighted important issues in their communities. They examined social issues through a critical lens that unearthed how colonialism, capitalism, and racism created problems for Puerto Rican communities.
