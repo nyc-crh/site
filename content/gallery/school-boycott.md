@@ -39,7 +39,7 @@ tags:
 - Black people
 questions:
 - What do you notice about the poster? What do you wonder?
-- Who is the audience for this poster? What strategies does the poster employ to enlist that audience into the demonstration?
+- Who was the audience for this poster? What strategies does the poster employ to enlist that audience into the demonstration?
 - What connections do you see between the poster and the present day? 
 - Notice the sign that read “Jim Crow can’t teach democracy.” What was going on in the 1950s that made US citizens more likely to link their civil rights struggles to the idea of democracy?
 --- 
