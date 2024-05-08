@@ -37,10 +37,10 @@ tags:
 - NAACP
 - Black people
 questions: 
-- What are DuBois’ criticisms of intelligence tests? There are several different ones, so make sure you find more than one. 
+- What were DuBois’ criticisms of intelligence tests? There are several different ones, so make sure you find more than one. 
 - >
- What does DuBois mean that “the average included most of both races”? How are the mathematic concepts of “average” and “range” a part of his argument? 
-- What do you notice about DuBois’ rhetorical style? How does he write this piece? How do you think he wants his readers to feel? 
+ What did DuBois mean that “the average included most of both races”? How are the mathematic concepts of “average” and “range” a part of his argument? 
+- What do you notice about DuBois’ rhetorical style? How did he write this piece? How do you think he wanted his readers to feel? 
 - >
  DuBois points out one kind of question on the IQ test and implies - but does not state why - it is unfair. Why is it unfair to ask test takers to “complete pictures where the net was missing in the tennis court or the ball in the bowling alley”?  
 - >
