@@ -40,9 +40,9 @@ tags:
 - employment
 - exclusion from schooling
 questions:
-- What does Eddie enjoy doing at home and with his family? 
-- What challenges do Eddie and his family face in his neighborhood and community? 
-- What conditions make it possible for Eddie’s family to decide not to send him to an institution, as a doctor suggested, and instead to support him in living at home?
+- What did Eddie enjoy doing at home and with his family? 
+- What challenges did Eddie and his family face in his neighborhood and community? 
+- What conditions made it possible for Eddie’s family to decide not to send him to an institution, as a doctor suggested, and instead to support him in living at home?
 --- 
 
 Willowbrook opened in 1947. The number of people living at institutions in and around New York City increased in the early twentieth century as physicians frequently told parents of “mentally retarded” children to send them to institutions where they could be rehabilitated. At this time, public schools could still turn away children if they thought they were “uneducable.”[^1]
