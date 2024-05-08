@@ -43,7 +43,7 @@ tags:
 - photography, imagery, & visual representation
 questions: 
 - Why was Camp Jened created? What problems did the camp founders want to solve by creating a camp for people, particularly young people, with disabilities?
-- What does the brochure tell you about the environment of Camp Jened? What do you notice about the landscape, and the buildings? What symbols or images do you see? How do you think people with different life experiences might respond to this brochure? 
+- What does the brochure tell you about the environment of Camp Jened? What do you notice about the landscape, and the buildings? What symbols or images do you see? How do you think people with different life experiences might have responded to this brochure? 
 - What do you think the brochure’s authors mean by the phrase “real camping for the handicapped”? 
 - Does this pamphlet on Camp Jened illustrate joy? Do you see any connections between Camp Jened and political struggle, such as for disability rights?
 --- 
