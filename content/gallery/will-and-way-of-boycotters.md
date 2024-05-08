@@ -40,9 +40,9 @@ tags:
 - autonomous educational spaces
 - multiracial organizing
 questions:
-- Does the reporting of the *Amsterdam News*, one of New York's Black newspapers, make the demonstration seem like a success or a failure? Why do you think so? 
-- Do those participating in the demonstration seem to be enjoying themselves? What evidence do you see in the text? 
-- Why do you think Gertrude Wilson and the *Amsterdam News* emphasize the racial and class diversity of those supporting the boycott? Why is this important?
+- Did the reporting of the *Amsterdam News*, one of New York's Black newspapers, make the demonstration seem like a success or a failure? Why do you think so? 
+- Did those participating in the demonstration seem to be enjoying themselves? What evidence do you see in the text? 
+- Why do you think Gertrude Wilson and the *Amsterdam News* emphasized the racial and class diversity of those supporting the boycott? Why is this important?
 --- 
 
 On February 3, 1964, an estimated 464,400 students - almost half the city’s enrollment - boycotted New York City’s segregated school system. Getting that many people to stay out of school and walk on picket lines in front of schools, all peacefully, required a great deal of work. So did organizing Freedom Schools, where children who were out of school could be safe, have meals, and learn.
