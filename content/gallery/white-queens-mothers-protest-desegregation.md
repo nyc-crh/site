@@ -37,7 +37,7 @@ tags:
 - white people
 - photography, imagery, & visual representation
 questions:
-- Why do you think it is white mothers who organize and are most visible in this anti-desegregation protest?
+- Why do you think it was white mothers who organized and were most visible in this anti-desegregation protest?
 --- 
 
 Five years after the 1954 *Brown v. Board of Education* decision, the New York City Board of Education announced a plan to desegregate a few schools in Brooklyn and Queens. Black and Puerto Rican students who lived in Bedford-Stuyvesant, in Brooklyn, would be bused to a few schools in the Glendale-Ridgewood area of Queens, where the schools were all-white. Parents, and particularly white mothers, organized this protest.
