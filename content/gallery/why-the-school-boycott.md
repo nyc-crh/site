@@ -39,7 +39,7 @@ tags:
 - Black people
 questions:
 - What do you notice about the poster? What do you wonder?
-- Who is the audience for this flier? What strategies does the flier employ to encourage that audience to join the boycott? 
+- Who was the audience for this flier? What strategies does the flier employ to encourage that audience to join the boycott? 
 - What information in the poster echoes the present?
 --- 
 
