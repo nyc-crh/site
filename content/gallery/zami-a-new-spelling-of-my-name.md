@@ -38,8 +38,8 @@ tags:
 - blindness & low vision
 - Harlem
 questions:
-- How does Audre Lorde feel about reading? 
-- How does Audre Lorde’s mother respond to her daughter’s experience at the library, and at the school? Would you describe Lorde’s mother as an educational activist? Why or why not? 
+- How did Audre Lorde feel about reading? 
+- How did Audre Lorde’s mother respond to her daughter’s experience at the library, and at the school? Would you describe Lorde’s mother as an educational activist? Why or why not? 
 - Lorde writes about how she came to call herself Audre, rather than Audrey. Why was naming important to her? How are names important to you and your friends? 
 - >
  What do you think Audre Lorde meant when, in describing her schooling experience, she wrote: “Ability had nothing to do with expectation”? What examples from her school experience relate to this comment? How does this comment apply, or not apply, to your experience in school? 
