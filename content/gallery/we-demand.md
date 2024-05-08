@@ -44,9 +44,9 @@ tags:
 - Harlem
 - teacher quality
 questions: 
-- What kind of education are the student protesters hoping to receive? What passages in the text show you what the students imagined education should be like? 
-- What passages in the text show criticisms of what education - in elementary, high school, or college - had been like for students? What are the student protesters’ criticisms? 
-- Who do the student protesters think should make decisions about what happens at City College? Do you agree or disagree with their ideas?
+- What kind of education were the student protesters hoping to receive? What passages in the text show you what the students imagined education should be like? 
+- What passages in the text show criticisms of what education - in elementary, high school, or college - had been like for students? What were the student protesters’ criticisms? 
+- Who did the student protesters think should make decisions about what happens at City College? Do you agree or disagree with their ideas?
 --- 
 
 Student protesters at City College (CCNY) explained why they organized a strike on their campus and what changes they wanted to achieve.
