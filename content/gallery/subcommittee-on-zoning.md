@@ -33,8 +33,8 @@ tags:
 - zoning & student assignment
 - segregation
 questions: 
-- According to the subcommittee’s draft, why were New York City Schools segregated? Why was the segregation of New York City Schools a problem? What do you think of these explanations? 
-- What narratives within the draft report help to hide the actions that created and sustained segregation within and between New York Public Schools?
+- According to the subcommittee’s draft, why were New York City Schools segregated? Why was the segregation of New York City schools a problem? What do you think of these explanations? 
+- What narratives within the draft report help to hide the actions that created and sustained segregation within and between New York public schools?
 - >
  In 2014, researchers identified New York City schools as some of the most segregated in the U.S.[^1] Soon after, Mayor Bill de Blasio created a “School Diversity Advisory Group” for the New York City Department of Education to discuss ways to address this issue. How do you think Ella Baker would feel knowing about the continued segregation of New York schools? What advice do you think she would offer the School Diversity Advisory Group?
 --- 
