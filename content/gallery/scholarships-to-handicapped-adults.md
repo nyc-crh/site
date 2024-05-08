@@ -45,7 +45,7 @@ questions:
 - Why do you think adults like Ruth Sesmer attended Camp Jened? 
 - What do Sesmer’s comments tell us about her experience at Camp Jened and what it meant to her? 
 - Do you see joy in Sesmer’s comments? Do you see struggle?
-- Can a private camp that charges for attendance be fully accessible? What factors might affect a family’s or camper’s ability to afford Camp Jened?
+- Can a private camp that charges for attendance be fully accessible? What factors might have affected a family’s or camper’s ability to afford Camp Jened?
 --- 
 
 Camp Jened was a private camp, and it charged campers’ families for attendance. Founders Leona Burger and Honora Rubenstein reported that they kept the fees as low as possible. But not everyone could afford to pay these fees.[^1]
