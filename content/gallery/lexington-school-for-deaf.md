@@ -25,7 +25,7 @@ relImgAlt: Still image of a videotaped reading by Nicolyn Plummer
 relLink: /teaching-resources/close-reading-examples/nicolyn-plummer-video/
 eventname: Students at Lexington School for the Deaf protest the hiring of a non-Deaf CEO.
 caption: Students at the Lexington School for the Deaf in Queens organized to demand a Deaf principal for their school.
-archive_source: "*New York Times*"
+archive_source: "*The New York Times*"
 source_link: 
 copyright: Under copyright. Used with permission.
 categories: 
@@ -51,8 +51,8 @@ Deaf students in New York continued to push for change. They wanted to be able t
 
 [^1]: Gallaudet University, “Events Leading up to DPN - The Deaf President Now (DPN) Protest,” accessed July 29, 2023, [https://gallaudet.edu/museum/history/the-deaf-president-now-dpn-protest/events-leading-up-to-dpn/](https://gallaudet.edu/museum/history/the-deaf-president-now-dpn-protest/events-leading-up-to-dpn/).
 
-[^2]: David Firestone, “Deaf Students Protest New School Head,” *New York Times*, April 27, 1994, [https://www.nytimes.com/1994/04/27/nyregion/deaf-students-protest-new-school-head.html](https://www.nytimes.com/1994/04/27/nyregion/deaf-students-protest-new-school-head.html).
+[^2]: David Firestone, “Deaf Students Protest New School Head,” *The New York Times*, April 27, 1994, [https://www.nytimes.com/1994/04/27/nyregion/deaf-students-protest-new-school-head.html](https://www.nytimes.com/1994/04/27/nyregion/deaf-students-protest-new-school-head.html).
 
-[^3]: David Firestone, “Chief Executive To Step Down At Deaf Center,” *New York Times*, June 22, 1994, [https://www.nytimes.com/1994/06/22/nyregion/chief-executive-to-step-down-at-deaf-center.html](https://www.nytimes.com/1994/06/22/nyregion/chief-executive-to-step-down-at-deaf-center.html).
+[^3]: David Firestone, “Chief Executive To Step Down At Deaf Center,” *The New York Times*, June 22, 1994, [https://www.nytimes.com/1994/06/22/nyregion/chief-executive-to-step-down-at-deaf-center.html](https://www.nytimes.com/1994/06/22/nyregion/chief-executive-to-step-down-at-deaf-center.html).
 
-[^4]: Felicia R. Lee,  “New York to Teach Deaf in Sign Language, Then English,” *New York Times*, March 5, 1998, [https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html](https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html).
+[^4]: Felicia R. Lee,  “New York to Teach Deaf in Sign Language, Then English,” *The New York Times*, March 5, 1998, [https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html](https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html).
