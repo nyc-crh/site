@@ -54,20 +54,13 @@ Although it was a very cold and wet day, as the silent film recorded by the New 
 
 Some of the signs included:
 
-> We are against busing to any neighborhood
->
-> No Bus No Fuss
->
-> Fight Transfers. Do not submit
->
-> PAT Rather fight than switch [schools]
->
-> Jackson [Heights] PTA says preserve our neighborhood school
->
-> The Board of Education is out of its head
->
-> Neighborhood Schools for Neighborhood Children
->
+* We are against busing to any neighborhood
+* No Bus No Fuss
+* Fight Transfers. Do not submit
+* PAT Rather fight than switch [schools]
+* Jackson [Heights] PTA says preserve our neighborhood school
+* The Board of Education is out of its head
+* Neighborhood Schools for Neighborhood Children
 
 This footage helps us see this moment in history. But it was not created for this purpose. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program. “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt \[or visible\] and covert \[or hidden\]  surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.”[^2] That “broad range” includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. The police perceived these activists, including the school boycotters, as “potential security threats.” That is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^3] In the NYPD surveillance films, it is unusual to see white people, and especially white women, engaged in political protest as they are here.
 
