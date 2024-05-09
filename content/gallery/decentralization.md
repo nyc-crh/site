@@ -51,6 +51,6 @@ New York State’s 1969 decentralization law drew strong opposition from many Bl
 
 Some education officials suggested that decentralization - which would divide New York City into 32 separate community school districts, each with an elected board and some important responsibilities - was like community control.[^1] But Antonetty and others disagreed. They were concerned that too much power remained in the central offices of the Board of Education, and with the United Federation of Teachers, which had at times opposed community control and some of the innovations in [bilingual education](/gallery/la-escuela-bilingue) that United Bronx Parents supported.
 
-The New York State legislature did pass the decentralization law, and held community school district elections. In the first year, United Bronx Parents participated in a boycott of the election.
+The New York State Legislature did pass the decentralization law, and held community school district elections. In the first year, United Bronx Parents participated in a boycott of the election.
 
 [^1]: Heather Lewis, *New York City Public Schools from Brownsville to Bloomberg* (New York: Teachers College Press, 2011).
