@@ -64,6 +64,6 @@ As an activist involved in many political struggles, Mae Mallory faced risks bey
 
 [^2]: Adina Back, “'Exposing the ‘Whole Segregation Myth’: The Harlem Nine and New York City’s School Desegregation Battles,” in *Freedom North: Black Freedom Struggles Outside the South, 1940-1980*, ed. Jeanne Theoharis and Komozi Woodard (New York: Palgrave Macmillan, 2003), 70.
 
-[^3]: "Harlem Parents File for Million,” *New York Times*, October 29, 1958.
+[^3]: "Harlem Parents File for Million,” *The New York Times*, October 29, 1958.
 
 [^4]: [Ashley Farmer, “Mae Mallory: Forgotten Black Power Intellectual,” *Black Perspectives,* June 3, 2016, https://www.aaihs.org/mae-mallory-forgotten-black-power-intellectual/](https://www.aaihs.org/mae-mallory-forgotten-black-power-intellectual/)
