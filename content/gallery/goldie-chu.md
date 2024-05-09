@@ -64,4 +64,4 @@ Goldie Chu also became an example of how participation in community control help
 
 [^2]: Merin, “The ‘Other’ Community Control,” 2.
 
-[^3]: “Asian American Women Nurture a Growing Consciousness and Activism in Chinatown,” *New York Times*, Nov. 14, 1977.
+[^3]: “Asian American Women Nurture a Growing Consciousness and Activism in Chinatown,” *The New York Times*, Nov. 14, 1977.
