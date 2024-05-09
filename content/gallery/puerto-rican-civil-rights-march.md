@@ -56,13 +56,21 @@ Concern about school segregation was not only expressed during the school boycot
 Signs read:
 
 > Mejor educación para los niños puertorriqueños
+> 
 > Separate but equal doesn’t work
+> 
 > Integración es un gran educación
+> 
 > Better education means better jobs means better lives
+> 
 > Quality integrated education now
+> 
 > Combata por mejor educación y derechos civiles para todos
+> 
 > We demand the teaching of Puerto Rican history
+> 
 > Jim Crow no enseña democracia
+> 
 > Mejor education significa mejor trabajos para vivir
 
 This footage gives us a glimpse of one march led by Puerto Ricans and participated in by Black and white New Yorkers. But the footage was not created for us. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program: “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt [or visible] and covert [or hidden]  surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.” [^2] That “broad range” includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. Based on their decision to send the surveillance film team to this march, we can see that the police perceived the marchers  as “potential security threats.” That is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^3]
