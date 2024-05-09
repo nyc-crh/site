@@ -23,7 +23,7 @@ closeRdImg:
 closeRdLink: 
 eventname: "Galamison takes the boycott to the \"600\" schools."
 caption: "*The New York Times* reported on the start of a school boycott led by Reverend Milton Galamison that began on January 19, 1965. Galamison was boycotting the continued segregation of New York City’s junior high schools, including those designated as \"600.\""
-archive_source: New York Times Archives
+archive_source: *The New York Times* Archives
 source_link: https://timesmachine.nytimes.com/timesmachine/1965/01/20/97182442.html?pageNumber=27
 copyright: Under copyright. Used with permission
 categories: 
