@@ -49,6 +49,6 @@ Debates over how blind people would read continued throughout the 19th century a
 
 It wasn’t until the founding of the American Foundation for the Blind (AFB), in 1921, that blind people were finally able to have a say in the point system that worked best for them. The AFB, whose members were mostly blind people, gained decision-making power over this issue. The AFB voted to make braille the standard, though it would still take many years before a final standard was adopted.[^2]
 
-[^1]: “The Blind Dispute Rival Book Systems,” *New York Times*, March 25, 1909, [https://www.nytimes.com/1909/03/25/archives/the-blind-dispute-rival-booksy-systems-professor-reads-his-speech.html](https://www.nytimes.com/1909/03/25/archives/the-blind-dispute-rival-booksy-systems-professor-reads-his-speech.html).
+[^1]: “The Blind Dispute Rival Book Systems,” *The New York Times*, March 25, 1909, [https://www.nytimes.com/1909/03/25/archives/the-blind-dispute-rival-booksy-systems-professor-reads-his-speech.html](https://www.nytimes.com/1909/03/25/archives/the-blind-dispute-rival-booksy-systems-professor-reads-his-speech.html).
 
 [^2]: The American Foundation for the Blind, “War of the Dots | American Foundation for the Blind,” accessed July 25, 2023, [https://www.afb.org/about-afb/history/online-library/war-dots](https://www.afb.org/about-afb/history/online-library/war-dots).
