@@ -29,6 +29,6 @@ Teachers and administrators have also frequently labeled students as disabled be
 
 [^5]: Susan Goldin-Meadow and Diane Brentari, “Gesture, Sign and Language: The Coming of Age of Sign Language and Gesture Studies,” *The Behavioral and Brain Sciences* 40 (January 2017), [https://doi.org/10.1017/S0140525X15001247](https://doi.org/10.1017/S0140525X15001247).
 
-[^6]: Felicia R. Lee, “New York to Teach Deaf in Sign Language, Then English,” *New York Times*, March 5, 1998, [https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html](https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html).
+[^6]: Felicia R. Lee, “New York to Teach Deaf in Sign Language, Then English,” *The New York Times*, March 5, 1998, [https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html](https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html).
 
 [^7]: Khallid Alasim, “Participation and Interaction of Deaf and Hard-of-Hearing Students in Inclusion Classroom,” *International Journal of Special Education* 33, no. 2 (2018): 493–506.
