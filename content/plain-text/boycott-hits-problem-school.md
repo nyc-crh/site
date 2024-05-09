@@ -7,7 +7,7 @@ draft: false
 ---
 
 Published: January 20, 1965
-Copyright The New York Times
+Copyright *The New York Times*
 
 136 Students Out in 'Rights' Protest by Galamison
 By Martin Tolchin
