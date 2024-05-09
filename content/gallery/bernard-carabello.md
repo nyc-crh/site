@@ -57,11 +57,11 @@ United Cerebral Palsy took over part of Willowbrook to improve care for children
 
 Two months after the exposé, the parents of children at Willowbrook filed a lawsuit. The resulting Willowbrook Consent Decree in 1975 required that care be improved at the facility and that residential facilities have a maximum of 250 residents.[^7] The state made a commitment to close Willowbrook and move the residents into community based housing, but that process took 15 more years. The last Willowbrook resident moved out in 1987. The College of Staten Island has been located on the former grounds of Willowbrook since 1993.
 
-[^1]: “A Misdiagnosed Deaf Man’s Ordeal,” *New York Times* [https://www.nytimes.com/1988/12/11/nyregion/a-misdiagnosed-deaf-man-s-ordeal.html](https://www.nytimes.com/1988/12/11/nyregion/a-misdiagnosed-deaf-man-s-ordeal.html).
+[^1]: “A Misdiagnosed Deaf Man’s Ordeal,” *The New York Times* [https://www.nytimes.com/1988/12/11/nyregion/a-misdiagnosed-deaf-man-s-ordeal.html](https://www.nytimes.com/1988/12/11/nyregion/a-misdiagnosed-deaf-man-s-ordeal.html).
 
 [^2]: “Bernard Carabello,” accessed July 29, 2023, [https://nysilc.org/inductees/32-2022/234-bernard-carabello](https://nysilc.org/inductees/32-2022/234-bernard-carabello).
 
-[^3]: Peter Kihss, “Cerebral Palsy Unit Praised by State Aide,” *New York Times*, September 30, 1977, [https://www.nytimes.com/1977/09/30/archives/cerebral-palsy-unit-praised-by-state-aide.html](https://www.nytimes.com/1977/09/30/archives/cerebral-palsy-unit-praised-by-state-aide.html).
+[^3]: Peter Kihss, “Cerebral Palsy Unit Praised by State Aide,” *The New York Times*, September 30, 1977, [https://www.nytimes.com/1977/09/30/archives/cerebral-palsy-unit-praised-by-state-aide.html](https://www.nytimes.com/1977/09/30/archives/cerebral-palsy-unit-praised-by-state-aide.html).
 
 [^4]: Cheryl Bates-Harris, “Segregated and Exploited: The Failure of the Disability Service System to Provide Quality Work,” *Journal of Vocational Rehabilitation* 36, no. 1 (January 1, 2012): 39–64.
 
