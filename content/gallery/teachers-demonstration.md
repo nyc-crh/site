@@ -55,18 +55,18 @@ The strike reached not just Ocean Hill-Brownsville schools, but all New York Cit
 
 Protesters, most of whom appear to be white women teachers, carried signs that read:
 
-- End Mob Rule
-- Return the Schools to **All** the People
-- Freedom to Teach for **All** Teachers
-- End Violence in Our Schools
-- Dignity for All Teachers
-- TWU (Transit Workers Union) Supports Teachers
-- Why won’t \[Mayor John\] Lindsay close hate factory JHS 271?
-- Lindsey, the last of the big time suspenders
-- Due Process for Teachers
-- Witches Brew while our Children Stew
-- JHS 281 Brooklyn
-- No School is Safe without Due Process
+* End Mob Rule
+* Return the Schools to **All** the People
+* Freedom to Teach for **All** Teachers
+* End Violence in Our Schools
+* Dignity for All Teachers
+* TWU (Transit Workers Union) Supports Teachers
+* Why won’t \[Mayor John\] Lindsay close hate factory JHS 271?
+* Lindsey, the last of the big time suspenders
+* Due Process for Teachers
+* Witches Brew while our Children Stew
+* JHS 281 Brooklyn
+* No School is Safe without Due Process
 
 In this context, teachers’ comments about “due process” referred not to constitutional rights, but to the provisions for how teachers were evaluated and, under some circumstances, could be considered for firing, under the union contract. The Teachers Union felt that the dismissal of the Ocean Hill-Brownsville teachers was a violation of these “due process” rules.
 
