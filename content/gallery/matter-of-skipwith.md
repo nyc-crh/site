@@ -52,6 +52,6 @@ Judge Polier repeated the Board’s assertion that the segregation in New York C
 
 After Judge Polier’s ruling, the Board of Education agreed to transfer the children of the “Harlem Nine” to different schools that their parents thought offered better opportunities. However, segregation continued for most children in Harlem schools.[^2]
 
-[^1]: “4 Mothers Guilty in School Boycott,” *New York Times*, December 4, 1958.
+[^1]: “4 Mothers Guilty in School Boycott,” *The New York Times*, December 4, 1958.
 
 [^2]: Adina Back, “'Exposing the ‘Whole Segregation Myth’: The Harlem Nine and New York City’s School Desegregation Battles,” in *Freedom North: Black Freedom Struggles Outside the South, 1940-1980,* ed. Jeanne Theoharis and Komozi Woodard (New York: Palgrave Macmillan, 2003), 65-91.
