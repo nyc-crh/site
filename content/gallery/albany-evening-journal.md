@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Elizabeth Cisco is recognized for her role in ending legal segregation. 
-caption: This short newspaper article ran in the local Albany paper not long after the “Elsberg School Bill” passed the New York State legislature. The bill made it illegal for school systems in New York to assign Black and white students to separate segregated schools. It describes a complex moment of recognition for Mrs. Elizabeth Cisco.
+caption: This short newspaper article ran in the local Albany paper not long after the “Elsberg School Bill” passed the New York State Legislature. The bill made it illegal for school systems in New York to assign Black and white students to separate segregated schools. It describes a complex moment of recognition for Mrs. Elizabeth Cisco.
 archive_source: Reprinted in The Autobiography of Dr. William Henry Johnson.
 source_link: 
 copyright: Public domain
@@ -43,7 +43,7 @@ questions:
 - How would you feel in Mrs. Elizabeth Cisco’s position here? What emotions - good or bad, or contradictory - do you think she was experiencing?
 --- 
 
-Mrs. Elizabeth Cisco worked for more than five years, with her husband and on her own, to fight for educational equality and desegregation. She pushed schools in the town of Jamaica, and then the board of education in Queens, and then the New York State Legislature, to end school segregation and provide equal opportunity for her children.[^1] A few days after the New York State legislature passed a bill ending legal segregation in schools, Mrs. Cisco attended a gathering at a local Black church in the state capital of Albany. The newspaper captured the scene with the small description you see above.
+Mrs. Elizabeth Cisco worked for more than five years, with her husband and on her own, to fight for educational equality and desegregation. She pushed schools in the town of Jamaica, and then the board of education in Queens, and then the New York State Legislature, to end school segregation and provide equal opportunity for her children.[^1] A few days after the New York State Legislature passed a bill ending legal segregation in schools, Mrs. Cisco attended a gathering at a local Black church in the state capital of Albany. The newspaper captured the scene with the small description you see above.
 
 As you read, imagine a sanctuary full of church-goers, most of whom - because the church was part of the African Methodist Episcopal denomination - would have been African American people. They were gathered to celebrate the anniversary of the birth of John Brown, the white abolitionist who led an uprising against slavery in 1859. At this event the congregation was joined by Secretary of State John T. McDonough, who was a white man, and were led by Dr. William H. Johnson, a Black man who was one of the leaders of the church.
 
