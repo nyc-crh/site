@@ -52,23 +52,15 @@ On the day of the February 3 boycott, some participants gathered at the headquar
 
 The signs that protesters carried included slogans like:
 
-> Fight Jim Crow Boycott Schools
->
-> Integration means better schools for all
->
-> The only education is an integrated one
->
-> Ya el tiempo de los bobos se acabó. \[The time for fools is over.\]
->
-> Integration is an Education
->
-> We boycott for equal rights
->
-> Jim Crow can’t teach democracy
->
-> Let the rich cats pay tuition
->
-> We Demand a Real Integration Timetable
+* Fight Jim Crow Boycott Schools
+* Integration means better schools for all
+* The only education is an integrated one
+* Ya el tiempo de los bobos se acabó. \[The time for fools is over.\]
+* Integration is an Education
+* We boycott for equal rights
+* Jim Crow can’t teach democracy
+* Let the rich cats pay tuition
+* We Demand a Real Integration Timetable
 
 This footage provides us a record of what the boycott looked like. But it was not created for this purpose. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program: “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt [or visible] and covert [or hidden] surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.”[^1] That “broad range” of groups includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. Based on their decision to send the surveillance film team to the boycotts, we can see that the police perceived the school boycotters as “potential security threats.” This is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^2]
 
