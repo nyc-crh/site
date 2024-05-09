@@ -62,21 +62,14 @@ This film, about five weeks into the strike, shows a "whistle protest" of about 
 
 Protesters carried signs that read:
 
-> Mr Mayor, Our Children Belong Back In School
->
-> We didn’t do it. Why keep us waiting?
->
-> We want our buses
->
-> Mr Mayor Stop Using Our Children as Political Pawns
->
-> Our Children Belong in School, Not at Home
->
-> We Demand Education for Our Children
->
-> I have nothing to do at home
->
-> The Year of the Child
+* Mr Mayor, Our Children Belong Back In School
+* We didn’t do it. Why keep us waiting?
+* We want our buses
+* Mr Mayor Stop Using Our Children as Political Pawns
+* Our Children Belong in School, Not at Home
+* We Demand Education for Our Children
+* I have nothing to do at home
+* The Year of the Child
 
 In response to the protest, the city announced that they would provide funding for private taxis and send parents instructions for how to request money for taxis if alternative transportation was not available.[^5] In the end, the bus drivers and the school chancellor agreed to give job security to current drivers but allowed for more bus companies to compete for future contracts.[^6] Bus drivers went on strike again in 2013[^7] for similar reasons. In 2023, parents of disabled children filed a federal complaint over bus driver shortages that kept their children out of school.[^8]
 
