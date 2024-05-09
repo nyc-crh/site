@@ -66,4 +66,4 @@ By the early 1930s, after an expansion in the use of [intelligence testing](/top
 
 [^6]: Michael M. Gerber, “A History of Special Education,” in *Handbook of Special Education* (New York: Routledge Press, 2017), 3-15.
 
-[^7]: “Elizabeth Farrell Dies in Cleveland; Founded Ungraded Class System in this City in This City, Starting with Small Group Now Numbers 11,000,” New York Times, October 17, 1932, [https://www.nytimes.com/1932/10/17/archives/elizabeth-farrell-dies-in-cleveland-founded-ungraded-class-system.html](https://www.nytimes.com/1932/10/17/archives/elizabeth-farrell-dies-in-cleveland-founded-ungraded-class-system.html).
+[^7]: “Elizabeth Farrell Dies in Cleveland; Founded Ungraded Class System in this City in This City, Starting with Small Group Now Numbers 11,000,” *The New York Times*, October 17, 1932, [https://www.nytimes.com/1932/10/17/archives/elizabeth-farrell-dies-in-cleveland-founded-ungraded-class-system.html](https://www.nytimes.com/1932/10/17/archives/elizabeth-farrell-dies-in-cleveland-founded-ungraded-class-system.html).
