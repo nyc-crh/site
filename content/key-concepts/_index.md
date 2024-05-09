@@ -278,7 +278,7 @@ The history of institutional and structural racism in housing, employment, wealt
 
 Language can be a way of preserving segregation and resisting desegregation. Many policy choices have created segregation in housing and schooling in New York. But talk about what the “good” schools are, who the “good” kids are, or how families in “better” neighborhoods deserve “better” schools, are subtle ways to speak about racial segregation as if it just happens naturally, instead of looking at policy choices that support segregation. Many people who say they support desegregation or oppose racism still speak and think these ways.[^59]
 
-Some of New York’s most powerful white liberal organizations - like the *New York Times*, for example - used their voices against civil rights activism. They supported an unjust status quo and saved their criticism for those who sought to challenge it.[^60]
+Some of New York’s most powerful white liberal organizations - like *The New York Times*, for example - used their voices against civil rights activism. They supported an unjust status quo and saved their criticism for those who sought to challenge it.[^60]
 
 Moreover, explicit racist and ableist ideas and terms blame individuals and their communities - rather than policies and people in power - for segregation and inequality. In the 1960s and afterwards, some educators and policymakers spoke of “cultural pathology” or “cultural deprivation” in Black and Latinx communities. They labeled Black and Latinx boys as “socially maladjusted,” instead of noticing how schools were not serving these students well.[^61]
 
@@ -334,7 +334,7 @@ While there are currently no student-led organizations focused specifically on d
 
 [^68]: Christina Veiga, "Few Options: Many NYC High Schools Are Off Limits to Students With Disabilities," *Chalkbeat New York*, Mar 1, 2022, [https://ny.chalkbeat.org/2022/3/1/22957201/nyc-schools-high-school-admissions-students-with-disabilities](https://ny.chalkbeat.org/2022/3/1/22957201/nyc-schools-high-school-admissions-students-with-disabilities)
 
-[^69]: Kim Sweet, "End the School Bus Nightmares for New York Families," *New York Times*, November 18, 2018, [https://www.nytimes.com/2018/11/14/opinion/school-buses-busing-new-york-city-department-of-education.html](https://www.nytimes.com/2018/11/14/opinion/school-buses-busing-new-york-city-department-of-education.html)
+[^69]: Kim Sweet, "End the School Bus Nightmares for New York Families," *The New York Times*, November 18, 2018, [https://www.nytimes.com/2018/11/14/opinion/school-buses-busing-new-york-city-department-of-education.html](https://www.nytimes.com/2018/11/14/opinion/school-buses-busing-new-york-city-department-of-education.html)
 
 [^70]: Clifford Michel, "Staten Island Special Education Students Sue to Join Neighborhood School Classrooms," *The City*, February 3, 2021, [https://www.thecity.nyc/2021/2/3/22265468/staten-island-special-education-students-sue-nyc-schools](https://www.thecity.nyc/2021/2/3/22265468/staten-island-special-education-students-sue-nyc-schools)
 
