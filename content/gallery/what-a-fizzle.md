@@ -41,4 +41,4 @@ questions:
 - What did the editors want to happen next?
 --- 
 
-Here a black newspaper, the *Amsterdam News*, reflects on how others spoke about the February 3 boycott both before and after it happened. They comment on how a white newspaper, the New York *Herald Tribune*, had covered the boycott. Other white newspapers, including the *New York Times*, had been very critical of the boycott before it happened.
+Here a black newspaper, the *Amsterdam News*, reflects on how others spoke about the February 3 boycott both before and after it happened. They comment on how a white newspaper, the New York *Herald Tribune*, had covered the boycott. Other white newspapers, including *The New York Times*, had been very critical of the boycott before it happened.
