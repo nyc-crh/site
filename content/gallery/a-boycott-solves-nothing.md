@@ -40,15 +40,15 @@ tags:
 questions:
 - What words and phrases did *The New York Times* use to describe civil rights activists and Black and Latinx parents and children? What words and phrases did *The New York Times* use to describe the mayor and the Board of Education? 
 - Who or what did *The New York Times* believe was causing segregation in New York, or interfering with desegregation? 
-- What did the *NYT* believe that Black and Puerto Rican parents and children should do to improve education? How does this editorial in *The New York Times* compare to the coverage of the boycott by the *Amsterdam News*? [link to that document set here] 
-- What effect do you think this *NYT* editorial had? Consider who reads the *NYT* and how many people read it.
+- What did *The New York Times* believe that Black and Puerto Rican parents and children should do to improve education? How does this editorial in *The New York Times* compare to the coverage of the boycott by the *Amsterdam News*? [link to that document set here] 
+- What effect do you think this *New York Times* editorial had? Consider who reads *The New York Times* and how many people read it.
 --- 
  
 *The New York Times’* editorial board published this editorial a few days before the first 1964 school boycott.
 
-Newspapers write editorials like this one to inform their readers of important issues that they think readers should know the paper’s opinion on. As you read the editorial, consider how the *NYT* describes the protestors, the role of the Board of Education, the causes of segregated schools in New York, and why the *NYT* chose to write this editorial.
+Newspapers write editorials like this one to inform their readers of important issues that they think readers should know the paper’s opinion on. As you read the editorial, consider how *The New York Times* describes the protestors, the role of the Board of Education, the causes of segregated schools in New York, and why *The New York Times* chose to write this editorial.
 
-*The New York Times* is a historically white newspaper - meaning that it was founded by white people, and it imagined most of its readers to be white. It was a very influential newspaper, as it is now, both in New York City and nationally. In keeping with its identity as a liberal newspaper, the *NYT* was critical of segregation and racism in the Jim Crow South. Yet in this period it was much less willing to criticize racism in the North.
+*The New York Times* is a historically white newspaper - meaning that it was founded by white people, and it imagined most of its readers to be white. It was a very influential newspaper, as it is now, both in New York City and nationally. In keeping with its identity as a liberal newspaper, *The New York Times* was critical of segregation and racism in the Jim Crow South. Yet in this period it was much less willing to criticize racism in the North.
 
 On the day of the boycott, *The New York Times* printed another editorial, this one calling the boycott “tragically misguided” and “pointless.” The editorial implied, without evidence, that it was likely that there would be violence in connection with the boycott. The editorial portrayed the Board of Education as “responsible” in their efforts to desegregate, as compared to the boycotters who were disrupting the system and demanding something “impossible.”[^1]
 
