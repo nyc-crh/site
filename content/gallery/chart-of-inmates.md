@@ -23,7 +23,7 @@ closeRdImg:
 closeRdLink: 
 eventname: >
  An annual report for the New York State Board of Charities shows the number of “inmates” that lived in state institutions like reformatories and state schools.
-caption: Pie chart depicting various types of inmates housed in state institutions
+caption: Pie chart depicting various types of inmates housed in state institutions. 
 archive_source: Annual Report of the State Board of Charities of the State of New York, 1921, page 35, via Google Books.
 source_link: https://play.google.com/store/books/details?id=wP4qAAAAYAAJ&rdid=book-wP4qAAAAYAAJ&rdot=1
 copyright: Public domain
