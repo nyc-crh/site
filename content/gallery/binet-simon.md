@@ -23,7 +23,7 @@ closeRdImg:
 closeRdLink: 
 eventname: American psychologists adapt Alfred Binet’s intelligence test for use in schools.
 caption: >
- Psychologists developed intelligence tests or measures of “intelligence quotient” or “IQ.” They suggested that a “normal” child will be able to accomplish these tasks by the stated age.
+ Psychologists developed intelligence tests or measures of “intelligence quotient” or “IQ.” They suggested that a “normal” child would be able to accomplish these tasks by the stated age.
 archive_source: >
  Raymond A. Schwegler, *A Teacher’s Manual for the Use of the Binet-Simon Scale* (Topeka: Kansas State Printing Office, 1914).
 source_link: >
