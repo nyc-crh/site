@@ -23,7 +23,7 @@ relTitle:
 relImg: 
 relImgAlt: 
 relLink: 
-eventname: United Bronx Parents argued against the New York State decentralization law.
+eventname: United Bronx Parents argue against the New York State decentralization law.
 caption: United Bronx Parents argued against the New York State decentralization law, identifying how it did not meet the goals of community control advocates. 
 archive_source: New York Public Library, Schomburg Manuscripts, Archives, and Rare Books Division, Schomburg Center for Research in Black Culture, Babette Edwards Education Reform in Harlem collection, SC MG 809, box 2, folder 3.
 source_link: https://archives.nypl.org/scm/22268
