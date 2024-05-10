@@ -23,7 +23,7 @@ relTitle: "Watch: A Windowless School in Harlem"
 relImg: windowless-school-harlem.jpg
 relImgAlt: Video frame showing the outside of a school
 relLink: https://vimeo.com/684374095/4a1cb48a99
-eventname: Black Panther Party calls for Operation Shut Down to boycott Harlem schools.
+eventname: The Black Panther Party calls for Operation Shut Down to boycott Harlem schools.
 caption: The Black Panther Party distributed fliers in Harlem to spread the word about their planned one-day boycott of I.S. 201.  
 archive_source: Black Panther Party Harlem Branch Files, Box 1, Folder 8, Schomburg Center for Research in Black Culture, New York Public Library
 source_link: https://archives.nypl.org/scm/20948
