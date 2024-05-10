@@ -21,8 +21,8 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Organizer Milton Galamison and other desegregation advocates called for a second boycott, to take place on March 16, 1964. 
-caption: This hand-illustrated poster announces the second New York City school boycott, on March 16, 1964. 
+eventname: Organizer Milton Galamison and other desegregation advocates call for a second boycott, to take place on March 16, 1964. 
+caption: This hand-illustrated poster announced the second New York City school boycott, on March 16, 1964. 
 archive_source: Queens College Special Collection & Archive
 source_link: https://library.qc.cuny.edu/archives/
 copyright: Public domain. Courtesy of Queens College Special Collections and Archive.
