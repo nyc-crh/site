@@ -24,7 +24,7 @@ closeRdLink:
 eventname: >
  Henry Goddard writes about the use of intelligence tests for “delinquent girls.”
 caption: >
- Intelligence test advocate Henry H. Goddard argues for intelligence testing for girls he labels as “delinquent.”
+ Intelligence test advocate Henry H. Goddard argued for intelligence testing for girls he labeled as “delinquent.”
 archive_source: >
  “The Training School,” June 1911.
 source_link: https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=45
