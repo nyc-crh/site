@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: "Dr. King writes about the \"school boycott concept\" and its application across the country."
-caption: "In this op-ed, published in the *New York Amsterdam News*, Dr. Martin Luther King, Jr. writes about the \"school boycott concept\" and its application across the country, particularly in the North."
+caption: "In this op-ed, published in the *New York Amsterdam News*, Dr. Martin Luther King, Jr. wrote about the \"school boycott concept\" and its application across the country, particularly in the North."
 archive_source: "*New York Amsterdam News*"
 source_link: https://www.nypl.org/research/research-catalog/bib/b21451436
 copyright: Under copyright. Used with permission.
