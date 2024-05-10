@@ -24,7 +24,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: Community control advocates march across the Brooklyn Bridge.
-caption: Community control advocates march across the Brooklyn Bridge during the 1968 United Federation of Teachers strike. One of the figures in the front is Rhody McCoy, who was the superintendent of the Ocean Hill-Brownsville community control district in Brooklyn, where the controversy over teacher firing prompted the strike. 
+caption: Community control advocates marching across the Brooklyn Bridge during the 1968 United Federation of Teachers strike. One of the figures in the front is Rhody McCoy, who was the superintendent of the Ocean Hill-Brownsville community control district in Brooklyn, where the controversy over teacher firing prompted the strike. 
 archive_source: New York University Tamiment Library 
 source_link: 
 copyright: Under copyright
