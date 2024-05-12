@@ -19,7 +19,7 @@ Psychologists like Henry F. Goddard had far more confidence in the new tests. He
 
 Although seemingly in different situations, both the Chicago and New York debates show the growing power that the idea of intelligence had in the 1910s and 1920s. Intelligence was now an innate thing, something that existed inside a person regardless of their social context. And it could be tested, measured, and used to predict their future.[^5]
 
-New intelligence tests were celebrated by the era’s eugenics movement - or the movement for “good genes.” Eugenicists thought white Northern European non-disabled people were superior, and they tried to control and limit the number of people who did not fit their “eugenic” ideal.[^6] Many Americans - Black people, Mexican-Americans, recent immigrants from southern and eastern Europe, and people with a range of disabilities - became targets of their policies.
+New intelligence tests were celebrated by the era’s eugenics movement - or the movement for “good genes.” Eugenicists thought white northern European non-disabled people were superior, and they tried to control and limit the number of people who did not fit their “eugenic” ideal.[^6] Many Americans - Black people, Mexican-Americans, recent immigrants from southern and eastern Europe, and people with a range of disabilities - became targets of their policies.
 
 Yet as we see in the case of the Chicago classroom, people resisted eugenicist ideas about intelligence. Scholars and high school students spoke up, and parents removed their children from institutions that they did not think were serving their children well or demanded changes in school policy.
 
