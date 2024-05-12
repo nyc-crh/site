@@ -24,7 +24,7 @@ videoTitle: Parents Protest for School Transportation
 closeRdImg: 
 closeRdLink: 
 eventname: Parents and children protest for transportation to school for Disabled students during a 3-month bus driver strike. 
-caption: A bus driver strike meant that disabled children who relied on buses to get to school lost their transportation, keeping many from being able to attend school. Police surveillance cameras record parents and children protesting at City Hall to end the strike so they could get back to school.
+caption: A bus driver strike meant that disabled children who relied on buses to get to school lost their transportation, keeping many from being able to attend school. Police surveillance cameras recorded parents and children protesting at City Hall to end the strike so they could get back to school.
 archive_source: Municipal Archives of the City of New York Digital Collection
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~1346~1232503:-Demonstration-for-better-access-to
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives of the City of New York.
