@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Toni Cade Bambara recalls how her Puerto Rican neighbor was treated when he went to school. 
-caption: Writer Toni Cade Bambara recalls being a child in Harlem when new neighbors from Puerto Rico moved in. She observed the family and how the schools treated their new students. 
+caption: Writer Toni Cade Bambara recalled being a child in Harlem when new neighbors from Puerto Rico moved in. She observed the family and how the schools treated their new students. 
 archive_source: "Toni Cade Bambara, \"Realizing the Dream of a Black University and Other Writings, Part I.\" Makeba Lavan, Conor Tomás Reed, Ed. Series 7, Number 2, Part 1, Fall 2017, https://cuny.manifoldapp.org/read/realizing-the-dream-of-a-black-university-other-writings-part-i/section/e29ebe26-4067-4c4f-8570-e182a32a2cf3"
 source_link: https://cuny.manifoldapp.org/read/realizing-the-dream-of-a-black-university-other-writings-part-i/section/e29ebe26-4067-4c4f-8570-e182a32a2cf
 copyright: Under copyright.
