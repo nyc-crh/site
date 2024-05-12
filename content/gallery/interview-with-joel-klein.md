@@ -26,7 +26,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: Chancellor Joel Klein speaks about his approach to leadership and school change.
-caption: Joel Klein was the first Chancellor of the Department of Education appointed by Mayor Michael Bloomberg under mayoral control. He describes his approach to making change in the city’s schools. 
+caption: Joel Klein was the first Chancellor of the Department of Education appointed by Mayor Michael Bloomberg under mayoral control. In this video, he describes his approach to making change in the city’s schools. 
 archive_source: The 74 Million
 source_link: https://www.youtube.com/watch?v=gqyqeiD8ugQ
 copyright: Under copyright. Used with permission
