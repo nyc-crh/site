@@ -42,7 +42,7 @@ questions:
 - Who determined whether a child was able to go to public school or sent to a state institution? What were some of the dilemmas for parents of disabled children at this time?
 --- 
 
-Special education classes for children with intellectual disabilities were pioneered in New York City by a social welfare reformer, Elizabeth Farrell. Farrell had been working with Lillian Wald and other reformers at the Henry Street Settlement in the Lower East Side. Henry Street was built to provide community support and education to new immigrants to New York City, most of them from Southern and Eastern Europe.
+Special education classes for children with intellectual disabilities were pioneered in New York City by a social welfare reformer, Elizabeth Farrell. Farrell had been working with Lillian Wald and other reformers at the Henry Street Settlement in the Lower East Side. Henry Street was built to provide community support and education to new immigrants to New York City, most of them from southern and eastern Europe.
 
 Farrell found that some of her students responded better to more active kinds of instruction and a smaller class size. Based on the success she had in working with these children, she later proposed to establish an “ungraded class” at PS1. Later she pushed to expand these classes to other schools throughout the system, and she became the Inspector of Ungraded Classes.[^1] She believed that behavior problems and truancy were linked to difficulties learning. She sent visiting teachers to speak with parents about their children’s needs.[^2]
 
