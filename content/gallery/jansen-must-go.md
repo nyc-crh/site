@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Harlem community members call on Superintendent William Jansen to resign.
-caption: This flier encourages parents and others concerned about Black and Puerto Rican children to call for Superintendent William Jansen’s resignation. 
+caption: This flier encouraged parents and others concerned about Black and Puerto Rican children to call for Superintendent William Jansen’s resignation. 
 archive_source: Ella Baker Papers, Schomburg Center for Research in Black Culture, New York Public Library 
 source_link: https://archives.nypl.org/scm/20899
 copyright: Public domain. Courtesy of the Schomburg Center for Research in Black Culture.
