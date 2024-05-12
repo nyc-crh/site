@@ -23,7 +23,7 @@ video:
 videoTitle: Parents and Taxpayers Protest and Counter-Protest on Film
 closeRdImg: 
 closeRdLink: 
-eventname: White parents organized and protested in favor of segregation.
+eventname: White parents organize and protest in favor of segregation.
 caption: This film footage shows a Parents and Taxpayers protest at City Hall Park against desegregation, and a counter-protest across the street.
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
 source_link: https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3
