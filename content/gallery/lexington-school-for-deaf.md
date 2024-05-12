@@ -35,7 +35,7 @@ categories:
 tags: 
 - Deaf culture
 - self-determination
-- American Sign language
+- American Sign Language
 questions: 
 - Why did Deaf people push for Deaf leaders at their schools? 
 - How might having a Deaf CEO help students and teachers?
