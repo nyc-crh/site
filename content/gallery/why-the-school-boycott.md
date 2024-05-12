@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Call for a boycott of New York City's public schools to desegregate.
-caption: The flier by Queens Congress of Racial Equality and the Jamaica branch of the National Association for the Advancement of Colored People (or NAACP) calls for a boycott of New York City's public schools. 
+caption: The flier by Queens Congress of Racial Equality and the Jamaica branch of the National Association for the Advancement of Colored People (or NAACP) called for a boycott of New York City's public schools. 
 archive_source: Queens College Special Collections and Archives
 source_link: https://library.qc.cuny.edu/archives/
 copyright: Public domain. Courtesy of Queens College Special Collections and Archive.
