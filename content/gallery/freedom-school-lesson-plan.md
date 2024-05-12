@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Ella Baker and others encouraged the establishment of Freedom Schools in the North.
+eventname: Ella Baker and others encourage the establishment of Freedom Schools in the North.
 caption: Ella Baker and her fellow organizers encouraged the establishment of Freedom Schools in the North. Freedom Schools were learning spaces outside of traditional schools. Baker thought they could help young people to analyze racism and power and its impact on schools and youth. This page captures planning for one Freedom School and its activities. 
 archive_source: Schomburg Center, Ella Baker Papers
 source_link: 
