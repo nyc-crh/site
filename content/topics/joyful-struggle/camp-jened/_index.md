@@ -34,6 +34,6 @@ Camp Jened became a touchstone of the modern disability rights movement. Many di
 
 [^6]: Newnham and LeBrecht, *Crip Camp*; Denise Sherer Jacobson, interviewed by Jasmine Leiser, April 4, 2023, via Zoom; “Camp Jened To Continue Treatments,” *New York Herald Tribune*, April 30, 1953, Collection of Honora Rubenstein; “Disabled Kids, Adults Attend Upstate Camp,” *Sunday News/New York’s Picture Newspaper*, May 1, 1955, Collection of Honora Rubenstein; “Camp Jened—Real Camping for the Handicapped,” mid-1950s, Collection of Honora Rubenstein.
 
-[^7]: Newnham and LeBrecht, *Crip Camp*; Jim LeBrecht, interviewed by Dr. Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom; Reunion Remarks, Collection of Honora Rubenstein.
+[^7]: Newnham and LeBrecht, *Crip Camp*; Jim LeBrecht, interviewed by Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom; Reunion Remarks, Collection of Honora Rubenstein.
 
 [^8]: Camp Jened later reopened in 1980 at a different facility, and continued until 2006.
