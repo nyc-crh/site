@@ -24,7 +24,7 @@ videoTitle: Puerto Rican Civil Rights March on Film
 closeRdImg: 
 closeRdLink: 
 eventname: Puerto Rican community organizations are joined by others who are in solidarity with them marching at City Hall.
-caption: A film recorded by the New York Police Department showing the Puerto Rican Civil Rights march on March 1, 1964. Puerto Rican community organizations are joined by others who are in solidarity with them marching at City Hall. 
+caption: A film recorded by the New York Police Department showing the Puerto Rican Civil Rights march on March 1, 1964. Puerto Rican community organizations were joined by others who were in solidarity with them marching at City Hall. 
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~234~1233385:City-Hall-Puerto-Rican-March--Demon?sort=identifier%2Ctitle%2Cdate&qvq=q:0173;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives, City of New York
