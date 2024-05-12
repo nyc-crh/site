@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Rallies and smaller protests took place throughout the city as part of the school boycott.
+eventname: Rallies and smaller protests take place throughout the city as part of the school boycott.
 caption: "*Amsterdam News* reporter Jimmy Brooks covered a rally at City Hall during the February 3, 1964 boycott, and smaller protests at schools around the city."
 archive_source: “*New York Amsterdam News*”
 source_link: https://www.nypl.org/research/research-catalog/bib/b21451436
