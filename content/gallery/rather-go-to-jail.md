@@ -24,7 +24,7 @@ relImg: kaliris-salas-ramirez-video-sm.jpg
 relImgAlt: Still image of a videotaped reading by Kaliris Salas Ramirez
 relLink: /teaching-resources/close-reading-examples/kaliris-salas-ramirez-video/
 eventname: Mae Mallory, Viola Waddy and other members of the “Harlem Nine” boycott Harlem schools. 
-caption: "This *Amsterdam News* article was published on December 13, 1958. The headline, “We’d rather go to jail,” quotes Mrs. Viola Waddy, a Black mother in Harlem who refused to allow her child to attend a segregated and unequal school. Waddy and others risked imprisonment for that decision."
+caption: "This *Amsterdam News* article was published on December 13, 1958. The headline, “We’d rather go to jail,” is a quote from Mrs. Viola Waddy, a Black mother in Harlem who refused to allow her child to attend a segregated and unequal school. Waddy and others risked imprisonment for that decision."
 archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission. 
