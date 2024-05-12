@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Willie Mae Goodman and her daughter Marguerite Goodman are photographed together.
-caption: Willie Mae Goodman and her daughter Marguerite Goodman are photographed together.
+caption: Willie Mae Goodman and her daughter Marguerite Goodman were photographed together.
 archive_source: New York State Office for People with Developmental Disabilities
 source_link: 
 copyright: Under copyright. Used with permission.
