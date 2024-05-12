@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Reporter Gertrude Wilson wrote about how women and young people worked to make the February 3 boycott happen.
+eventname: Reporter Gertrude Wilson writes about how women and young people worked to make the February 3 boycott happen.
 caption: "*Amsterdam News* reporter Gertrude Wilson wrote about how women and young people worked to make the February 3 boycott happen."
 archive_source: “*New York Amsterdam News*”
 source_link: https://www.nypl.org/research/research-catalog/bib/b21451436
