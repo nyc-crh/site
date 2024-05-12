@@ -24,7 +24,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: "*The Survey Graphic* publishes a special issue about art and intellectual life in Harlem, edited by Alain Locke."
-caption: "This *New York Amsterdam News* reports on a Teacher Union event focused on racism and inequality in Harlem schools."
+caption: "This *New York Amsterdam News* reported on a Teacher Union event focused on racism and inequality in Harlem schools."
 archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission. 
