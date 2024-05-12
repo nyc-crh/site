@@ -25,8 +25,8 @@ videoTitle: >
  New York Hotline: Special Ed #304, excerpt 2
 closeRdImg: 
 closeRdLink: 
-eventname:  A New York City student asks why students in special education are treated differently than other students.
-caption: A student calls in to a local New York City news show to ask why students in special education are treated differently in school. Their question prompts a discussion among a Board of Education official, a parent advocate, and an attorney who represents Disabled students and students labeled with disabilities.
+eventname: A New York City student asks why students in special education are treated differently than other students.
+caption: A student called in to a local New York City news show to ask why students in special education are treated differently in school. Their question prompted a discussion among a Board of Education official, a parent advocate, and an attorney who represents Disabled students and students labeled with disabilities.
 archive_source: Municipal Archives of the City of New York Digital Collections
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~23~23~977~1294471:New-York-Hotline--Special-Ed-#304
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives of the City of New York.
