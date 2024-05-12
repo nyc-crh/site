@@ -24,7 +24,7 @@ videoTitle: Willie Mae Goodman Interview, excerpt
 closeRdImg: 
 closeRdLink: 
 eventname: Willie Mae Goodman reflects on her activism fighting for her daughter Marguerite and other disabled children and adults.  
-caption: In this interview, Willie Mae Goodman describes her activism fighting for her daughter Marguerite and other disabled children and adults.
+caption: In this interview, Willie Mae Goodman described her activism fighting for her daughter Marguerite and other disabled children and adults.
 archive_source: "\"Willowbrook Revisited,\" Staten Island Community Television"
 source_link: https://youtu.be/hInnet2nXaA
 copyright: Under copyright. Used with permission.
