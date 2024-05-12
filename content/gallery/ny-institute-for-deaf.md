@@ -55,7 +55,7 @@ While the school employed both manual and oral methods for most of the 19th cent
 
 In 1867, the Institution for the Improved Instruction of Deaf-Mutes (now the Lexington School for the Deaf) opened and taught only with oral methods, and other schools as well taught only lip reading and articulation rather than sign language.[^8]
 
-American Sign Language was kept alive through Deaf social clubs, but it did not start to become part of a formal deaf education again until the late 1960s. Educators of the Deaf were still opposed to teaching sign language until the 1980s.[^9] At [JHS 47](/gallery/ps47), a public school for the Deaf, sign language was finally reintroduced in 1998 after growing advocacy by Deaf students, including a push for a Deaf principal in 1994.[^10]
+American Sign Language was kept alive through Deaf social clubs, but it did not start to become part of a formal deaf education again until the late 1960s. Educators of the Deaf were still opposed to teaching sign language until the 1980s.[^9] At [J.H.S. 47](/gallery/ps47), a public school for the Deaf, sign language was finally reintroduced in 1998 after growing advocacy by Deaf students, including a push for a Deaf principal in 1994.[^10]
 
 [^1]: Susan Wurtzburg and Lyle Campbell, “North American Indian Sign Language: Evidence of Its Existence before European Contact,” *International Journal of American Linguistics* 61, no. 2 (1995): 153–67.
 
