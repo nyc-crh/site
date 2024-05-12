@@ -56,6 +56,6 @@ At Camp Jened, campers made a lean-to for a pet lamb, performed in theatrical pl
 
 [^1]: Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, April 19, 2023, via Zoom; Denise Sherer Jacobson, interviewed by Jasmine Leiser, April 4, 2023, via Zoom; “Camp Jened To Continue Treatments,” *New York Herald Tribune,* April 30, 1953, Collection of Honora Rubenstein.
 
-[^2]: Jackie and Jeff Rubenstein, interviewed by Leiser;  “Camp Jened To Continue Treatments,” *New York Herald Tribune*;  Jacobson, interviewed by Leiser; Jim LeBrecht, interviewed by Dr. Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom.
+[^2]: Jackie and Jeff Rubenstein, interviewed by Leiser;  “Camp Jened To Continue Treatments,” *New York Herald Tribune*;  Jacobson, interviewed by Leiser; Jim LeBrecht, interviewed by Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom.
 
 [^3]: Jacie and Jeff Rubenstein, interviewed by Leiser;; “Camp Jened—Real Camping for the Handicapped Brochure,” c. mid-1950s, Collection of Honora Rubenstein; “Disabled Kids, Adults Attend Upstate Camp,” *Sunday News New York’s Picture Newspaper*, May 1, 1955, Collection of Honora Rubenstein; Camp Jened Staff Roster of Counselors and Therapists, Collection of Honora Rubenstein; Reunion Remarks, from the Collection of Honora Rubenstein; LeBrecht, interviewed by Murray and Leiser.
