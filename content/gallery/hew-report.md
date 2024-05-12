@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: The US Department of Health, Education, and Welfare investigates discrimination in NYC schools.
-caption: A federal official reports on discrimination in the NYC school system, including by race, language, sex, and disability.
+caption: A federal official reported on discrimination in the NYC school system, including by race, language, sex, and disability.
 archive_source: Statement by Martin H. Gerry, Director, Office for Civil Rights, Department of Health, Education, and Welfare
 source_link: https://files.eric.ed.gov/fulltext/ED135888.pdf
 copyright: Government document.
