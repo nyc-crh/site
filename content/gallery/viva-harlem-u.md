@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: City College students occupy campus to call for reforms in admissions and curriculum.
-caption: City College students hold signs supporting a student strike, after several months of organizing for changes in curriculum and admissions there and on other City University of New York campuses.
+caption: City College students held signs supporting a student strike, after several months of organizing for changes in curriculum and admissions there and on other City University of New York campuses.
 archive_source: City College Archives
 source_link: 
 copyright: Under copyright. Used with permission. Courtesy of the City College Archives.
