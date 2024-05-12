@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: When a plan to bus Black and Puerto Rican students to schools in the Glendale-Ridgewood area of Queens with all-white schools was announced, white mothers organized a protest.
+eventname: When a plan to bus Black and Puerto Rican students to schools in the Glendale-Ridgewood area of Queens with all-white schools is announced, white mothers organize a protest.
 caption: "A black and white photograph captures a protest by Queens mothers against desegregation. The image shows about 10 white women, some wearing raincoats or holding umbrellas. Others hold signs that read \"Bussing Creates Fussing,\" \"We Have Just Begun to Fight,\" and \"Neighborhood Schools for All.\"" 
 archive_source: "AP Photo. Retrieved from: http://whybusingfailed.com/"
 source_link: http://whybusingfailed.com/anvc/why-busing-failed/media/Figure%204%20-%20Busing%20Creates%20Fussing%20-%20web.jpg
