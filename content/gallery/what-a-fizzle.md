@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: New York City schools head James Donovan called the boycott "a fizzle."
+eventname: New York City schools head James Donovan calls the boycott "a fizzle."
 caption: The Amsterdam News published this editorial a few days after the February 3 boycott.
 archive_source: "*New York Amsterdam News* Editorial Board"
 source_link: https://www.nypl.org/research/research-catalog/bib/b21451436
