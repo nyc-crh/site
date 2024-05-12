@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: "President Lyndon B. Johnson signed the Civil Rights Act into law, which included a \"watered down\" section on school desegregation."
+eventname: "President Lyndon B. Johnson signs the Civil Rights Act into law, which included a \"watered down\" section on school desegregation."
 caption: The 1964 Civil Rights Act carefully defined desegregation to make it easier for northern districts like New York City not to take action on school segregation. 
 archive_source: P.L. 88-352, Section 401b.  
 source_link: 
