@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: United Cerebral Palsy spreads the word about Camp Jened.
-caption: United Cerebral Palsy spreads the word about Camp Jened.
+caption: United Cerebral Palsy spread the word about Camp Jened.
 archive_source: From the Collection of the Family of Honora and Murray Rubenstein.
 source_link: 
 copyright: Under copyright.
