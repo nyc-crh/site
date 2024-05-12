@@ -21,8 +21,8 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: NAACP Youth Council’s publication, The Challenge, describes activism against segregation.
-caption: "This is a copy of the November/December 1947 issue of the NAACP Youth Council’s publication, also called *The Challenge*. Ella Baker served as an adviser for the Youth Council and assisted in its young members’ development of the publication. In this issue, Youth Council members describe their activism against segregation, including a \"JimCro\" probe into CCNY."
+eventname: NAACP Youth Council’s publication, *The Challenge*, describes activism against segregation.
+caption: "This is a copy of the November/December 1947 issue of the NAACP Youth Council’s publication, also called *The Challenge*. Ella Baker served as an adviser for the Youth Council and assisted in its young members’ development of the publication. In this issue, Youth Council members described their activism against segregation, including a \"JimCro\" probe into CCNY."
 archive_source: Schomburg Center, Ella Baker Collection
 source_link: https://archives.nypl.org/scm/20899
 copyright: Public domain. Courtesy of the Schomburg Center for Research in Black Culture.
