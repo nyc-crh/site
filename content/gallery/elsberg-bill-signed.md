@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: New York’s state legislature ends legal segregation in schools
+eventname: New York’s state legislature ends legal segregation in schools.
 caption: This newspaper clipping describes the New York bill that ended legal segregation in schools. It was called the “Elsberg Bill” because it had been proposed by Senator Elsberg.
 archive_source: "*Brooklyn Daily Eagle* via newspapers.com"
 source_link: 
