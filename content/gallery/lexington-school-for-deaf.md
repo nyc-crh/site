@@ -23,7 +23,7 @@ relTitle: Watch a close reading of this document
 relImg: nicolyn-plummer-video-sm.jpg
 relImgAlt: Still image of a videotaped reading by Nicolyn Plummer
 relLink: /teaching-resources/close-reading-examples/nicolyn-plummer-video/
-eventname: Students at Lexington School for the Deaf protest the hiring of a non-Deaf CEO.
+eventname: Students at Lexington School for the Deaf protest the hiring of a non-Deaf leader.
 caption: Students at the Lexington School for the Deaf in Queens organized to demand a Deaf principal for their school.
 archive_source: "*The New York Times*"
 source_link: 
