@@ -36,7 +36,7 @@ tags:
 - segregation
 - organizing
 questions:
-- How did this kind of organizing work of Ella Baker differ from that of Bayard Rustin’s? How are those differences complementary?
+- How did Ella Baker’s organizing work differ from Bayard Rustin’s? How are those differences complementary?
 - How might this document and the process of filling it out have impacted how students and families interacted with schools?
 - How does this questionnaire reflect Baker’s organizing commitments and teaching beliefs?
 - What would you find if you completed this questionnaire about your school?
