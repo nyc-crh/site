@@ -316,7 +316,7 @@ These continuing inequalities make it clear that even if the law recognizes stud
 
 [^65]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape” (Research Alliance for NYC Schools at NYU Steinhardt, 2019), [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city).
 
-[^66]: US Department of Education, “A History of the Individuals with Disabilities Education Act,” Nov. 18, 2022. [US Department of Education, “A History of the Individuals with Disabilities Education Act,” Nov. 18, 2022](US Department of Education, “A History of the Individuals with Disabilities Education Act,” Nov. 18, 2022).
+[^66]: US Department of Education, “A History of the Individuals with Disabilities Education Act,” November 18, 2022.
 
 [^67]: Fancsali, “Special Education in New York City.”
 
