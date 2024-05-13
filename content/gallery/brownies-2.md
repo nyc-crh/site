@@ -22,14 +22,14 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: "*The Brownies' Book* prints its second issue."
-caption: For their second issue, *The Brownies’ Book* chose a sculpture of a Black child for the cover. The title reads “I am an American Citizen.”
+caption: "For their second issue, *The Brownies’ Book* chose a sculpture of a Black child for the cover. The title reads \"I am an American Citizen.\""
 archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
 copyright: Public domain
 categories: 
 - k-12 education
 - national
-- community activism"
+- community activism
 tags: 
 - Black people
 - curriculum
