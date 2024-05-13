@@ -24,9 +24,9 @@ There are no “600” schools today. But the legacy of schools segregated both 
 
 [^1]: This section draws on the scholarship of Francine Almash and her original dissertation research which will appear as a chapter in the book *Cripping the Archive: Disability, Power, and History* (currently under contract with University of Illinois Press). Quotation from New York City Board of Education, [“The 600 Schools, Yesterday, Today, and Tomorrow,” https://nyccivilrightshistory.org/teaching-collections/boycotting-ny-schools/1965-boycott/600-schools-yesterday-today-tomorrow](https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1965-boycott/600-schools-yesterday-today-tomorrow).
 
-[^2]:New York City Board of Education, [“The 600 Schools, Yesterday, Today, and Tomorrow”](https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1965-boycott/600-schools-yesterday-today-tomorrow). On the racialization of the category of “emotional disturbance,” see Keith A. Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023).
+[^2]:New York City Board of Education, [“The 600 Schools, Yesterday, Today, and Tomorrow.”](https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1965-boycott/600-schools-yesterday-today-tomorrow) On the racialization of the category of “emotional disturbance,” see Keith A. Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023).
 
-[^3]: Francine Almash, “New York City ‘600’ Schools and the Legacy of Segregation in Special Education,” The Gotham Center for New York City History, June 21, 2022, [https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education)
+[^3]: Francine Almash, “New York City ‘600’ Schools and the Legacy of Segregation in Special Education,” The Gotham Center for New York City History, June 21, 2022, [https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education).
 
 [^4]: Almash, “New York City ‘600’ Schools.”
 
@@ -38,6 +38,6 @@ There are no “600” schools today. But the legacy of schools segregated both 
 
 [^8]: Almash, “New York City ‘600’ Schools.”
 
-[^9]: Reema Amin, “To Reduce Stigma, New York Moves to Change 'Emotional Disturbance' Label to 'Emotional Disability.'" Chalkbeat, March 14, 2022, [https://ny.chalkbeat.org/2022/3/14/22978080/ny-emotional-disturbance-regents-state-students-with-disabilities](https://ny.chalkbeat.org/2022/3/14/22978080/ny-emotional-disturbance-regents-state-students-with-disabilities)
+[^9]: Reema Amin, “To Reduce Stigma, New York Moves to Change 'Emotional Disturbance' Label to 'Emotional Disability,'" *Chalkbeat*, March 14, 2022, [https://ny.chalkbeat.org/2022/3/14/22978080/ny-emotional-disturbance-regents-state-students-with-disabilities](https://ny.chalkbeat.org/2022/3/14/22978080/ny-emotional-disturbance-regents-state-students-with-disabilities)
 
 [^10]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape” (New York: Research Alliance for NYC Schools at NYU Steinhardt, 2019), [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city)
