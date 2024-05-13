@@ -54,7 +54,7 @@ In the years before the Americans with Disabilities Act, and in many cases still
 
 [^1]: "Camp Jened to Continue Treatments,” *New York Herald Tribune*, April 30, 1958, Collection of Honora Rubenstein.
 [^2]: Jim LeBrecht, interviewed by Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom.
-[^3]: Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, March 29, 2023, via Zoom; Steven L. Sles, “A Haven for the Handicapped,” January 18, 1954, Collection of Honora Rubenstein; Jackie and Jeff Rubenstein, interview.
+[^3]: Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, March 29, 2023, via Zoom; Steven L. Sles, “A Haven for the Handicapped,” January 18, 1954, Collection of Honora Rubenstein.
 
 [^4]: Sles, “A Haven for the Handicapped”; Jackie and Jeff Rubenstein, interview; Denise Sherer Jacobson, interviewed by Jasmine Leiser, April 4, 2023, via Zoom; Memorandum to Counselors, Collection of Honora Rubenstein; *Crip Camp*, directed by James Lebrecht and Nicole Newnham (2020: James Lebrecht, Nicole Newnham, and Sara Bolder), netflix.com.
 
