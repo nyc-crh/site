@@ -23,9 +23,9 @@ relTitle: Watch a close reading of this document
 relImg: brian-jones-video-sm.jpg
 relImgAlt: Still image of a videotaped reading by Brian Jones
 relLink: /teaching-resources/close-reading-examples/brian-jones-video/
-eventname: An op-ed in *The New York Times* captures an example of white, liberal New Yorkers' resistance to desegregation. 
-caption: This *New York Times* editorial was published a few days before the February 3, 1954 boycott. It captured one example of white, liberal New Yorkers' resistance to desegregation. 
-archive_source: *The New York Times*
+eventname: "An op-ed in *The New York Times* captures an example of white, liberal New Yorkers' resistance to desegregation."
+caption: "This *New York Times* editorial was published a few days before the February 3, 1954 boycott. It captured one example of white, liberal New Yorkers' resistance to desegregation."
+archive_source: "*The New York Times*"
 source_link: https://www.nytimes.com/1964/02/04/archives/the-school-boycott.html
 copyright: Under copyright. Used with permission.
 categories: 
