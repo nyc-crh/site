@@ -23,8 +23,8 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Reverend Malika Lee Whitney describes Double Dutch Dreamz.
-caption: Reverend Malika Lee Whitney describes Double Dutch Dreamz, an intergenerational space for play and learning.
+eventname: Reverend Malika Leigh Whitney describes Double Dutch Dreamz.
+caption: Reverend Malika Leigh Whitney describes Double Dutch Dreamz, an intergenerational space for play and learning.
 archive_source: The Grandparents Storylab
 source_link: https://www.thegrandparentsstorylab.org/double-dutch-dreamz
 copyright: Under copyright. Used with permission.
@@ -40,12 +40,12 @@ tags:
 - athletics
 questions: 
 - Is Double Dutch Dreamz an example of educational activism? Why or why not? 
-- Why does Reverend Malika Lee Whitney think that Double Dutch is the ideal method for teaching youth about social justice?
+- Why does Reverend Malika Leigh Whitney think that Double Dutch is the ideal method for teaching youth about social justice?
 - What role does joy play in Rev. Whitney’s work?
 - What space for joyful play would you like to have in your school, neighborhood, or community?
 --- 
 
-When she was growing up in Harlem in the 1940s, Reverend Malika Lee Whitney played a lot of street games, like hopscotch, jacks, stick ball, and stoop ball. But she loved jumping Double Dutch the most.
+When she was growing up in Harlem in the 1940s, Reverend Malika Leigh Whitney played a lot of street games, like hopscotch, jacks, stick ball, and stoop ball. But she loved jumping Double Dutch the most.
 
 Today, Reverend Whitney leads Double Dutch Dreamz, a program she founded in Harlem in 2008. Double Dutch Dreamz promotes cooperative learning through games. Participants write Double Dutch rhymes about racism, sexism, and other issues in their community—learning about history and systems of oppression as they move.
 
