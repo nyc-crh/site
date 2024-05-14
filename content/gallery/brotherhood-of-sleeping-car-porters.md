@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: The Brotherhood of Sleeping Car Porters
+eventname: The Brotherhood of Sleeping Car Porters organizes protest rallies. 
 caption: These two posters are promoting labor rallies organized by the Brotherhood of Sleeping Car Porters in 1926 and 1937. A. Philip Randolph led the founding of the Brotherhood of Sleeping Car Porters in 1925, and he became the labor union’s first president. The Brotherhood of Sleeping Car Porters was a union of African American workers that struggled for better working conditions and challenged white supremacy in the nation’s labor movement. 
 archive_source: Newberry Library
 source_link: https://archive.org/details/nby_126266-4 
