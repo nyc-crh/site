@@ -17,7 +17,7 @@ cards:
   - title: Boycotting New York's Segregated Schools
     img: school-boycott.jpg
     alt: Flyer for school boycott showing a young Black child looking through a broken window
-    text: In 1964, New York’s schools were highly segregated and unequal. It was ten years after the Brown v. Board of Education decision that declared school segregation to be unconstitutional. But little had changed in New York City classrooms.
+    text: In 1964, New York’s schools were highly segregated and unequal. It was ten years after the *Brown v. Board of Education* decision that declared school segregation to be unconstitutional. But little had changed in New York City classrooms.
     btn:
       text: View primary sources
       url: /topics/boycotting-ny-schools/
