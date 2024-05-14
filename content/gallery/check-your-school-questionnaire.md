@@ -48,4 +48,4 @@ Ella Baker, who moved to New York after graduating from Shaw University in North
 
 [^1]: Barbara Ransby, *Ella Baker and the Black Freedom Movement: A Radical Democratic Vision* (Chapel Hill: University of North Carolina Press, 2003), 358-359.
 
-[^2]: For more on Ella Baker, see the ["Jansen Must Go!"](/gallery/jansen-must-go) and ["Commission on Integration"](/gallery/subcommittee-on-zoning) documents.
+[^2]: For more on Ella Baker, see the ["Jansen Must Go!"](/gallery/jansen-must-go/) and ["Commission on Integration"](/gallery/subcommittee-on-zoning/) documents.
