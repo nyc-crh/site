@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 date: 2021-07-11
 displaydate: 
-title: Willie Mae Goodman Interview, excerpt
+title: Interview with Willie Mae Goodman, excerpt
 author: 
 citation: >
  "Willie Mae Goodman Interview, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/willie-mae-goodman.
