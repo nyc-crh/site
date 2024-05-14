@@ -10,7 +10,7 @@ cards:
 - title: The 1964 Boycotts
   img: school-boycott.jpg
   alt: Notice to porters and maids about organizing labor rallies
-  text: A decade after *Brown vs. Board of Education*, 500,000 New York City students boycotted schools in one of the largest mass demonstrations in U.S. History. 
+  text: A decade after *Brown vs. Board of Education*, 500,000 New York City students boycotted schools in one of the largest mass demonstrations in U.S. history. 
   btn:
     text: View primary sources
     url: /topics/boycotting-ny-schools/1964-boycotts
@@ -76,6 +76,6 @@ After the boycotts of 1964 and 1965, students, parents, and activists continued 
 
 [^3]: Theoharis, *A More Beautiful and Terrible History*; Delmont, *Why Busing Failed*; Adam Sanchez, "The Largest Civil Rights Protest You’ve Never Heard Of: Teaching the 1964 New York City Boycott," *Rethinking Schools* 32, no. 4 (Winter 2019-2020),[https://rethinkingschools.org/articles/the-largest-civil-rights-protest-you-ve-never-heard-of](https://rethinkingschools.org/articles/the-largest-civil-rights-protest-you-ve-never-heard-of/)
 
-[^4]: Francine Almash, *“Out of the Shadows: Recovering the History of the New York City '600' Schools”* (Ph.D. diss., CUNY Graduate Center, in progress).  
+[^4]: Francine Almash, “Out of the Shadows: Recovering the History of the New York City '600' Schools” (Ph.D. diss., CUNY Graduate Center, in progress).  
 
-[^5]: John Cuscera with Gary Orfield, “New York State’s Extreme School Segregation: Inequality, Inaction, and a Damaged Future” (Los Angeles: UCLA Center for Civil Rights/Proyecto Derechos Civiles, 2014), [https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf](https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf);Cheri Fancsali, “Special Education in New York City: Understanding the Landscape” (New York: Research Alliance for NYC Schools at NYU Steinhardt, 2019), [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city)
+[^5]: John Cuscera with Gary Orfield, “New York State’s Extreme School Segregation: Inequality, Inaction, and a Damaged Future” (Los Angeles: UCLA Center for Civil Rights/Proyecto Derechos Civiles, 2014), [https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf](https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf); Cheri Fancsali, “Special Education in New York City: Understanding the Landscape” (New York: Research Alliance for NYC Schools at NYU Steinhardt, 2019), [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city)
