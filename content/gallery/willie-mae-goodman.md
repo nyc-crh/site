@@ -48,7 +48,7 @@ questions:
 --- 
 
 Willie Mae Goodman decided to send her daughter Marguerite to the Willowbrook State School when Marguerite was four years old. Marguerite was born with developmental disabilities, and doctors argued that Willowbrook was an appropriate place for her.
-Conditions for Marguerite, and other children and adults at Willowbrook, were horrible. The facility drew national criticism from Senator Robert Kennedy, who described the facility as “not fit for animals,” as Mrs. Goodman recalls.  
+Conditions for Marguerite, and other children and adults at Willowbrook, were horrible. The facility drew criticism from Senator Robert Kennedy, who described it as “not fit for animals,” as Mrs. Goodman recalls.  
 
 Willowbrook was overcrowded, and officials in charge decided to relocate some residents. They moved Marguerite and over 200 other disabled children from Willowbrook to the Gouverneur Hospital on the Lower East Side in Manhattan.  While Marguerite was at Gouverneur Hospital, Willie Mae Goodman and other parents and activists kept fighting for the decent home and education that Marguerite deserved.[^1]
 
