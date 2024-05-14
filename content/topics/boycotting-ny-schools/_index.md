@@ -62,7 +62,7 @@ New Yorkers seeking educational justice used school boycotts as a way to protest
 
 Given how many students from across New York City participated in the February 3, 1964 “Freedom Day” boycott, it is likely that students with disabilities were part of the protest. It may also be the case that some who wanted to participate did not have access. The existing documentation of that boycott makes it hard to be sure.
 
-Despite the massive scale of the February 1964 boycott, and the repeated use of this kind of protest in schools in New York City and around the country, the New York City school boycotts often get left out of histories of the US civil rights movement.The history of the boycotts teaches us how Black and Latinx young people and adults, and white people in solidarity with them, struggled for educational justice in the North. 
+Despite the massive scale of the February 1964 boycott, and the repeated use of this kind of protest in schools in New York City and around the country, the New York City school boycotts often get left out of histories of the US civil rights movement. The history of the boycotts teaches us how Black and Latinx young people and adults, and white people in solidarity with them, struggled for educational justice in the North. 
 
 And it shows us how white opposition to desegregation worked in New York City, both among “conservative” white parents and those who thought of themselves as “liberal.”[^3] Even though the 1964 boycott was massive, in many ways the white counter-protesters won. Policymakers continued to defer to white citizen's opposition to desegregation, and elected officials protected the North from some legal requirements to desegregate. Racism and segregation were national, not only Southern, problems. [See Key Concept #10](/key-concepts/10)
 
@@ -74,7 +74,7 @@ After the boycotts of 1964 and 1965, students, parents, and activists continued 
 
 [^2]: It remained the largest mass demonstration until it was exceeded by the Women’s March on January 21, 2017. Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016); Jeanne Theoharis, *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* (Boston: Beacon Press, 2018).
 
-[^3]: Theoharis, *A More Beautiful and Terrible History*; Delmont, *Why Busing Failed*; Adam Sanchez, "The Largest Civil Rights Protest You’ve Never Heard Of: Teaching the 1964 New York City Boycott," *Rethinking Schools* 32, no. 4: n.p., [https://rethinkingschools.org/articles/the-largest-civil-rights-protest-you-ve-never-heard-of](https://rethinkingschools.org/articles/the-largest-civil-rights-protest-you-ve-never-heard-of/)
+[^3]: Theoharis, *A More Beautiful and Terrible History*; Delmont, *Why Busing Failed*; Adam Sanchez, "The Largest Civil Rights Protest You’ve Never Heard Of: Teaching the 1964 New York City Boycott," *Rethinking Schools* 32, no. 4 (Winter 2019-2020),[https://rethinkingschools.org/articles/the-largest-civil-rights-protest-you-ve-never-heard-of](https://rethinkingschools.org/articles/the-largest-civil-rights-protest-you-ve-never-heard-of/)
 
 [^4]: Francine Almash, *“Out of the Shadows: Recovering the History of the New York City '600' Schools”* (Ph.D. diss., CUNY Graduate Center, in progress).  
 
