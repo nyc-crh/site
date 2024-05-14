@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Willowbrook State School opens as the largest state institution of its kind in the United States.
-caption: "This brochure was produced by the Willowbrook State School to explain the institution and its parents and parents and caregivers of disabled children."
+caption: "This brochure was produced by the Willowbrook State School to explain the institution to parents and caregivers of Disabled children."
 archive_source: The ARC Archives
 source_link: https://thearcny.pastperfectonline.com/library/0C9379CC-F986-45C2-A76B-581450804872
 copyright: Public domain. Courtesy of The ARC Archive. 
