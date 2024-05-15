@@ -21,7 +21,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: During the "Harlem Nine" boycott, Mae and Patricia Mallory became the face of the struggle.
+eventname: During the "Harlem Nine" boycott, Mae and Patricia Mallory become the face of the struggle.
 caption: "This photo of Mae Mallory and her daughter Patricia was taken by the *Amsterdam News* during the “Harlem Nine” fight against segregated schooling."
 archive_source: >
  "*New York Amsterdam News*" photograph archive, #8084. Division of Rare and Manuscript Collections, Cornell University Library.
