@@ -35,7 +35,7 @@ tags:
 - segregation
 questions:
 - What does it mean that Mrs. Cisco “rests her case solely on the fact that her children were refused admission to the common school on account of their color”? Was Mrs. Cisco arguing that the segregated schools for Black children were inferior, or that she opposed the rejection of her children because they are Black?
- - In 1896, the US Supreme Court declared in *Plessy v. Ferguson* that segregation was legal, as long as each group received equal services. This idea of “separate but equal” appears (in different words) in the Cisco case. What do you think Mrs. Cisco thought of the *Plessy* ruling?
+- In 1896, the US Supreme Court declared in *Plessy v. Ferguson* that segregation was legal, as long as each group received equal services. This idea of “separate but equal” appears (in different words) in the Cisco case. What do you think Mrs. Cisco thought of the *Plessy* ruling?
 --- 
 
 After a few years of pushing for desegregation of the local Jamaica schools, Mrs. Elizabeth Cisco brought suit against the school board of Queens for violating the state’s education law. Previously, she and her husband Samuel Cisco had worked together, but Mr. Cisco passed away in 1897. Mrs. Cisco carried their work forward, alongside her attorneys.[^1]
