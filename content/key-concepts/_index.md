@@ -268,9 +268,9 @@ The history of institutional and structural racism in housing, employment, wealt
 
 [^56]: [New-York Historical Society, *Slavery in New York*](https://www.slaveryinnewyork.org/about_exhibit.htm).
 
-[^57]: Zoë Burkholder, *An African American Dilemma: A History of School Integration and Civil Rights in the North* (New York: Oxford University Press, 2021).
+[^57]: Burkholder, *An African American Dilemma*.
 
-[^58]: Craig Steven, *A Covenant with Color: Race and Social Power in Brooklyn 1636-1990* (New York: Columbia University Press, 2000); Martha Biondi, *To Stand and Fight: The Struggle for Civil Rights in Postwar New York City* (Cambridge, MA: Harvard University Press, 2003); Shannon King, *Whose Harlem Is This, Anyway?* (New York: New York University Press, 2015); Clarence Taylor, *Fight the Power: African Americans and the Long History of Police Brutality in New York City* (New York: New York University Press, 2021)
+[^58]: Craig Steven, *A Covenant with Color: Race and Social Power in Brooklyn 1636-1990* (New York: Columbia University Press, 2000); Martha Biondi, *To Stand and Fight: The Struggle for Civil Rights in Postwar New York City* (Cambridge, MA: Harvard University Press, 2003); King, *Whose Harlem Is This, Anyway?*; Clarence Taylor, *Fight the Power: African Americans and the Long History of Police Brutality in New York City* (New York: New York University Press, 2021)
 
 </details>
 
@@ -288,15 +288,15 @@ NYC no longer officially segregates students by racial category, but it does sti
 
 Why is segregation by disability category seemingly acceptable policy in NYC today, when segregation by racial category is (at least as official policy) not acceptable?
 
-[^59]: Jeanne Theoharis. *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* (Boston: Beacon Press, 2018).
+[^59]: Theoharis, *A More Beautiful and Terrible History*.
 
-[^60]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape” (Research Alliance for NYC Schools at NYU Steinhardt, 2019), [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city).
+[^60]: Fancsali, “Special Education in New York City: Understanding the Landscape.”
 
-[^61]: Francine Almash, “New York City ‘600’ Schools and the Legacy of Segregation in Special Education,” The Gotham Center for New York City History, June 21, 2022, .[https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education); Keith A. Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023).
+[^61]: Almash, “New York City ‘600’ Schools”; Mayes, *The Unteachables*.
 
 [^62]: Alfredo J. Artiles, Sherman Dorn, and Aydin Bal, “Objects of Protection, Enduring Nodes of Difference: Disability Intersections With ‘Other’ Differences, 1916 to 2016,” *Review of Research in Education* 40, no. 1 (March 1, 2016): 777–820
 
-[^63]: Falancsali, “Special Education in New York City.”
+[^63]: Fancsali, “Special Education in New York City.”
 
 </details>
 
@@ -314,7 +314,7 @@ These continuing inequalities make it clear that even if the law recognizes stud
 
 [^64]: “Safeguarding Sound Basic Education: Constitutional Violations In New York State,” Teachers College Columbia University, accessed February 8, 2023, [http://www.centerforeducationalequity.org/publications/know-your-educational-rights/29767_Know_Your_Rights_128-1.pdf](http://www.centerforeducationalequity.org/publications/know-your-educational-rights/29767_Know_Your_Rights_128-1.pdf)
 
-[^65]: Cheri Fancsali, “Special Education in New York City: Understanding the Landscape” (Research Alliance for NYC Schools at NYU Steinhardt, 2019), [https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city).
+[^65]: Fancsali, “Special Education in New York City."
 
 [^66]: US Department of Education, “A History of the Individuals with Disabilities Education Act,” November 18, 2022.
 
