@@ -10,7 +10,7 @@ cards:
 - title: The 1964 Boycotts
   img: school-boycott.jpg
   alt: Notice to porters and maids about organizing labor rallies
-  text: A decade after *Brown vs. Board of Education*, 500,000 New York City students boycotted schools in one of the largest mass demonstrations in U.S. history. 
+  text: A decade after *Brown v. Board of Education*, 500,000 New York City students boycotted schools in one of the largest mass demonstrations in U.S. history. 
   btn:
     text: View primary sources
     url: /topics/boycotting-ny-schools/1964-boycotts
@@ -52,7 +52,7 @@ cards:
     url: /topics/boycotting-ny-schools/black-panthers
 ---
 
-In 1964, New York’s schools were highly segregated and unequal. It was ten years after the *Brown vs. Board of Education* decision that declared school segregation to be unconstitutional. But despite a decade of protests, rallies, and meetings, little had changed in New York City classrooms. If anything, schools had grown more segregated and unequal. Segregation in housing and employment contributed to school segregation. Yet many decisions made by the Board of Education helped segregate New York City’s schools as well: which students were zoned or assigned to which schools, where schools were built or not built, which teachers worked at which schools, and how students were grouped or divided within classrooms and schools.
+In 1964, New York’s schools were highly segregated and unequal. It was ten years after the *Brown v. Board of Education* decision that declared school segregation to be unconstitutional. But despite a decade of protests, rallies, and meetings, little had changed in New York City classrooms. If anything, schools had grown more segregated and unequal. Segregation in housing and employment contributed to school segregation. Yet many decisions made by the Board of Education helped segregate New York City’s schools as well: which students were zoned or assigned to which schools, where schools were built or not built, which teachers worked at which schools, and how students were grouped or divided within classrooms and schools.
 
 {{% read-more %}}
   
