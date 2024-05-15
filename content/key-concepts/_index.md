@@ -266,7 +266,7 @@ The history of institutional and structural racism in housing, employment, wealt
 
 [^55]: Rothstein, *The Color of Law*; Delmont, *Why Busing Failed*; Brian Purnell and Jeanne Theoharis with Komozi Woodard, eds., *The Strange Careers of the Jim Crow North: Segregation and Struggle Outside of the South* (New York: New York University Press, 2019).
 
-[^56]: [New-York Historical Society, *Slavery in New York*](New-York Historical Society, Slavery in New York).
+[^56]: [New-York Historical Society, *Slavery in New York*](https://www.slaveryinnewyork.org/about_exhibit.htm).
 
 [^57]: Zoë Burkholder, *An African American Dilemma: A History of School Integration and Civil Rights in the North* (New York: Oxford University Press, 2021).
 
