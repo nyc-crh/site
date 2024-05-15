@@ -40,7 +40,7 @@ tags:
 questions:
 - "What words and phrases did *The New York Times* use to describe civil rights activists and Black and Latinx parents and children? What words and phrases did *The New York Times* use to describe the mayor and the Board of Education?"
 - "Who or what did *The New York Times* believe was causing segregation in New York, or interfering with desegregation?"
-- "What did *The New York Times* believe that Black and Puerto Rican parents and children should do to improve education? How does this editorial in *The New York Times* compare to the coverage of the boycott by the *Amsterdam News* [here](/topics/boycotting-ny-schools/1964-boycotts/jhs-103-ps-194-city-hall/), [here](/topics/boycotting-ny-schools/1964-boycotts/will-and-way-of-boycotters/), and [here](/topics/boycotting-ny-schools/responding-to-the-boycott/what-a-fizzle/)?"
+- "What did *The New York Times* believe that Black and Puerto Rican parents and children should do to improve education? How does this editorial in *The New York Times* compare to the coverage of the boycott by the *Amsterdam News* [here](https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/jhs-103-ps-194-city-hall/), [here](https://nyccivilrightshistory.org/topics/boycotting-ny-schools/1964-boycotts/will-and-way-of-boycotters/), and [here](https://nyccivilrightshistory.org/topics/boycotting-ny-schools/responding-to-the-boycott/what-a-fizzle/)?"
 - "What effect do you think this *New York Times* editorial had? Consider who reads *The New York Times* and how many people read it."
 --- 
  
