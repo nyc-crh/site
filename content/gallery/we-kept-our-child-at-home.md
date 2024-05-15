@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: In the 1950s, children with intellectual disabilities could be excluded from public schools despite laws that required children to attend schools. 
-caption: "A reporter for *Coronet* magazine interviewed the father of a ten year-old boy with an intellectual or developmental disability (which was referred to as mental retardation at the time). The father described the pressure to send his child Eddie to an institution and his hopes for his son."
+caption: "A reporter for *Coronet* magazine interviewed the father of a ten-year-old boy with an intellectual or developmental disability (which was referred to as mental retardation at the time). The father described the pressure to send his child Eddie to an institution and his hopes for his son."
 archive_source: "*Coronet* Magazine and the Disability History Museum"
 source_link: https://archive.org/details/sim_coronet_1955-11_39_1_0/page/48/mode/1up
 copyright: Under copyright. Used with permission.
