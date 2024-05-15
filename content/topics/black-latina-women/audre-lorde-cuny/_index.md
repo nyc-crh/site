@@ -20,13 +20,13 @@ Lorde’s ideas about how people's lives are shaped by multiple parts of their i
 
 Recognizing Lorde’s work as an activist educator, we can ask how her experiences across her intersecting identities and experience with racism, sexism, heteronormativity, and ableism influenced the kind of teacher she chose to be.
 
-[^1]: Audre Lorde, “Age, Race, Class, and Sex: Women Redefining Difference,” in *Sister Outsider: Essays and Speeches by Audre Lorde* (Trumansburg, NY: Crossing Press, 1984), 114–23
+[^1]: Audre Lorde, “Age, Race, Class, and Sex: Women Redefining Difference,” in *Sister Outsider: Essays and Speeches by Audre Lorde* (Trumansburg, NY: Crossing Press, 1984), 114–23.
 
-[^2]: Audre Lord, *Zami: A New Spelling of My Name* (Watertown, MA: Persephone Press, 1982).
+[^2]: Audre Lorde, *Zami: A New Spelling of My Name* (Watertown, MA: Persephone Press, 1982).
 
-[^3]: Audre Lorde, “'I teach myself in outline': Notes, Journals, Syllabi, and an Excerpt from Deotha,” Contributors Iemanjá Brown and Miriam Atkin,  [https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf](https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf). For more on Lorde's work in the classroom, see Conor Tomás Reed, _New York Liberation School: Study and Movement for the People's Univeristy_ (New York: Common Notions Press, 2023). For more on the 1969 City College protests, see [Greta Schiller and Andrea Weiss, _The Five Demands_. Icarus Films, 2023](https://thefivedemandsfilm.com/) and their related teaching resources. 
+[^3]: Audre Lorde, “'I teach myself in outline': Notes, Journals, Syllabi, and an Excerpt from Deotha,” Contributors Iemanjá Brown and Miriam Atkin, [https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf](https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf). For more on Lorde's work in the classroom, see Conor Tomás Reed, _New York Liberation School: Study and Movement for the People's Univeristy_ (New York: Common Notions Press, 2023). For more on the 1969 City College protests, see [Greta Schiller and Andrea Weiss, _The Five Demands_. Icarus Films, 2023](https://thefivedemandsfilm.com/) and their related teaching resources. 
 
-[^4]: Audre Lorde, *The Cancer Journals* (London: Penguin, 2020); Tracy K. Smith, “How Audre Lorde’s Experience of Breast Cancer Fortified Her Revolutionary Politics,” *LitHub*, October 14, 2020, [https://lithub.com/how-audre-lordes-experience-of-breast-cancer-fortified-her-revolutionary-politics/](https://lithub.com/how-audre-lordes-experience-of-breast-cancer-fortified-her-revolutionary-politics/)
+[^4]: Audre Lorde, *The Cancer Journals* (London: Penguin, 2020); Tracy K. Smith, “How Audre Lorde’s Experience of Breast Cancer Fortified Her Revolutionary Politics,” *LitHub*, October 14, 2020, [https://lithub.com/how-audre-lordes-experience-of-breast-cancer-fortified-her-revolutionary-politics/](https://lithub.com/how-audre-lordes-experience-of-breast-cancer-fortified-her-revolutionary-politics/).
 
 [^5]: Alison Kafer and Eunjung Kim, “Disability and the Edges of Intersectionality,” in *The Cambridge Companion to Literature and Disability,* ed. Clare Barker and Stuart Murray (Cambridge, UK: Cambridge University Press, 2017), 123-138.
 
