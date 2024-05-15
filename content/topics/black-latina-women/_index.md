@@ -37,7 +37,7 @@ cards:
 - title: Denise Oliver and the Women of the Young Lords Party
   img: denise-oliver.jpg
   alt: Denise Oliver, a young black woman, wearing a beret with several political buttons and a collared leather jacket. She's holding a cup and smoking a cigarette and has a somber expression on her face.
-  text: The Young Lords organized in New York’s Puerto Rican communities starting in 1969. They a range of issues that they saw affecting Puerto Ricans, including poor sanitation, poor health care, hunger, and poor education.
+  text: The Young Lords organized in New York’s Puerto Rican communities starting in 1969. They addressed a range of issues that affected Puerto Ricans, including poor sanitation, poor health care, hunger, and poor education.
   btn:
     text: View primary sources
     url: /topics/black-latina-women/young-lords
