@@ -49,7 +49,7 @@ questions:
 
 Samuel B. Cisco, a Black man, lived in Jamaica, in Queens County. At the time of this newspaper article, in 1896, Queens was not yet part of New York City, and Jamaica was a small town surrounded by a rural landscape. Mr. Cisco ran a successful scavenger business. He and his wife Elizabeth had six children.[^1] Although Mrs. Cisco is less visible in the article, she worked alongside her husband and continued their fight for years after his passing.
 
-In coordination and collaboration with many of their Jamaica neighbors, the Ciscos worked tirelessly to challenge segregation and inequality that affected their children’s education.
+In coordination and collaboration with many of their Jamaica neighbors, the Ciscos worked tirelessly to challenge the segregation and inequality that affected their children’s education.
 
 Between 1895 and 1900, Black parents initiated twenty court actions against school officials while sustaining a years-long boycott of Jamaica’s “colored school.” Jamaica's Black parents made great efforts to secure an equal education for their children. Many of the Cisco’s collaborators were laborers, coachmen, servants, and janitors, and, therefore, were especially vulnerable to negative consequences for their activism.[^2] Their bosses, most of whom were white people, could have fired them for their participation.
 
@@ -61,6 +61,6 @@ On this day in 1896, Judge Garrettson dismissed the charges against Mr. Cisco. J
 
 [^2]: Mabee, “Long Island's Black ‘School War,’” 392.
 
-[^3]: “Order from Judge Barnard on the Colored School Question,” *Brooklyn Daily Eagle* (March 28, 1896), 5.
+[^3]: “Order from Judge Barnard on the Colored School Question,” *Brooklyn Daily Eagle* (March 28, 1896).
 
 [^4]: Mabee, “Long Island's Black ‘School War’,” 388.

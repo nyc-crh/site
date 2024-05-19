@@ -25,7 +25,7 @@ closeRdLink:
 eventname: "Bob Beamon describes his experience in a \"600\" school."
 caption: >
  "An excerpt from *The Man Who Could Fly: The Bob Beamon Story,* the memoir of former New York City school student and Olympic athlete Bob Beamon. Image is a page from the Jamaica High School yearbook from 1966. Robert Beamon is pictured in the second to last row. In this yearbook page, Beamon is the only Black student, highlighting the lack of racial diversity at Jamaica High School." 
-archive_source: "*The Man Who Could Fly: The Bob Beamon Story*"
+archive_source: "Bob Beamon and Milana Walter Beamon, *The Man Who Could Fly: The Bob Beamon Story* (Columbus, MS: Genesis Press, 1999)." 
 source_link: https://books.google.es/books/about/The_Man_who_Could_Fly.html?id=VYMHAAAACAAJ&source=kp_book_description&redir_esc=y
 copyright: Under copyright.
 categories: 

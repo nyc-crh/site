@@ -22,7 +22,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: Mayor LaGuardia forms a commission to study the root causes of the 1935 “Harlem Riot.” 
-caption: Mayor LaGuardia formed the LaGuardia Commission in the aftermath of the 1935 “Harlem Riot” to identify the events’ root causes and determine possible solutions. One chapter of the report, shown here, focused on education.
+caption: Mayor LaGuardia formed the LaGuardia Commission in the aftermath of the 1935 “Harlem Riot” to identify the event’s root causes and determine possible solutions. One chapter of the report, shown here, focused on education.
 archive_source: Municipal Archives of the City of New York
 source_link: https://harlemconditions.cityofnewyork.us/elementor-830/
 copyright: Public domain. Courtesy of the Municipal Archives of the City of New York.
@@ -50,11 +50,11 @@ In the aftermath of the uprising, New York City Mayor Fiorello LaGuardia assembl
 
 The Commission identified many sources of Harlem residents’ frustrations. They noted the police brutality, racial discrimination in employment, poor quality yet expensive housing, and limited educational opportunities. These were key reasons for the volatile response to the rumor of murder.
 
-After the Commission finished its work and prepared its report, Mayor LaGuardia decided not to publish it. He tried to keep its findings hidden, until the *New York Amsterdam News* printed it in its entirety. As the *Amsterdam News* made clear in their preface to the report, the mayor thought it was “ too hot, too caustic, too critical, \[and\] too unfavorable.”[^3]  
+After the Commission finished its work and prepared its report, Mayor LaGuardia decided not to publish it. He tried to keep its findings hidden, until the *New York Amsterdam News* printed it in its entirety. As the *Amsterdam News* made clear in their preface to the report, the mayor thought it was “too hot, too caustic, too critical, \[and\] too unfavorable.”[^3]  
 
-This excerpt is the chapter of the report that analyzes “the problem of education and recreation.” It specifically looks at what decisions limited educational opportunities of Black students in Harlem, including the inequitable distribution of resources, academic tracking, and racism inside Harlem schools.
+This excerpt is the chapter of the report that analyzes “the problem of education and recreation.” It specifically looks at what decisions limited educational opportunities for Black students in Harlem, including the inequitable distribution of resources, academic tracking, and racism inside Harlem schools.
 
-[^1]: Cheryl Greenberg, “The Politics of Disorder: Reexamining Harlem’s Riots of 1935 and 1943,” *Journal of Urban History* 18, no. 4 (August 1992): 395-419. To learn more about living and working conditions in Harlem in the 1920s, see Shannon King, *Whose Harlem is This Anyway? Community Politics and Grassroots Activism during the New Negro Era.* (New York: New York University Press, 2015).
+[^1]: Cheryl Greenberg, “The Politics of Disorder: Reexamining Harlem’s Riots of 1935 and 1943,” *Journal of Urban History* 18, no. 4 (August 1992): 395-419. To learn more about living and working conditions in Harlem in the 1920s, see Shannon King, *Whose Harlem is This Anyway? Community Politics and Grassroots Activism during the New Negro Era* (New York: New York University Press, 2015).
 
 [^2]: Stephen L. Carter, *Invisible: The Forgotten Story of the Black Woman Lawyer Who Took Down America’s Most Powerful Mobster* (New York: Picador, 2018), 87-98.
 

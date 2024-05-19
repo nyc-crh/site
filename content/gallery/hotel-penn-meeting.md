@@ -54,11 +54,11 @@ Lucile Spence was a teacher of biology at Harlem’s Wadleigh High School and on
 
 Between 1935 and 1937, Spence’s work with the TU’s Harlem Committee brought greater attention to Harlem’s schools and helped build new organizations focused on improving educational opportunities for Black students in Harlem. For instance, in March 1936, a year after the “Harlem Riot" of 1935, the TU sponsored a meeting at St. Martin’s Church in Harlem. At that meeting, the Permanent Committee for Better Schools in Harlem (PCBSH) was established. Spence became its secretary.[^3]  
 
-In January 1937, the PCBSH staged a mock trial, which they called a “People’s Trial,” of the New York City Board of Education. The charges were discrimination and neglect of school children in Harlem. A jury, composed of prominent community members, found the Board of Education guilty on all charges and urged Mayor Fiorella LaGuardia to reconvene his Commission on the Harlem Riot to investigate school conditions in Harlem.[^4]
+In January 1937, the PCBSH staged a mock trial, which they called a “People’s Trial,” of the New York City Board of Education. The charges were discrimination and neglect of school children in Harlem. A jury, composed of prominent community members, found the Board of Education guilty on all charges and urged Mayor Fiorello LaGuardia to reconvene his Commission on the Harlem Riot to investigate school conditions in Harlem.[^4]
 
 Three months later, Lucile Spence and the TU organized the Hotel Pennsylvania conference described in the *Amsterdam News* article here.
 
-[^1]: Clarence Taylor, “Harlem Schools and the New York City Teachers Union,” in *Educating Harlem: A Century of Schooling and Resistance in a Black Community* ed. Ansley T. Erickson and Ernest Morrell (New York: Columbia University Press, 2019), 138-158, [https://harlemeducationhistory.library.columbia.edu/book/chapters/06/](https://harlemeducationhistory.library.columbia.edu/book/chapters/06/)
+[^1]: Clarence Taylor, “Harlem Schools and the New York City Teachers Union,” in *Educating Harlem: A Century of Schooling and Resistance in a Black Community*, ed. Ansley T. Erickson and Ernest Morrell (New York: Columbia University Press, 2019), 138-158, [https://harlemeducationhistory.library.columbia.edu/book/chapters/06/](https://harlemeducationhistory.library.columbia.edu/book/chapters/06/).
 
 [^2]: Lauri Johnson, “A Generation of Women Activists: African American Female Educators in Harlem, 1930-1950,” *The Journal of African American History* 89, no. 3 (July 1, 2004): 223–40, [https://doi.org/10.2307/4134076](https://doi.org/10.2307/4134076); Jonna Perrillo, *Uncivil Rights: Teachers, Unions, and Race in the Battle for School Equity* (Chicago: University of Chicago Press, 2012).
 
