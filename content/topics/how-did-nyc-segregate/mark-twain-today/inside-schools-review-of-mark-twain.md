@@ -1,7 +1,11 @@
----
-title: 'Title in Title Case: enclose in single quotes if using special characters'
-layout: "tc-single"
+--- 
 draft: true
+docset: how-did-nyc-segregate
+bundle: mark-twain-today
+title: Inside Schools Review of Mark Twain
+featured: inside-schools-review-of-mark-twain.jpg
+featuredAlt: Report heading
+layout: "tc-single"
 hasContentInGallery: true
-date: 1000-01-01
----
+date: 2019-03-01
+--- 

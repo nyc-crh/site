@@ -1,5 +1,5 @@
 ---
-title: Why the school boycott?  (text)
+title: Why the school boycott? (text)
 layout: plain-text
 draft: false
 ---
@@ -18,7 +18,7 @@ We are not calling for the destruction of the so-called neighborhood school—ex
 
 But why a boycott? Isn't there another way to force the necessary changes?
 
-Again, our reasons are two-fold. A full-scale boycott will show, as will nothing else, how much Negro parents are willing to sacrifice for their children. The moral impact will be such that no person in authority will ever again fail to consider the determination behind our fight for equality of educational opportunities. 
+Again, our reasons are two-fold. A full-scale boycott will show, as will nothing else, how much Negro parents are willing to sacrifice for their children. The moral impact will be such that no person in authority will ever again fail to consider the determination behind our fight for equality of educational opportunities.
 
 Our second reason is more tangible. We have found that one of the quickest ways to destroy inequality and segregation is to hit it in the pocketbook. Financial aid to the school system is based upon pupil attendance. No pupils—no money. It's as simple as that.
 
@@ -27,11 +27,11 @@ We honestly don't want to boycott, but if the board of education's plan fall sho
 Jamaica Branch NAACP
 168-18 Liberty Avenue
 Jamaica 33. New York
-Jamaica 6-9070 
+Jamaica 6-9070
 
-Queens CORE 
+Queens CORE
 189-22 Keesville Avenue
-St Albans 12, New York. 
+St Albans 12, New York.
 HOllis 5-9088
 
 Printed U.S.A. Keg Enterprises, Jamaica, NY OL 9-0623

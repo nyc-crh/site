@@ -1,15 +1,18 @@
----
+--- 
 layout: gallery
 draft: true
-docset:
-bundle:
-date: 1000-01-01
-displaydate: "1000-2000"
-title: Title in Title Case
-author:
-citation: 
-featured: 
-featuredAlt: 
+docset: how-did-nyc-segregate
+docsetTitle: How Did New York City Segregate its Schools?
+bundle: racist-ableist-ideas
+bundleTitle: Racist and Ableist Ideas
+date: 1974-01-02
+displaydate: "1974"
+title: Mark Twain on the 51st State, excerpt 2
+author: "WNET/Channel 13: The 51st State"
+citation: >
+ "Mark Twain on the 51st State, excerpt 2," WNET/Channel 13: The 51st State, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mark-twain-on-51st-state-2.
+featured: mark-twain-on-51st-state-2.jpg
+featuredAlt: Still image from a news report showing a young Puerto Rican woman being interviewed
 detailedDescr: 
 embed: 
 embedTitle: 
@@ -17,30 +20,35 @@ text:
 mapembed: 
 audio: 
 audioTitle: 
+audioTranscript: 
 video: 
-videoTitle: 
+  srcType: youtube
+  srcLink: ubVtpvvf2H4
+videoTitle: Mark Twain on the 51st State, excerpt 2
 relTitle: 
-relImg:
+relImg: 
 relImgAlt: 
 relLink: 
-eventname:
-caption: 
-archive_source: 
-source_link: 
-copyright:
-categories:
-  - uncategorized
-tags:
-  - untagged
-questions:
-  - Question 1?
-  - Question 2?
-  - Question 3?
-references:
-  - Reference 1
-  - Reference 2
-  - Reference 3
----
+eventname: Journalist Richard Kotuk interviews Mark Twain students and parents about school desegregation.
+caption: This portion of Richard Kotuk’s report on school desegregation at Mark Twain Junior High School includes interviews with Black, Puerto Rican, and white students and families.
+archive_source: Richard Kotuk's YouTube Channel
+source_link: https://www.youtube.com/watch?v=Nh1zlTAf_gA
+copyright: Under copyright. Used with permission.
+categories: 
+- Brooklyn
+- k-12 education
+tags: 
+- racial segregation
+- Black people
+- Latinx people
+- white people
+- childhood
+questions: 
+- What do you notice about how students speak about their school, their community, and their fellow students? Where do the students agree, and where do they disagree? 
+- Why do the white parents oppose desegregation? What claims do they make about busing and paying taxes? 
+- In your opinion, how are the views about integration expressed in these videos similar and different from those expressed by students and parents today?
+- How do the ideas expressed here by white students and parents reflect or connect to racist ideas of the time, including the [Moynihan Report](/topics/how-did-nyc-segregate/racist-ableist-ideas/the-controversial-moynihan-report)?
+--- 
 
 Some context for the item. Use Markdown styling (see link below)
 

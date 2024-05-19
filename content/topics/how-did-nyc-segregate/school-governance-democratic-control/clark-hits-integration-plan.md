@@ -1,7 +1,11 @@
----
-title: 'Title in Title Case: enclose in single quotes if using special characters'
-layout: "tc-single"
+--- 
 draft: true
+docset: how-did-nyc-segregate
+bundle: school-governance-democratic-control
+title: Clark Hits Integration Plan at Mark Twain JHS
+featured: clark-hits-integration-plan.jpg
+featuredAlt: Newspaper clipping
+layout: "tc-single"
 hasContentInGallery: true
-date: 1000-01-01
----
+date: 1974-07-27
+--- 

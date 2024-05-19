@@ -1,7 +1,11 @@
----
-title: 'Title in Title Case: enclose in single quotes if using special characters'
-layout: "tc-single"
+--- 
 draft: true
+docset: how-did-nyc-segregate
+bundle: tests-labels-discipline
+title: Statement by Martin H. Gerry, Director, Office for Civil Rights, Department of Health, Education, and Welfare, excerpts
+featured: hew-report.jpg
+featuredAlt: Bar chart showing enrollments, suspensions, and suspension days by race
+layout: "tc-single"
 hasContentInGallery: true
-date: 1000-01-01
----
+date: 1977-01-18
+--- 

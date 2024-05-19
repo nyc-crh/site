@@ -1,7 +1,11 @@
----
-title: 'Title in Title Case: enclose in single quotes if using special characters'
-layout: "tc-single"
+--- 
 draft: true
+docset: how-did-nyc-segregate
+bundle: tests-labels-discipline
+title: "The Man Who Could Fly: the Bob Beamon Story, excerpt"
+featured: the-man-who-could-fly.jpg
+featuredAlt: Page from a yearbook
+layout: "tc-single"
 hasContentInGallery: true
-date: 1000-01-01
----
+date: 1999-01-01
+--- 
