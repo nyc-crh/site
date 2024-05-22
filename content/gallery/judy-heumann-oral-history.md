@@ -105,13 +105,13 @@ She argued for the use of the word “disabled” over the term “handicapped�
 >
 > **Heumann:**  I don't know. It's the grading, it's the competitiveness, it's feeling very insecure about getting a wrong answer. But I think it really is because I wasn't prepared to do it. I mean,I was in such an unstructured environment for so long. My family, you know, we had a very verbal family where we talked a lot, we interacted a lot, we were pretty aggressive in expressing our views. Definitely we had lots of debates, and that I didn't feel insecure with, but there's just something about the final analysis of, you know, taking these tests that I've never done well on.
 
-[^1]: Judith Heumann, *Being Heumann: An Unrepentant Memoir of a Disability Rights Activist,* (Boston: Beacon Press, 2020), 19-20.
+[^1]: Judith Heumann, *Being Heumann: An Unrepentant Memoir of a Disability Rights Activist* (Boston: Beacon Press, 2020), 19-20.
 
 [^2]: Heumann, *Being Heumann*, 22.
 
-[^3]: Heumann,  *Being Heumann*, 21.
+[^3]: Heumann, *Being Heumann*, 21.
 
-[^4]: Heumann,  *Being Heumann*, 27.
+[^4]: Heumann, *Being Heumann*, 27.
 
 [^5]: Andrew H. Malcolm, “Woman in Wheel Chair Sues to Become Teacher,” *The New York Times*, May 27, 1970, [https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html](https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html).
 
