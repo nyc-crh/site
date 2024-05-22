@@ -61,6 +61,6 @@ On this day in 1896, Judge Garrettson dismissed the charges against Mr. Cisco. J
 
 [^2]: Mabee, “Long Island's Black ‘School War,’” 392.
 
-[^3]: “Order from Judge Barnard on the Colored School Question,” *Brooklyn Daily Eagle* (March 28, 1896).
+[^3]: “Order from Judge Barnard on the Colored School Question,” *Brooklyn Daily Eagle*, March 28, 1896.
 
 [^4]: Mabee, “Long Island's Black ‘School War’,” 388.
