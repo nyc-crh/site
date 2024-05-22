@@ -51,6 +51,6 @@ Double Dutch was a part of hip hop, as well. In the 1980s, Double Dutch was part
 
 By the mid-1980s, hip hop’s four disciplines – MCing, DJing, graffiti, and breakdancing – had moved forward without Double Dutch. But Double Dutch continued to be a source of fun and exercise for many Black girls growing up in New York.
 
-[^1]: [“History of Double Dutch”](/topics/joyful-struggle/double-dutch/history-double-dutch). Thanks to Rev. Malika Lee Whitney for conversations about the history and present of Double Dutch and her assistance in selecting this image.
+[^1]: [“History of Double Dutch.”](/topics/joyful-struggle/double-dutch/history-double-dutch) Thanks to Rev. Malika Lee Whitney for conversations about the history and present of Double Dutch and her assistance in selecting this image.
 
 [^2]: Lauren Schwartzberg, “Double Dutch’s Forgotten Hip-Hop Origins,” VICE, March 31, 2015, [https://www.vice.com/en/article/nn974m/double-dutchs-forgotten-hip-hop-origins-456](https://www.vice.com/en/article/nn974m/double-dutchs-forgotten-hip-hop-origins-456).
