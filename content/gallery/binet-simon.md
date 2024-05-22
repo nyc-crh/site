@@ -52,6 +52,6 @@ Both made bold - and often racist - claims about intelligence in the US. Goddard
 
 [^2]: “Intelligence and Race, 1900-1930.”
 
-[^3]: Henry H. Goddard, “The Menace of the Feeble Minded,” *Pediatrics* 23 (June 1911), [https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=53](https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=53); James Trent, *Inventing the Feeble Mind: A History of Mental Retardation in the United States* (Berkeley: University of California Press, 1994).
+[^3]: Henry H. Goddard, “The Menace of the Feeble Minded,” *Pediatrics* 23 (June 1911), [https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=53](https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=53), and James Trent, *Inventing the Feeble Mind: A History of Mental Retardation in the United States* (Berkeley: University of California Press, 1994).
 
 [^4]: Gould, *The Mismeasure of Man*.
