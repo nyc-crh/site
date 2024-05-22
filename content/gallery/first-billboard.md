@@ -41,7 +41,7 @@ Parents of children with intellectual and developmental disabilities were often 
 
 The group later named itself  the Association for the Help of Retarded Children (AHRC), and established several chapters in and around New York City. It was one of the earliest organizations of its kind in the country.[^3] They also pushed for community hospitals and group homes for adults, established a siblings network, and worked with the NYC Board of Education and CUNY to expand opportunities for educational access.[^4]
 
-[^1]: Margaret A. Winzer, *The History of Special Education: From Isolation to Integration* (Washington, D.C.: Gallaudet University Press, 1993), 275.
+[^1]: Margaret A. Winzer, *The History of Special Education: From Isolation to Integration* (Washington, DC: Gallaudet University Press, 1993), 275.
 
 [^2]: AHRC New York, “70 Years Later, A Classified Ad Still Changing Lives,” *AHRC New York City* (blog), July 6, 2018, [https://www.ahrcnyc.org/news/70-years-later-a-classified-ad-still-changing-lives/](https://www.ahrcnyc.org/news/70-years-later-a-classified-ad-still-changing-lives/).
 
