@@ -61,4 +61,4 @@ When Intermediate School 201 opened in the fall of 1966, the Black Panther Party
 
 [^2]: [Black Panther Party letter about Operation Shut Down](/topics/boycotting-ny-schools/black-panthers/black-panthers-2).
 
-[^3]: Black Panther Party, Harlem Branch, [”All Power to the People,”](https://archives.nypl.org/scm/20948), undated. Black Panther Party Harlem Branch Files, Schomburg Center for Research in Black Culture, New York Public Library, Box 1, Folder 8, [https://archives.nypl.org/scm/20948](https://archives.nypl.org/scm/20948).
+[^3]: Black Panther Party, Harlem Branch, [”All Power to the People,”](https://archives.nypl.org/scm/20948), undated. Black Panther Party Harlem Branch Files, Schomburg Center for Research in Black Culture, New York Public Library, Box 1, Folder 8, https://archives.nypl.org/scm/20948.
