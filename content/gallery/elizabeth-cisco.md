@@ -54,6 +54,6 @@ The portrait above is of Mrs. Elizabeth Cisco, who was an African American woman
 
 Why did Mrs. Elizabeth Cisco choose to have this photograph made when she did? What were her ambitions in having the photograph made? Although we do not know the answers to these questions, we can ask about how this photograph might connect to the longer tradition of Black photography as an act of self-representation, including as a protest against other demeaning or racist depictions of Black people at the time. 
 
-[^1]: Deborah Willis, *Picturing Us: African American Identity in Photography* (New York: New Press, 1996), introduction.
+[^1]: Deborah Willis, introduction to *Picturing Us: African American Identity in Photography* (New York: New Press, 1996).
 
 [^2]: Augusta Rohrbach, “Shadow and Substance: Sojourner Truth in Black and White,” in *Pictures and Progress: Early Photography and the Making of African American Identity*, ed. Maurice O. Wallace and Shawn Michelle Smith (Durham, NC: Duke University Press, 2012), 83.
