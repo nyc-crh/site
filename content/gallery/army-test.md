@@ -56,6 +56,6 @@ Despite these and other criticisms, claims about differences in average intellig
 
 [^2]: James Anderson, *The Education of Blacks in the South*, 1865-1930 (Chapel Hill: University of North Carolina Press, 1988).
 
-[^3]: Horace Mann Bond, “Intelligence Tests and Propaganda,” *The Crisis* 28, no. 2 (June, 1924): 61. See also Alan Stoskopf, “An Untold Story of Resistance: African American Educators and IQ Testing in the 1920s and 1930s,” *Rethinking Schools*, accessed July 22, 2023, [https://rethinkingschools.org/articles/an-untold-story-of-resistance/#8](https://rethinkingschools.org/articles/an-untold-story-of-resistance/#8).
+[^3]: Horace Mann Bond, “Intelligence Tests and Propaganda,” *The Crisis* 28, no. 2 (June 1924): 61. See also Alan Stoskopf, “An Untold Story of Resistance: African American Educators and IQ Testing in the 1920s and 1930s,” *Rethinking Schools*, accessed July 22, 2023, [https://rethinkingschools.org/articles/an-untold-story-of-resistance/#8](https://rethinkingschools.org/articles/an-untold-story-of-resistance/#8).
 
 [^4]: Henry H. Goddard and Helen F. Hall, “The Training School,” 1911, [https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=45](https://babel.hathitrust.org/cgi/pt?id=chi.73416085&view=1up&seq=45)
