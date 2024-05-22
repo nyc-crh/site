@@ -54,6 +54,6 @@ This flier focuses on Superintendent of Schools William Jansen. Jansen had been 
 
 [^2]: Quoted in Carol Muller, “Ella Baker and the Origins of ‘Participatory Democracy,'" in *Women in the Civil Rights Movement: Trailblazers and Torchbearers, 1941-1965*, ed. Vicki Crawford et al. (Bloomington, IN: Indiana University Press, 1993).
 
-[^3]: Michael R. Glass, “From Sword to Shield to Myth: Facing the Facts of De Facto School Segregation,” *Journal of Urban History* 44, no. 6 (November 10, 2016): 1197-1226.
+[^3]: Michael R. Glass, “From Sword to Shield to Myth: Facing the Facts of De Facto School Segregation,” *Journal of Urban History* 44, no. 6 (November 2016): 1197-1226.
 
 [^4]: Jonna Perrillo, *Uncivil Rights: Teachers, Unions, and Race in the Battle for School Equity* (Chicago: University of Chicago Press, 2012), 89-90.
