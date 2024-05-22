@@ -56,7 +56,7 @@ The Board of Education dismissed Weusi from his post at J.H.S. 271 in 1969. Howe
 
 Weusi continued to work as an activist and an education administrator in Brooklyn for decades. 
 
-[^1]: Quoted in Russell Rickford, *We Are an African People: Independent Education, Black Power, and the Radical Imagination* (New York, Oxford University Press, 2016), 65. 
+[^1]: Quoted in Russell Rickford, *We Are an African People: Independent Education, Black Power, and the Radical Imagination* (New York: Oxford University Press, 2016), 65. 
 
 [^2]: This description of Weusi’s work as a teacher draws on  Rickford, *We Are an African People: Independent Education, Black Power, and the Radical Imagination*. See also: Max Freedman and Mark Winston Griffith, “Agitate! Educate! Organize!,” October 11, 2019, in *School Colors* (Brooklyn Deep, 2019), [https://www.schoolcolorspodcast.com/episodes/episode-4-agitate-educate-organize](https://www.schoolcolorspodcast.com/episodes/episode-4-agitate-educate-organize) 
 
