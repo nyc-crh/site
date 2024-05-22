@@ -60,8 +60,8 @@ Community control in a diverse district brought its own challenges. For instance
 
 Goldie Chu also became an example of how participation in community control helped launch some New Yorkers into advocacy in other spaces. Chu became a leader in the feminist movement of the 1970s and challenged stereotypes of Asian American women. In one interview, Chu recalled someone telling her that they didn’t know Chu was “a militant feminist,” to which Chu responded with a laugh, saying, “what is a militant feminist supposed to look like?” She commented that many regarded Asian American women “as passive and quiet… Others tend to sweep by us and think they can get away with it. I may be traditional in manners but not traditional in fighting for change in the community where there is so much to do.”[^3]
 
-[^1]: Maia S. Merin, “The ‘Other’ Community Control: The Two Bridges Demonstration District and the Challenges of School Reform, 1965-1975 (PhD Diss., New York University, 2015), 142.
+[^1]: Maia S. Merin, “The ‘Other’ Community Control: The Two Bridges Demonstration District and the Challenges of School Reform, 1965-1975 (PhD diss., New York University, 2015), 142.
 
 [^2]: Merin, “The ‘Other’ Community Control,” 2.
 
-[^3]: “Asian American Women Nurture a Growing Consciousness and Activism in Chinatown,” *The New York Times*, Nov. 14, 1977.
+[^3]: “Asian American Women Nurture a Growing Consciousness and Activism in Chinatown,” *The New York Times*, November 14, 1977.
