@@ -67,4 +67,4 @@ Two months after the exposé, the parents of children at Willowbrook filed a law
 
 [^5]: Jean Crafton, "Palsy Victim Yearns to Join the World," *Daily News,* May 13, 1973.
 
-[^6]: *New York State Association For Retarded Children and Parisi, et al., vs. Carey et al.* 72 Civ. 356, 72 Civ. 357, (United States District Court, E.D. New York), 1975, [https://law.justia.com/cases/federal/district-courts/FSupp/393/715/1452641/](https://law.justia.com/cases/federal/district-courts/FSupp/393/715/1452641/).
+[^6]: New York State Association For Retarded Children and Parisi, et al., vs. Carey et al. 72 Civ. 356, 72 Civ. 357, (United States District Court, E.D. New York), 1975, [https://law.justia.com/cases/federal/district-courts/FSupp/393/715/1452641/](https://law.justia.com/cases/federal/district-courts/FSupp/393/715/1452641/).
