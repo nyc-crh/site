@@ -63,7 +63,7 @@ Two months after the exposé, the parents of children at Willowbrook filed a law
 
 [^3]: Peter Kihss, “Cerebral Palsy Unit Praised by State Aide,” *The New York Times*, September 30, 1977, [https://www.nytimes.com/1977/09/30/archives/cerebral-palsy-unit-praised-by-state-aide.html](https://www.nytimes.com/1977/09/30/archives/cerebral-palsy-unit-praised-by-state-aide.html).
 
-[^4]: Cheryl Bates-Harris, “Segregated and Exploited: The Failure of the Disability Service System to Provide Quality Work,” *Journal of Vocational Rehabilitation* 36, no. 1 (January 1, 2012): 39–64.
+[^4]: Cheryl Bates-Harris, “Segregated and Exploited: The Failure of the Disability Service System to Provide Quality Work,” *Journal of Vocational Rehabilitation* 36, no. 1 (January 2012): 39–64.
 
 [^5]: Jean Crafton, "Palsy Victim Yearns to Join the World," *Daily News,* May 13, 1973.
 
