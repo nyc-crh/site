@@ -66,7 +66,7 @@ In the early 1970s, United Bronx Parents created its own free summer lunch progr
 
 [^4]: Povitz, *Stirrings*, 36-42.
 
-[^5]: Kathy Goldman, “Winning Victories, Losing Power: Changes in School Food Programs, 1967-1981” (Master’s Thesis, Queen’s College, CUNY, 1982), 21.
+[^5]: Kathy Goldman, “Winning Victories, Losing Power: Changes in School Food Programs, 1967-1981” (master’s thesis, Queen’s College, CUNY, 1982), 21.
 
 [^6]: Goldman, “Winning Victories, Losing Power,” 21.
 
@@ -74,6 +74,6 @@ In the early 1970s, United Bronx Parents created its own free summer lunch progr
 
 [^8]: Povitz, *Stirrings*, 48.
 
-[^9]: “Our History,” United Bronx Parents, Inc., 2012, accessed April 29, 2020, [http://www.ebatiz.com/ubpinc/our-history/](http://www.ebatiz.com/ubpinc/our-history), accessed April 29, 2020.
+[^9]: “Our History,” United Bronx Parents, Inc., 2012, accessed April 29, 2020, [http://www.ebatiz.com/ubpinc/our-history/](http://www.ebatiz.com/ubpinc/our-history).
 
 [^10]: Povitz, *Stirrings*, 55-86.
