@@ -60,4 +60,4 @@ This footage provides us a record of what one protest related to the 1965 boycot
 
 [^2]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).
 
-[^3]: Francine Almash, “New York City ‘600’ Schools and the Legacy of Segregation in Special Education,” The Gotham Center for New York City History, June 21, 2022, [https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education)
+[^3]: Francine Almash, “New York City ‘600’ Schools and the Legacy of Segregation in Special Education,” The Gotham Center for New York City History, June 21, 2022, [https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education](https://www.gothamcenter.org/blog/new-york-city-600-schools-and-the-legacy-of-segregation-in-special-education).
