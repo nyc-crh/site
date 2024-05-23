@@ -69,6 +69,6 @@ This footage gives us a glimpse of one march led by Puerto Ricans and participat
 
 [^1]: For more on Puerto Rican organizing in New York City, see Sonya Song-Ha Lee, *Building a Latino Civil Rights Movement: Puerto Ricans, African Americans, and the Struggle for Racial Justice in New York City* (Chapel Hill: University of North Carolina Press, 2016) and Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in 20th Century New York City* (Chicago: University of Chicago Press, 2010).
 
-[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services. [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3), accessed February 7, 2023.
+[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3), accessed February 7, 2023.
 
-[^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Harvard University Press, 2016).
+[^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).
