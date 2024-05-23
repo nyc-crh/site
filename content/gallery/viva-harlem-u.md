@@ -66,7 +66,7 @@ See more documents and oral histories related to the history of activism in the 
 
 [^1]: “We Demand.”
 
-[^2]:  Iemanjá Brown and Miriam Atkin, “Introduction,” in Audre Lorde, “'I teach myself in outline': Notes, Journals, Syllabi, and an Excerpt from Deotha,” Contributors Iemanjá Brown and Miriam Atkin. [https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf](https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf).
+[^2]:  Iemanjá Brown and Miriam Atkin, “Introduction,” in Audre Lorde, “'I teach myself in outline': Notes, Journals, Syllabi, and an Excerpt from Deotha,” Contributors Iemanjá Brown and Miriam Atkin, [https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf](https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf).
 
 [^3]: Martha Biondi, *Black Revolution on Campus* (Oakland: University of California Press, 2012); Tahir Butt, “You are Running a De Facto Segregated University," in *The Strange Careers of the Jim Crow North: Segregation and Struggle outside of the South*, ed.  Brian Purnell and Jeanne Theoharis with Komozi Woodard (New York: New York University Press, 2019).
 
