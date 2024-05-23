@@ -75,4 +75,4 @@ American Sign Language was kept alive through Deaf social clubs, but it did not 
 
 [^9]: Gallaudet University, “American Sign Language, a Language Recognized - Awareness, Access and Change,” accessed July 27, 2023, [https://gallaudet.edu/museum/exhibits/history-through-deaf-eyes/awareness-access-and-change/american-sign-language-a-language-recognized/](https://gallaudet.edu/museum/exhibits/history-through-deaf-eyes/awareness-access-and-change/american-sign-language-a-language-recognized/).
 
-[^10]: Felicia R. Lee, “New York to Teach Deaf in Sign Language, Then English,” *New York Times*, March 5, 1998, [https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html](https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html).
+[^10]: Felicia R. Lee, “New York to Teach Deaf in Sign Language, Then English,” *The New York Times*, March 5, 1998, [https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html](https://www.nytimes.com/1998/03/05/nyregion/new-york-to-teach-deaf-in-sign-language-then-english.html).
