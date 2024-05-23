@@ -48,7 +48,7 @@ In the 1830s, the City purchased Randall’s Island to use as a remote burial gr
 
 As the population of New York City grew, so did populations at these institutions. In the 1930s, the City decided to connect Randalls and Wards islands together, and connect them to the surrounding boroughs with bridges. They closed many of the institutions on the island to make way for a park and recreation area.[^4] While facilities on Randall’s Island closed, state institutions for the disabled, like Letchworth Village, continued to operate. Some residential institutions still remain on the islands today, like homeless shelters and a psychiatric hospital.
 
-[^1]: David Goode et al., *A History and Sociology of the Willowbrook State School*, Washington, D.C., American Association on Intellectual and Developmental Disabilities, 2013, 20.
+[^1]: David Goode et al., *A History and Sociology of the Willowbrook State School*, Washington, DC, American Association on Intellectual and Developmental Disabilities, 2013, 20.
 
 [^2]: W. H. Davenport, “The Nurseries on Randall’s Island,” *Harper’s New Monthly Magazine*, December 1867, 6–24; W. H. Davenport, “Blackwell’s Island Lunatic Asylum,” *Harper’s New Monthly Magazine*, November 1867, 267–294.
 
