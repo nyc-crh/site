@@ -66,4 +66,4 @@ As an activist involved in many political struggles, Mae Mallory faced risks bey
 
 [^3]: "Harlem Parents File for Million,” *The New York Times*, October 29, 1958.
 
-[^4]: [Ashley Farmer, “Mae Mallory: Forgotten Black Power Intellectual,” *Black Perspectives,* June 3, 2016, https://www.aaihs.org/mae-mallory-forgotten-black-power-intellectual/](https://www.aaihs.org/mae-mallory-forgotten-black-power-intellectual/)
+[^4]: Ashley Farmer, “Mae Mallory: Forgotten Black Power Intellectual,” *Black Perspectives,* June 3, 2016, [https://www.aaihs.org/mae-mallory-forgotten-black-power-intellectual/](https://www.aaihs.org/mae-mallory-forgotten-black-power-intellectual/).
