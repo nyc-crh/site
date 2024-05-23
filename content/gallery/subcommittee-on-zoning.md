@@ -51,6 +51,6 @@ As a member of the Commission on Integration’s zoning subcommittee, Baker advo
 
 [^2]: Quoted in Barbara Ransby, *Ella Baker & the Black Freedom Movement: A Radical Democratic Vision* (Chapel Hill: University of North Carolina Press, 2003), 153.
 
-[^3]: Ransby, *Ella Baker & the Black Freedom Movement,* 149-152; Charles Payne, "Give Light and the People Will Find a Way': Ella Baker and Teaching as Politics,” in *Teach Freedom: Education for Liberation in the African-American Tradition* ed. Charles Payne and Carol Sills Strickland (New York: Teachers College Press, 2008), 56-64.
+[^3]: Ransby, *Ella Baker & the Black Freedom Movement,* 149-152; Charles Payne, "Give Light and the People Will Find a Way': Ella Baker and Teaching as Politics,” in *Teach Freedom: Education for Liberation in the African-American Tradition*, ed. Charles Payne and Carol Sills Strickland (New York: Teachers College Press, 2008), 56-64.
 
 [^4]: Board of Education of the City of New York, “Toward the Integration of Our Schools: Final Report of the Commission on Integration,” 1958, in [Ella Baker Papers, Box 4, Folder 20, Schomburg Center for Research in Black Culture of the New York Public Library](https://archives.nypl.org/scm/20899).
