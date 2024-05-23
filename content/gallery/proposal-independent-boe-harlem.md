@@ -52,4 +52,4 @@ In 1967, after other Harlem organizations had protested to improve their neighbo
 
 [^1]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016).
 
-[^2]: For more on CORE in NYC, see Brian Purnell, *Fighting Jim Crow in the County of Kings: The Congress of Racial Equality in Brooklyn* (Louisville, KY: University Press of Kentucky, 2015).
+[^2]: For more on CORE in NYC, see Brian Purnell, *Fighting Jim Crow in the County of Kings: The Congress of Racial Equality in Brooklyn* (Louisville: University Press of Kentucky, 2015).
