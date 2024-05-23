@@ -61,6 +61,6 @@ S.O.F.E.D.U.P. succeeded in lobbying Brooklyn College administrators to make cam
 
 [^1]: Martha Biondi, *Black Revolution on Campus* (Oakland: University of California Press, 2012).
 
-[^2]: Frederick L. Frances, “S.O. F.E.D. U.P. - Handbook for the Disabled Students of Brooklyn College,” 1971, via Education Research Information Center, preface.
+[^2]: Frederick L. Frances, preface to “S.O. F.E.D. U.P. - Handbook for the Disabled Students of Brooklyn College,” 1971, via Education Research Information Center.
 
 [^3]: Kim E. Nielsen, *A Disability History of the United States*, 2nd ed. (Boston: Beacon Press, 2012).
