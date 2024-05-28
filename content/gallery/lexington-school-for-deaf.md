@@ -41,7 +41,7 @@ questions:
 - How might having a Deaf CEO help students and teachers?
 --- 
 
-Gallaudet University in Washington, D.C. was one of the earliest US schools for the Deaf and the world’s only university for the Deaf and hard of hearing. Thomas Gallaudet was an educator who founded the American School for the Deaf after he took an interest in trying to teach a neighbor’s deaf daughter. His son, Edward, went on to found Gallaudet University in 1864.
+Gallaudet University in Washington, DC was one of the earliest US schools for the Deaf and the world’s only university for the Deaf and hard of hearing. Thomas Gallaudet was an educator who founded the American School for the Deaf after he took an interest in trying to teach a neighbor’s deaf daughter. His son, Edward, went on to found Gallaudet University in 1864.
 
 Despite the movement against teaching sign language that started in the 1860s, Edward resisted the sentiments of the time and Gallaudet continued to teach in sign language. Many of the early leaders of the university were hearing men who had a background in deaf education or a connection to a deaf family member. In the 1980s, students started questioning why the president could not be a Deaf person. After several years of student organizing, Gallaudet’s  Board of Trustees promoted a hearing woman over two Deaf men. This set off protests for a “Deaf President Now” in 1988, leading the director of the board to resign. The university then hired its first Deaf president in 124 years.[^1]
 
