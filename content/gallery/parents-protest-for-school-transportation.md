@@ -56,9 +56,9 @@ At the time, there were 132,000 school children who rode buses to school, includ
 
 During the bus drivers’ strike, some parents with cars drove their children, but many parents were forced to stay home from work to take care of their children. Some lost their jobs as a result. The Board of Education scrambled to find alternative transportation, giving free subway passes for children who could take public transportation, and started "Operation Kiddie Lift" where school employees volunteered to drive about 700 children with physical disabilities to school in rented vehicles.[^1] Early in the strike, the city even resorted to transporting children in buses from the Corrections Department.[^2]
 
-Nearly half of children with disabilities were unable to get to school during the strike.Those who were left out of programs like “Operation Kiddie Lift” felt this was discrimination against children with epilepsy and other types of disabilities.[^3] Parents of Deaf children attending the Lexington School for the Deaf held a separate protest for reimbursement for private transportation.One official commented,, "deaf children are not looked upon as handicapped because they physically look like everybody else."[^4]
+Nearly half of children with disabilities were unable to get to school during the strike. Those who were left out of programs like “Operation Kiddie Lift” felt this was discrimination against children with epilepsy and other types of disabilities.[^3] Parents of Deaf children attending the Lexington School for the Deaf held a separate protest for reimbursement for private transportation. One official commented, "deaf children are not looked upon as handicapped because they physically look like everybody else."[^4]
 
-This film, about five weeks into the strike, shows a "whistle protest" of about 700 parents and children near City Hall. Protesters were angry about the prolonged strike and the Mayor's refusal to negotiate with the bus drivers.[^5] The Mayor and bus drivers union accused each other of using disabled children as pawns in the negotiations.
+This film, from about five weeks into the strike, shows a "whistle protest" of about 700 parents and children near City Hall. Protesters were angry about the prolonged strike and the mayor's refusal to negotiate with the bus drivers.[^5] The mayor and bus drivers union accused each other of using disabled children as pawns in the negotiations.
 
 Protesters carried signs that read:
 
@@ -71,7 +71,7 @@ Protesters carried signs that read:
 * I have nothing to do at home
 * The Year of the Child
 
-In response to the protest, the city announced that they would provide funding for private taxis and send parents instructions for how to request money for taxis if alternative transportation was not available.[^5] In the end, the bus drivers and the school chancellor agreed to give job security to current drivers but allowed for more bus companies to compete for future contracts.[^6] Bus drivers went on strike again in 2013[^7] for similar reasons. In 2023, parents of disabled children filed a federal complaint over bus driver shortages that kept their children out of school.[^8]
+In response to the protest, the city announced that they would provide funding for private taxis and send parents instructions for how to request money for taxis if alternative transportation was not available.[^5] In the end, the bus drivers and the school chancellor agreed to give job security to current drivers but allowed for more bus companies to compete for future contracts.[^6] Bus drivers went on strike again in 2013 for similar reasons.[^7] In 2023, parents of disabled children filed a federal complaint over bus driver shortages that kept their children out of school.[^8]
 
 [^1]: Alison Mitchell, “Both Sides Feel Burden of Strike,” *Newsday*, March 2, 1979.
 
@@ -83,8 +83,8 @@ In response to the protest, the city announced that they would provide funding f
 
 [^5]: “Protest city's effort," *New York Daily News*, March 21, 1979.
 
-[^6]: David Bird. “Instructions Are Given On Alternative Means To Transport Students,” *The New York Times*, March 22, 1979, [https://www.nytimes.com/1979/03/22/archives/instructions-are-given-on-alternative-means-to-transport-students.html](https://www.nytimes.com/1979/03/22/archives/instructions-are-given-on-alternative-means-to-transport-students.html).
+[^6]: David Bird, “Instructions Are Given On Alternative Means To Transport Students,” *The New York Times*, March 22, 1979, [https://www.nytimes.com/1979/03/22/archives/instructions-are-given-on-alternative-means-to-transport-students.html](https://www.nytimes.com/1979/03/22/archives/instructions-are-given-on-alternative-means-to-transport-students.html).
 
 [^7]: “School Bus Drivers Strike in NYC,” *CNN*,  January 16, 2013, [https://www.cnn.com/2013/01/16/us/new-york-school-bus-strike/index.html](https://www.cnn.com/2013/01/16/us/new-york-school-bus-strike/index.html).
 
-[^8]: “NYC Students with Disabilities File Federal Civil Rights Complaint against Public School System over Transportation Woes,” accessed November 10, 2023, [https://www.nydailynews.com/2023/10/25/nyc-students-with-disabilities-file-federal-civil-rights-complaint-over-transportation-woes/](https://www.nydailynews.com/2023/10/25/nyc-students-with-disabilities-file-federal-civil-rights-complaint-over-transportation-woes/).
+[^8]: “NYC Students with Disabilities File Federal Civil Rights Complaint against Public School System over Transportation Woes,” *New York Daily News*, October 25, 2023, [https://www.nydailynews.com/2023/10/25/nyc-students-with-disabilities-file-federal-civil-rights-complaint-over-transportation-woes/](https://www.nydailynews.com/2023/10/25/nyc-students-with-disabilities-file-federal-civil-rights-complaint-over-transportation-woes/).
