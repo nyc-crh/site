@@ -48,4 +48,4 @@ Reverend Milton Galamison was the pastor of Siloam Presbyterian Church in Bedfor
 
 In this interview, Galamison speaks about his work in New York and specifically why he pursued the desegregation of New York’s schools. To hear more of Reverend Galamison’s thoughts about school segregation and the boycott, listen to this [podcast](https://podcasts.apple.com/podcast/id1220455698?ign-itscg=30200&ign-itsct=lt_p).[^1]
 
-[^1]: Sabrina DuQuesnay, “P.S. 11: The Persistence of School Segregation in New York City,” *Miseducation*, The Bell, podcast audio, February 6, 2023, [https://podcasts.apple.com/podcast/id1220455698?ign-itscg=30200&ign-itsct=lt_p](https://podcasts.apple.com/podcast/id1220455698?ign-itscg=30200&ign-itsct=lt_p).
+[^1]: Sabrina DuQuesnay, “P.S. 11: The Persistence of NYC School Segregation,” February 6, 2023, in *Miseducation*, produced by The Bell, podcast, [https://podcasts.apple.com/podcast/id1220455698?ign-itscg=30200&ign-itsct=lt_p](https://podcasts.apple.com/podcast/id1220455698?ign-itscg=30200&ign-itsct=lt_p).
