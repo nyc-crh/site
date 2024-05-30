@@ -58,7 +58,7 @@ By the time the “Idiot School” opened in 1863, Randall’s Island was alread
 
 [^1]: James Trent, *Inventing the Feeble Mind: A History of Intellectual Disability in the United States* (Oxford: Oxford University Press, 2016), 81. 
 
-[^2]: JoElla Straley, “It Took a Eugenicist to Come Up With ‘Moron,’” Code Switch, National Public Radio, February 10, 2014, [https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron](https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron).
+[^2]: JoElla Straley, “It Took a Eugenicist to Come Up With ‘Moron,’” February 10, 2014, in *Code Switch,* produced by National Public Radio, podcast, [https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron](https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron).
 
 [^3]: Édouard Séguin, *Idiocy: And its Treatment by the Physiological Method* (New York: W. Wood & Company, 1866). 
 
