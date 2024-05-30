@@ -27,7 +27,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: Podcast explores the impact of charter schools.
-caption: The School Colors podcast explores the impact of charter schools in Bedford-Stuyvesant, Brooklyn, during mayoral control.
+caption: The *School Colors* podcast explores the impact of charter schools in Bedford-Stuyvesant, Brooklyn, during mayoral control.
 archive_source: School Colors Podcast
 source_link: https://www.schoolcolorspodcast.com/season-1/episode-6-mo-charters-mo-problems
 copyright: Under copyright. 
