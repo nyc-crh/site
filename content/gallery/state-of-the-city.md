@@ -24,7 +24,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: Mayor Michael Bloomberg calls for mayoral control of schools.
-caption: In his first “state of the city” address, Mayor Michael Bloomberg called for the end of the Board of Education and for the beginning of mayoral control of schools.
+caption: In his first “State of the City” address, Mayor Michael Bloomberg called for the end of the Board of Education and for the beginning of mayoral control of schools.
 archive_source: Mayor's Office of the City of New York
 source_link: https://www.nytimes.com/2002/01/30/nyregion/mayor-michael-r-bloombergs-state-of-the-city-address.html
 copyright: Government document. 
@@ -34,7 +34,7 @@ tags:
 - mayoral control
 - legislation
 questions: 
-- What are Mayor Bloomberg’s criticisms of New York City school governance before mayoral control? Do you agree that mayoral control is the appropriate solution for these problems? What other possible solutions come to mind? 
+- What were Mayor Bloomberg’s criticisms of New York City school governance before mayoral control? Do you agree that mayoral control was the appropriate solution for these problems? What other possible solutions come to mind? 
 - Mayor Bloomberg made this speech in 2002. Today, more than 20 years later, what of his criticisms of NYC schools are still accurate?
 --- 
 
