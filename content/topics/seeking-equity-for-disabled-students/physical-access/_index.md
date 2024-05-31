@@ -23,7 +23,7 @@ Physical access to schools is still a struggle today. As of March 2023, about 25
 
 [^1]: Linton Weeks, “Defeating Polio, The Disease That Paralyzed America,” *NPR*, April 10, 2015, [https://www.npr.org/sections/npr-history-dept/2015/04/10/398515228/defeating-the-disease-that-paralyzed-america](https://www.npr.org/sections/npr-history-dept/2015/04/10/398515228/defeating-the-disease-that-paralyzed-america).
 
-[^2]: Andrew H. Malcolm, “Woman in Wheel Chair Sues to Become Teacher,” *The New York Times*, May 27, 1970, sec. Archives. [https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html](https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html); Judith Heumann, *Being Heumann: An Unrepentant Memoir of a Disability Rights Activist* (Boston: Beacon Press, 2020), 19-20.
+[^2]: Andrew H. Malcolm, “Woman in Wheel Chair Sues to Become Teacher,” *The New York Times*, May 27, 1970, sec. Archives, [https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html](https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html); Judith Heumann, *Being Heumann: An Unrepentant Memoir of a Disability Rights Activist* (Boston: Beacon Press, 2020), 19-20.
 
 [^3]: NYC Department of Education, “Building Accessibility,” accessed July 28, 2023, [https://www.schools.nyc.gov/school-life/space-and-facilities/building-accessibility](https://www.schools.nyc.gov/school-life/space-and-facilities/building-accessibility).
 
