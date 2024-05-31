@@ -16,4 +16,4 @@ Racial segregation in Deaf schooling, especially in the South, led to the develo
 
 [^2]: Caroline McCaskill, Ceil Lucas, Robert Bayley, and Joseph Hill, *The Hidden Treasures of Black ASL - Its History and Structure* (Washington, DC: Gallaudet University Press, 2011), 2, 3, 73, 76, 78, 86, 91, 161, Ebook Kindle version.
 
-[^3]: McCaskill et. al, The Hidden Treasures of Black ASL, 2, 3, 19-25; Allyson Waller, “Black, Deaf and Extremely Online,” *The New York Times*, January 23, 2021.
+[^3]: McCaskill et al., The Hidden Treasures of Black ASL, 2, 3, 19-25; Allyson Waller, “Black, Deaf and Extremely Online,” *The New York Times*, January 23, 2021.
