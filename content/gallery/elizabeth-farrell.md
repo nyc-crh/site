@@ -54,7 +54,7 @@ Farrell later found herself defending her classes against criticism from Henry H
 
 By the early 1930s, after an expansion in the use of [intelligence testing](/topics/seeking-equity/tests-labels-and-segregation/), there were 11,000 students in ungraded classes throughout New York City public schools.[^7]  
 
-[^1]: Kimberly Kode, *Elizabeth Farrell and the History of Special Education*, Council for Exceptional Children, 33, [https://eric.ed.gov/?id=ED474364](https://eric.ed.gov/?id=ED474364).
+[^1]: Kimberly E. Kode, *Elizabeth Farrell and the History of Special Education* (Arlington, VA: Council for Exceptional Children, 2002), 33, [https://eric.ed.gov/?id=ED474364](https://eric.ed.gov/?id=ED474364).
 
 [^2]: Kode, *Elizabeth Farrell and the History of Special Education*, 52.
 
