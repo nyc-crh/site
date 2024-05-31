@@ -31,4 +31,4 @@ Under Antonetty’s leadership, United Bronx Parents advocated for a range of is
 
 [^4]: Thomas, *Puerto Rican Citizen*, 206-208.
 
-[^5]: Johanna Fernández, *The Young Lords: A Radical History* (Chapel Hill: University of North Carolina Press, 2019), and Matthew Kautz, Christina Martin, and Johanna Fernandez, “The Reimaginers: The Young Lords,” accessed April 20, 2020, [https://www.youtube.com/watch?v=q4umn9iLsYs](https://www.youtube.com/watch?v=q4umn9iLsYs).
+[^5]: Johanna Fernández, *The Young Lords: A Radical History* (Chapel Hill, NC: University of North Carolina Press, 2019), and Matthew Kautz, Christina Martin, and Johanna Fernández, “The Reimaginers: The Young Lords,” accessed April 20, 2020, [https://www.youtube.com/watch?v=q4umn9iLsYs](https://www.youtube.com/watch?v=q4umn9iLsYs).
