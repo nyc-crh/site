@@ -29,6 +29,6 @@ As compulsory schooling took effect in the late 19th century, the charitable sch
 
 [^5]: Michael M. Gerber, “A History of Special Education,” in *Handbook of Special Education*, (Oxfordshire, United Kingdom: Routledge, 2017), 10.
 
-[^6]: Kimberly Kode, *Elizabeth Farrell and the History of Special Education* (Arlington, VA: Council for Exceptional Children, 2002), 42, [https://eric.ed.gov/?id=ED474364](https://eric.ed.gov/?id=ED474364).
+[^6]: Kimberly E. Kode, *Elizabeth Farrell and the History of Special Education* (Arlington, VA: Council for Exceptional Children, 2002), 42, [https://eric.ed.gov/?id=ED474364](https://eric.ed.gov/?id=ED474364).
 
 [^7]: “New York City’s Schools and What They Cost: The Greatest System in the Country, Costing Annually Something Like $50,000,000, It Is Unable to Accommodate All Children Seeking an Education Here,” *The New York Times*, September 13, 1908, [https://www.nytimes.com/1908/09/13/archives/new-york-citys-schools-and-what-they-cost-the-greatest-system-in.html](https://www.nytimes.com/1908/09/13/archives/new-york-citys-schools-and-what-they-cost-the-greatest-system-in.html).
