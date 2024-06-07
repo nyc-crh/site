@@ -28,7 +28,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: Dr. Kenneth Clark denounces Mark Twain desegregation plan.
-caption: "Judge Jack Weinstein approved a plan to desegregate Mark Twain Junior High School by making the school a \"gifted and talented\" program and attracting white students to that program. Long-time desegregation advocate and psychologist Dr. Kenneth Clark denounced the proposed plan."
+caption: "Judge Jack Weinstein approved a plan to desegregate Mark Twain Junior High School by making it a \"gifted and talented\" school to attract white students. Long-time desegregation advocate and psychologist Dr. Kenneth Clark denounced the proposed plan."
 archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission. 
@@ -47,8 +47,8 @@ tags:
 - white liberalism
 - ableist ideas
 questions: 
-- Why do you think Dr. Kenneth Clark labeled the plan “obscene, immoral, illegal, and unconstitutional?” Do you agree with his assessment?
-- What does Berger mean when he says that his plan is “the only plan that can succeed?” Whose preferences did Berger have in mind? 
+- Why do you think Dr. Kenneth Clark labeled the plan “obscene, immoral, illegal, and unconstitutional”? Do you agree with his assessment?
+- What does Berger mean when he says that his plan is “the only plan that can succeed”? Whose preferences did Berger have in mind? 
 - How does the decision to turn Mark Twain into a magnet school illustrate who has power and how power works within the New York City school system? What has changed, or stayed the same, since the 1974 desegregation case at Mark Twain?
 --- 
 
