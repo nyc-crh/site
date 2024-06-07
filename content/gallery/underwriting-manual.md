@@ -40,7 +40,7 @@ tags:
 - zoning and student assignment 
 - housing
 questions: 
-- What kind of neighborhoods did the FHA favor for providing federally-insured mortgages? What ideas did they use to support their conclusions?
+- What kind of neighborhoods did the FHA favor for providing federally-insured mortgages? What ideas shaped their judgments about neighborhoods?
 - How did the FHA guidelines link neighborhoods and schools? Why do you think the FHA devalued integrated schools?
 - Was residential segregation the product of individual choices, government policy, or both?
 --- 
