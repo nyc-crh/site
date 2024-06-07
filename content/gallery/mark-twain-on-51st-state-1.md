@@ -29,7 +29,7 @@ relTitle:
 relImg: 
 relImgAlt: 
 relLink: 
-eventname: Local journalist Richard Kotuk describes the creation of segregated white and Black neighborhoods in Coney Island 
+eventname: Local journalist Richard Kotuk describes the creation of segregated white and Black neighborhoods in Coney Island. 
 caption: A local news program reported on Coney Island’s Mark Twain Junior High School in 1974. The program provides a brief history of the creation of segregated white and Black neighborhoods in the area. 
 archive_source: Richard Kotuk’s YouTube Channel
 source_link: https://www.youtube.com/watch?v=Nh1zlTAf_gA
@@ -44,8 +44,8 @@ tags:
 - Latinx people
 - housing
 questions: 
-- The reporter explains that many white families have left the neighborhood because they “no longer want to live in the area.” What government policies helped white families to move new apartments within the city or to the suburbs? 
-- Review the [HOLC redlining maps for Coney Island](/topics/how-did-nyc-segregate/housing-policies-patterns/holc-map). In your opinion, how are the decisions about where to build public housing connected to this map and the area description?  [HOLC map for the area](/topics/how-did-nyc-segregate/housing-policies-patterns/holc-map)?
+- The reporter explains that many white families have left the neighborhood because they “no longer want to live in the area.” What government policies helped white families to move to new apartments within the city or to the suburbs? 
+- Review the [HOLC redlining maps for Coney Island](/topics/how-did-nyc-segregate/housing-policies-patterns/holc-map). In your opinion, how are the decisions about where to build public housing connected to this map and the area description?
 - Based on other documents related to housing in Coney Island, including the [HOLC redlining maps for Coney Island](/topics/how-did-nyc-segregate/housing-policies-patterns/holc-map) and the [FHA’s Underwriting Manual](/topics/how-did-nyc-segregate/housing-policies-patterns/underwriting-manual), does the reporter offer a clear explanation or how and why Coney Island’s population changed in this time? How would you edit or improve his explanation?
 --- 
 
