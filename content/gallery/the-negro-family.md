@@ -45,7 +45,7 @@ tags:
 questions: 
 - According to the Moynihan Report, is inequality the result of “deepseated structural distortions in the life of the Negro American” or the “tangle of pathology”? Do you find this argument persuasive? 
 - How do white New Yorkers, like those in [the video](/topics/how-did-nyc-segregate/racist-ideas-public-discourse/mark-twain-on-51st-state-2), use the racist ideas expressed in the Moynihan Report in their attempts to justify segregation and antiblack racism?
-- Do you think the ideas in the Moynihan Report continue to be present today?
+- Do you think the ideas in the Moynihan Report are still present today?
 --- 
 
 Some context for the item. Use Markdown styling (see link below)
