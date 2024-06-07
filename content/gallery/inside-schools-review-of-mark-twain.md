@@ -27,7 +27,7 @@ relTitle:
 relImg: 
 relImgAlt: 
 relLink: 
-eventname: Inside Schools describes Mark Twain today
+eventname: Inside Schools describes Mark Twain today.
 caption: Inside Schools is an independent website that reviews New York City schools. This is their description of Mark Twain today. 
 archive_source: Inside Schools
 source_link: https://insideschools.org/school/21K239
@@ -41,9 +41,9 @@ tags:
 - zoning and student assignment
 - admissions
 questions: 
-- How do you think Mark Twain has been able to get so many resources? Why do you think Mark Twain has these resources when other school lack them? 
+- How do you think Mark Twain has been able to get so many resources? Why do you think Mark Twain has these resources when other schools lack them? 
 - According to [its website](https://www.twain239.com/), how does Mark Twain define a good education? Do you agree with that definition? Why or why not?
-- Should school systems have ""gifted and talented"" programs? Why or why not?
+- Some educators and education advocates argue that New York City should have no “gifted and talented” programs. Others say that there should be more of these programs. What do you think?  
 --- 
 
 Some context for the item. Use Markdown styling (see link below)
