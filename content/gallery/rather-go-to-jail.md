@@ -60,7 +60,7 @@ As the boycotters predicted, the Board of Education brought the Harlem Nine to c
 
 As an activist involved in many political struggles, Mae Mallory faced risks beyond the threat of fine or imprisonment for keeping her children out of school. Mallory, like Lucile Spence and some other Harlem education activists, had been affiliated with the Communist Party. In keeping with strong anti-communist sentiment at the time, Mallory was monitored by the FBI and harassed by various city agencies. Despite these threats, she continued her activism. After the boycott, she made a trip to North Carolina to support Freedom Riders working to desegregate transportation. While there, she was framed by FBI agents and accused of kidnapping. She spent years in prison in Cleveland, before leaving the US.[^4]
 
-[^1]: See [this digital exhibit for more on the “Little Rock Nine”](https://nmaahc.si.edu/blog-post/little-rock-nine).
+[^1]: For more on the "Little Rock Nine," see Lonnie Bunch, "The Little Rock Nine," National Museum of African American History and Culture, Smithsonian Institution, [https://nmaahc.si.edu/blog-post/little-rock-nine](https://nmaahc.si.edu/blog-post/little-rock-nine).
 
 [^2]: Adina Back, “'Exposing the ‘Whole Segregation Myth’: The Harlem Nine and New York City’s School Desegregation Battles,” in *Freedom North: Black Freedom Struggles Outside the South, 1940-1980*, ed. Jeanne Theoharis and Komozi Woodard (New York: Palgrave Macmillan, 2003), 70.
 

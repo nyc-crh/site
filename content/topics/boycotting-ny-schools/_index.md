@@ -72,7 +72,7 @@ After the boycotts of 1964 and 1965, students, parents, and activists continued 
 
 [^1]: Christopher Bonastia, *The Battle Nearer to Home: The Persistence of School Segregation in New York City* (Palo Alto: Stanford University Press, 2022).
 
-[^2]: It remained the largest mass demonstration until it was exceeded by the Women’s March on January 21, 2017. Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016); Jeanne Theoharis, *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* (Boston: Beacon Press, 2018).
+[^2]: It remained the largest mass demonstration until it was exceeded by the Women’s March on January 21, 2017. Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016); Jeanne Theoharis, *A More Beautiful and Terrible History: The Uses and Misuses of Civil Rights History* (Boston: Beacon Press, 2018). See also: Matthew Delmont, Why Busing Failed, accessed April 10, 2024, [whybusingfailed.com](https://whybusingfailed.com).
 
 [^3]: Theoharis, *A More Beautiful and Terrible History*; Delmont, *Why Busing Failed*; Adam Sanchez, "The Largest Civil Rights Protest You’ve Never Heard Of: Teaching the 1964 New York City Boycott," *Rethinking Schools* 32, no. 4 (Winter 2019-2020),[https://rethinkingschools.org/articles/the-largest-civil-rights-protest-you-ve-never-heard-of](https://rethinkingschools.org/articles/the-largest-civil-rights-protest-you-ve-never-heard-of/)
 

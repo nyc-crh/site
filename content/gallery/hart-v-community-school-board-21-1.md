@@ -29,7 +29,7 @@ relImgAlt:
 relLink: 
 eventname: Federal District Judge Jack Weinstein details how school zoning policy segregated Mark Twain Junior High School.
 caption: In 1974, Judge Jack Weinstein ruled that Mark Twain Junior High School was a segregated school, violating the US Constitution. In this opinion, he explained what actions by the school board had helped create school segregation.
-archive_source: Hart v. Community Sch. Bd. of Brooklyn, NY Sch. D. 21, 383 F. Supp. 699 (E.D.N.Y. 1974).
+archive_source: Hart v. Community Sch. Bd. of Brooklyn, NY Sch. D. 21, 383 F. Supp. 699 (E.D.N.Y. 1974)
 source_link: https://law.justia.com/cases/federal/district-courts/FSupp/383/699/2245271/
 copyright: Government Document
 categories: 

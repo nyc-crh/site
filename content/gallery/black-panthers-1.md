@@ -57,8 +57,8 @@ The Black Panther Party focused on many topics, including police brutality, hous
 
 When Intermediate School 201 opened in the fall of 1966, the Black Panther Party called for Operation Shut Down to boycott the school for a day. Despite the Board of Education’s promises, the new school was segregated, and the community was upset by the fact that the building lacked any windows to let students see out, or parents see in. Both showed the need for leadership that is “responsive to the needs of the community,” after a history of “irresponsible and non-concerned leadership” that had been ”detrimental to our young people.”[^3]
 
-[^1]: To read more, see the [Black Power Syllabus, Schomburg Center for Research in Black Culture](https://www.nypl.org/schomburgsyllabus/black-panther-party).
+[^1]: To read more, see "Black Power," in *#SchomburgSyllabus*, ed. Schomburg Center for Research in Black Culture, [https://www.nypl.org/schomburgsyllabus/black-panther-party](https://www.nypl.org/schomburgsyllabus/black-panther-party).
 
 [^2]: [Black Panther Party letter about Operation Shut Down](/topics/boycotting-ny-schools/black-panthers/black-panthers-2).
 
-[^3]: Black Panther Party, Harlem Branch, [”All Power to the People,”](https://archives.nypl.org/scm/20948), undated. Black Panther Party Harlem Branch Files, Schomburg Center for Research in Black Culture, New York Public Library, Box 1, Folder 8, https://archives.nypl.org/scm/20948.
+[^3]: Black Panther Party, Harlem Branch, ”All Power to the People,” undated, Black Panther Party Harlem Branch Files, Schomburg Center for Research in Black Culture, New York Public Library, Box 1, Folder 8, [https://archives.nypl.org/scm/20948](https://archives.nypl.org/scm/20948).
