@@ -228,7 +228,7 @@ Since 1970, New York has operated District 75, a separate school district only f
 
 [^48]: *Brown v. Board of Education of Topeka*, 347 U.S. 483 (1954), [https://catalog.archives.gov/id/1656510](https://catalog.archives.gov/id/1656510)
 
-[^49]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016); Bonastia, *The Battle Nearer to Home*.
+[^49]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016); Bonastia, *The Battle Nearer to Home*. See also: Matthew Delmont, Why Busing Failed, accessed April 10, 2024, [whybusingfailed.com](https://whybusingfailed.com).
 
 [^50]: Individuals with Disabilities Education Act. Pub. L. No. 94-192, § 611, 89 Stat.773 (1975).
 
@@ -264,7 +264,7 @@ The history of institutional and structural racism in housing, employment, wealt
 
 <h3>Suggested Primary source: <a href="https://nyccivilrightshistory.org/gallery/change-the-status-crow/">Change the Status Crow</a></h3>
 
-[^55]: Rothstein, *The Color of Law*; Delmont, *Why Busing Failed*; Brian Purnell and Jeanne Theoharis with Komozi Woodard, eds., *The Strange Careers of the Jim Crow North: Segregation and Struggle Outside of the South* (New York: New York University Press, 2019).
+[^55]: Rothstein, *The Color of Law*; Delmont, *Why Busing Failed*; Brian Purnell and Jeanne Theoharis with Komozi Woodard, eds., *The Strange Careers of the Jim Crow North: Segregation and Struggle Outside of the South* (New York: New York University Press, 2019). See also: Delmont, Why Busing Failed, accessed April 10, 2024, [whybusingfailed.com](https://whybusingfailed.com).
 
 [^56]: [New-York Historical Society, *Slavery in New York*](https://www.slaveryinnewyork.org/about_exhibit.htm).
 
