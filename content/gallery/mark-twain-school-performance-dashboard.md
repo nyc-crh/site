@@ -28,7 +28,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: "Mark Twain operates as a \"gifted and talented\" school today."
-caption: The New York City Department of Education prepares a report on each school each year. This report shows data about Mark Twain’s student population and their achievement on standardized tests. [Visit the report dashboard](https://tools.nycenet.edu/dashboard/#dbn=21K239&report_type=EMS&view=City)
+caption: The New York City Department of Education prepares a report on each school each year. This report shows data about Mark Twain’s student population and its students' achievement on standardized tests. [Visit the report dashboard](https://tools.nycenet.edu/dashboard/#dbn=21K239&report_type=EMS&view=City)
 archive_source: New York City Public Schools
 source_link: https://tools.nycenet.edu/dashboard/#dbn=21K239&report_type=EMS&view=City
 copyright: Government document
@@ -41,8 +41,8 @@ tags:
 - curriculum"
 questions: 
 - Who does Mark Twain serve?
-- How has the decision to make Mark Twain a "gifted and talented" school helped make Mark Twain a segregated school? 
-- How do you think "selective admission" schools like Mark Twain and the specialized high schools contribute to segregation throughout the city? Should these schools exist if they are not serving all of the city’s students?
+- How has the decision to make Mark Twain a "gifted and talented" school shaped the student population at Mark Twain? 
+- How do you think “selective admission” schools like Mark Twain and the specialized high schools contribute to segregation throughout the city? Do you think New York City should have “selective admission” schools? Why or why not? 
 --- 
 
 Some context for the item. Use Markdown styling (see link below)
