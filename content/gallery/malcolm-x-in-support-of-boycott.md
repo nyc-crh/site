@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: responding-to-the-boycott
+bundleTitle: Responding to the 1964 Boycotts
 date: 1964-01-05
 displaydate: "1964"
 title: Malcolm X Comments on the Boycotts

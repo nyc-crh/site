@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: 1964-boycotts
+bundleTitle: The 1964 Boycotts
 date: 1964-01-02
 displaydate: "1964"
 title: School Boycott!

@@ -1,6 +1,10 @@
 ---
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle decentralization
+bundleTitle: "Decentralization: Community School Districts For Some"
 date: 1976-11-06
 displaydate: 
 title: "Where is District 5?"

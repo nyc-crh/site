@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: united-bronx-parents
+bundleTitle: Evelina López Antonetty and United Bronx Parents/Padres Unidos del Bronx
 date: 1971-03-25
 displaydate: 
 title: The Educational Needs of the Puerto Rican Child, excerpts

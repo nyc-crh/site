@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: youth-organizing
+bundleTitle: "Before the Boycotts: Youth Organizing and Direct Action"
 date: 1956-01-01
 displaydate: "undated, c.1956"
 title: Check Your School!

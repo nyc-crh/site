@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: disability-incarceration
+bundleTitle: Behavior and Control: Disability and Incarceration"
 date: 1911-01-01
 displaydate: "1911"
 title: Delinquent Girls Tested by the Binet Scale, excerpt

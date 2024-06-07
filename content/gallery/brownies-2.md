@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle: brownies-book
+bundleTitle: "*The Brownies’ Book*"
 date: 1920-02-01
 displaydate: "February 1920"
 title: "*The Brownies’ Book*, February 1920, cover"

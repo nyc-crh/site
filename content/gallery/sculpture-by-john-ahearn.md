@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle double-dutch
+bundleTitle: Double Dutch
 date: 1981-01-01
 displaydate: "undated, c. 1981-1982"
 title: Double Dutch, sculpture by John Ahearn, Intervale Ave. and Kelly St.

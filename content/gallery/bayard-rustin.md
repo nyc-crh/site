@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: organizing-direct-action
+bundleTitle: "Before the Boycotts: Organizing and Direct Action"
 date: 1969-01-01
 displaydate: "1969"
 title: Bayard Rustin Oral History, excerpt

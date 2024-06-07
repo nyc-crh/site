@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: disability-incarceration
+bundleTitle: Behavior and Control: Disability and Incarceration"
 date: 1977-01-18
 displaydate: 
 title: Statement by Martin H. Gerry, Director, Office for Civil Rights, Department of Health, Education, and Welfare, excerpts

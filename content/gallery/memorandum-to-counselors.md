@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle camp-jened
+bundleTitle: Camp Jened
 date: 1958-02-01
 displaydate: "undated"
 title: Memorandum to Counselors

@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: right-to-communicate
+bundleTitle: The Right to Communicate
 date: 1909-03-25
 displaydate: 
 title: Testimony to the Uniform Type Committee

@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: gouverneur-parents-association
+bundleTitle: Willie Mae Goodman fighting Willowbrook
 date: 2021-07-11
 displaydate: 
 title: Interview with Willie Mae Goodman, excerpt

@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle community-control
+bundleTitle: The Push for Community Control
 date: 1970-02-20
 displaydate: 
 title: On the Way to School - Community Control, Some Observations, excerpt

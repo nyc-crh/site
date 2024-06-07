@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle community-control
+bundleTitle: The Push for Community Control
 date: 1967-03-01
 displaydate: 
 title: A Proposal for an Independent Board of Education in Harlem

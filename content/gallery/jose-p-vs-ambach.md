@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: parents-movement-deinstitutionalization
+bundleTitle: The Parents’ Movement for Deinstitutionalization and School Access
 date: 1979-02-01
 displaydate: 
 title: "*Jose P. vs. Ambach,* excerpt"

@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: responding-to-the-boycott
+bundleTitle: Responding to the 1964 Boycotts
 date: 1964-07-02
 displaydate: 
 title: Title IV of the Civil Rights Act of 1964, excerpt

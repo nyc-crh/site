@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: gouverneur-parents-association
+bundleTitle: Willie Mae Goodman fighting Willowbrook
 date: 1947-04-01
 displaydate: "October 1947"
 title: Your Child and Willowbrook, excerpt

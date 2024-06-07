@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: youth-organizing
+bundleTitle: "Before the Boycotts: Youth Organizing and Direct Action"
 date: 1947-01-01
 displaydate: "December 1947"
 title: NAACP Youth Council News Bulletin, excerpts

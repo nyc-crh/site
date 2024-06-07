@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: black-panthers
+bundleTitle: The Black Panthers
 date: 1966-08-01
 displaydate: "c. August 1966"
 title: Black Panther Party letter about Operation Shut Down

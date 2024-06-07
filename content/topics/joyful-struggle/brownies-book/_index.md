@@ -14,6 +14,8 @@ In October 1919, W.E.B. Du Bois and his collaborators at *Crisis* (the NAACP’s
 >
 > (b) To make them familiar with the history and achievements of the Negro race.
 >
+{{% read-more %}}
+>
 > (c) To make them know that other colored children have grown into beautiful, useful and famous persons.
 >
 > (d) To teach them delicately a code of honor and action in their relations with white children.
@@ -36,4 +38,4 @@ W.E.B. Du Bois and the NAACP were not the only Black writers working to offer Bl
 
 [^3]: To read more about *The Brownies’ Book*, see LaVerne Gyant, “The Brownies’ Book: Preserving African American Memories Through Textual Lineage,” *Black History Bulletin* 78, no. 2 (2015): 22-26, [http://www.jstor.com/stable/10.5323/blachistbull.78.2.0022](http://www.jstor.com/stable/10.5323/blachistbull.78.2.0022); Jonda McNair and Rudine Sims Bishop, “‘To Be Great, Heroic, or Beautiful’: The Enduring Legacy of The Brownies’ Book,” *The Horn Book* (June 2018): 1-13,  [https://www.hbook.com/?detailStory=great-heroic-beautiful-enduring-legacy-brownies-book](https://www.hbook.com/?detailStory=great-heroic-beautiful-enduring-legacy-brownies-book); Dianne Johnson-Feelings et al., [*A Centennial Celebration of The Brownies’ Book*](https://www.amazon.com/Centennial-Celebration-Childrens-Literature-Association/dp/1496841247/) (Oxford, MS: University Press of Mississippi, 2022); Gholdnescar E. Muhammad, “Cultivating Genius and Joy in Education through Historically Responsive Literacy,” *Language Arts*  99, no. 3 (January 2022): 195-204.
 
-[^4]: [Jonna Perrillo, “Bringing Harlem to the Schools: Langston Hughes’ *The First Book of Negroes* and Crafting a Juvenile Readership,”](https://ansleyerickson.github.io/book/chapters/05/) in *Educating Harlem: A Century of Schooling and Resistance in a Black Community*, ed. Ansley T. Erickson and Ernest Morrell (New York: Columbia University Press, 2019), https://ansleyerickson.github.io/book/chapters/05/.
+[^4]: [Jonna Perrillo, “Bringing Harlem to the Schools: Langston Hughes’ *The First Book of Negroes* and Crafting a Juvenile Readership,”](https://ansleyerickson.github.io/book/chapters/05/) in *Educating Harlem: A Century of Schooling and Resistance in a Black Community*, ed. Ansley T. Erickson and Ernest Morrell (New York: Columbia University Press, 2019), <https://ansleyerickson.github.io/book/chapters/05/>.

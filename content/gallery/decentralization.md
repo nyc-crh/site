@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle decentralization
+bundleTitle: "Decentralization: Community School Districts For Some"
 date: 1969-01-01
 displaydate: "1969"
 title: Community Control is Not Decentralization

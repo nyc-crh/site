@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: beginnings-of-special-ed
+bundleTitle: The Beginnings of Special Education
 date: 1867-01-01
 displaydate: "1867"
 title: The Idiot School
@@ -56,11 +60,11 @@ The first residential school for children with intellectual disabilities opened 
 
 By the time the “Idiot School” opened in 1863, Randall’s Island was already home to an almshouse, orphanage, "Insane Asylum," and the "House of Refuge," a reform institution for "juvenile delinquents."[^6] By the end of his career, Séguin worried about the growth of these schools. He thought the quality of education and care would suffer if they became too big.[^7] By 1915, the school had become overcrowded, facilities were run down, and teachers were underpaid. Fifty years after its opening, Mary C. Dunphy, the school’s superintendent, was removed from her position for neglect.
 
-[^1]: James Trent, *Inventing the Feeble Mind: A History of Intellectual Disability in the United States* (Oxford: Oxford University Press, 2016), 81. 
+[^1]: James Trent, *Inventing the Feeble Mind: A History of Intellectual Disability in the United States* (Oxford: Oxford University Press, 2016), 81.
 
 [^2]: JoElla Straley, “It Took a Eugenicist to Come Up With ‘Moron,’” February 10, 2014, in *Code Switch,* produced by National Public Radio, podcast, [https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron](https://www.npr.org/sections/codeswitch/2014/02/10/267561895/it-took-a-eugenicist-to-come-up-with-moron).
 
-[^3]: Édouard Séguin, *Idiocy: And its Treatment by the Physiological Method* (New York: W. Wood & Company, 1866). 
+[^3]: Édouard Séguin, *Idiocy: And its Treatment by the Physiological Method* (New York: W. Wood & Company, 1866).
 
 [^4]: Sarah F. Rose, *No Right To Be Idle: The Invention of Disability, 1840s-1930s* (Chapel Hill: University of North Carolina Press, 2017), 66-77.
 
@@ -68,4 +72,4 @@ By the time the “Idiot School” opened in 1863, Randall’s Island was alread
 
 [^6]: John Francis Richmond, *New York and its Institutions, 1609-1871: A Library of Information, Pertaining to the Great Metropolis, Past and Present* (New York: E.B. Treat, 1872), 562.
 
-[^7]:  Trent, *Inventing the Feeble Mind*, 76. 
+[^7]:  Trent, *Inventing the Feeble Mind*, 76.

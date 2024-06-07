@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: parents-movement-deinstitutionalization
+bundleTitle: The Parents’ Movement for Deinstitutionalization and School Access
 date: 1972-02-02
 displaydate: 
 title: Bernard Carabello Interview

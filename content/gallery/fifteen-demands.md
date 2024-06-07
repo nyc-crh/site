@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle community-control
+bundleTitle: The Push for Community Control
 date: 1969-01-01
 displaydate: "1969"
 title: Fifteen Demands of Black and Puerto Rican Students

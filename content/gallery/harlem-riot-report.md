@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: lucile-spence
+bundleTitle: Lucile Spence and Teacher Activism
 date: 1936-07-18
 displaydate: 
 title: Mayor LaGuardia’s Commission on the Harlem Riot, excerpt

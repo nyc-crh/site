@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: beginnings-of-special-ed
+bundleTitle: The Beginnings of Special Education
 date: 1883-01-01
 displaydate: "1883"
 title: Map of Randall’s, Hart, and Blackwell's Islands

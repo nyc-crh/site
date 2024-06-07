@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: physical-access
+bundleTitle: "Fighting to Fit In: Physical Access"
 date: 1920-01-01
 displaydate: "1920"
 title: Survey of Cripples in New York City, excerpt

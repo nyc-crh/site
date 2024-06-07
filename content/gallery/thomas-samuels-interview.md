@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle deaf-social-spaces
+bundleTitle: Deaf Social Spaces
 date: 2020-10-14
 displaydate: 
 title: Interview with Thomas Samuels
@@ -17,9 +21,9 @@ mapembed:
 audio: 
 audioTitle: 
 audioTranscript: 
-video:	
-  srcType:	youtube
-  srcLink:	SYvK9U1bpts
+video: 
+  srcType: youtube
+  srcLink: SYvK9U1bpts
 videoTitle: Interview with Thomas Samuels
 closeRdImg: 
 closeRdLink: 

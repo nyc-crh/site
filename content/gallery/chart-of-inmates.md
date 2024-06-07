@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: disability-incarceration
+bundleTitle: Behavior and Control: Disability and Incarceration"
 date: 1921-01-01
 displaydate: "January 1921"
 title: Chart of Inmates in the State Institutions

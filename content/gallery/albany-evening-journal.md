@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: cisco-resisting-segregation
+bundleTitle: Elizabeth Cisco Resisting Segregation in Queens
 date: 1900-05-10
 displaydate: 
 title: Albany Evening Journal

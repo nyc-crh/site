@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle community-control
+bundleTitle: The Push for Community Control
 date: 1977-08-27
 displaydate: 
 title: Goldie Chu

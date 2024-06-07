@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: united-bronx-parents
+bundleTitle: Evelina López Antonetty and United Bronx Parents/Padres Unidos del Bronx
 date: 2011-02-01
 displaydate: "2011"
 title: Evelina López Antonetty Mural

@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: audre-lorde-cuny
+bundleTitle: Audre Lorde and Student Protest at CUNY
 date: 1969-05-01
 displaydate: "May 1969"
 title: We Demand

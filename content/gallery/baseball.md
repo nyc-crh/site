@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle camp-jened
+bundleTitle: Camp Jened
 date: 1967-01-01
 displaydate: "Mid-to-late 1960s"
 title: Baseball
@@ -22,13 +26,13 @@ caption: Campers play baseball at Camp Jened.
 archive_source: Collection of Sheldon “Shelly” Koy
 source_link: 
 copyright: Used with permission of Sheldon “Shelly” Koy
-categories:	
+categories: 
 - k-12 education
 - adult education
 - national
 - New York State
 - teacher activism
-tags:	
+tags: 
 - physical disabilities
 - intellectual disabilities
 - joy

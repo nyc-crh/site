@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle community-control
+bundleTitle: The Push for Community Control
 date: 1968-02-01
 displaydate: "1968"
 title: City Hall; Teachers Demonstration

@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle camp-jened
+bundleTitle: Camp Jened
 date: 1958-03-01
 displaydate: "undated"
 title: Camp Scholarships Will Be Awarded to Handicapped Adults

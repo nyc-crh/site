@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle ben-franklin-hs
+bundleTitle: Benjamin Franklin High School
 date: 1945-01-01
 displaydate: "undated, c. 1940s-1950s"
 title: Club Borinquen
@@ -54,6 +58,6 @@ Although school leaders like Covello said that they wanted to create a community
 
 [^1]: Michael C. Johanek and John Puckett, *Leonard Covello and the Making of Benjamin Franklin High School: Education as If Citizenship Mattered* (Philadelphia: Temple University Press, 2007).
 
-[^2]: Lisa Rabin and Craig Cridel, “Cinema for Social Change: The Human Relations Film Series of the Harlem Committee of the Teachers Union, 1936–1950” in *Educating Harlem: A Century of Schooling and Resistance in a Black Community*, ed. Ansley T. Erickson and Ernest Morrrell (New York: Columbia University Press, 2019), 103-118, https://ansleyerickson.github.io/book/chapters/04/.
+[^2]: Lisa Rabin and Craig Cridel, “Cinema for Social Change: The Human Relations Film Series of the Harlem Committee of the Teachers Union, 1936–1950” in *Educating Harlem: A Century of Schooling and Resistance in a Black Community*, ed. Ansley T. Erickson and Ernest Morrrell (New York: Columbia University Press, 2019), 103-118, <https://ansleyerickson.github.io/book/chapters/04/>.
 
 [^3]: Johanek and Puckett, *Leonard Covello and the Making of Benjamin Franklin High School*.

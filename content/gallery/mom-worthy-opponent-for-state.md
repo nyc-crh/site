@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: gouverneur-parents-association
+bundleTitle: Willie Mae Goodman fighting Willowbrook
 date: 1974-09-22
 displaydate: 
 title: Mom is Worthy Opponent for State

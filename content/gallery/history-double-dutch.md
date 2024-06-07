@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle double-dutch
+bundleTitle: Double Dutch
 date: 1981-06-06
 displaydate: 
 title: History of Double Dutch

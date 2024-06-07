@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle camp-jened
+bundleTitle: Camp Jened
 date: 1967-08-01
 displaydate: "August 1967"
 title: Reflections - August, 1967, excerpt

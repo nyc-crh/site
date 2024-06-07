@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: right-to-communicate
+bundleTitle: The Right to Communicate
 date: 1994-04-27
 displaydate: 
 title: Deaf Students Protest New School Head

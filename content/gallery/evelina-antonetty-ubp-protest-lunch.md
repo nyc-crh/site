@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: united-bronx-parents
+bundleTitle: Evelina López Antonetty and United Bronx Parents/Padres Unidos del Bronx
 date: 1970-01-01
 displaydate: "1970"
 title: Evelina Antonetty and United Bronx Parents Protest School Lunch

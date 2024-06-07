@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle ben-franklin-hs
+bundleTitle: Benjamin Franklin High School
 date: 1939-12-01
 displaydate: "undated, c. late 1930s"
 title: The Role of the School in a Housing Program for the Community

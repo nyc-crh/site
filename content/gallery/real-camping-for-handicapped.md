@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle camp-jened
+bundleTitle: Camp Jened
 date: 1958-01-01
 displaydate: "undated, c. mid-1950s to early 1960s"
 title: Camp Jened - Real Camping for the Handicapped, cover

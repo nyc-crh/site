@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: physical-access
+bundleTitle: "Fighting to Fit In: Physical Access"
 date: 2004-01-01
 displaydate: "2004"
 title: Judy Heumann Oral History
@@ -115,6 +119,6 @@ She argued for the use of the word “disabled” over the term “handicapped�
 
 [^5]: Andrew H. Malcolm, “Woman in Wheel Chair Sues to Become Teacher,” *The New York Times*, May 27, 1970, [https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html](https://www.nytimes.com/1970/05/27/archives/woman-in-wheel-chair-sues-to-become-teacher.html).
 
-[^6]: “Disabled In Action: Interview with Founder Judy Heumann,” accessed July 24, 2023, [https://disabledinaction.org/heumann.html](https://disabledinaction.org/heumann.html). 
+[^6]: “Disabled In Action: Interview with Founder Judy Heumann,” accessed July 24, 2023, [https://disabledinaction.org/heumann.html](https://disabledinaction.org/heumann.html).
 
 [^7]: “Judy Heumann | Advocate For Rights Of Disabled People | Judithheumann,” *Judy Heumann* (blog), accessed July 24, 2023, [https://judithheumann.com/project/about/](https://judithheumann.com/project/about/).

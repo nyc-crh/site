@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: white-liberal-resistance
+bundleTitle: "Before the Boycotts: White Liberal Resistance"
 date: 1956-03-02
 displaydate: 
 title: Commission on Integration, Subcommittee on Zoning Draft Report, excerpt

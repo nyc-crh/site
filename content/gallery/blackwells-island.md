@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: beginnings-of-special-ed
+bundleTitle: The Beginnings of Special Education
 date: 1832-03-15
 displaydate: 
 title: Survey of Blackwell's Island

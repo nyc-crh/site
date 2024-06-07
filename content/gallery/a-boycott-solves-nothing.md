@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: white-liberal-resistance
+bundleTitle: "Before the Boycotts: White Liberal Resistance"
 date: 1964-01-01
 displaydate: "1964"
 title: A Boycott Solves Nothing

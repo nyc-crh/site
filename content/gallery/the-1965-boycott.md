@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: 1965-boycott
+bundleTitle: The Less-Known 1965 Boycott
 date: 1965-12-01
 displaydate: "1965"
 title: The 1965 Boycott on Film

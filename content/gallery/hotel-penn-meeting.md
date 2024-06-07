@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: lucile-spence
+bundleTitle: Lucile Spence and Teacher Activism
 date: 1937-04-17
 displaydate: 
 title: Hotel Pennsylvania Meeting Learns of Harlem School Ills

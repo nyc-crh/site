@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: parents-movement-deinstitutionalization
+bundleTitle: The Parents’ Movement for Deinstitutionalization and School Access
 date: 1951-01-01
 displaydate: "1951"
 title: AHRC First Fundraising Billboard

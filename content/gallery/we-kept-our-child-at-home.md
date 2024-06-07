@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: gouverneur-parents-association
+bundleTitle: Willie Mae Goodman fighting Willowbrook
 date: 1955-11-01
 displaydate: 
 title: We Kept Our Retarded Child At Home, excerpt

@@ -1,6 +1,11 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle masses-to-experts
+bundleTitle: >
+ From the "Masses" to "Experts"
 date: 1890-01-01
 displaydate: "c. 1890"
 title: First Patriotic Election in the Beach Street Industrial School
@@ -48,6 +53,6 @@ The Children’s Aid Society operated a few "industrial schools" for children wh
 
 The industrial schools hoped to help shape children as US citizens. Many immigrant children came from places where citizens did not have democratic rights. Others, like Black migrants from the US South, had been excluded from democracy because of racist laws and practices. In this photograph, we see students at the Beach Street Industrial School, run by the Children’s Aid Society and staffed by volunteers, practicing democracy by voting on the question of whether each day should begin with a salute to the US flag.[^2]  
 
-[^1]: New York State Board of Charities, Annual Report, 1911, accessed March 21, 2024, [https://www.google.com/books/edition/Annual_Report/lzQXAAAAYAAJ?hl=en&gbpv=1&dq=%22children%27s+aid+society%22+%22industrial+schools%22&pg=PA747&printsec=frontcover](https://www.google.com/books/edition/Annual_Report/lzQXAAAAYAAJ?hl=en&gbpv=1&dq=%22children%27s+aid+society%22+%22industrial+schools%22&pg=PA747&printsec=frontcover). 
+[^1]: New York State Board of Charities, Annual Report, 1911, accessed March 21, 2024, [https://www.google.com/books/edition/Annual_Report/lzQXAAAAYAAJ?hl=en&gbpv=1&dq=%22children%27s+aid+society%22+%22industrial+schools%22&pg=PA747&printsec=frontcover](https://www.google.com/books/edition/Annual_Report/lzQXAAAAYAAJ?hl=en&gbpv=1&dq=%22children%27s+aid+society%22+%22industrial+schools%22&pg=PA747&printsec=frontcover).
 
-[^2]: Library of Congress, “Jacob Riis: Revealing How the Other Half Lives,” accessed March 21, 2024, [https://www.loc.gov/exhibits/jacob-riis/riis-and-reform.html](https://www.loc.gov/exhibits/jacob-riis/riis-and-reform.html). 
+[^2]: Library of Congress, “Jacob Riis: Revealing How the Other Half Lives,” accessed March 21, 2024, [https://www.loc.gov/exhibits/jacob-riis/riis-and-reform.html](https://www.loc.gov/exhibits/jacob-riis/riis-and-reform.html).

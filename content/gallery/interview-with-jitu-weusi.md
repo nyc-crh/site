@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle mayoral-control
+bundleTitle: Mayoral Control
 date: 2013-05-25
 displaydate: 
 title: Interview with Jitu Weusi on Mayoral Control of New York City Schools (excerpt)

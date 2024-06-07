@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: white-liberal-resistance
+bundleTitle: "Before the Boycotts: White Liberal Resistance"
 date: 1959-06-25
 displaydate: 
 title: White Queens Mothers Protest Desegregation

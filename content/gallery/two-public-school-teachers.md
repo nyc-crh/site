@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: lucile-spence
+bundleTitle: Lucile Spence and Teacher Activism
 date: 1925-03-01
 displaydate: "March, 1925"
 title: Two Public School Teachers

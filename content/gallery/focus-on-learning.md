@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle decentralization
+bundleTitle: "Decentralization: Community School Districts For Some"
 date: 1985-10-01
 displaydate: "October 1985"
 title: Focus on Learning, excerpt

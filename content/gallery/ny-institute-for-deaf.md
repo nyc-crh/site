@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: beginnings-of-special-ed
+bundleTitle: The Beginnings of Special Education
 date: 1826-05-30
 displaydate: 
 title: Exercises of the Pupils of the NY Institution for the Instruction of the Deaf and Dumb
@@ -61,15 +65,15 @@ American Sign Language was kept alive through Deaf social clubs, but it did not 
 
 [^2]: Carol A. Padden and Darline Clark Gunsauls, “How the Alphabet Came to Be Used in a Sign Language,” *Sign Language Studies* 4, no. 1 (2003): 10–33.
 
-[^3]: Mara Mills, “When Mobile Communication Technologies Were New,” *Endeavour* 33, no. 4 (2009): 141-47. 
+[^3]: Mara Mills, “When Mobile Communication Technologies Were New,” *Endeavour* 33, no. 4 (2009): 141-47.
 
 [^4]: Gallaudet University, “Thomas Hopkins Gallaudet Meets Alice Cogswell - History,” accessed July 25, 2023, [https://gallaudet.edu/museum/history/thomas-hopkins-gallaudet-meets-alice-cogswell/](https://gallaudet.edu/museum/history/thomas-hopkins-gallaudet-meets-alice-cogswell/).
 
 [^5]: Jan Branson and Don Miller, *Damned for Their Difference: The Cultural Construction of Deaf People as" Disabled": A Sociological History* (Washington, DC: Gallaudet University Press, 2002), 121.
 
-[^6]: Samuel Akerly, *Address Delivered at Washington Hall: In the City of New-York, on the 30th May, 1826, as Introductory to the Exercises of the Pupils of the New-York Institution for the Instruction of the Deaf and Dumb, with an Account of the Exercises, and Notes and Documents, In Relation to the Subject* (New York: E. Conrad, 1826). 
+[^6]: Samuel Akerly, *Address Delivered at Washington Hall: In the City of New-York, on the 30th May, 1826, as Introductory to the Exercises of the Pupils of the New-York Institution for the Instruction of the Deaf and Dumb, with an Account of the Exercises, and Notes and Documents, In Relation to the Subject* (New York: E. Conrad, 1826).
 
-[^7]:  Douglas C. Baynton, *Forbidden Signs: American Culture and the Campaign Against Sign Language* (Chicago: University of Chicago Press, 1996). 
+[^7]:  Douglas C. Baynton, *Forbidden Signs: American Culture and the Campaign Against Sign Language* (Chicago: University of Chicago Press, 1996).
 
 [^8]: Enoch Henry Currier, *The History of Articulation Teaching: In the New York Institution for the Instruction of the Deaf and Dumb, the First Oral School Established in America* (1894).
 

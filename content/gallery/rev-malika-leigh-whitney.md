@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle double-dutch
+bundleTitle: Double Dutch
 date: 2019-12-01
 displaydate: "December 2019"
 title: Rev. Malika Leigh Whitney and Double Dutch Dreamz
@@ -17,9 +21,9 @@ mapembed:
 audio: rev-malika-leigh-whitney.mp3
 audioTitle: Rev. Malika Leigh Whitney and Double Dutch Dreamz
 audioTranscript: 
-video:	
-  srcType:	youtube
-  srcLink:	1tk8nMtvVa0
+video: 
+  srcType: youtube
+  srcLink: 1tk8nMtvVa0
 videoTitle: 
 closeRdImg: 
 closeRdLink: 

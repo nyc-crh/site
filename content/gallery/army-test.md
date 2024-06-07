@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: tests-labels-and-segregation
+bundleTitle: Tests, Labels, and Segregation in New York City
 date: 1917-01-01
 displaydate: "1917"
 title: Army Beta Test and Results

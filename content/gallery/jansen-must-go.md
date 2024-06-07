@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: harlem-nine
+bundleTitle: "Mae Mallory and the \"Harlem Nine\""
 date: 1957-07-01
 displaydate: "July 1957"
 title: Jansen Must Go!

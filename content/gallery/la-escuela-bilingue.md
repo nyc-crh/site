@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: who-governs-schools
+docsetTitle: Who Governs Schools?
+bundle decentralization
+bundleTitle: "Decentralization: Community School Districts For Some"
 date: 1984-06-13
 displaydate: 
 title: La Escuela Bilingüe Número 25 del Distrito Escolar 7

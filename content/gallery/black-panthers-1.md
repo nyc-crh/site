@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: black-panthers
+bundleTitle: The Black Panthers
 date: 1966-09-01
 displaydate: "undated, c. September 1966"
 title: Operation Shut Down Flier

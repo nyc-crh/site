@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: joyful-struggle
+docsetTitle: Joyful Struggle
+bundle double-dutch
+bundleTitle: Double Dutch
 date: 1976-06-02
 displaydate: 
 title: Girls Jumping Double Dutch

@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: 1964-boycotts
+bundleTitle: The 1964 Boycotts
 date: 1964-03-01
 displaydate: "March 16, 1964"
 title: Change the Status Crow

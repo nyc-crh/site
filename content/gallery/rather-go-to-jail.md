@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: harlem-nine
+bundleTitle: "Mae Mallory and the \"Harlem Nine\""
 date: 1958-12-13
 displaydate: 
 title: “We’d Rather Go to Jail.”

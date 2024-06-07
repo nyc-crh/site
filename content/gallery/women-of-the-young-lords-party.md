@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: young-lords
+bundleTitle: Denise Oliver and the Women of the Young Lords Party
 date: 2015-08-05
 displaydate: 
 title: Women of the Young Lords Party, excerpt

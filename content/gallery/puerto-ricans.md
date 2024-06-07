@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: united-bronx-parents
+bundleTitle: Evelina López Antonetty and United Bronx Parents/Padres Unidos del Bronx
 date: 1994-01-01
 displaydate: "1994"
 title: Puerto Ricans (Spoken Version)

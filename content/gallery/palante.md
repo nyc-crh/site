@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: black-latina-women
+docsetTitle: Black and Latina Women’s Educational Activism
+bundle: young-lords
+bundleTitle: Denise Oliver and the Women of the Young Lords Party
 date: 1971-02-01
 displaydate: "February 1971"
 title: Palante, cover

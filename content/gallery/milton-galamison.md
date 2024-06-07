@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: boycotting-ny-schools
+docsetTitle: Boycotting New York’s Segregated Schools
+bundle: 1964-boycotts
+bundleTitle: The 1964 Boycotts
 date: 1964-06-17
 displaydate: 
 title: Milton Galamison Oral History, excerpt

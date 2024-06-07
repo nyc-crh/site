@@ -1,6 +1,10 @@
 --- 
 layout: gallery
 draft: false
+docset: seeking-equity-for-disabled-students
+docsetTitle: Seeking Equity for Disabled Students
+bundle: beginnings-of-special-ed
+bundleTitle: The Beginnings of Special Education
 date: 1901-09-01
 displaydate: "undated"
 title: Elizabeth Farrell and Ungraded Classes
@@ -58,7 +62,7 @@ By the early 1930s, after an expansion in the use of [intelligence testing](/top
 
 [^2]: Kode, *Elizabeth Farrell and the History of Special Education*, 52.
 
-[^3]: "New York City’s Schools and What They Cost; The Greatest System in the Country, Costing Annually Something Like $50,000,000, It Is Unable to Accomodate All Children Seeking an Education Here,” *The New York Times*, September 13, 1908. 
+[^3]: "New York City’s Schools and What They Cost; The Greatest System in the Country, Costing Annually Something Like $50,000,000, It Is Unable to Accomodate All Children Seeking an Education Here,” *The New York Times*, September 13, 1908.
 
 [^4]: Margaret A. Winzer, *The History of Special Education: From Isolation to Integration* (Washington, DC: Gallaudet University Press, 1993), 139.
 
