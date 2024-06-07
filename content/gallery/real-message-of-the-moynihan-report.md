@@ -42,9 +42,9 @@ tags:
 - Black people
 - employment 
 questions: 
-- Compare the tone and style of Whitney Young’s text to other items in [this document set](/topics/how-did-nyc-segregate). What differences or similarities do you notice? Why do you think Young makes these writing choices? 
-- Why do you think Young, as head of an organization that has represented many Black middle class members, chooses to write that the Moynihan Report describes some Black families, but not all?
-- Based on this text, what do you think Whitney Young’s hopes are for Black communities in the US?
+- Compare the tone and style of Whitney Young’s text to other items in [this document set](/topics/how-did-nyc-segregate). What differences or similarities do you notice? Why do you think Young made these writing choices? 
+- Why do you think Young, as head of an organization that has represented many Black middle class members, chose to write that the Moynihan Report described some Black families, but not all?
+- Based on this text, what do you think Whitney Young’s hopes were for Black communities in the US?
 --- 
 
 Some context for the item. Use Markdown styling (see link below)
