@@ -29,7 +29,7 @@ relImgAlt:
 relLink: 
 eventname: 
 caption: In 1974, Judge Jack Weinstein ruled Mark Twain unconstitutionally segregated. In this excerpt he explains how he thinks this came to be.
-archive_source: Hart v. Community Sch. Bd. of Brooklyn, NY Sch. D. 21, 383 F. Supp. 699 (E.D.N.Y. 1974).
+archive_source: Hart v. Community Sch. Bd. of Brooklyn, NY Sch. D. 21, 383 F. Supp. 699 (E.D.N.Y. 1974)
 source_link: https://law.justia.com/cases/federal/district-courts/FSupp/383/699/2245271/
 copyright: Government Document
 categories: 
