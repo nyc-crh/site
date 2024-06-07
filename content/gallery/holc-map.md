@@ -27,7 +27,7 @@ relTitle:
 relImg: 
 relImgAlt: 
 relLink: 
-eventname: The Home Owners’ Loan Corporation produces maps that guide how banks make loans for home purchases. 
+eventname: The Home Owners’ Loan Corporation produces maps intended to guide how banks make loans for home purchases. 
 caption: >
  This map, produced by the federal government’s Home Owners’ Loan Corporation, marked white and middle-class areas of Brooklyn as good investments for home loans, and areas with Black, Jewish, and other “foreign” residents as ones that banks should avoid lending to. To zoom in, [click here](https://dsl.richmond.edu/panorama/redlining/map/NY/Brooklyn/area_descriptions/D23#loc=12/40.6319/-73.9392).
 archive_source: Mapping Inequality
