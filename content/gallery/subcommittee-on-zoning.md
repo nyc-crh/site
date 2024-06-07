@@ -47,10 +47,10 @@ As the first woman president of the New York City chapter of the National Associ
 
 As a member of the Commission on Integration’s zoning subcommittee, Baker advocated for the Board to use its powers to shape school zones to foster integration. Zones indicated which schools students living in a certain area attended. Much to Baker’s dismay, the Commission on Integration produced a final report that included much less information about the shape and extent of segregation and inequality in New York schools than the draft above. The revealing statistics about unequal schooling contained in this draft did not make it into the final version. The final report made only modest suggestions for changes and included no commitments that segregation would end.[^4]
 
-[^1]: [*Brown v. Board of Education of Topeka*, 347 U.S. 483 (1954)](https://catalog.archives.gov/id/1656510).
+[^1]: Brown v. Board of Education of Topeka, 347 U.S. 483 (1954), [https://catalog.archives.gov/id/1656510](https://catalog.archives.gov/id/1656510).
 
 [^2]: Quoted in Barbara Ransby, *Ella Baker & the Black Freedom Movement: A Radical Democratic Vision* (Chapel Hill: University of North Carolina Press, 2003), 153.
 
 [^3]: Ransby, *Ella Baker & the Black Freedom Movement,* 149-152; Charles Payne, "Give Light and the People Will Find a Way': Ella Baker and Teaching as Politics,” in *Teach Freedom: Education for Liberation in the African-American Tradition*, ed. Charles Payne and Carol Sills Strickland (New York: Teachers College Press, 2008), 56-64.
 
-[^4]: Board of Education of the City of New York, “Toward the Integration of Our Schools: Final Report of the Commission on Integration,” 1958, in [Ella Baker Papers, Box 4, Folder 20, Schomburg Center for Research in Black Culture of the New York Public Library](https://archives.nypl.org/scm/20899).
+[^4]: Board of Education of the City of New York, “Toward the Integration of Our Schools: Final Report of the Commission on Integration,” 1958, in Ella Baker Papers, Box 4, Folder 20, Schomburg Center for Research in Black Culture of the New York Public Library, [https://archives.nypl.org/scm/20899](https://archives.nypl.org/scm/20899).
