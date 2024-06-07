@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
 bundle: racist-ableist-ideas
@@ -50,10 +50,10 @@ questions:
 - How do the ideas expressed here by white students and parents reflect or connect to racist ideas of the time, including those represented in the [Moynihan Report](/topics/how-did-nyc-segregate/racist-ableist-ideas/the-controversial-moynihan-report)?
 --- 
 
-Some context for the item. Use Markdown styling (see link below)
+In this segment of a 1974 news program, journalist Richard Kotuk introduces Mark Twain Junior High School. He records Black, Puerto Rican, and white students and families sharing how they feel about a judge’s recent order to desegregate the school. White students and parents express racist ideas about children at the school and its neighborhood.
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+In the video, white parents and students speak of “busing,” by which they mean students riding buses to go to schools that were in the process of desegregation. As historian Matt Delmont has shown, white activists used complaints about “busing” as a way to resist desegregation. Students rode buses to school long before attempts to integrate schools, and parents often wanted their children to travel out of their neighborhoods to schools for programs or opportunities that they supported. However, when New York City made efforts to desegregate schools in the late 1950s through the 1970s, many white parents said they opposed “busing” – rather than saying that they opposed desegregation.
 
-Here's a simple footnote,[^1]
+Complaints about “busing” put white families preferences and comfort, and at times their racist attitudes, over the constitutional rights of Black and Puerto Rican students.[^1]
 
-[^1]: This is the first footnote.
+[^1]: Matthew Delmont, *Why Busing Failed*, accessed April 10, 2024, [whybusingfailed.com](https://whybusingfailed.com).

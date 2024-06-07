@@ -1,5 +1,5 @@
 ---
-title: White Liberal Resistance
+title: "Before the Boycotts: White Liberal Resistance"
 layout: bundle-gallery
 type: list
 draft: false

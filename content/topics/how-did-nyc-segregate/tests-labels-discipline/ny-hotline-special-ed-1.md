@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: tests-labels-discipline
 title: "New York Hotline: Special Ed #304, excerpt 1"

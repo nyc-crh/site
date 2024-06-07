@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: mark-twain-today
 title: 2022-23 School Performance Dashboard, Mark Twain I.S. 239

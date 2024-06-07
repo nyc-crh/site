@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: racist-ableist-ideas
 title: Mark Twain on the 51st State, excerpt 2

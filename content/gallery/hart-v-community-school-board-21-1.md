@@ -1,10 +1,10 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
-bundle: school-zones-feeder-patterns
-bundleTitle: School Zones and Feeder Patterns
+bundle: school-zones
+bundleTitle: School Zones
 date: 1974-04-02
 displaydate: 
 title: "*Hart v. Community School Board 21*, excerpt 1"
@@ -52,10 +52,8 @@ questions:
 - How does the last paragraph of the excerpt help us understand *why* the school district encouraged segregation at Mark Twain?
 --- 
 
-Some context for the item. Use Markdown styling (see link below)
+Jeffrey Hart was a student at Mark Twain Junior High School in Brooklyn. Hart’s mother and her attorneys brought a suit against the local school board, arguing that the school was unconstitutionally segregated.
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+In court, they demonstrated the intentional segregation of the school by the local Community School District 21, often with the tacit if not explicit approval of the city’s Board of Education. They made their case by showing how the school board determined school zones and feeder patterns in ways that intentionally produced segregation.
 
-Here's a simple footnote,[^1]
-
-[^1]: This is the first footnote.
+As this excerpt from his opinion shows, the judge found this evidence compelling. In this portion of the opinion, Judge Weinstein describes how school zoning helped change Mark Twain’s student population from 81 percent “white” and 19 percent “nonwhite” in 1962 to the reverse: 18 percent white and 81.9 percent “nonwhite” in 1973. The judge concluded that “The various actions of the Community Board… helped bring about the severe racial imbalance” at the

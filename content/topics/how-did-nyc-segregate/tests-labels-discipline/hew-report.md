@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: tests-labels-discipline
 title: Statement by Martin H. Gerry, Director, Office for Civil Rights, Department of Health, Education, and Welfare, excerpts

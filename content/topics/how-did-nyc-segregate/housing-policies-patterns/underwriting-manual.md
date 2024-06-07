@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: housing-policies-patterns
 title: Underwriting Manual, excerpt

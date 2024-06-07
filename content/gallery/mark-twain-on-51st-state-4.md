@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
 bundle: school-governance-democratic-control
@@ -55,10 +55,6 @@ questions:
 - Black activist Stokely Carmichael, like [other community control activists](/topics/who-governs-schools/community-control/), focused less on desegregation and more on the importance of Black communities having control over their own schools. What do you think Carmichael would have said if he had seen this film from Community School District 21? 
 --- 
 
-Some context for the item. Use Markdown styling (see link below)
+The all-white board of Community School District 21 in Brooklyn approved a proposal to desegregate Mark Twain Junior High School by making it a school for “gifted and talented” students - or, in the language of the day, students in “special progress” or “rapid advancement” classes. Historically, because of limited educational opportunities for Black students and racism in the examinations and processes that decided whether a student was “gifted,” most of the students in these special classes were white students.
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
-
-Here's a simple footnote,[^1]
-
-[^1]: This is the first footnote.
+Many white parents in the district opposed the plan, even though their students would have the option to attend a local neighborhood school or travel to Mark Twain for “gifted” classes if they qualified and chose to do so. Students who lived close to Mark Twain, most of whom were Black and Latinx, would not have this option because their local school had been converted to a school that only “gifted and talented” students could attend. If they did not choose to or succeed in applying to Mark Twain, they would travel to another school outside of their neighborhood.

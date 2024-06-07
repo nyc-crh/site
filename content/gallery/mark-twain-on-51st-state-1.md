@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
 bundle: housing-policies-patterns
@@ -49,10 +49,12 @@ questions:
 - Based on other documents related to housing in Coney Island, including the [HOLC redlining maps for Coney Island](/topics/how-did-nyc-segregate/housing-policies-patterns/holc-map) and the [FHA’s Underwriting Manual](/topics/how-did-nyc-segregate/housing-policies-patterns/underwriting-manual), does the reporter offer a clear explanation or how and why Coney Island’s population changed in this time? How would you edit or improve his explanation?
 --- 
 
-Some context for the item. Use Markdown styling (see link below)
+In this video excerpt, reporter Richard Kotuk attempts to explain how what he calls “central Coney Island” has become predominantly “poor, Puerto Rican, and black.”
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+The changes in Coney Island’s residential population that Kotuk describes - from majority white to majority Black and Puerto Rican, with nearly half of the residents living in poverty - were common in many city neighborhoods in the US in the 1960s. Several policies - including [home loans](/gallery/underwriting-manual), highway construction, and tax breaks - made it easier for white families to leave for the suburbs. And with these options, and relatively more wealth and economic opportunity, few white people chose to live in public housing projects. Many public housing projects became Black and Puerto Rican segregated spaces whose residents had less access to other neighborhoods.[^1]
 
-Here's a simple footnote,[^1]
+These changes in who was living in the area were one reason, but definitely not the only reason, why Mark Twain Junior High School’s student population changed from majority white to majority Black and Latinx in the 1960s.
 
-[^1]: This is the first footnote.
+You can continue watching beyond the clip here to hear how one white Coney Island resident describes her neighborhood and how it changed. [See “The 51st State”](https://youtu.be/Nh1zlTAf_gA?si=BxwGsDryIJsFyxUQ&t=342), minutes 5:42-7:11.
+
+[^1]:Mark Lopez and Richard Rothstein, *Segregation by Design*, accessed May 10, 2024,[https://www.segregatedbydesign.com/](https://www.segregatedbydesign.com).

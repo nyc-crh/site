@@ -1,10 +1,10 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
-bundle: school-zones-feeder-patterns
-bundleTitle: School Zones and Feeder Patterns
+bundle: school-zones
+bundleTitle: School Zones
 date: 1970-01-01
 displaydate: "1970"
 title: District 21 Population Maps
@@ -47,10 +47,8 @@ questions:
 - How does a map like this demonstrate that segregation was the result of intentional actions and not a natural occurrence?
 --- 
 
-Some context for the item. Use Markdown styling (see link below)
+This map illustrates the boundaries of Community District 21, which includes the Coney Island, Brighton Beach, and Gravesend neighborhoods of Brooklyn, among others. The map also shows the junior and intermediate high schools within the district. Each dot on the map represents 50 people. Using 1970 Census data, the map on the left uses green dots to represent the reported white population of the area, and the orange dots represent the reported “black” population of the area. The map on the right uses red dots to represent the “Spanish Origin or Descent” population. Those identifying on the Census as “Spanish Origin or Descent” may have also identified as “white” or “black” on the Census.  
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+Mark Twain Junior High School (also called JHS 239) sat within District 21 and became the subject of the first school desegregation case in New York City to reach a federal court. *Hart v. Community School Board 21* was a class action lawsuit on behalf of Black children attending Mark Twain, which, in 1973, educated a student population that was 81.9 percent “nonwhite,” despite being in a community school district in which the total population was only 30.4 percent “nonwhite.”
 
-Here's a simple footnote,[^1]
-
-[^1]: This is the first footnote.
+Zone lines like the ones shown on this map were established by school officials. Previously, New York City school officials had at times [used school zone lines to create segregated school enrollments](/gallery/wadleigh-zoning-map/).

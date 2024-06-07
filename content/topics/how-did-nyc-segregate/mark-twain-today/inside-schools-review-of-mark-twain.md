@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: mark-twain-today
 title: Inside Schools Review of Mark Twain

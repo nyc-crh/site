@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
 bundle: racist-ableist-ideas
@@ -48,10 +48,6 @@ questions:
 - Compare the tone and style of James Farmer’s text to other items in [this document set](/topics/how-did-nyc-segregate). What differences or similarities do you notice? Why do you think Farmer uses the writing style that he does? How do you think he wants his readers to feel?
 --- 
 
-Some context for the item. Use Markdown styling (see link below)
+The Black press provided a space for Black thinkers to challenge ideas that were getting a lot of attention in white newspapers and other media. James Farmer, an accomplished civil rights activist and National Director of the Congress of Racial Equality, used his column in the *Amsterdam News*, New York’s main Black newspaper, to share his critique of the Moynihan Report.
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
-
-Here's a simple footnote,[^1]
-
-[^1]: This is the first footnote.
+Farmer disputes the specific arguments that the Moynihan Report makes, and he shares his criticisms of what he thinks the report’s results will be.

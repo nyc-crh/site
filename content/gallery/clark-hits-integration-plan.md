@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
 bundle: school-governance-democratic-control
@@ -52,10 +52,10 @@ questions:
 - How does the decision to turn Mark Twain into a magnet school illustrate who has power and how power works within the New York City school system? What has changed, or stayed the same, since the 1974 desegregation case at Mark Twain?
 --- 
 
-Some context for the item. Use Markdown styling (see link below)
+When Judge Jack Weinstein initially issued a court order to integrate District 21 schools, he proposed a wide-sweeping plan that called for the Board of Education, District 21’s school board, and private real estate developers and housing officials to integrate the district’s neighborhoods and schools. White parents were furious with the decision and threatened to subvert the court order or leave the city. The district school board, whose members were all white, shared the white parents’ preference for segregation, but also felt that they had to meet the requirements of the court.
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+As a compromise to accommodate white parents’ preferences while also meeting the court requirements, the school board proposed turning Mark Twain into a “gifted and talented” school. They hoped that this would attract white parents to the school, and they assumed that more white students than Black or Latinx students would qualify for the school. The judge accepted the proposal and Curtis J. Berger, a Columbia Law School professor, drafted the plan.
 
-Here's a simple footnote,[^1]
+The above *Amsterdam News* article captures how Dr. Kenneth Clark and others criticized the plan. Dr. Clark was a Black psychologist who had worked with his wife Dr. Mamie Phelps Clark in support of desegregation. Dr. Kenneth Clark saw the Mark Twain plan as an attempt “to evade the politically explosive issue of desegregation” and an example of educational tracking - by which he meant unequal opportunities in a school’s curriculum and classes.
 
-[^1]: This is the first footnote.
+Despite Dr. Clark’s criticisms, the judge approved Berger’s plan and Mark Twain became a middle school known for its “gifted and talented” program.

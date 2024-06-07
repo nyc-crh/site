@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: school-zones-feeder-patterns
 title: District 21 Population Maps

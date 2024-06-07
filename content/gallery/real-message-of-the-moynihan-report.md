@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
 bundle: racist-ableist-ideas
@@ -10,7 +10,7 @@ displaydate:
 title:  Real Message of the Moynihan Report
 author: Whitney Young
 citation: >
- " Real Message of the Moynihan Report," Whitney Young, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/real-message-of-the-moynihan-report.
+ "Real Message of the Moynihan Report," Whitney Young, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/real-message-of-the-moynihan-report.
 featured: real-message-of-the-moynihan-report.jpg
 featuredAlt: 
 detailedDescr: 
@@ -47,10 +47,14 @@ questions:
 - Based on this text, what do you think Whitney Young’s hopes were for Black communities in the US?
 --- 
 
-Some context for the item. Use Markdown styling (see link below)
+No single civil rights organization represents all Black Americans. That was true in the 1960s and is true today. Different organizations have had different political visions, strategies, and styles.
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+The National Urban League, led by Whitney Young, was a more conservative organization than others like the Congress of Racial Equality. Historically, the Urban League represented more middle-class Black people and was more focused on cooperation and improving Black peoples’ lives through existing systems.[^1] By contrast, the Congress on Racial Equality (or CORE) and other organizations were willing to participate in direct-action protests, like a sit-in at a construction site to demand the hiring of Black workers.[^2] They sought more radical change, as in [Harlem CORE’s proposal for an independent school district in Harlem](/topics/who-governs-schools/community-control/proposal-independent-boe-harlem/).
 
-Here's a simple footnote,[^1]
+Nonetheless, the heads of both the National Urban League and CORE agreed that [the Moynihan Report](/gallery/the-controversial-moynihan-report) was an inaccurate and dangerous document.
 
-[^1]: This is the first footnote.
+In his critique of the report, Urban League head Whitney Young outlines the flaws in the report’s reasoning and evidence. Young summarizes, “The problems the Negro family faces today are caused by its economic disadvantages, which are in turn mainly the result of the discrimination and unequal treatment of today – not chiefly the result of slavery, as the report argues.”
+
+[^1]: Toure Reed, *Not Alms but Opportunity: The Urban League and the Politics of Racial Uplift, 1910-1950* (Chapel Hill, NC: University of North Carolina Press, 2009).
+
+[^2]: Brian Purnell, *Fighting Jim Crow in the County of Kings: The Congress of Racial Equality in Brooklyn* (Louisville, KY: University of Kentucky Press, 2015).

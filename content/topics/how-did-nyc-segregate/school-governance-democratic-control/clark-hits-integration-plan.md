@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: school-governance-democratic-control
 title: Clark Hits Integration Plan at Mark Twain JHS

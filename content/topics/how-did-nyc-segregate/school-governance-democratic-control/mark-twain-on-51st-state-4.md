@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: school-governance-democratic-control
 title: Mark Twain on The 51st State, excerpt 4

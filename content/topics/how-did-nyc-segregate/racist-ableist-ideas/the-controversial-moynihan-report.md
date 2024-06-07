@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: racist-ableist-ideas
 title: The Controversial Moynihan Report

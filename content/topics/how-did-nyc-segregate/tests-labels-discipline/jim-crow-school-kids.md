@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: tests-labels-discipline
 title: Jim Crow School Kids as Mentally Unfit

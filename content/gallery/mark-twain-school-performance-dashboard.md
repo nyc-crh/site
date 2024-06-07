@@ -1,10 +1,10 @@
 --- 
 layout: gallery
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
 bundle: mark-twain-today
-bundleTitle: Mark Twain Today
+bundleTitle: Admissions and Access at Mark Twain Today
 date: 2023-01-01
 displaydate: "2023"
 title: 2022-23 School Performance Dashboard, Mark Twain I.S. 239
@@ -45,10 +45,12 @@ questions:
 - How do you think “selective admission” schools like Mark Twain and the specialized high schools contribute to segregation throughout the city? Do you think New York City should have “selective admission” schools? Why or why not? 
 --- 
 
-Some context for the item. Use Markdown styling (see link below)
+As a “gifted and talented” school, Mark Twain accepts applicants from all over the city. This report from the NYC Department of Education describes who attends Mark Twain and how students who attend do on standardized tests.
 
-[Markdown basic syntax](https://www.markdownguide.org/basic-syntax/)
+Some of the data compares Mark Twain’s student population to the city’s population of students living in poverty, for example, or students learning English.
 
-Here's a simple footnote,[^1]
+New York City today has several other schools that operate similarly. Students from all over the city can take tests for admissions to these “specialized high schools,” like Stuyvesant and Bronx Science. These schools today have a very small population of Black and Latinx students.[^1]
 
-[^1]: This is the first footnote.
+Would you describe Mark Twain today as a segregated school? Why or why not?
+
+[^1]: Troy Closson, “Stuyvesant High School admitted 762 new students. Only 7 are Black.” [https://www.nytimes.com/2023/06/02/nyregion/stuyvesant-high-school-black-students.html](https://www.nytimes.com/2023/06/02/nyregion/stuyvesant-high-school-black-students.html), accessed June 6, 2024; Jillian Jorgenson, “Demographics of who is getting matched to some of the city’s top high schools remain largely unchanged,” *Spectrum News NY1*, June 4, 2023.

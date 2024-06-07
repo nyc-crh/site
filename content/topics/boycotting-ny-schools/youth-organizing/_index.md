@@ -1,5 +1,5 @@
 ---
-title: Youth Organizing and Direct Action
+title: "Before the Boycotts: Youth Organizing and Direct Action"
 layout: bundle-gallery
 type: list
 draft: false

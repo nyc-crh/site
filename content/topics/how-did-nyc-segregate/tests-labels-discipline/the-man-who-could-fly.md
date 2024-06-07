@@ -1,5 +1,5 @@
 --- 
-draft: true
+draft: false
 docset: how-did-nyc-segregate
 bundle: tests-labels-discipline
 title: "The Man Who Could Fly: the Bob Beamon Story, excerpt"

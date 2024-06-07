@@ -38,7 +38,10 @@ cards:
   - title: How did NYC Segregate its Schools?
     img: brooklyn-holc-map.jpg
     alt: Map of New York City labeled &quot;House Number and Transit Guide&quot;
-    text: Coming soon!
+    text:
+    btn:
+      text: View primary sources
+      url: /topics/how-did-nyc-segregate
   - title: Who Governs NYC Schools?
     img: who-governs.jpg
     alt: Political cartoon
