@@ -30,7 +30,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: "Community School District 21 proposes desegregating Mark Twain by making it a school for \"gifted and talented\" students."
-caption: Journalist Richard Kotuk captures Community School District 21’s discussion of a desegregation plan for Mark Twain Junior High School. 
+caption: Journalist Richard Kotuk captured Community School District 21’s discussion of a desegregation plan for Mark Twain Junior High School. 
 archive_source: Richard Kotuk’s YouTube Channel
 source_link: https://www.youtube.com/watch?v=Nh1zlTAf_gA
 copyright: Under copyright. Used with permission. 
