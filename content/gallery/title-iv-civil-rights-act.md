@@ -51,4 +51,4 @@ Congressman Celler and other northern politicians were aware of white resistance
 
 [^1]: Dr. Martin Luther King, Jr. quoted in Charles Sanders, “Playing Hooky for Freedom,” *Ebony*, April 1964, 153, [https://books.google.com/books?id=-VBKHwdFYAUC&lpg=PA1&pg=PT154#v=onepage&q&f=false](https://books.google.com/books?id=-VBKHwdFYAUC&lpg=PA1&pg=PT154#v=onepage&q&f=false).
 
-[^2]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016).
+[^2]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016). See also: Matthew Delmont, *Why Busing Failed*, accessed April 10, 2024, [whybusingfailed.com](https://whybusingfailed.com).
