@@ -43,7 +43,7 @@ tags:
 questions: 
 - What do you notice about the district’s student population?
 - What do you notice about the placement of schools within District 21?
-- If you wanted to make Mark Twain a desegregated school, with an enrollment that aligned more with the population of District 21, how would you re-draw the zone lines? 
+- If you wanted to make Mark Twain a desegregated school, with an enrollment that aligned more with the population of District 21, how would you redraw the zone lines? 
 - How does a map like this demonstrate that segregation was the result of intentional actions and not a natural occurrence?
 --- 
 
