@@ -44,10 +44,10 @@ tags:
 - white people
 - childhood
 questions: 
-- What do you notice about how students speak about their school, their community, and their fellow students? Where do the students agree, and where do they disagree? 
+- What do you notice about how students speak in this video about their school, their community, and their fellow students? Where do the students agree, and where do they disagree? 
 - Why do the white parents oppose desegregation? What claims do they make about busing and paying taxes? 
 - In your opinion, how are the views about integration expressed in these videos similar and different from those expressed by students and parents today?
-- How do the ideas expressed here by white students and parents reflect or connect to racist ideas of the time, including the [Moynihan Report](/topics/how-did-nyc-segregate/racist-ableist-ideas/the-controversial-moynihan-report)?
+- How do the ideas expressed here by white students and parents reflect or connect to racist ideas of the time, including those represented in the [Moynihan Report](/topics/how-did-nyc-segregate/racist-ableist-ideas/the-controversial-moynihan-report)?
 --- 
 
 Some context for the item. Use Markdown styling (see link below)
