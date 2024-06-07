@@ -50,6 +50,6 @@ To address these issues, civil rights groups like the Congress of Racial Equalit
 
 In 1967, after other Harlem organizations had protested to improve their neighborhood schools for decades, the Harlem branch of CORE took a new approach. They drafted a proposal to establish an independent local school board in Harlem to govern public schools there. They sought to fully remove Harlem schools from the New York City school system, and establish Harlem residents’ control over their own schools. The proposal reflected the interest among many Black and Latinx New Yorkers at the time in educational self-determination.
 
-[^1]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016).
+[^1]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016). See also: Matthew Delmont, Why Busing Failed, accessed April 10, 2024, [whybusingfailed.com](https://whybusingfailed.com).
 
 [^2]: For more on CORE in NYC, see Brian Purnell, *Fighting Jim Crow in the County of Kings: The Congress of Racial Equality in Brooklyn* (Louisville: University Press of Kentucky, 2015).
