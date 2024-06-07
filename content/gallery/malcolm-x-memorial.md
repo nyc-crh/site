@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 docset: who-governs-schools
 docsetTitle: Who Governs Schools?
-bundle community-control
+bundle: community-control
 bundleTitle: The Push for Community Control
 date: 1969-02-21
 displaydate: 

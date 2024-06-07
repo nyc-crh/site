@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 docset: who-governs-schools
 docsetTitle: Who Governs Schools?
-bundle mayoral-control
+bundle: mayoral-control
 bundleTitle: Mayoral Control
 date: 2016-08-26
 displaydate: 

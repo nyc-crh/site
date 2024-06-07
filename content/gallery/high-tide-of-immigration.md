@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 docset: who-governs-schools
 docsetTitle: Who Governs Schools?
-bundle masses-to-experts
+bundle: masses-to-experts
 bundleTitle: >
  From the "Masses" to "Experts"
 date: 1903-01-01

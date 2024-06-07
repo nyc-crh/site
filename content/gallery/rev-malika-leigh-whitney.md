@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 docset: joyful-struggle
 docsetTitle: Joyful Struggle
-bundle double-dutch
+bundle: double-dutch
 bundleTitle: Double Dutch
 date: 2019-12-01
 displaydate: "December 2019"

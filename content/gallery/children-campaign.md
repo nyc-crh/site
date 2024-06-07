@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 docset: joyful-struggle
 docsetTitle: Joyful Struggle
-bundle ben-franklin-hs
+bundle: ben-franklin-hs
 bundleTitle: Benjamin Franklin High School
 date: 1941-01-01
 displaydate: "undated, c. 1941-1945"

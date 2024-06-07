@@ -3,7 +3,7 @@ layout: gallery
 draft: false
 docset: joyful-struggle
 docsetTitle: Joyful Struggle
-bundle camp-jened
+bundle: camp-jened
 bundleTitle: Camp Jened
 date: 1967-08-01
 displaydate: "August 1967"
