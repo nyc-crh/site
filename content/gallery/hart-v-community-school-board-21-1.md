@@ -8,7 +8,7 @@ bundleTitle: School Zones and Feeder Patterns
 date: 1974-04-02
 displaydate: 
 title: "*Hart v. Community School Board 21*, excerpt 1"
-author: U.S. District Court for the Eastern District of New York
+author: US District Court for the Eastern District of New York
 citation: >
  "\"*Hart v. Community School Board 21*, excerpt 1," U.S. District Court for the Eastern District of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hart-v-community-school-board-21-1."
 featured: hart-v-community-school-board-21-1.jpg
@@ -28,8 +28,8 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: Federal District Judge Jack Weinstein details how school zoning policy segregated Mark Twain Junior High School.
-caption: In 1974, Judge Jack Weinstein ruled that Mark Twain Junior High School was a segregated school, violating the US constitution. In this opinion he explained what actions by the school board helped create school segregation.
-archive_source: "*Hart v. Community School Bd*., 383 F. Supp. 699"
+caption: In 1974, Judge Jack Weinstein ruled that Mark Twain Junior High School was a segregated school, violating the US Constitution. In this opinion, he explained what actions by the school board had helped create school segregation.
+archive_source: Hart v. Community Sch. Bd. of Brooklyn, NY Sch. D. 21, 383 F. Supp. 699 (E.D.N.Y. 1974).
 source_link: https://law.justia.com/cases/federal/district-courts/FSupp/383/699/2245271/
 copyright: Government Document
 categories: 
