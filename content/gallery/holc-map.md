@@ -39,7 +39,7 @@ tags:
 - racial segregation
 - housing
 questions: 
-- Notice the language on the area description forms. What terms give you a sense of how the HOLC - who made the forms - and local white real estate agents and business people who filled them out - thought about the communities they were describing? 
+- Notice the language on the area description forms. What terms give you a sense of how the HOLC (who made the forms) and local white real estate agents and business people (who filled them out) thought about the communities they were describing? 
 - What criteria did local real estate agents hired by HOLC use to evaluate neighborhoods?
 - Based on the area descriptions, which neighborhood characteristics did HOLC value? What groups of people did HOLC value and devalue?
 - Who benefited from these maps and their judgements? How so? 
