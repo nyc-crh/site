@@ -38,7 +38,7 @@ cards:
   - title: How did NYC Segregate its Schools?
     img: brooklyn-holc-map.jpg
     alt: Map of New York City labeled &quot;House Number and Transit Guide&quot;
-    text:
+    text: Many policies, practices, and ideas are behind school segregation in New York City. Explore them here, with a special focus on one school in Brooklyn.
     btn:
       text: View primary sources
       url: /topics/how-did-nyc-segregate

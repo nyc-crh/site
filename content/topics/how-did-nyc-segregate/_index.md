@@ -9,42 +9,42 @@ cards:
 - title: Housing Policies and Patterns
   img: holc-map.jpg
   alt: Map of Brooklyn showing different neighborhoods as good or bad investments
-  text:  
+  text: Many schools enroll students based on where they live. Therefore, policies that encourage residential segregation have been a key factor in school segregation. 
   btn:
     text: View primary sources
     url: /topics/how-did-nyc-segregate/housing-policies-patterns/
 - title: School Zones
   img: district-21-population-maps.jpg
   alt: Map showing segregation of of Black students in school districts
-  text:  
+  text: School zone lines link where people live to where their children go to school. Zone lines have helped produce segregation in schools. 
   btn:
     text: View primary sources
     url: /topics/how-did-nyc-segregate/school-zones/
 - title: Racist and Ableist Ideas
   img: the-controversial-moynihan-report.jpg
   alt: Newspaper clipping
-  text:  
+  text: Claims of superiority or inferiority by race or ability often appear – sometimes quietly, sometimes loudly – in discussions of school segregation and education policy. 
   btn:
     text: View primary sources
     url: /topics/how-did-nyc-segregate/racist-ableist-ideas/
 - title: Tests, Labels, and Discipline
   img: mark-twain-on-51st-state-3.jpg
   alt: Still image from a news report showing a young black boy in a classroom doing school work
-  text:  
+  text: Practices within schools can encourage segregation. Decisions about academics, discipline, disability labels, and more divide students within schools – or exclude them altogether. 
   btn:
     text: View primary sources
     url: /topics/how-did-nyc-segregate/tests-labels-discipline
 - title: School Governance and Democratic Control
   img: clark-hits-integration-plan.jpg
   alt: Newspaper clipping
-  text:  
+  text: Who makes the decisions that segregate, or desegregate, a school system? School segregation debates often come back to the question of who is in charge of a community’s schools. 
   btn:
     text: View primary sources
     url: /topics/how-did-nyc-segregate/school-governance-democratic-control/
 - title: Admissions and Access at Mark Twain Today
   img: mark-twain-school-performance-dashboard.jpg
   alt: Report with graphs
-  text:  
+  text: Tests, screens, and other admissions rules play a key role in segregating New York City schools, today as in the past.
   btn:
     text: View primary sources
     url: /topics/how-did-nyc-segregate/mark-twain-today/
