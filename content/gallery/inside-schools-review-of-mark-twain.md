@@ -1,6 +1,6 @@
 --- 
 layout: gallery
-draft: false
+draft: true
 docset: how-did-nyc-segregate
 docsetTitle: How Did New York City Segregate its Schools?
 bundle: mark-twain-today
