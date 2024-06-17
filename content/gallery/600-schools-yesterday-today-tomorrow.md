@@ -26,7 +26,7 @@ videoTitle:
 closeRdImg: 
 closeRdLink: 
 eventname: "Report published on \"600\" Schools for NYC DOE"
-caption: The Board of Education of the City of New York studied the ‘600’ schools. 
+caption: The Board of Education of the City of New York studied the "600" schools. These were schools that, in the 1960s, kept students labeled “socially maladjusted,” out of regular schools and classes. Most of the students in the “600” schools at the time were Black and Puerto Rican boys.
 archive_source: Municipal Archives
 source_link: 
 copyright: Public domain
