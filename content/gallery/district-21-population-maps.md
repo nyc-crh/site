@@ -28,7 +28,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: US Census data shows segregation in Brooklyn’s Community School District 21.
-caption: These maps illustrate the population of Brooklyn’s Community School District 21, which includes the Coney Island and Brighton Beach neighborhoods of Brooklyn, as well as the junior and intermediate high schools within the district. The data comes from the 1970 US Census.
+caption: These maps illustrate the population of Brooklyn’s Community School District 21, which includes the Coney Island and Brighton Beach neighborhoods of Brooklyn, and shows the junior high (or intermediate) schools within the district. The data comes from the 1970 US Census.
 archive_source: Social Explorer, (based on data from U.S. Census Bureau; accessed July 2022).
 source_link: www.socialexplorer.com
 copyright: Public domain
@@ -43,12 +43,12 @@ tags:
 questions: 
 - What do you notice about the district’s student population?
 - What do you notice about the placement of schools within District 21?
-- If you wanted to make Mark Twain a desegregated school, with an enrollment that aligned more with the population of District 21, how would you redraw the zone lines? 
+- If you wanted to make Mark Twain a desegregated school, with an enrollment that aligned more with the population of District 21, how would you draw the zone lines? 
 - How does a map like this demonstrate that segregation was the result of intentional actions and not a natural occurrence?
 --- 
 
-This map illustrates the boundaries of Community District 21, which includes the Coney Island, Brighton Beach, and Gravesend neighborhoods of Brooklyn, among others. The map also shows the junior and intermediate high schools within the district. Each dot on the map represents 50 people. Using 1970 Census data, the map on the left uses green dots to represent the reported white population of the area, and the orange dots represent the reported “black” population of the area. The map on the right uses red dots to represent the “Spanish Origin or Descent” population. Those identifying on the Census as “Spanish Origin or Descent” may have also identified as “white” or “black” on the Census.  
+This map illustrates the boundaries of Community District 21, which includes the Coney Island, Brighton Beach, and Gravesend neighborhoods of Brooklyn, among others. The map also shows the junior high (or intermediate) schools within the district. Each dot on the map represents 50 people. Using 1970 Census data, the map on the left uses pink dots to represent the reported white population of the area, and the black dots represent the reported “black” population of the area. The map on the right uses red dots to represent the “Spanish Origin or Descent” population. Those identifying on the Census as “Spanish Origin or Descent” may have also identified as “white” or “black” on the Census.  
 
 Mark Twain Junior High School (also called JHS 239) sat within District 21 and became the subject of the first school desegregation case in New York City to reach a federal court. *Hart v. Community School Board 21* was a class action lawsuit on behalf of Black children attending Mark Twain, which, in 1973, educated a student population that was 81.9 percent “nonwhite,” despite being in a community school district in which the total population was only 30.4 percent “nonwhite.”
 
-Zone lines like the ones shown on this map were established by school officials. Previously, New York City school officials had at times [used school zone lines to create segregated school enrollments](/gallery/wadleigh-zoning-map/).
+Previously, New York City school officials had at times [used school zone lines to create segregated school enrollments](/gallery/wadleigh-zoning-map/).
