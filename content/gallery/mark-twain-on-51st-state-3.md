@@ -49,6 +49,6 @@ questions:
 - How do unequal academic opportunities in school lead to more segregation in schools, in the past or present?
 --- 
 
-What do schools try to teach their students? A curriculum is a school’s plan for what its students should learn. The curriculum at Mark Twain Junior High School offered fewer challenges and less opportunity to its students than those at other nearby schools. Additionally, teachers and administrators at Mark Twain sorted students into different academic tracks along racial lines. White students at the school had access to advanced academic courses, but most Black and Latinx students did not.
+What do schools try to teach their students? A curriculum is a school’s plan for what its students should learn. In the early 1970s, the curriculum at Mark Twain Junior High School offered fewer challenges and less opportunity to its students than those at other nearby schools. Additionally, teachers and administrators at Mark Twain sorted students into different academic tracks along racial lines. White students at the school had access to advanced academic courses, but most Black and Latinx students did not.
 
 This video includes the school’s principal explaining why he thought students at Mark Twain struggled academically. It also captures Black mothers’ concern about their children’s education. In watching the clip, keep in mind [the long history of racist and ableist ideas](/topics/how-did-nyc-segregate/racist-ableist-ideas/) about who deserved academic opportunity in school.
