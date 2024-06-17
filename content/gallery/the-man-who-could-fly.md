@@ -29,7 +29,6 @@ closeRdLink:
 eventname: "Bob Beamon describes his experience in a \"600\" school."
 caption: >
  "An excerpt from *The Man Who Could Fly: The Bob Beamon Story,* the memoir of former New York City school student and Olympic athlete Bob Beamon."
- 
 archive_source: "Bob Beamon and Milana Walter Beamon, *The Man Who Could Fly: The Bob Beamon Story* (Columbus, MS: Genesis Press, 1999). 
 source_link: https://books.google.es/books/about/The_Man_who_Could_Fly.html?id=VYMHAAAACAAJ&source=kp_book_description&redir_esc=y
 copyright: Under copyright.
