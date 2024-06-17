@@ -55,6 +55,6 @@ The changes in Coney Island’s residential population that Kotuk describes - fr
 
 These changes in who was living in the area were one reason, but definitely not the only reason, why Mark Twain Junior High School’s student population changed from majority white to majority Black and Latinx in the 1960s.
 
-You can continue watching beyond the clip here to hear how one white Coney Island resident describes her neighborhood and how it changed. [See “The 51st State”](https://youtu.be/Nh1zlTAf_gA?si=BxwGsDryIJsFyxUQ&t=342), minutes 5:42-7:11.
+You can continue watching beyond the clip here to hear how one white Coney Island resident describes her neighborhood and how she thinks it changed. [See “The 51st State”](https://youtu.be/Nh1zlTAf_gA?si=BxwGsDryIJsFyxUQ&t=342), minutes 5:42-7:11. 
 
 [^1]:Mark Lopez and Richard Rothstein, *Segregation by Design*, accessed May 10, 2024,[https://www.segregatedbydesign.com/](https://www.segregatedbydesign.com).
