@@ -11,7 +11,7 @@ graphiImgAlt2:
 draft: false
 ---
 
-Today, [Mark Twain Intermediate School](https://www.twain239.com/) is an example of the continuing racial and ableist segregation in New York City public schools.[^1] The school is selective - meaning that students can’t simply enroll, but must apply and be chosen through a system that evaluates them through a test, arts audition, or sports tryout. These processes are called “admissions screens,” and New York City schools use them much more frequently than do other US school systems.[^2] While admissions screens may seem to select students based on their talents or skills, they favor those with more resources. Students with more money or social resources are more likely to have had support in developing their talents and skills and succeeding on tests or auditions. Tests or auditions can also be culturally biased.
+Today, [Mark Twain Intermediate School](https://www.twain239.com/) is an example of the continuing racial and ableist segregation in New York City public schools.[^1] The school is selective - meaning that students can’t simply enroll, but must apply and be chosen through a system that evaluates them through a test, arts audition, or sports tryout. These processes are called “admissions screens,” and New York City schools use them much more frequently than do other US school systems.[^2] While admissions screens may seem to select students based on their talents or skills, they favor those with more resources. Students with more money or social resources are more likely to have had support in developing their talents and skills in ways that help them succeed on tests or auditions. Tests or auditions can also be culturally biased.
 
 {{% read-more %}}
 
@@ -27,4 +27,4 @@ Mark Twain’s enrollment today shows that screened admissions at Mark Twain wor
 
 [^3]: Alexandra Freidus and Pedro Noguera, “From ‘Good Will’ to ‘Anachronism’: Racial Discourse, Shifting Demographics, and the Role of School Desegregation in the Public Good,” *Humanity and Society* 39, no. 4 (2015): 394-418.
 
-[^4] For data from one Brooklyn school district, see WXY Studio, “District 15 Diversity Plan,” 2018, p. 35, [https://www.wxystudio.com/uploads/2300023/1537391998612/180919_D15DiversityPlan_FinalReport.pdf](https://d15diversityplan.com/wp-content/uploads/2019/06/190620_D15DiversityPlan_FinalReport.pdf).
+[^4]: For data from one Brooklyn school district, see WXY Studio, “District 15 Diversity Plan,” 2018, p. 35, [https://www.wxystudio.com/uploads/2300023/1537391998612/180919_D15DiversityPlan_FinalReport.pdf](https://d15diversityplan.com/wp-content/uploads/2019/06/190620_D15DiversityPlan_FinalReport.pdf).
