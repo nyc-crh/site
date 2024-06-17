@@ -29,7 +29,7 @@ relImgAlt:
 relLink: 
 eventname: The Home Owners’ Loan Corporation produces maps intended to guide how banks make loans for home purchases. 
 caption: >
- This map, produced by the federal government’s Home Owners’ Loan Corporation, marked white and middle-class areas of Brooklyn as good investments for home loans, and areas with Black, Jewish, and other “foreign” residents as ones that banks should avoid lending to. To zoom in, [click here](https://dsl.richmond.edu/panorama/redlining/map/NY/Brooklyn/area_descriptions/D23#loc=12/40.6319/-73.9392).
+ This map, produced by the federal government’s Home Owners’ Loan Corporation, marked white and middle-class areas of Brooklyn as good investments for home loans, and areas with Black, Jewish, and “foreign” residents as ones that banks should avoid lending to. To zoom in, [click here](https://dsl.richmond.edu/panorama/redlining/map/NY/Brooklyn/area_descriptions/D23#loc=12/40.6319/-73.9392).
 archive_source: Mapping Inequality
 source_link: https://dsl.richmond.edu/panorama/redlining/map/NY/Brooklyn/area_descriptions/D23#loc=12/40.6319/-73.9392
 copyright: Government Document
@@ -48,13 +48,13 @@ questions:
 
 In the US election of 1932, voters chose Franklin Delano Roosevelt, a Democrat, as president, and elected overwhelming Democratic majorities in the United States House and Senate. Democrats promised to enact a “New Deal”—a package of social and economic legislation designed to bring the United States out of the Great Depression, which had begun three years earlier.
 
-Through employment and social welfare programs, the New Deal used government resources to help many, but not all, Americans through this time of crisis in the capitalist economy. The New Deal’s designers, and elected officials who approved the programs, chose to maintain racial inequality and permit segregation. For example, new Social Security programs excluded Black people, because they did not cover domestic or agricultural workers (many of whom were Black).[^1]
+Through employment and social welfare programs, the New Deal used government resources to help many Americans through this time of crisis in the capitalist economy. But not all were included. The New Deal’s designers, and elected officials who approved the programs, chose to maintain racial inequality and permit segregation. For example, new Social Security programs excluded Black people, because they did not cover domestic or agricultural workers (many of whom were Black).[^1]
 
 Racism shaped the New Deal’s approach to housing as well. The federal government developed the Home Owners’ Loan Corporation to rescue households that were not able to make their home loan payments and risked losing their houses and all of the money they had invested in them.[^2] The HOLC created new programs for homeowners to receive low interest rates and longer terms for their loans, enabling them to keep their homes.
 
 In the course of this work, the HOLC decided to guide local bankers toward making loans that they thought were more likely to be paid off. HOLC hired local real estate agents and businesspeople to make appraisals of neighborhoods and properties. Local real estate agents, most of whom were white people, used their own criteria to determine what neighborhoods would provide the soundest investments. Using a color coded scheme (Green=“Best,” Blue=“Still Desirable,” Yellow=“Definitely Declining,” and Red=“Hazardous”), private real estate agents determined the value of neighborhoods.
 
-There was an HOLC map for Brooklyn, and Coney Island is in the lower left corner of the map.
+The document above is the HOLC map for Brooklyn, and Coney Island is in the lower left corner of the map.
 
 The HOLC maps guided banks in approving or denying loans to homeowners or prospective buyers in different areas. Each color-coded section on the map had a corresponding “area description” in which local surveyors stated their view of that section. The area description for part of Coney Island, area “D23” shaded red, is included here. Historians debate whether the maps themselves shaped who got loans, or whether they simply reflected existing racist ideas in the housing market.[^3] The decision to give, or withhold, a home loan (also known as a mortgage), could shape a family’s economic situation, and thus their ability to decide where they would like to live, for generations.
 
