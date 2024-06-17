@@ -30,7 +30,7 @@ videoTitle: >
 closeRdImg: 
 closeRdLink: 
 eventname: A New York City local news show discusses special education.
-caption: A local news show discussed special education, with comments from a Board of Education official, a parent advocate, and an attorney who represented Disabled students and students labeled disabled.
+caption: A local news show discussed special education in the 1990s, with comments from a Board of Education official, a parent advocate, and an attorney who represented Disabled students and students labeled disabled.
 archive_source: Municipal Archives of the City of New York Digital Collections
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~23~23~977~1294471:New-York-Hotline--Special-Ed-#304
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives of the City of New York.
