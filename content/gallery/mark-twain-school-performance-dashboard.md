@@ -28,7 +28,7 @@ relImg:
 relImgAlt: 
 relLink: 
 eventname: "Mark Twain operates as a \"gifted and talented\" school today."
-caption: The New York City Department of Education prepares a report on each school each year. This report shows data about Mark Twain’s student population and its students' achievement on standardized tests. [Visit the report dashboard](https://tools.nycenet.edu/dashboard/#dbn=21K239&report_type=EMS&view=City)
+caption: The New York City Department of Education prepares a report on each school each year. This report shows data about Mark Twain’s student population and its students' achievement on standardized tests, as compared to the city overall. [Visit the report dashboard](https://tools.nycenet.edu/dashboard/#dbn=21K239&report_type=EMS&view=City)
 archive_source: New York City Public Schools
 source_link: https://tools.nycenet.edu/dashboard/#dbn=21K239&report_type=EMS&view=City
 copyright: Government document
