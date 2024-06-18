@@ -67,4 +67,4 @@ Today, both Willowbrook and Gouverneur are closed. Marguerite lives close to her
 
 [^1]: See [Willie Mae Goodman Interview]( /topics/black-latina-women/gouverneur-parents-association/willie-mae-goodman).
 
-[^2]: For more on Goodman’s activism and that of others at Willowbrook, see Jorgé Matos Valldejuli, “The Racialized History of Disability Activism from ‘The Willowbrooks of this World,’” [https://activisthistory.com/2019/11/04/the-racialized-history-of-disability-activism-from-the-willowbrooks-of-this-world1/](https://activisthistory.com/2019/11/04/the-racialized-history-of-disability-activism-from-the-willowbrooks-of-this-world1/).
+[^2]: For more on Goodman’s activism and that of others at Willowbrook, see Jorgé Matos Valldejuli, “The Racialized History of Disability Activism from ‘The Willowbrooks of this World,’” accessed June 17, 2024, [https://activisthistory.com/2019/11/04/the-racialized-history-of-disability-activism-from-the-willowbrooks-of-this-world1/](https://activisthistory.com/2019/11/04/the-racialized-history-of-disability-activism-from-the-willowbrooks-of-this-world1/).
