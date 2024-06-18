@@ -43,7 +43,7 @@ tags:
 - school facilities
 questions: 
 - How did compulsory education laws change the way children with disabilities were educated?
-- Who determined whether a child was able to go to public school or sent to a state institution? What were some of the dilemmas for parents of disabled children at this time?
+- Who determined whether a child was able to go to public school or sent to a state institution? What were some of the dilemmas for parents of Disabled children at this time?
 --- 
 
 Special education classes for children with intellectual disabilities were pioneered in New York City by a social welfare reformer, Elizabeth Farrell. Farrell had been working with Lillian Wald and other reformers at the Henry Street Settlement in the Lower East Side. Henry Street was built to provide community support and education to new immigrants to New York City, most of them from southern and eastern Europe.
@@ -52,9 +52,9 @@ Farrell found that some of her students responded better to more active kinds of
 
 Ungraded classes were smaller than standard classes, which typically included at least 43 children.[^3] Most of the students in the ungraded classes had learning disabilities, and were taught with other children of varied ages. With new laws requiring school attendance, students who had previously been kept out of school were now attending. However, there were very few teachers who had training to teach children with learning disabilities, and the schools didn’t receive the funding and teachers needed to accommodate all students. Many children were labeled as “institutional cases” and their parents were encouraged to send them to [Randall’s Island](/gallery/idiot-school-randalls-island), or Letchworth Village, another nearby state institution for the disabled. Denied an appropriate free education for their children and lacking support to care for their children, parents often followed the advice of doctors and school officials and sent them away to institutions.[^4]
 
-Elizabeth Farrell believed that all children should have access to public education and disagreed with institutionalization. In the “ungraded classes” disabled children were still segregated into separate classes, both to give more attention to their needs and to keep them away from “normal” children.[^5]
+Elizabeth Farrell believed that all children should have access to public education and disagreed with institutionalization. In the “ungraded classes” Disabled children were still segregated into separate classes, both to give more attention to their needs and to keep them away from “normal” children.[^5]
 
-Farrell later found herself defending her classes against criticism from Henry H. Goddard and Mary Dunphy, both of whom directed institutions for disabled people. They argued for complete segregation of disabled children into institutions like theirs.[^6]
+Farrell later found herself defending her classes against criticism from Henry H. Goddard and Mary Dunphy, both of whom directed institutions for Disabled people. They argued for complete segregation of Disabled children into institutions like theirs.[^6]
 
 By the early 1930s, after an expansion in the use of [intelligence testing](/topics/seeking-equity/tests-labels-and-segregation/), there were 11,000 students in ungraded classes throughout New York City public schools.[^7]  
 
