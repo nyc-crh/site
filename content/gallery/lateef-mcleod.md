@@ -39,7 +39,7 @@ These are questions that have been very important in the lives of Disabled peopl
 
 The Ugly Laws that McLeod refers to in his poem were real. In 1867 San Francisco passed a law banning “any person who is diseased, maimed, mutilated, or in any way deformed so as to be an unsightly or disgusting object” from being present on the streets or other public spaces of the city. Other cities adopted similar laws in the late 1800s and early 1900s.[^1] In this period of time, cities were growing rapidly, and many people in power worried about how to keep “order,” especially among people who did not fit their idea of a disciplined and productive industrial worker. Passing laws was one of their responses; they also helped build numerous new institutions where Disabled people would live, separate and out of view of non-disabled communities.[^2]
 
-McLeod’s poem is a primary source about his life as a Black disabled person and artist in the late 20th and early 20th century. His poem shows us that one of the ways McLeod understands his world is through history. He recognizes historical injustices like the Ugly Laws, and rejects them in favor of his own sense of his life, beauty, and meaning.
+McLeod’s poem is a primary source about his life as a Black Disabled person and artist in the late 20th and early 20th century. His poem shows us that one of the ways McLeod understands his world is through history. He recognizes historical injustices like the Ugly Laws, and rejects them in favor of his own sense of his life, beauty, and meaning.
 
 [^1]: Kim E. Nielsen, *A Disability History of the United States* (Boston: Beacon Press, 2012), 89.
 
