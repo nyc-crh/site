@@ -10,9 +10,9 @@ Steven L. Sles went to summer camp when he was 13. The day started with the pled
 
 {{% read-more %}}
 
-Camp Jened was the first camp of its kind in the United States designed for disabled young people, like Steven, as campers. Jened opened in 1953 so that disabled children, teens, and adults could enjoy an outdoors, rural, summer camp experience. Many of the activities Steven and fellow campers recalled were common for children who went to summer camps, but most summer camps at the time excluded Disabled students.[^2]
+Camp Jened was the first camp of its kind in the United States designed for Disabled young people, like Steven, as campers. Jened opened in 1953 so that Disabled children, teens, and adults could enjoy an outdoors, rural, summer camp experience. Many of the activities Steven and fellow campers recalled were common for children who went to summer camps, but most summer camps at the time excluded Disabled students.[^2]
 
-In the 1950s many disabled young people lived in institutions. Those who did not were often denied access to school and recreational programs. Legal protections for Disabled students like the Education for All Handicapped Children Act (1975) and the Americans with Disabilities Act (1990) were not yet law.[^3]  
+In the 1950s many Disabled young people lived in institutions. Those who did not were often denied access to school and recreational programs. Legal protections for Disabled students like the Education for All Handicapped Children Act (1975) and the Americans with Disabilities Act (1990) were not yet law.[^3]  
 
 Leona Burger and Honora Rubenstein—who had worked in special education and with children who had cerebral palsy—co-founded Camp Jened with support from other campers’ parents and the United Cerebral Palsy organization.[^4]
 
@@ -20,7 +20,7 @@ About ninety campers arrived in July and spent eight weeks at Camp Jened. Camper
 
 The camp made sure that its physical facilities were accessible to its students, and that medical services that campers needed were available as well. Some of the counselors were Disabled people, and all of the staff were trained in supporting Disabled people while they were at camp.[^6]
 
-Camp Jened became a touchstone of the modern disability rights movement. Many disabled campers and the counselors who worked there went on to be influential disability rights activists in the United States. The Camp Jened community kept in touch, and the work of these activists led to the passage of legislation that required accommodations to include Disabled people in everyday life, from school to the workplace to recreation.[^7] Camp Jened was revolutionary in the ways that it celebrated, uplifted and supported Disabled people. Camp Jened closed its doors in 1977, but its impact is felt today.[^8]
+Camp Jened became a touchstone of the modern disability rights movement. Many Disabled campers and the counselors who worked there went on to be influential disability rights activists in the United States. The Camp Jened community kept in touch, and the work of these activists led to the passage of legislation that required accommodations to include Disabled people in everyday life, from school to the workplace to recreation.[^7] Camp Jened was revolutionary in the ways that it celebrated, uplifted and supported Disabled people. Camp Jened closed its doors in 1977, but its impact is felt today.[^8]
 
 [^1]: Steven L. Sles, “A Haven for the Handicapped,” January 18, 1954, Collection of Honora Rubenstein.
 
