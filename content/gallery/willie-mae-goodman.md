@@ -27,8 +27,8 @@ video:
 videoTitle: Willie Mae Goodman Interview, excerpt
 closeRdImg: 
 closeRdLink: 
-eventname: Willie Mae Goodman reflects on her activism fighting for her daughter Marguerite and other disabled children and adults.  
-caption: In this interview, Willie Mae Goodman described her activism fighting for her daughter Marguerite and other disabled children and adults.
+eventname: Willie Mae Goodman reflects on her activism fighting for her daughter Marguerite and other Disabled children and adults.  
+caption: In this interview, Willie Mae Goodman described her activism fighting for her daughter Marguerite and other Disabled children and adults.
 archive_source: "\"Willowbrook Revisited,\" Staten Island Community Television"
 source_link: https://youtu.be/hInnet2nXaA
 copyright: Under copyright. Used with permission.
@@ -54,6 +54,6 @@ questions:
 Willie Mae Goodman decided to send her daughter Marguerite to the Willowbrook State School when Marguerite was four years old. Marguerite was born with developmental disabilities, and doctors argued that Willowbrook was an appropriate place for her.
 Conditions for Marguerite, and other children and adults at Willowbrook, were horrible. The facility drew criticism from Senator Robert Kennedy, who described it as “not fit for animals,” as Mrs. Goodman recalls.  
 
-Willowbrook was overcrowded, and officials in charge decided to relocate some residents. They moved Marguerite and over 200 other disabled children from Willowbrook to the Gouverneur Hospital on the Lower East Side in Manhattan.  While Marguerite was at Gouverneur Hospital, Willie Mae Goodman and other parents and activists kept fighting for the decent home and education that Marguerite deserved.[^1]
+Willowbrook was overcrowded, and officials in charge decided to relocate some residents. They moved Marguerite and over 200 other Disabled children from Willowbrook to the Gouverneur Hospital on the Lower East Side in Manhattan. While Marguerite was at Gouverneur Hospital, Willie Mae Goodman and other parents and activists kept fighting for the decent home and education that Marguerite deserved.[^1]
 
 [^1]: For more on Goodman’s activism and that of others at Willowbrook, see Jorgé Matos Valldejuli, “The Racialized History of Disability Activism from ‘The Willowbrooks of this World,’” accessed June 17, 2024, [https://activisthistory.com/2019/11/04/the-racialized-history-of-disability-activism-from-the-willowbrooks-of-this-world1/](https://activisthistory.com/2019/11/04/the-racialized-history-of-disability-activism-from-the-willowbrooks-of-this-world1/) and Jorge Matos Valldejuli, “‘Together we arrived and together we shall leave’: The Gouverneur Parents Association and the Politics of Race and Disability in Postwar New York,” *Latino Studies* 20, no. 4 (December 2022): 428-54.
