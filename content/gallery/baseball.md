@@ -54,7 +54,7 @@ The baseball teams were made up of campers and counselors with all different typ
 
 Camp Jened’s whole facility was chosen and modified to be accessible for campers. The camp was on level ground, so it was easier for people in wheelchairs to move. Ramps were added and doors widened so that wheelchair users and people who used other mobility aids could enter. Paths were cut into the hillsides to allow all campers to get to the campsites.[^3] Camp Jened also offered physical, occupational, and speech therapies to support campers’ needs. Additional rooms were added for various therapies, and special equipment was purchased for these therapies and for accessible play.[^4]  
 
-In the years before the Americans with Disabilities Act, and in many cases still today, schools didn’t and don’t provide opportunities for disabled children to participate in organized sports. Joining peers on the baseball field at Camp Jened brought joy and helped build community at the camp.[^5]
+In the years before the Americans with Disabilities Act, and in many cases still today, schools didn’t and don’t provide opportunities for Disabled children to participate in organized sports. Joining peers on the baseball field at Camp Jened brought joy and helped build community at the camp.[^5]
 
 [^1]: "Camp Jened to Continue Treatments,” *New York Herald Tribune*, April 30, 1958, Collection of Honora Rubenstein.
 [^2]: Jim LeBrecht, interviewed by Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom.

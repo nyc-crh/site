@@ -54,7 +54,7 @@ questions:
 
 Camp Jened was a private camp, and it charged campers’ families for attendance. Founders Leona Burger and Honora Rubenstein reported that they kept the fees as low as possible. But not everyone could afford to pay these fees.[^1]
 
-Once Camp Jened gained more publicity and recognition, some donors provided funds for scholarships. United Cerebral Palsy helped found and support Camp Jened. Their newsletter contained this article, which let other disabled adults and families of disabled children know about Camp Jened and describes scholarships for campers.[^2]
+Once Camp Jened gained more publicity and recognition, some donors provided funds for scholarships. United Cerebral Palsy helped found and support Camp Jened. Their newsletter contained this article, which let other Disabled adults and families of Disabled children know about Camp Jened and describes scholarships for campers.[^2]
 
 [^1]: United Cerebral Palsy, “Camp Scholarships Will Be Awarded to Handicapped Adults,” Collection of Honora Rubenstein; Jim LeBrecht, interviewed by Jessica Murray and Jasmine Leiser, April 28, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, March 29, 2023, via Zoom; Jackie and Jeff Rubenstein, interviewed by Jasmine Leiser, April 19, 2023, via Zoom.
 

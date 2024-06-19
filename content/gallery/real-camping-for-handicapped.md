@@ -25,7 +25,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: A brochure advertises Camp Jened to disabled teens and adults around the country.
+eventname: A brochure advertises Camp Jened to Disabled teens and adults around the country.
 caption: Camp Jened’s brochure advertised its facilities and location to potential campers from around the country and Canada.
 archive_source: Papers of Honora Rubenstein
 source_link: 
@@ -52,9 +52,9 @@ questions:
 - Does this pamphlet on Camp Jened illustrate joy? Do you see any connections between Camp Jened and political struggle, such as for disability rights?
 --- 
 
-Camp Jened was located in the northern Catskills, on over 250 acres (which is about ⅓ the size of Central Park, or as big as 250 football fields) with 22 buildings near the town of Hunter, New York. The camp’s founders designed it to welcome disabled children and adults, who did not often have access to summer camps and outdoor recreation. Camp Jened was the first camp of its kind for disabled youth in New York and first opened in July 1953. It ran until August of 1977, and then reopened in 1980.[^1]
+Camp Jened was located in the northern Catskills, on over 250 acres (which is about ⅓ the size of Central Park, or as big as 250 football fields) with 22 buildings near the town of Hunter, New York. The camp’s founders designed it to welcome Disabled children and adults, who did not often have access to summer camps and outdoor recreation. Camp Jened was the first camp of its kind for Disabled youth in New York and first opened in July 1953. It ran until August of 1977, and then reopened in 1980.[^1]
 
-The camp’s facilities and its geographic location were featured on a brochure that was mailed around the country and to Canada to recruit campers. The brochure was also mailed out across the country and left at doctors clinics and places servicing disabled youth in New York. Other campers also heard about Jened via word of mouth, as former campers and their families appreciated the feeling of inclusion they experienced at the camp.[^2]
+The camp’s facilities and its geographic location were featured on a brochure that was mailed around the country and to Canada to recruit campers. The brochure was also mailed out across the country and left at doctors clinics and places servicing Disabled youth in New York. Other campers also heard about Jened via word of mouth, as former campers and their families appreciated the feeling of inclusion they experienced at the camp.[^2]
 
 At Camp Jened, campers made a lean-to for a pet lamb, performed in theatrical plays, and held “Olympic style” competitions with accessible sports. Some of the staff at Camp Jened were Disabled people themselves, and all staff were specially trained in supporting Disabled people. There were also tennis courts at the camp and organized swim time periods everyday in the afternoon. The child campers were given a lot of responsibility at the camp, and would sometimes camp out under the stars together. Many reported that time outside was their favorite part.[^3]
 

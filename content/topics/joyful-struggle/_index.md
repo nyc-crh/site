@@ -30,7 +30,7 @@ cards:
 - title: Camp Jened
   img: baseball.jpg
   alt: A young man pitches a ball to a boy sitting in a wheelchair and holding a bat. Other children and young adults look ready to react.
-  text: Camp Jened was the first camp of its kind in the United States designed for disabled young people.
+  text: Camp Jened was the first camp of its kind in the United States designed for Disabled young people.
   btn:
     text: View primary sources
     url: /topics/joyful-struggle/camp-jened

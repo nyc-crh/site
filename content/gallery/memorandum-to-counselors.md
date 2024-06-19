@@ -25,8 +25,8 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Camp Jened helps its counselors learn to support disabled campers.
-caption: Counselors at Camp Jened received this guidance before they started their work at the camp. There were both disabled and non-disabled counselors at Jened.
+eventname: Camp Jened helps its counselors learn to support Disabled campers.
+caption: Counselors at Camp Jened received this guidance before they started their work at the camp. There were both Disabled and non-disabled counselors at Jened.
 archive_source: Papers of Honora Rubenstein
 source_link: 
 copyright: Under copyright. Used with permission of the family of Honora and Murray Rubenstein.
@@ -47,10 +47,10 @@ tags:
 questions: 
 - What can you tell from the document about how Camp Jened leaders wanted their counselors to think about their campers? What do the words and images convey about what kind of experience they wanted the campers to have? 
 - Do you see joy in this document? Do you see struggle? 
-- Camp Jened employed both disabled counselors and non-disabled counselors. Camp Jened recognized that counselors needed to be prepared to work well with disabled campers. If you have a disability, what do you want the adults who work with you to know about how best to support you?
+- Camp Jened employed both Disabled counselors and non-disabled counselors. Camp Jened recognized that counselors needed to be prepared to work well with Disabled campers. If you have a disability, what do you want the adults who work with you to know about how best to support you?
 --- 
 
-For Camp Jened to be accessible to disabled children and adults, staff and counselors had to work well with campers. Some of the staff at Camp Jened were disabled themselves, but all received training in how to support disabled youth and adults.[^1]
+For Camp Jened to be accessible to Disabled children and adults, staff and counselors had to work well with campers. Some of the staff at Camp Jened were disabled themselves, but all received training in how to support Disabled youth and adults.[^1]
 
 This document provided guidance to Jened counselors before they began their work. There was one counselor for every 2.5 campers, so that there were enough staff to provide the support campers might need.[^2]
 
