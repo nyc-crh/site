@@ -48,24 +48,12 @@ questions:
 - Do you think the ideas in the Moynihan Report are still present today?
 --- 
 
-In the mid-1960s, Daniel Patrick Moynihan worked as Assistant Secretary of Labor under President John F. Kennedy and President Lyndon Johnson. President Johnson announced his “War on Poverty” in 1964. This new effort attempted to use the vast resources of the federal government “not only to relieve the symptom of poverty, but to cure it and, above all, to prevent it."[^1] Several new programs were included in the War on Poverty and related efforts, including the Economic Opportunity Act of 1964, the Food Stamp Act of 1964, the Elementary and Secondary Education Act of 1965, as well as Medicare and Medicaid health insurance.
-
-Daniel Moynihan saw that Black Americans experienced poverty at higher rates than white Americans, and began to research why this might be and how the federal government might try to help. He and his staff drafted a report, "The Negro Family: The Case For National Action," which came to be known as the Moynihan Report. The document gained a lot of attention.
-
-Rather than identifying how government policies had segregated Black communities and produced inequality, Moynihan concluded that the driving force for poverty in Black communities was the “highly unstable” structure of Black families, and especially families led by single mothers. A “tangle of pathology” in Black communities, according to Moynihan, was “capable of perpetuating itself without assistance from the white world.” This "pathology" was a direct result, he claimed, of the experience and consequences of enslavement of Black Americans.
-
-Moynihan’s thinking blamed Black families for their poverty and turned the attention of social science researchers and government policymakers to a so-called “culture of poverty,” rather than to the unequal social and economic conditions that Black Americans faced. Ideas from the Moynihan report appeared in the *Hart* school desegregation case at Mark Twain, including when a court official referred to Coney Island as a “socially disordered community.”[^2]
-
-The NAACP and other civil rights and Black organizations condemned the findings of the Moynihan Report when they were made public. However, despite these condemnations, the report continued to influence how many white Americans viewed Black Americans. It also shaped how policymakers attempted to address educational inequality.
-
-[^1]: President Lyndon B. Johnson, “Annual Message to Congress on the State of the Union,” January 8, 1964, [http://www.lbjlibrary.net/collections/selected-speeches/november-1963-1964/01-08-1964.html](http://www.lbjlibrary.net/collections/selected-speeches/november-1963-1964/01-08-1964.html).
-
-[^2]: Special Master Charles Berger, quoted in Alexandra Freidus and Pedro Noguera, “From ‘Good Will’ to ‘Anachronism’: Racial Discourse, Shifting Demographics, and the Role of School Desegregation in the Public Good,” *Humanity and Society* 39, no. 4 (2015): 394-418.
-
-># The Negro Family: A Case for National Action (excerpt)
+>## The Negro Family: A Case for National Action (excerpt)
+>
 >Daniel Patrick Moynihan
 >Office of Policy Planning and Research United States Department of Labor
 >*March 1965*
+>
 >## Introduction
 >
 >First... the racist virus in the American blood stream still afflicts us: Negroes will encounter serious personal prejudice for at least another generation. Second, three centuries of sometimes unimaginable mistreatment have taken their toll on the Negro people. The harsh fact is that as a group, at the present time, in terms of ability to win out in the competitions of American life, they are not equal to most of those groups with which they will be competing. Individually, Negro Americans reach the highest peaks of achievement. But collectively, in the spectrum of American ethnic and religious and regional groups, where some get plenty and some get none, where some send eighty percent of their children to college and others pull them out of school at the 8th grade, Negroes are among the weakest.
@@ -73,6 +61,7 @@ The most difficult fact for white Americans to understand is that in these terms
 >
 >… The gap between the Negro and most other groups in American society is widening.
 >…
+>
 >## Chapter 2, The Negro American Family
 >
 >At the heart of the deterioration of the fabric of Negro society is the deterioration of the Negro family. It is the fundamental source of weakness of the Negro community at the present time.
@@ -100,3 +89,17 @@ Almost one-fourth of Negro families are headed by females
 >Three centuries of injustice have brought about deep­seated structural distortions in the life of the Negro American. At this point, the present tangle of pathology is capable of perpetuating itself without assistance from the white world. The cycle can be broken only if these distortions are set right.  
 >
 >In a word, a national effort towards the problems of Negro Americans must be directed towards the question of family structure. The object should be to strengthen the Negro family so as to enable it to raise and support its members as do other families. After that, how this group of Americans chooses to run its affairs, take advantage of its opportunities, or fail to do so, is none of the nation's business.
+
+In the mid-1960s, Daniel Patrick Moynihan worked as Assistant Secretary of Labor under President John F. Kennedy and President Lyndon Johnson. President Johnson announced his “War on Poverty” in 1964. This new effort attempted to use the vast resources of the federal government “not only to relieve the symptom of poverty, but to cure it and, above all, to prevent it."[^1] Several new programs were included in the War on Poverty and related efforts, including the Economic Opportunity Act of 1964, the Food Stamp Act of 1964, the Elementary and Secondary Education Act of 1965, as well as Medicare and Medicaid health insurance.
+
+Daniel Moynihan saw that Black Americans experienced poverty at higher rates than white Americans, and began to research why this might be and how the federal government might try to help. He and his staff drafted a report, "The Negro Family: The Case For National Action," which came to be known as the Moynihan Report. The document gained a lot of attention.
+
+Rather than identifying how government policies had segregated Black communities and produced inequality, Moynihan concluded that the driving force for poverty in Black communities was the “highly unstable” structure of Black families, and especially families led by single mothers. A “tangle of pathology” in Black communities, according to Moynihan, was “capable of perpetuating itself without assistance from the white world.” This "pathology" was a direct result, he claimed, of the experience and consequences of enslavement of Black Americans.
+
+Moynihan’s thinking blamed Black families for their poverty and turned the attention of social science researchers and government policymakers to a so-called “culture of poverty,” rather than to the unequal social and economic conditions that Black Americans faced. Ideas from the Moynihan report appeared in the *Hart* school desegregation case at Mark Twain, including when a court official referred to Coney Island as a “socially disordered community.”[^2]
+
+The NAACP and other civil rights and Black organizations condemned the findings of the Moynihan Report when they were made public. However, despite these condemnations, the report continued to influence how many white Americans viewed Black Americans. It also shaped how policymakers attempted to address educational inequality.
+
+[^1]: President Lyndon B. Johnson, “Annual Message to Congress on the State of the Union,” January 8, 1964, [http://www.lbjlibrary.net/collections/selected-speeches/november-1963-1964/01-08-1964.html](http://www.lbjlibrary.net/collections/selected-speeches/november-1963-1964/01-08-1964.html).
+
+[^2]: Special Master Charles Berger, quoted in Alexandra Freidus and Pedro Noguera, “From ‘Good Will’ to ‘Anachronism’: Racial Discourse, Shifting Demographics, and the Role of School Desegregation in the Public Good,” *Humanity and Society* 39, no. 4 (2015): 394-418.
