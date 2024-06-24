@@ -42,7 +42,7 @@ tags:
 - architectural barriers
 - Disabled people
 - court cases
-- ableist segregation
+- segregation
 questions: 
 - How did Judy Heumann describe her emotional state in high school? What were the reasons she described it this way? 
 - How did she use the courts in her advocacy? 

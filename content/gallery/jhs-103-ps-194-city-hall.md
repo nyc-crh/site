@@ -39,7 +39,7 @@ categories:
 tags: 
 - newspapers & the media
 - protest
-- racial segregation
+- segregation
 - organizing
 - multiracial organizing
 questions:

@@ -35,8 +35,8 @@ categories:
 - New York State
 tags: 
 - institutions
-- ableist segregation
-- racist segregation
+- segregation
+- segregation
 - disability labels
 - policing & the criminal legal system
 - exclusion from schooling

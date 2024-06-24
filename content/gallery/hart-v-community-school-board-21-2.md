@@ -36,7 +36,7 @@ categories:
 - Brooklyn
 - k-12 education
 tags: 
-- racial segregation
+- segregation
 - zoning and student assignment
 questions: 
 - Why do you think Judge Weinstein says that “racism was not a factor” in segregating Mark Twain Junior High School? Do you agree, based on [the evidence here](/topics/how-did-nyc-segregate/)?  Who benefits from such a pronouncement? What problems does this kind of statement create? 

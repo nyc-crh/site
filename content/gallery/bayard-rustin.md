@@ -35,7 +35,7 @@ categories:
 tags: 
 - organizing
 - protest
-- racial segregation
+- segregation
 - queer people
 - Disabled people
 - physical disabilities

@@ -36,7 +36,7 @@ copyright: Government Document
 categories: 
 - National
 tags: 
-- racial segregation
+- segregation
 - housing
 questions: 
 - Notice the language on the area description forms. What terms give you a sense of how the HOLC (who made the forms) and local white real estate agents and business people (who filled them out) thought about the communities they were describing? 

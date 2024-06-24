@@ -40,7 +40,7 @@ categories:
 tags: 
 - curriculum
 - racist ideas
-- racial segregation
+- segregation
 - student achievement
 - school administration
 questions: 

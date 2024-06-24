@@ -36,8 +36,8 @@ categories:
 - k-12 education
 tags: 
 - government reports
-- racial segregation
-- ableist segregation
+- segregation
+- segregation
 - policing & the criminal legal system
 - disability labels
 - curriculum

@@ -39,7 +39,7 @@ categories:
 - parent activism
 - student activism
 tags: 
-- ableist segregation
+- segregation
 - physical disabilities
 - architectural barriers
 - transportation

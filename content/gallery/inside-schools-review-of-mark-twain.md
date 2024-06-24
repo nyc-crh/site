@@ -36,8 +36,8 @@ categories:
 - Brooklyn
 - k-12 education
 tags: 
-- racial segregation
-- ableist segregation
+- segregation
+- segregation
 - zoning and student assignment
 - admissions
 questions: 

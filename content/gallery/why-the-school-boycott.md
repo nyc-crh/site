@@ -37,7 +37,7 @@ categories:
 - Queens
 tags: 
 - protest
-- racial segregation
+- segregation
 - organizing
 - photography, imagery, & visual representation
 - Black people

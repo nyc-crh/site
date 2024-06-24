@@ -40,8 +40,8 @@ categories:
 - k-12 education
 tags: 
 - disability labels
-- racist segregation
-- ableist segregation
+- segregation
+- segregation
 - learning disability
 - teacher quality
 - newspapers & the media

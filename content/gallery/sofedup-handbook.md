@@ -43,7 +43,7 @@ tags:
 - architectural barriers
 - Disabled people
 - organizing
-- ableist segregation
+- segregation
 - employment
 - curriculum
 - photography, imagery, & visual representation

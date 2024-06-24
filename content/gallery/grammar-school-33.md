@@ -37,7 +37,7 @@ categories:
 - Manhattan
 - k-12 education
 tags: 
-- immigration & migration
+- immigrants & migrants
 - school facilities
 - photography, imagery, & visual representation
 - childhood

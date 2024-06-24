@@ -35,7 +35,7 @@ categories:
 - parent activism
 - k-12 education
 tags: 
-- racial segregation
+- segregation
 - women's activism
 - protest
 - white people

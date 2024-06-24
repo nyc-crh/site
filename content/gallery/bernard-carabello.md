@@ -42,7 +42,7 @@ tags:
 - newspapers & the media
 - self-determination
 - institutionalization of Disabled people and people labeled disabled
-- ableist segregation
+- segregation
 - exclusion from schooling
 questions: 
 - What were conditions like for residents of Willowbrook State School?  

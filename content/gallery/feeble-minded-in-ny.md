@@ -38,8 +38,8 @@ categories:
 tags: 
 - disability labels
 - intellectual disabilities
-- ableist segregation
-- racist segregation
+- segregation
+- segregation
 - Disabled people
 questions: 
 - Based on Table C, what lead children to being placed at this school? What was the category of “feeble minded”? What was included and what was excluded? 

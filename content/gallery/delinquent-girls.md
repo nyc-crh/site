@@ -41,7 +41,7 @@ tags:
 - institutions
 - intellectual disabilities
 - emotional disabilities
-- ableist segregation
+- segregation
 - exclusion from schooling
 questions: 
 - Why did Goddard and Hill propose giving these “delinquent girls” an intelligence test? 

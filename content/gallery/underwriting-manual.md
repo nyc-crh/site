@@ -35,7 +35,7 @@ copyright: Government Document
 categories: 
 - National
 tags: 
-- racial segregation 
+- segregation 
 - school facilities 
 - zoning and student assignment 
 - housing

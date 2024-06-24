@@ -35,7 +35,7 @@ categories:
 - New York State
 tags: 
 - Deaf culture
-- ableist segregation
+- segregation
 - American Sign Language
 - self-determination
 - institutions

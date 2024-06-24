@@ -37,8 +37,8 @@ categories:
 tags: 
 - school facilities
 - curriculum
-- ableist segregation
-- racial segregation
+- segregation
+- segregation
 - school administration
 - Disabled people
 - Deaf culture

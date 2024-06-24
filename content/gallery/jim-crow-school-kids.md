@@ -37,8 +37,8 @@ categories:
 tags: 
 - disability labels
 - intellectual disabilities
-- ableist segregation
-- racist segregation
+- segregation
+- segregation
 - NAACP
 - Black people
 - organizing
