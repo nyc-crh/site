@@ -34,7 +34,6 @@ categories:
 - Staten Island
 - parent activism
 tags: 
-- Willowbrook
 - segregation
 - institutions
 - Disabled people

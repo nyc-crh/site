@@ -36,12 +36,10 @@ categories:
 - Staten Island
 - parent activism
 tags: 
-- Willowbrook
 - segregation
 - institutions
 - Disabled people
 - intellectual disabilities
-- developmental disabilities
 - physical disabilities
 - Black people
 - social and economic class

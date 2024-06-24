@@ -36,7 +36,6 @@ categories:
 - Bronx
 - community activism
 tags: 
-- Willowbrook
 - segregation
 - institutions
 - Disabled people
