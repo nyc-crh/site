@@ -27,7 +27,7 @@ closeRdImg:
 closeRdLink: 
 eventname: NAACP distributes a questionnaire to Black and Puerto Rican families about school segregation.
 caption: This is a copy of the questionnaire the NAACP distributed to Black and Puerto Rican families to document the conditions within their segregated schools in the 1950s. It is possible that some students collaborated with their parents to complete these forms, as they had knowledge of their schools. This data was then used to compare conditions in these schools to the segregated white schools throughout the city.
-archive_source: Schomburg Center, Ella Baker Collection
+archive_source: Schomburg Center for Research in Black Culture, Ella Baker Collection
 source_link: https://archives.nypl.org/scm/20899
 copyright: Public domain. Courtesy of the Schomburg Center for Research in Black Culture.
 categories: 
