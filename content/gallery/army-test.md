@@ -8,9 +8,9 @@ bundleTitle: Tests, Labels, and Segregation in New York City
 date: 1917-01-01
 displaydate: "1917"
 title: Army Beta Test and Results
-author: Robert A. Yerkes
+author: Robert Yerkes
 citation: >
- "Army Beta Test and Results," Robert A. Yerkes, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/army-test.
+ "Army Beta Test and Results," Robert Yerkes, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/army-test.
 featured: army-test.jpg
 featuredAlt: Illustrations for a Binet Simon IQ test
 detailedDescription: 
