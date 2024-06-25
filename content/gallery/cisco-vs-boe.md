@@ -46,6 +46,6 @@ After a few years of pushing for desegregation of the local Jamaica schools, Mrs
 
 Neither of the courts that heard the case decided in favor of Mrs. Cisco. They recognized that the school’s principal, on the orders of the district’s superintendent, had prohibited her children’s enrollment in the school closest to their home because it was a segregated white school and the Cisco children were Black. But they did not judge this to be against the law, since New York law allowed school segregation at the time. Mrs. Cisco lost her case.
 
-However, by filing the case, Mrs. Cisco had drawn attention to the fact that legal school segregation continued  in New York State - well after New York City’s schools had ended the policy in 1883. New York’s governor Theodore Roosevelt and his allies in the state legislature acted to change the law. The legislature passed and the governor signed a bill to end school segregation in New York State.
+However, by filing the case, Mrs. Cisco had drawn attention to the fact that legal school segregation continued in New York State - well after New York City’s schools had ended the policy in 1883. New York’s governor Theodore Roosevelt and his allies in the state legislature acted to change the law. The legislature passed and the governor signed a bill to end school segregation in New York State.
 
 [^1]: Carleton Mabee, “Long Island's Black ‘School War’ and the Decline of Segregation in New York State,” *New York History* 5, no. 4 (October 1977): 405.
