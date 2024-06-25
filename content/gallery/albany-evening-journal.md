@@ -27,7 +27,7 @@ closeRdImg:
 closeRdLink: 
 eventname: Elizabeth Cisco is recognized for her role in ending legal segregation. 
 caption: This short newspaper article ran in the local Albany paper not long after the “Elsberg School Bill” passed the New York State Legislature. The bill made it illegal for school systems in New York to assign Black and white students to separate segregated schools. The article describes a complex moment of recognition for Mrs. Elizabeth Cisco.
-archive_source: Reprinted in The Autobiography of Dr. William Henry Johnson.
+archive_source: Reprinted in: William Henry Johnson, *Autobiography of Dr. William Henry Johnson, Respectfully Dedicated to His Adopted Home, the Capital City of the Empire State* (Albany, NY: The Argus Company, 1900). 
 source_link: 
 copyright: Public domain
 categories: 
