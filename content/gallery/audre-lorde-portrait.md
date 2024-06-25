@@ -56,4 +56,4 @@ She also writes about her teenage and young adult years. She describes her frien
 
 There are many photographs of Audre Lorde, in public and private settings. See, for example, this [photograph from her family collection](https://lh3.googleusercontent.com/pTwEIgzXb-ycTEl_-q5Q8Maugl_8hlQY19MjBTtU7Bjf2dOEDljcSyHrfUfhJhGRHoljs6beE7WJoDm-Go2Xx8uUWZT9Lv3LjnqIWOnW_0m8C7mgQbUL=s0), this [photograph of her giving a public speech,](https://nmaahc.si.edu/object/nmaahc_TA2019.38.1.1.1.11) and this [photograph of her as a teacher](https://www.poetryfoundation.org/poets/audre-lorde).
 
-[^1]: Audre Lord, *Zami: A New Spelling of My Name* (Watertown, MA: Persephone Press, 1982), Chapter 3. 
+[^1]: Audre Lorde, *Zami: A New Spelling of My Name* (Watertown, MA: Persephone Press, 1982), Chapter 3. 
