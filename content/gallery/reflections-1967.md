@@ -56,7 +56,7 @@ questions:
 
 Located near the town of Hunter, New York, in the Catskill Mountains (a few hours from New York City), Camp Jened was unusual at the time for its focus on Disabled campers.[^1]
 
-What did campers at Camp Jened think about their time there? In the camp’s newsletter, campers wrote about their experiences at the camp, what they most liked, and what they learned. The newsletter “Reflections - August, 1967” helps us hear about the camp for young people and Disabled adults in their own words.[^2]
+What did campers at Camp Jened think about their time there? In the camp’s newsletter, campers wrote about their experiences at the camp, what they most liked, and what they learned. The newsletter “Reflections - August, 1967” helps us hear about the camp for Disabled young people and adults in their own words.[^2]
 
 Camper Denise Sherer Jacobson kept this copy of “Reflections,” decades after she was a camper in the 1960s. She recalls that students met twice a week to write for the camp newspaper. Some campers returned to Jened for multiple years and were part of the newspaper activity each year.[^3]
 
