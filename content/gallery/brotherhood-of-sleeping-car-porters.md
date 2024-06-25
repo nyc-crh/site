@@ -54,4 +54,4 @@ The two rally posters above show some of Randolph’s organizing techniques in t
 
 [^2]: Edward Berman, “The Pullman Porters Win,” *The Nation*, August 21, 1935.
 
-[^3]: For more on the life of A. Philip Randolph, see Cornelius I. Bynum, *A. Philip Randolph and the Struggle for Civil Rights* (Champaign: University of Illinois Press, 2010).
+[^3]: For more on the life of A. Philip Randolph, see Cornelius L. Bynum, *A. Philip Randolph and the Struggle for Civil Rights* (Champaign: University of Illinois Press, 2010).
