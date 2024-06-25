@@ -44,7 +44,7 @@ tags:
 questions:
 - How do you think Mr. Cisco’s son Jacob, who was 6 at the time, felt about his father’s protest? 
 - Did the reporter and Mr. Cisco have the same view of the facilities available at the “colored” school? 
-- Justice Garretison denied the role of the legislature in creating segregation. On what grounds did he base this decision? How did his reasoning support continued segregation?
+- The judge denied the role of the legislature in creating segregation. On what grounds did he base this decision? How did his reasoning support continued segregation?
 --- 
 
 Samuel B. Cisco, a Black man, lived in Jamaica, in Queens County. At the time of this newspaper article, in 1896, Queens was not yet part of New York City, and Jamaica was a small town surrounded by a rural landscape. Mr. Cisco ran a successful scavenger business. He and his wife Elizabeth had six children.[^1] Although Mrs. Cisco is less visible in the article, she worked alongside her husband and continued their fight for years after his passing.
@@ -55,7 +55,7 @@ Between 1895 and 1900, Black parents initiated twenty court actions against scho
 
 Speaking to a reporter in 1896, Mr. Cisco explained: “I and my father and mother have paid taxes in Jamaica for eighty years, yet I am denied a place in the school near my house, while Irishmen, Italians and Dutchmen who have been here only three months, can go in these, although covered with dirt.” He continued, “I am a man of means in business here and yet on September 3, when my three children were sent to school where my neighbors’ children attend, they were put out and sent home crying. The colored school is three-fourths of a mile further away than the white School No. 3, and it is in the low swampy portion of the village and they are not taught as well as the children of the white schools.”[^3]
 
-On this day in 1896, Judge Garrettison dismissed the charges against Mr. Cisco. Jamaica’s schools did not change their policy following the ruling, and the Ciscos continued to challenge it. Mrs. Elizabeth Cisco reported that she was arrested three times for violating the school attendance law when she refused, over the next three years, to send her children to segregated Black schools.[^4]
+On this day in 1896, the judge dismissed the charges against Mr. Cisco. Jamaica’s schools did not change their policy following the ruling, and the Ciscos continued to challenge it. Mrs. Elizabeth Cisco reported that she was arrested three times for violating the school attendance law when she refused, over the next three years, to send her children to segregated Black schools.[^4]
 
 [^1]: Carleton Mabee, “Long Island's Black ‘School War’ and the Decline of Segregation in New York State,” *New York History* 58, no. 4 (October 1977): 389.
 
