@@ -52,7 +52,7 @@ questions:
 - How can joy be part of how communities work together to make change?
 --- 
 
-In the 1930s and 1940s, Benjamin Franklin High School was a dynamic place. Its students came from all over the world to the East Harlem campus. Many were Italian-American immigrants; others had migrated from Puerto Rico or were Black migrants from the Jim Crow South. The high school’s principal was interested in ways to connect community and school, and political action was one activity he encouraged to this end.[^1] Students participated in war-related campaigns to gather or save resources, including paper, during the war.
+In the 1930s and 1940s, Benjamin Franklin High School was a dynamic place. Its students came from all over the world to the East Harlem campus. Many were Italian American immigrants; others had migrated from Puerto Rico or were Black migrants from the Jim Crow South. The high school’s principal was interested in ways to connect community and school, and political action was one activity he encouraged to this end.[^1] Students participated in war-related campaigns to gather or save resources, including paper, during the war.
 
 Benjamin Franklin’s diverse student population didn’t all experience the war in the same way. During World War II, many Black Americans spoke of the “Double V” - the goal to have victory in the war, and victory over racism at home. Black soldiers returning home, including to Harlem, experienced racism in spite of their great risk and sacrifice for their country.[^2]
 
