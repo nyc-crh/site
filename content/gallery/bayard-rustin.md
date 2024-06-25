@@ -25,9 +25,9 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: Bayard Rustin talks about his work with A. Phillip Randolph in 1941 and 1963.
-caption: This oral history, housed at the President Lyndon B. Johnson library, highlights Bayard Rustin’s civil rights work throughout his life. This excerpt emphasizes his work organizing alongside A. Phillip Randolph in 1941 and 1963. 
-archive_source: President Lyndon B. Johnson Library
+eventname: Bayard Rustin talks about his work with A. Philip Randolph in 1941 and 1963.
+caption: This oral history, housed at the LBJ Presidential Library, highlights Bayard Rustin’s civil rights work throughout his life. This excerpt emphasizes his work organizing alongside A. Philip Randolph in 1941 and 1963. 
+archive_source: Lyndon Baines Johnson Presidential Library
 source_link: https://www.discoverlbj.org/item/oh-rustinb-19690617-1-74-65
 copyright: Public domain. Courtesy of the Lyndon Baines Johnson Presidential Library.
 categories: 
