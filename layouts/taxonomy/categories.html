@@ -11,10 +11,11 @@
   </nav>
   <title>Categories</title>
   <h1 class="py-4">{{ .Title }}</h1>
-    <ul>
-     {{ range $key, $value := .Site.Taxonomies.categories.ByCount }}
-      <li><a href="/categories/{{ $value.Name }}">{{ $value.Name | title }}</a>({{ $value.Count }})</li>
-     {{ end }}
+  <ul>
+    {{ $data := .Data }}
+    {{ range $key, $value := .Data.Taxonomy.Alphabetical }}
+    <li><a href="{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> {{ $value.Count }} </li>
+    {{ end }}
     </ul>
   </div>
   {{ end }}
