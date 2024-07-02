@@ -40,7 +40,7 @@ categories:
 tags: 
 - policing & the criminal legal system
 - protest
-- segregation
+- racist segregation
 - organizing
 - curriculum
 - labor unions

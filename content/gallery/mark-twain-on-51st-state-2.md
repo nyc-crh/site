@@ -38,7 +38,7 @@ categories:
 - Brooklyn
 - k-12 education
 tags: 
-- segregation
+- racist segregation
 - Black people
 - Latinx people
 - white people

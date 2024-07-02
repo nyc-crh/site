@@ -37,7 +37,7 @@ categories:
 - community activism
 tags: 
 - Spanish language
-- segregation
+- racist segregation
 - immigrants & migrants
 - disability labels
 - Latinx people

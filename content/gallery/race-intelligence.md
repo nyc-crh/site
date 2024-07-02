@@ -36,8 +36,8 @@ categories:
 tags: 
 - disability labels
 - intellectual disabilities
-- segregation
-- segregation
+- racist segregation
+- racist segregation
 - NAACP
 - Black people
 questions: 

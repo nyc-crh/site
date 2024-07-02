@@ -36,8 +36,8 @@ categories:
 tags: 
 - disability labels
 - intellectual disabilities
-- segregation
-- segregation
+- racist segregation
+- racist segregation
 questions: 
 - What do you think this test was testing? Was it testing intelligence, or something else? 
 - >

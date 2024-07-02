@@ -33,7 +33,7 @@ copyright: Public domain
 categories: 
 - k-12 education
 tags: 
-- segregation
+- racist segregation
 - Disabled people
 - intellectual disabilities
 - physical disabilities

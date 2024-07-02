@@ -38,7 +38,7 @@ categories:
 tags: 
 - disability labels
 - intellectual disabilities
-- segregation
+- racist segregation
 questions: 
 - What factors in a child’s life could affect their ability to complete these tasks by age 8 or 10? 
 - Psychologist Henry H. Goddard said that a child’s experience in school had no affect on their mental age - it was all innate ability. Do you agree? 

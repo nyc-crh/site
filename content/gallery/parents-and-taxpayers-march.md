@@ -38,7 +38,7 @@ categories:
 - Queens
 - Manhattan
 tags: 
-- segregation
+- racist segregation
 - women's activism
 - policing & the criminal legal system
 - protest

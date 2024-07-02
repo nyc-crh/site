@@ -36,13 +36,13 @@ categories:
 - Brooklyn
 - k-12 education
 tags: 
-- segregation
-- segregation
+- racist segregation
+- racist segregation
 - white people
-- court case
+- court cases
 - curriculum
 - disability labels
-- zoning and school assignment
+- Zoning & student assignment
 - student achievement
 - white liberalism
 - ableist ideas

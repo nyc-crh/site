@@ -36,7 +36,7 @@ categories:
 - Manhattan
 - k-12 education
 tags: 
-- segregation
+- racist segregation
 - women's activism
 - policing & the criminal legal system
 - protest

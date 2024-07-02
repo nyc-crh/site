@@ -27,7 +27,7 @@ categories:
 - Manhattan
 - community activism
 tags:
-- segregation
+- racist segregation
 - Disabled people
 - physical disabilities
 - self-advocacy

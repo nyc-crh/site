@@ -38,10 +38,10 @@ categories:
 - Brooklyn
 - k-12 education
 tags: 
-- segregation
-- segregation
+- racist segregation
+- racist segregation
 - white people
-- court case
+- court cases
 - curriculum
 - disability labels
 - zoning & school assignment

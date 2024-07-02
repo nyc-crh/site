@@ -40,7 +40,7 @@ categories:
 tags: 
 - protest
 - newspapers & the media
-- segregation
+- racist segregation
 - Black people
 questions:
 - Why do you think Malcolm X participated in the second boycott? Does it surprise you that he did? Why or why not?

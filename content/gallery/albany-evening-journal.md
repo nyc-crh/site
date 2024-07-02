@@ -36,13 +36,13 @@ categories:
 - Manhattan
 - k-12 education
 tags: 
-- segregation
+- racist segregation
 - court cases 
 - Black people 
 - women's activism
 - legislation
 - newspapers & the media
-- segregation
+- racist segregation
 questions:
 - How did Dr. Johnson mock Mrs. Cisco? How did his language perpetuate harm? Do you see racism, misogyny, and/or ableism here? How? 
 - At this time women do not yet have the franchise - that is, they are not yet able to vote. How does this fact combined with what we know about Mrs. Cisco’s struggle for educational justice and this scene illuminate how various forms of discrimination work together?

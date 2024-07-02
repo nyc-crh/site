@@ -34,7 +34,7 @@ categories:
 - Manhattan
 - higher education
 tags: 
-- segregation
+- racist segregation
 - Latinx people
 - Black people
 - protest

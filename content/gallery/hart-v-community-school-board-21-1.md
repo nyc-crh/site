@@ -36,8 +36,8 @@ categories:
 - Brooklyn
 - k-12 education
 tags: 
-- segregation
-- zoning and student assignment
+- racist segregation
+- zoning & student assignment
 - Black people
 - Latinx people
 - white people

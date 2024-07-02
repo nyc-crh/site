@@ -36,8 +36,8 @@ categories:
 - Bronx
 - community activism
 tags: 
-- segregation
-- institutions
+- racist segregation
+- institutionalization of disabled people and people labeled disabled
 - Disabled people
 - intellectual disabilities
 - physical disabilities

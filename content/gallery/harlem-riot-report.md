@@ -38,7 +38,7 @@ tags:
 - policing & the criminal legal system
 - Black people
 - Latinx people
-- segregation
+- racist segregation
 - Harlem
 - employment
 questions:

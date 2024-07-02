@@ -36,7 +36,7 @@ categories:
 - k-12 education
 - adult education
 tags: 
-- segregation
+- racist segregation
 - Disabled people
 - intellectual disabilities
 - disability labels

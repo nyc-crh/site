@@ -36,7 +36,7 @@ categories:
 - community activism
 tags: 
 - organizing
-- segregation
+- racist segregation
 - student writing
 - photography, imagery, & visual representation
 questions:

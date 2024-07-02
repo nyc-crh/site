@@ -36,7 +36,7 @@ categories:
 - k-12 education"
 tags: 
 - zoning & student assignment
-- segregation
+- racist segregation
 questions:
 - What does it mean that Mrs. Cisco “rests her case solely on the fact that her children were refused admission to the common school on account of their color”? Was Mrs. Cisco arguing that the segregated schools for Black children were inferior, or that she opposed the rejection of her children because they are Black?
 - In 1896, the US Supreme Court declared in *Plessy v. Ferguson* that segregation was legal, as long as each group received equal services. This idea of “separate but equal” appears (in different words) in the Cisco case. What do you think Mrs. Cisco thought of the *Plessy* ruling?

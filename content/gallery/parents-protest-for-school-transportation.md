@@ -39,7 +39,7 @@ categories:
 - parent activism
 - student activism
 tags: 
-- segregation
+- racist segregation
 - physical disabilities
 - architectural barriers
 - transportation

@@ -37,7 +37,7 @@ categories:
 - k-12 education
 tags: 
 - immigrants & migrants
-- segregation
+- racist segregation
 questions: 
 - Who counts as an American, according to the New York City Board of Education in 1931? How does this definition of American compare to who was in fact a US citizen at the time? 
 - What does this document tell us about how the New York City Board of Education thought about its students at this time? 

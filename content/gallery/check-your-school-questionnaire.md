@@ -37,7 +37,7 @@ categories:
 tags: 
 - school facilities
 - student achievement
-- segregation
+- racist segregation
 - organizing
 questions:
 - How did Ella Baker’s organizing work differ from Bayard Rustin’s? How are those differences complementary?

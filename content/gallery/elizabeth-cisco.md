@@ -35,7 +35,7 @@ categories:
 - parent activism
 - k-12 education
 tags: 
-- segregation
+- racist segregation
 - court cases
 - Black people
 - school facilities

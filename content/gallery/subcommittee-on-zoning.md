@@ -35,7 +35,7 @@ categories:
 - community activism
 tags: 
 - zoning & student assignment
-- segregation
+- racist segregation
 questions: 
 - According to the subcommittee’s draft, why were New York City schools segregated? Why was the segregation of New York City schools a problem? What do you think of these explanations? 
 - What narratives within the draft report help to hide the actions that created and sustained segregation within and between New York public schools?

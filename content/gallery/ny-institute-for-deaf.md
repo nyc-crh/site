@@ -35,10 +35,10 @@ categories:
 - New York State
 tags: 
 - Deaf culture
-- segregation
+- racist segregation
 - American Sign Language
 - self-determination
-- institutions
+- institutionalization of disabled people and people labeled disabled
 - Disabled people
 questions: 
 - What were the common misconceptions about deafness in the 19th century?

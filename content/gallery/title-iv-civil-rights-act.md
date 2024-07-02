@@ -37,7 +37,7 @@ tags:
 - legislation
 - white liberalism
 - North & South
-- segregation
+- racist segregation
 questions:
 - In your own words, describe the document and its significance.
 - How does the Civil Rights Act of 1964 define desegregation? Why is that definition significant? Would it challenge New York City school segregation or allow it to continue?

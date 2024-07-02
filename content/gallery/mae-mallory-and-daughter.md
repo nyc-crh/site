@@ -35,7 +35,7 @@ categories:
 - Staten Island
 - parent activism
 tags: 
-- segregation
+- racist segregation
 - policing & the criminal legal system
 - protest
 - zoning & school assignment

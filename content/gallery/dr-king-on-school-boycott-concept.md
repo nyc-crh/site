@@ -42,7 +42,7 @@ tags:
 - white liberalism
 - North & South 
 - organizing
-- segregation
+- racist segregation
 questions:
 - Why do you think Dr. King wrote this op-ed and why do you think he published it in the *Amsterdam News?* Who was the intended audience and what was his intended purpose?
 - "Dr. King referenced the idea that some thought the boycotts might alienate certain \"allies\" in the movement. To whom do you think he was referring? What was his response to that idea?"

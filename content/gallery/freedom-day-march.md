@@ -40,7 +40,7 @@ categories:
 - Brooklyn
 tags: 
 - protest
-- segregation
+- racist segregation
 - organizing
 - policing & the criminal legal system 
 - multiracial organizing

@@ -36,7 +36,7 @@ categories:
 - community activism
 tags: 
 - Harlem
-- teacher unions
+- teachers unions
 - photography, imagery, & visual representation
 - Black people 
 - women's activism

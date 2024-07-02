@@ -37,9 +37,9 @@ categories:
 - k-12 education
 - teacher activism
 tags: 
-- teacher unions
+- teachers unions
 - school facilities
-- segregation
+- racist segregation
 - Harlem
 - Black people
 - communism

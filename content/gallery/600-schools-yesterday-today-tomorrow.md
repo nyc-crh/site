@@ -34,7 +34,7 @@ categories:
 - k-12 education
 - special education
 tags: 
-- segregation
+- racist segregation
 - policing & the criminal legal system
 - Black people
 - Latinx people

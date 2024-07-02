@@ -36,7 +36,7 @@ categories:
 - parent activism"
 tags: 
 - white people
-- segregation
+- racist segregation
 - protest
 - Harlem
 - zoning & school assignment

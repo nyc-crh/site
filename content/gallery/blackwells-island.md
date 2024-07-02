@@ -38,7 +38,7 @@ tags:
 - blindness & low vision
 - institutionalization of Disabled people and people labeled disabled
 - communication
-- segregation
+- racist segregation
 - Disabled people
 questions: 
 - Why do you think people would have created housing for only blind men? 

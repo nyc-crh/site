@@ -35,7 +35,7 @@ categories:
 - Bronx
 - community activism
 tags: 
-- segregation
+- racist segregation
 - Latinx people
 - Black people
 - protest

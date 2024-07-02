@@ -38,7 +38,7 @@ categories:
 tags: 
 - women's activism
 - protest
-- segregation
+- racist segregation
 - organizing
 - joy
 - autonomous educational spaces

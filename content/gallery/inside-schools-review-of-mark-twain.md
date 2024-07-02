@@ -36,9 +36,9 @@ categories:
 - Brooklyn
 - k-12 education
 tags: 
-- segregation
-- segregation
-- zoning and student assignment
+- racist segregation
+- racist segregation
+- zoning & student assignment
 - admissions
 questions: 
 - How do you think Mark Twain has been able to get so many resources? Why do you think Mark Twain has these resources when other schools lack them? 

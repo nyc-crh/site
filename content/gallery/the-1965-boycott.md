@@ -41,7 +41,7 @@ categories:
 tags: 
 - protest
 - organizing
-- segregation
+- racist segregation
 - policing & the criminal legal system
 - disability labels
 - emotional disabilities

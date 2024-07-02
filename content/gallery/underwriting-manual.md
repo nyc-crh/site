@@ -35,9 +35,9 @@ copyright: Government Document
 categories: 
 - National
 tags: 
-- segregation 
+- racist segregation 
 - school facilities 
-- zoning and student assignment 
+- zoning & student assignment 
 - housing
 questions: 
 - What kind of neighborhoods did the FHA favor for providing federally-insured mortgages? What ideas shaped their judgments about neighborhoods?

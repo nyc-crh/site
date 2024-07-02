@@ -38,7 +38,7 @@ categories:
 - Brooklyn
 - teacher activism
 tags: 
-- protests
+- protest
 - democracy
 - school administration
 - self-determination

@@ -35,7 +35,7 @@ categories:
 tags: 
 - organizing
 - protest
-- segregation
+- racist segregation
 - employment
 - queer people
 questions:

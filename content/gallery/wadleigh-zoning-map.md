@@ -40,7 +40,7 @@ tags:
 - Black people
 - white people
 - zoning & school assignment
-- segregation
+- racist segregation
 - Harlem
 questions:
 - How does the map above contradict the superintendent’s claim that Harlem’s schools were not segregated?

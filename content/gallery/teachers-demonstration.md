@@ -39,7 +39,7 @@ categories:
 - teacher activism
 tags: 
 - teachers unions
-- protests
+- protest
 - employment
 - white people
 - organizing

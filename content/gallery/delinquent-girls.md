@@ -38,10 +38,10 @@ categories:
 tags: 
 - disability labels
 - policing & the criminal legal system
-- institutions
+- institutionalization of disabled people and people labeled disabled
 - intellectual disabilities
 - emotional disabilities
-- segregation
+- racist segregation
 - exclusion from schooling
 questions: 
 - Why did Goddard and Hill propose giving these “delinquent girls” an intelligence test? 

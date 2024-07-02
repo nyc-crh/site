@@ -39,7 +39,7 @@ categories:
 - k-12 education
 tags: 
 - protest
-- segregation
+- racist segregation
 - organizing
 - Black people
 questions:

@@ -37,7 +37,7 @@ categories:
 - k-12 education
 tags: 
 - protest
-- segregation
+- racist segregation
 - organizing
 - photography, imagery, & visual representation
 - Black people

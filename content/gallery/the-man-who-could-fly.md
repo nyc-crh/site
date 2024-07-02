@@ -37,7 +37,7 @@ categories:
 tags: 
 - policing & the criminal legal system
 - athletics
-- segregation
+- racist segregation
 - student achievement
 - disability labels
 - emotional disabilities

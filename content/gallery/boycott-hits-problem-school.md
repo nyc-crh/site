@@ -40,7 +40,7 @@ tags:
 - protest
 - organizing
 - newspapers & the media
-- segregation
+- racist segregation
 - policing & the criminal legal system
 - curriculum
 - disability labels

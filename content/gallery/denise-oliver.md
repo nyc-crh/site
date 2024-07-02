@@ -35,7 +35,7 @@ categories:
 - community activism
 - adult education
 tags: 
-- segregation
+- racist segregation
 - Latinx people
 - Black people
 - photography, imagery, & visual representation

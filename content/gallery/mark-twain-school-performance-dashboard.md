@@ -36,8 +36,8 @@ categories:
 - Brooklyn
 - k-12 education
 tags: 
-- segregation
-- segregation
+- racist segregation
+- racist segregation
 - curriculum"
 questions: 
 - Who does Mark Twain serve?

@@ -37,7 +37,7 @@ categories:
 - special education
 - Brooklyn
 tags: 
-- segregation
+- racist segregation
 - student achievement
 - curriculum
 - teacher quality
