@@ -33,7 +33,7 @@ archive_source: Annie Stein Papers, Columbia University Rare Book and Manuscript
 source_link: 
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 - Manhattan
 - community activism
 tags: 

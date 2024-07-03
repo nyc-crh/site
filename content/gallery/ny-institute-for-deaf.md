@@ -31,14 +31,14 @@ archive_source: National Library of Medicine
 source_link: https://collections.nlm.nih.gov/catalog/nlm:nlmuid-60530610R-bk
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 - New York State
 tags: 
 - Deaf culture
 - racist segregation
 - American Sign Language
 - self-determination
-- institutionalization of disabled people and people labeled disabled
+- institutionalization of Disabled people and people labeled disabled
 - Disabled people
 questions: 
 - What were the common misconceptions about deafness in the 19th century?

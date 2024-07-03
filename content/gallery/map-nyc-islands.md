@@ -33,7 +33,7 @@ source_link: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31479~11
 copyright: Public domain
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 - adult education
 tags: 
 - racist segregation

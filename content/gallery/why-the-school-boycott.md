@@ -33,7 +33,7 @@ copyright: Public domain. Courtesy of Queens College Special Collections and Arc
 categories: 
 - parent activism
 - community activism
-- k-12 education 
+- K-12 organizing 
 - Queens
 tags: 
 - protest

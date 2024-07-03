@@ -34,7 +34,7 @@ source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~232~123
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives, City of New York
 categories: 
 - parent activism
-- k-12 education
+- K-12 organizing
 - Queens
 - Manhattan
 tags: 

@@ -33,8 +33,8 @@ archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission.
 categories: 
-- National
-- Community activism
+- national
+- community activsm
 tags: 
 - racist ideas
 - poverty

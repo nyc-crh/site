@@ -34,7 +34,7 @@ archive_source: Mapping Inequality
 source_link: https://dsl.richmond.edu/panorama/redlining/map/NY/Brooklyn/area_descriptions/D23#loc=12/40.6319/-73.9392
 copyright: Government Document
 categories: 
-- National
+- national
 tags: 
 - racist segregation
 - housing

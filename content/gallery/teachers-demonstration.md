@@ -35,7 +35,7 @@ archive_source: Municipal Archives of the City of New York, NYPD Surveillance Fi
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~771~1232939:City-Hall--Teachers-Demonstration
 copyright: Under copyright. Used with permission
 categories: 
-- k-12 education
+- K-12 organizing
 - teacher activism
 tags: 
 - teachers unions

@@ -31,7 +31,7 @@ archive_source: "*The New York Times* Archives"
 source_link: https://timesmachine.nytimes.com/timesmachine/1965/01/20/97182442.html?pageNumber=27
 copyright: Under copyright. Used with permission
 categories: 
-- k-12 education
+- K-12 organizing
 - special education
 - student activism
 - parent activism

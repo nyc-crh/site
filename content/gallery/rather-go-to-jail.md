@@ -33,14 +33,14 @@ archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission. 
 categories: 
-- k-12 education
+- K-12 organizing
 - community activism
 - parent activism
 tags: 
 - racist segregation
 - policing & the criminal legal system
 - protest
-- zoning & school assignment
+- zoning & student assignment
 - court cases
 - women's activism
 - Black people

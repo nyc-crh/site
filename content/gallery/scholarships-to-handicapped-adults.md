@@ -31,7 +31,7 @@ archive_source: From the Collection of the Family of Honora and Murray Rubenstei
 source_link: 
 copyright: Under copyright.
 categories: 
-- k-12 education
+- K-12 organizing
 - higher education
 - national
 - New York State

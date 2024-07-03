@@ -34,7 +34,7 @@ source_link: https://tools.nycenet.edu/dashboard/#dbn=21K239&report_type=EMS&vie
 copyright: Government document
 categories: 
 - Brooklyn
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - racist segregation

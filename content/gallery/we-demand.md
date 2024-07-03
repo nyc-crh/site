@@ -34,7 +34,7 @@ source_link: https://cdha.cuny.edu/items/show/6952
 copyright: Public domain. Courtesy of the CUNY Digital History Archive.
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 - special education
 tags: 
 - women's activism
@@ -59,7 +59,7 @@ City College was located in the Black and Puerto Rican neighborhood of Harlem - 
 
 To make the changes demanded in this document, student protesters occupied several buildings on the CCNY campus from April 22, 1969 until the end of the semester. They also organized marches and strikes. Some faculty members, including Audre Lorde, moved their classes off campus to support the protest. The police and some students responded to the student activists with violence. Student protest led to a new open admissions policy in the City University of New York system, providing any student who graduated from high school in New York City with admission to a two- or four-year college.[^1]
 
-To see more documents and oral histories from student activism in the City University of New York system, visit the [CUNY Digital History Archive](https://cdha.cuny.edu/). 
+To see more documents and oral histories from student activism in the City University of New York system, visit the [CUNY Digital History Archive](https://cdha.cuny.edu/).
 
 [^1]:  Iemanjá Brown and![image](https://github.com/nyc-crh/site/assets/66023956/4083194a-abdf-45e0-b2d1-9d9f94dc10be)
  Miriam Atkin, “Introduction,” in Audre Lorde, “'I teach myself in outline': Notes, Journals, Syllabi, and an Excerpt from Deotha,” Contributors Iemanjá Brown and Miriam Atkin, [https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf](https://cuny.manifoldapp.org/projects/audre-lorde-i-teach-myself-in-outline-cuny-lf); Martha Biondi, *Black Revolution on Campus* (Oakland: University of California Press, 2012); Tahir Butt, “You are Running a De Facto Segregated University" in *The Strange Careers of the Jim Crow North: Segregation and Struggle outside of the South*, ed. Brian Purnell and Jeanne Theoharis with Komozi Woodard (New York: New York University Press, 2019).

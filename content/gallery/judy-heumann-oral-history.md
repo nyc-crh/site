@@ -35,7 +35,7 @@ categories:
 - Queens
 - student activism
 - parent activism
-- k-12 education
+- K-12 organizing
 tags: 
 - physical disabilities
 - self-advocacy

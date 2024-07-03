@@ -36,7 +36,7 @@ categories:
 - parent activism
 - community activism
 - student activism
-- K-12 education
+- K-12 organizing
 - Brooklyn
 tags: 
 - protest

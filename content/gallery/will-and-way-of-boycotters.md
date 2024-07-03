@@ -34,7 +34,7 @@ categories:
 - parent activism
 - community activism
 - student activism
-- k-12 education
+- K-12 organizing
 tags: 
 - women's activism
 - protest

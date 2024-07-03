@@ -32,7 +32,7 @@ source_link: https://cuny.manifoldapp.org/read/realizing-the-dream-of-a-black-un
 copyright: Under copyright.
 categories: 
 - Bronx
-- k-12 education
+- K-12 organizing
 - parent activism
 - community activism
 tags: 

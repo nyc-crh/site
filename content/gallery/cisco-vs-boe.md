@@ -33,7 +33,7 @@ copyright: Government document
 categories: 
 - Queens
 - parent activism
-- k-12 education"
+- K-12 organizing"
 tags: 
 - zoning & student assignment
 - racist segregation

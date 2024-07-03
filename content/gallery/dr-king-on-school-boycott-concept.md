@@ -32,7 +32,7 @@ source_link: https://www.nypl.org/research/research-catalog/bib/b21451436
 copyright: Under copyright. Used with permission.
 categories: 
 - national
-- k-12 education
+- K-12 organizing
 - parent activism
 - student activism
 - community activism

@@ -33,7 +33,7 @@ archive_source: Laguardia and Wagner Archives
 source_link: https://www.flickr.com/photos/laguardiaandwagnerarchives/4115181342
 copyright: Under copyright
 categories: 
-- k-12 education
+- K-12 organizing
 - Manhattan
 - parent activism
 - community activism

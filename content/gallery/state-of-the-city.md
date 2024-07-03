@@ -29,7 +29,7 @@ archive_source: Mayor's Office of the City of New York
 source_link: https://www.nytimes.com/2002/01/30/nyregion/mayor-michael-r-bloombergs-state-of-the-city-address.html
 copyright: Government document. 
 categories: 
-- k-12 education
+- K-12 organizing
 tags: 
 - mayoral control
 - legislation

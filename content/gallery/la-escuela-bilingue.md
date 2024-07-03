@@ -33,7 +33,7 @@ archive_source: "*Noticias del Mundo*"
 source_link: https://www.loc.gov/item/sn86014217/
 copyright: Under copyright
 categories: 
-- k-12 education
+- K-12 organizing
 - Bronx
 - teacher activism
 tags: 

@@ -3,6 +3,8 @@ languageCode: en-us
 title: New York City Civil Rights History
 canonifyURLs: true
 relativeURLs: true
+capitalizeListTitles: false
+disablePathToLower: true
 params:
   imagesFolder: /images
   images:

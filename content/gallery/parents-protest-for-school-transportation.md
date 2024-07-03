@@ -34,7 +34,7 @@ source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~1346~12
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives of the City of New York.
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 - adult education
 - parent activism
 - student activism

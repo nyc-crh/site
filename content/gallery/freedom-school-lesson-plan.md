@@ -31,7 +31,7 @@ archive_source: Schomburg Center, Ella Baker Papers
 source_link: 
 copyright: Copyright status unknown. Courtesy of the Schomburg Center for Research in Black Culture.
 categories: 
-- k-12 education
+- K-12 organizing
 - community activism
 - student activism
 tags: 

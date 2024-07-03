@@ -32,7 +32,7 @@ archive_source: "*The New York Times*"
 source_link: https://www.nytimes.com/1908/09/13/archives/new-york-citys-schools-and-what-they-cost-the-greatest-system-in.html
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - Disabled people

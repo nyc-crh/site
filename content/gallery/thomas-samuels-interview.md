@@ -34,7 +34,7 @@ source_link: https://storymaps.arcgis.com/stories/6c2a1290209a4f0080a5acc3e286e3
 copyright: Under copyright. Used with permission.
 categories: 
 - student activism
-- k-12 education
+- K-12 organizing
 - Manhattan
 tags: 
 - Deaf culture

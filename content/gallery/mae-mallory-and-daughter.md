@@ -38,7 +38,7 @@ tags:
 - racist segregation
 - policing & the criminal legal system
 - protest
-- zoning & school assignment
+- zoning & student assignment
 - court cases
 - photography, imagery, & visual representation
 - women's activism

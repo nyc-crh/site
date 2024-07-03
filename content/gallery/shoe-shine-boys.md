@@ -33,7 +33,7 @@ archive_source: "*New York Amsterdam News*"
 source_link: https://www.proquest.com/hnpnewamsterdamnews/docview/226560780/abstract/A16D6D948D4F4F56PQ/1?accountid=35635
 copyright: Under copyright. Used with permission.
 categories: 
-- k-12 education
+- K-12 organizing
 - special education
 - Brooklyn
 tags: 

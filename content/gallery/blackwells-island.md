@@ -32,7 +32,7 @@ source_link: https://nycma.lunaimaging.com/luna/servlet/detail/RECORDSPHOTOUNITA
 copyright: Public domain. Courtesy of the Municipal Archives of the City of New York. 
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 - adult education
 tags: 
 - blindness & low vision

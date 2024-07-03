@@ -34,7 +34,7 @@ copyright: Public domain
 categories: 
 - New York State
 tags: 
-- institutionalization of disabled people and people labeled disabled
+- institutionalization of Disabled people and people labeled disabled
 - racist segregation
 - racist segregation
 - disability labels

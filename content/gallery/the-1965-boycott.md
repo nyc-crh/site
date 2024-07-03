@@ -33,7 +33,7 @@ archive_source: Municipal Archives of the City of New York, NYPD Surveillance Fi
 source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~364~1232309:-Protest-for-better-integrated-scho?sort=identifier%2Ctitle%2Cdate&qvq=q:0274;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
 copyright: Under copyright. Courtesy of the Municipal Archives of the City of New York
 categories: 
-- k-12 education
+- K-12 organizing
 - special education
 - Brooklyn
 - student activism

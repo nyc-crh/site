@@ -31,7 +31,7 @@ archive_source: Black Panther Party Harlem Branch Files, Box 1, Folder 8, Schomb
 source_link: https://archives.nypl.org/scm/20948
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 - Manhattan
 - community activism"
 tags: 
@@ -57,4 +57,3 @@ The Black Panther Party’s Harlem Branch, founded in 1966, defined Black Power 
 Harlem’s Black Panther Party emphasized self-determination in education, as you can see in this letter announcing the party and its planned protest about education in the neighborhood.
 
 [^1]: Black Panther Party, Harlem Branch, "Black Panther and Black Power,” Black Panther Party Harlem Branch Files, Box 1, Folder 9, Schomburg Center for Research in Black Culture, New York Public Library, [https://archives.nypl.org/scm/20948](https://archives.nypl.org/scm/20948).
-

@@ -28,7 +28,7 @@ source_link: https://centroca.hunter.cuny.edu/Detail/objects/3724
 copyright: Used with permission
 categories: 
 - Bronx
-- k-12 education
+- K-12 organizing
 - parent activism
 - community activism
 - special education

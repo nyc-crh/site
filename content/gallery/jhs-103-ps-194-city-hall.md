@@ -35,7 +35,7 @@ categories:
 - community activism
 - student activism
 - teacher activism
-- K-12 education
+- K-12 organizing
 tags: 
 - newspapers & the media
 - protest

@@ -34,7 +34,7 @@ source_link: https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives, City of New York
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - women's activism

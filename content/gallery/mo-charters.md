@@ -32,7 +32,7 @@ archive_source: School Colors Podcast
 source_link: https://www.schoolcolorspodcast.com/season-1/episode-6-mo-charters-mo-problems
 copyright: Under copyright. 
 categories: 
-- k-12 education
+- K-12 organizing
 - community activism
 - Brooklyn"
 tags: 

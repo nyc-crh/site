@@ -35,7 +35,7 @@ source_link: https://collections.mcny.org/CS.aspx?VP3=SearchResult&VBID=24UP1GQC
 copyright: Public domain
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 tags: 
 - immigrants & migrants
 - curriculum 

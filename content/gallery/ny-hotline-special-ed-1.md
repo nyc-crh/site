@@ -37,7 +37,7 @@ copyright: Under copyright. Used with permission. Courtesy of the Municipal Arch
 categories: 
 - community activism
 - special education
-- k-12 education
+- K-12 organizing
 tags: 
 - disability labels
 - racist segregation

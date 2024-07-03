@@ -35,7 +35,7 @@ archive_source: The 74 Million
 source_link: https://www.youtube.com/watch?v=gqyqeiD8ugQ
 copyright: Under copyright. Used with permission
 categories: 
-- k-12 education
+- K-12 organizing
 tags: 
 - school administration
 - charter schools
@@ -53,6 +53,6 @@ The Board of Education was renamed the Department of Education, and the mayor’
 
 Mayor Bloomberg and Klein believed that creating competition between schools for students would yield the best academic results, which they defined by student performance on standardized tests. This competition could happen between new small public schools, or between these schools and charter schools.[^1]
 
-This interview with Chancellor Joel Klein was published on The 74 Million, a news site founded by school choice and charter school advocates. 
+This interview with Chancellor Joel Klein was published on The 74 Million, a news site founded by school choice and charter school advocates.
 
 [^1]: Heather Lewis, *New York City Public Schools from Brownsville to Bloomberg* (New York: Teachers College Press, 2011), 139-142.

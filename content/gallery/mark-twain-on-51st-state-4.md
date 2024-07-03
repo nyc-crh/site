@@ -36,7 +36,7 @@ source_link: https://www.youtube.com/watch?v=Nh1zlTAf_gA
 copyright: Under copyright. Used with permission. 
 categories: 
 - Brooklyn
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - racist segregation
@@ -44,7 +44,7 @@ tags:
 - court cases
 - curriculum
 - disability labels
-- zoning & school assignment
+- zoning & student assignment
 - student achievement
 - white liberalism
 - ableist ideas

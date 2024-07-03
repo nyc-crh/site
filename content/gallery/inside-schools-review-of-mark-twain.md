@@ -34,7 +34,7 @@ source_link: https://insideschools.org/school/21K239
 copyright: Under copyright. Used with permission. 
 categories: 
 - Brooklyn
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - racist segregation

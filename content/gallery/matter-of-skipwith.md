@@ -31,14 +31,14 @@ archive_source: Matter of Skipwith, 14 Misc. 2d 325, 180 N.Y.S.2d 852 (N.Y. Dom.
 source_link: 
 copyright: Government document
 categories: 
-- k-12 education
+- K-12 organizing
 - community activism
 - parent activism"
 tags: 
 - racist segregation
 - policing & the criminal legal system
 - protest
-- zoning & school assignment
+- zoning & student assignment
 - court cases
 questions: 
 - What evidence did the parents offer to show that their children’s schools were unequal? 

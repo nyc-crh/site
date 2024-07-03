@@ -34,7 +34,7 @@ source_link: https://law.justia.com/cases/federal/district-courts/FSupp/383/699/
 copyright: Government Document
 categories: 
 - Brooklyn
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - zoning & student assignment

@@ -33,13 +33,13 @@ source_link: www.socialexplorer.com
 copyright: Public domain
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 - community activism
 - teacher activism
 tags: 
 - Black people
 - white people
-- zoning & school assignment
+- zoning & student assignment
 - racist segregation
 - Harlem
 questions:

@@ -35,7 +35,7 @@ archive_source: WNYC-TV Moving Image Collection, Municipal Archives, City of New
 source_link: https://vimeo.com/29063912 
 copyright: Under copyright
 categories: 
-- k-12 education
+- K-12 organizing
 - Brooklyn
 - parent activism
 - community activism
@@ -51,4 +51,4 @@ questions:
 - Notice that one of the speakers explained that they “do not want Black Power.” What do you think they meant by this? Why do you think they said this in this context? 
 --- 
  
-This video captures New York City parents speaking of their desires for community control of their children's schools. They wanted to have a voice in public schools in their local community, and to ensure that students achieved the equal education that was their right. They were motivated, as one parent pointed out, by their experience with poor conditions in their children’s schools. 
+This video captures New York City parents speaking of their desires for community control of their children's schools. They wanted to have a voice in public schools in their local community, and to ensure that students achieved the equal education that was their right. They were motivated, as one parent pointed out, by their experience with poor conditions in their children’s schools.

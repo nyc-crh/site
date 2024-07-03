@@ -33,7 +33,7 @@ copyright: Public domain
 categories: 
 - Queens
 - parent activism
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - court cases 

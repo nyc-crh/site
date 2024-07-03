@@ -34,7 +34,7 @@ source_link:
 copyright: Under copyright. Used with permission. 
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 - teacher activism
 tags: 
 - teachers unions

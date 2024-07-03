@@ -31,7 +31,7 @@ archive_source: Municipal Archives
 source_link: 
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 - special education
 tags: 
 - racist segregation

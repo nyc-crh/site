@@ -34,7 +34,7 @@ archive_source: "*The World’s Work*, Vol. 25, No. 2"
 source_link:  https://archive.org/details/worldswork25gard/page/126/mode/2up
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 tags: 
 - school administration
 - white people

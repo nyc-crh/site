@@ -32,7 +32,7 @@ source_link:
 copyright: Under copyright. Used with permission. Courtesy of the Balch Historical Institute, Historical Society of Philadelphia
 categories: 
 - student activism
-- k-12 education
+- K-12 organizing
 - Manhattan
 tags: 
 - multiracial organizing

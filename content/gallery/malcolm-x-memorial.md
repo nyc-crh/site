@@ -33,7 +33,7 @@ archive_source: New York Public Library, Schomburg Manuscripts, Archives, and Ra
 source_link: https://digitalcollections.nypl.org/items/d7106b80-23ee-0137-5d0e-73c4827ac44a
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 - community activism
 - Manhattan
 tags: 

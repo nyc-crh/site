@@ -33,7 +33,7 @@ source_link: https://digitalcollections.nypl.org/items/510d47e0-d6d7-a3d9-e040-e
 copyright: Public domain. Courtesy of New York Public Library Digital Collections.
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 - adult education
 tags: 
 - racist segregation

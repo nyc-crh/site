@@ -35,7 +35,7 @@ categories:
 - parent activism
 tags: 
 - racist segregation
-- institutionalization of disabled people and people labeled disabled
+- institutionalization of Disabled people and people labeled disabled
 - Disabled people
 - exclusion from schooling
 questions:

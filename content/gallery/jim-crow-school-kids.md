@@ -33,7 +33,7 @@ copyright: Under copyright. Used with permission.
 categories: 
 - Queens
 - parent activism
-- k-12 education
+- K-12 organizing
 tags: 
 - disability labels
 - intellectual disabilities

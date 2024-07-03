@@ -34,7 +34,7 @@ categories:
 - Bronx
 - Manhattan
 - parent activism
-- k-12 education
+- K-12 organizing
 tags: 
 - court cases
 - Disabled people
@@ -66,4 +66,4 @@ The *José P. v. Ambach* case continued for decades, as many Disabled students c
 
 The *José P. v. Ambach* case affected tens thousands of New York students immediately, and millions since. But it is known by the name of one child – José P. Unfortunately, we know very little about José P.’s life before or after he was involved in this case. What did he think of having been excluded from school, and of his family members’ effort to get him access to education? What schooling did he receive after the case? What did he look like, and how did he communicate? There are many thousands of pages of documents related the legal case called *José P. v. Ambach*, but no images and very few details about José P. as a person. The difficulty of finding José P. in history is one example of a broader problem. Existing historical records make it difficult to see, hear, and understand Disabled people’s lives as they lived and understood them.  
 
-[^1]: Jose P. v. Ambach, 557 F. Supp. 1230 (E.D.N.Y. 1983), [https://www.advocatesforchildren.org/sites/default/files/on_page/jose_p_judgment_december_1979.pdf?pt=1](https://www.advocatesforchildren.org/sites/default/files/on_page/jose_p_judgment_december_1979.pdf?pt=1). 
+[^1]: Jose P. v. Ambach, 557 F. Supp. 1230 (E.D.N.Y. 1983), [https://www.advocatesforchildren.org/sites/default/files/on_page/jose_p_judgment_december_1979.pdf?pt=1](https://www.advocatesforchildren.org/sites/default/files/on_page/jose_p_judgment_december_1979.pdf?pt=1).

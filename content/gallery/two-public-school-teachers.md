@@ -32,7 +32,7 @@ archive_source: The Reiss Project
 source_link: https://www.winoldreiss.org/works/artwork/portraits/C51.htm
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 - community activism
 tags: 
 - Harlem

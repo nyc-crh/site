@@ -31,7 +31,7 @@ archive_source: Council for Exceptional Children
 source_link: https://exceptionalchildren.org/
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - Disabled people

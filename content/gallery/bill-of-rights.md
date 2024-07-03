@@ -34,7 +34,7 @@ source_link: https://archives.gaycenter.org/repositories/2/resources/100
 copyright: Under copyright. Used with permission.
 categories: 
 - teacher activism
-- k-12 education
+- K-12 organizing
 tags: 
 - queer people
 - organizing 

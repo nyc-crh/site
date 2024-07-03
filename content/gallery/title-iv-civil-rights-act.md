@@ -32,7 +32,7 @@ source_link:
 copyright: Government document.
 categories: 
 - national
-- k-12 education
+- K-12 organizing
 tags: 
 - legislation
 - white liberalism

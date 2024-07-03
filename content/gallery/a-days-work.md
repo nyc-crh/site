@@ -34,7 +34,7 @@ archive_source: "*The World’s Work*, Vol. 4, No. 6"
 source_link: https://archive.org/details/sim_worlds-work_1902-10_4_6/page/2644/mode/1up
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 tags: 
 - photography, imagery, & visual representation
 - immigrants & migrants

@@ -27,7 +27,7 @@ archive_source: Collection of Sheldon “Shelly” Koy
 source_link: 
 copyright: Used with permission of Sheldon “Shelly” Koy
 categories: 
-- k-12 education
+- K-12 organizing
 - adult education
 - national
 - New York State

@@ -32,7 +32,7 @@ source_link: https://centroca.hunter.cuny.edu/Detail/objects/23897
 copyright: Used with permission. Courtesy of the Center for Puerto Rican Studies, Hunter College.
 categories: 
 - Bronx
-- k-12 education
+- K-12 organizing
 - parent activism
 - community activism
 tags: 

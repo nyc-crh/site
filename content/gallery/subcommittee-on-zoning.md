@@ -31,7 +31,7 @@ archive_source: Annie Stein Papers, Columbia University Rare Books and Manuscrip
 source_link: 
 copyright: Under copyright. Used with permission. Courtesy of the Columbia University Rare Books and Manuscripts Library. 
 categories: 
-- k-12 education
+- K-12 organizing
 - community activism
 tags: 
 - zoning & student assignment

@@ -33,7 +33,7 @@ archive_source: Education Resources Information Center
 source_link: https://eric.ed.gov/?id=ED392187
 copyright: Under copyright
 categories: 
-- k-12 education
+- K-12 organizing
 tags: 
 - school facilities
 - curriculum

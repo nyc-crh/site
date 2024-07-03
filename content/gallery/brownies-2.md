@@ -31,7 +31,7 @@ archive_source: Library of Congress
 source_link: https://www.loc.gov/item/22001351/
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 - national
 - community activism
 tags: 

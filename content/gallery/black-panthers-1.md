@@ -33,7 +33,7 @@ archive_source: Black Panther Party Harlem Branch Files, Box 1, Folder 8, Schomb
 source_link: https://archives.nypl.org/scm/20948
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 - Manhattan
 - community activism
 tags: 
@@ -53,9 +53,9 @@ questions:
 - What connections do you see between the Panther’s 1966 boycott and the present day?
 --- 
 
-Civil rights organizers in Lowndes County, Mississippi, chose the image of a black panther as their symbol. They were fighting for voting rights and democratic power as part of the Mississippi Freedom Democratic Party. For decades, although Black voters were the majority of the population there, they had been locked out of voting by racist restrictions. 
+Civil rights organizers in Lowndes County, Mississippi, chose the image of a black panther as their symbol. They were fighting for voting rights and democratic power as part of the Mississippi Freedom Democratic Party. For decades, although Black voters were the majority of the population there, they had been locked out of voting by racist restrictions.
 
-Harlem is a long way from Lowndes County, but the idea of democratic power and self-determination was persuasive to Black people in both places. With a focus on self-determination, a Black Panther Party of Harlem started in the summer of 1966.[^1] The Party explained that “wherever our people comprise a majority of the population (like Harlem…) they should control that area.” The Party defined itself as “a social MOVEMENT of BLACK people addressing itself *specifically* to the problems faced by black people living in the midst of white America.” And like the Mississippi Freedom Democratic Party, they made a black panther their symbol. 
+Harlem is a long way from Lowndes County, but the idea of democratic power and self-determination was persuasive to Black people in both places. With a focus on self-determination, a Black Panther Party of Harlem started in the summer of 1966.[^1] The Party explained that “wherever our people comprise a majority of the population (like Harlem…) they should control that area.” The Party defined itself as “a social MOVEMENT of BLACK people addressing itself *specifically* to the problems faced by black people living in the midst of white America.” And like the Mississippi Freedom Democratic Party, they made a black panther their symbol.
 
 The Black Panther Party focused on many topics, including police brutality, housing, and keeping money within the Black community. But education was a key focus, as “our children are the future of our people.”[^2]
 

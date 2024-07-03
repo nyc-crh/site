@@ -32,7 +32,7 @@ source_link:
 copyright: Under copyright. Used with permission. Courtesy of Lana Dee Povitz.
 categories: 
 - Bronx
-- k-12 education
+- K-12 organizing
 - parent activism
 - community activism
 tags: 

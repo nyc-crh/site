@@ -31,7 +31,7 @@ archive_source: Ella Baker Papers, Schomburg Center for Research in Black Cultur
 source_link: https://archives.nypl.org/scm/20899
 copyright: Public domain. Courtesy of the Schomburg Center for Research in Black Culture.
 categories: 
-- k-12 education
+- K-12 organizing
 - community activism
 - parent activism"
 tags: 
@@ -39,7 +39,7 @@ tags:
 - racist segregation
 - protest
 - Harlem
-- zoning & school assignment
+- zoning & student assignment
 - women's activism
 questions:
 - What feelings do you think this flier is trying to convey? How does it do so? What choices - about language, about design - help it communicate? 

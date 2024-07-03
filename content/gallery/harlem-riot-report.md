@@ -32,7 +32,7 @@ source_link: https://harlemconditions.cityofnewyork.us/elementor-830/
 copyright: Public domain. Courtesy of the Municipal Archives of the City of New York.
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 - teacher activism
 tags: 
 - policing & the criminal legal system

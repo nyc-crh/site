@@ -31,7 +31,7 @@ archive_source: "*New York Amsterdam News*"
 source_link: 
 copyright: Under copyright. Used with permission. 
 categories: 
-- k-12 education
+- K-12 organizing
 - Manhattan
 - national
 - community activism

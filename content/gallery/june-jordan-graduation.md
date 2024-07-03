@@ -33,7 +33,7 @@ archive_source: "June Jordan, \"Life Studies,\" 1966-1976, edited by Conor Tomá
 source_link: https://cuny.manifoldapp.org/read/life-studies-1966-1976-4ac0a256-b280-40d0-bc1a-6595b8d20c6f/section/19099b41-c6aa-48b0-9186-6d588c3a37c5
 copyright: Under copyright. Used with permission
 categories: 
-- k-12 education
+- K-12 organizing
 - Brooklyn
 - community activism
 tags: 

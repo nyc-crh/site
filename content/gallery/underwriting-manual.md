@@ -33,7 +33,7 @@ archive_source: HathiTrust
 source_link: https://babel.hathitrust.org/cgi/pt?id=mdp.39015018409261&seq=6
 copyright: Government Document
 categories: 
-- National
+- national
 tags: 
 - racist segregation 
 - school facilities 

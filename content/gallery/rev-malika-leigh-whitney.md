@@ -33,7 +33,7 @@ archive_source: The Grandparents Storylab
 source_link: https://www.thegrandparentsstorylab.org/double-dutch-dreamz
 copyright: Under copyright. Used with permission.
 categories: 
-- k-12 education
+- K-12 organizing
 - Manhattan
 - community activism
 tags: 

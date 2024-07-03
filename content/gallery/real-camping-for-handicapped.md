@@ -31,7 +31,7 @@ archive_source: Papers of Honora Rubenstein
 source_link: 
 copyright: Under copyright. Used with permission of the family of Honora and Murray Rubenstein.
 categories: 
-- k-12 education
+- K-12 organizing
 - adult education
 - national
 - New York State

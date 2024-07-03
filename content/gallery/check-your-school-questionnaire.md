@@ -33,7 +33,7 @@ copyright: Public domain. Courtesy of the Schomburg Center for Research in Black
 categories: 
 - parent activism
 - student activism
-- k-12 education
+- K-12 organizing
 tags: 
 - school facilities
 - student achievement

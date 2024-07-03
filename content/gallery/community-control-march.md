@@ -33,7 +33,7 @@ archive_source: New York University Tamiment Library
 source_link: 
 copyright: Under copyright
 categories: 
-- k-12 education
+- K-12 organizing
 - community activism
 - Brooklyn
 - teacher activism
@@ -52,4 +52,4 @@ questions:
 - Why would activists choose to participate in a march? How is this kind of protest similar to or different than others, such as boycotts, legal suits, petitions, etc?
 --- 
  
-During the 1968 teacher strike, community control advocates continued to participate in leading local school districts and arguing for self-determination in education. UFT teachers protested during the strike in public spaces like in front of City Hall. Here, community control advocates walk across the Brooklyn bridge to show their support for local democratic power in education. One of the figures in the front is Rhody McCoy, who was the superintendent of the Ocean Hill-Brownsville community control district in Brooklyn, where a controversy over whether local districts could fire teachers prompted the strike. 
+During the 1968 teacher strike, community control advocates continued to participate in leading local school districts and arguing for self-determination in education. UFT teachers protested during the strike in public spaces like in front of City Hall. Here, community control advocates walk across the Brooklyn bridge to show their support for local democratic power in education. One of the figures in the front is Rhody McCoy, who was the superintendent of the Ocean Hill-Brownsville community control district in Brooklyn, where a controversy over whether local districts could fire teachers prompted the strike.

@@ -13,8 +13,8 @@
   <h1 class="py-4">{{ .Title }}</h1>
   <ul>
     {{ $data := .Data }}
-    {{ range $key, $value := .Data.Taxonomy.Alphabetical }}
-    <li><a href="{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ $value.Name }} </a> {{ $value.Count }} </li>
+    {{ range $key, $value := .Site.Taxonomies.categories.Alphabetical }}
+    <li><a href="{{ $data.Plural }}/{{ $value.Name | title }}"> {{ $value.Name }} </a> {{ $value.Count }} </li>
     {{ end }}
     </ul>
   </div>

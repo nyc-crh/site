@@ -38,7 +38,7 @@ categories:
 tags: 
 - disability labels
 - policing & the criminal legal system
-- institutionalization of disabled people and people labeled disabled
+- institutionalization of Disabled people and people labeled disabled
 - intellectual disabilities
 - emotional disabilities
 - racist segregation

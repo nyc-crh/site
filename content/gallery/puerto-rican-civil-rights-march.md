@@ -35,7 +35,7 @@ copyright: Under copyright. Used with permission. Courtesy of the Municipal Arch
 categories: 
 - parent activism
 - student activism
-- k-12 education
+- K-12 organizing
 - Manhattan
 tags: 
 - policing & the criminal legal system

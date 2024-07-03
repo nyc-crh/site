@@ -34,7 +34,7 @@ source_link:
 copyright: Public domain
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - court cases 

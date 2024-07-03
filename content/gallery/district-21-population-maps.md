@@ -34,7 +34,7 @@ source_link: www.socialexplorer.com
 copyright: Public domain
 categories: 
 - Brooklyn
-- k-12 education
+- K-12 organizing
 tags: 
 - racist segregation
 - zoning & student assignment

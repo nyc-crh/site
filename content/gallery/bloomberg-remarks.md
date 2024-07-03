@@ -35,7 +35,7 @@ archive_source: C-Span
 source_link: https://www.c-span.org/video/?303798-2/mayor-bloomberg-remarks-education-reform
 copyright: Government document
 categories: 
-- k-12 education
+- K-12 organizing
 tags:
 - school administration
 - charter schools

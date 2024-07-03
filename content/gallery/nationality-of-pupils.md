@@ -34,7 +34,7 @@ archive_source: Municipal Archives of the City of New York, Board of Education P
 source_link: 
 copyright: Public domain
 categories: 
-- k-12 education
+- K-12 organizing
 tags: 
 - immigrants & migrants
 - racist segregation

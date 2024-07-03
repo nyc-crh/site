@@ -33,7 +33,7 @@ source_link:
 copyright: Under copyright. Used with permission. Courtesy of Joe Conzo, Jr. 
 categories: 
 - Bronx
-- K-12 education
+- K-12 organizing
 - parent activism
 - community activism
 tags: 

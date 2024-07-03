@@ -35,7 +35,7 @@ copyright: Under copyright. Used with permission.
 categories: 
 - student activism
 - Queens
-- k-12 education
+- K-12 organizing
 tags: 
 - Deaf culture
 - self-determination

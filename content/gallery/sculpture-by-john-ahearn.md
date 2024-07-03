@@ -31,7 +31,7 @@ archive_source: Division of Rare and Manuscript Collections, Cornell University 
 source_link: https://digital.library.cornell.edu/catalog/ss:1406035
 copyright: Under copyright. Used with permission.
 categories: 
-- k-12 education
+- K-12 organizing
 - Bronx
 - national
 - community activism

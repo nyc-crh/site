@@ -31,7 +31,7 @@ archive_source: From the papers of Denise Sherer Jacobson.
 source_link: 
 copyright: Used with permission of Denise Sherer Jacobson.
 categories: 
-- k-12 education
+- K-12 organizing
 - adult education
 - national
 - New York State

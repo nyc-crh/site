@@ -33,7 +33,7 @@ archive_source: New York Public Library, Schomburg Manuscripts, Archives, and Ra
 source_link: https://archives.nypl.org/scm/22268
 copyright: Under copyright
 categories: 
-- k-12 education
+- K-12 organizing
 - Bronx
 - community activism
 tags: 

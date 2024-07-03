@@ -35,7 +35,7 @@ source_link: https://digitalcollections.nypl.org/items/510d47e1-ebe8-a3d9-e040-e
 copyright: Public domain
 categories: 
 - Manhattan
-- k-12 education
+- K-12 organizing
 tags: 
 - immigrants & migrants
 - school facilities

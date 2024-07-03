@@ -33,13 +33,12 @@ archive_source: "The Negro Family: The Case for National Action"
 source_link: https://www.dol.gov/general/aboutdol/history/webid-moynihan
 copyright: Government Document
 categories: 
-- National
+- national
 tags: 
 - employment
 - white liberalism
 - Black people
 - white people
-- gender
 - racist ideas
 - government reports
 questions: 
