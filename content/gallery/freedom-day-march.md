@@ -42,9 +42,9 @@ tags:
 - protest
 - racist segregation
 - organizing
-- policing & the criminal legal system 
+- policing and the criminal legal system 
 - multiracial organizing
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Spanish language
 questions:
 - What do you notice about the film? What do you wonder? 

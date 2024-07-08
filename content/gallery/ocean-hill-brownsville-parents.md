@@ -42,7 +42,7 @@ categories:
 tags: 
 - self-determination
 - democracy
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Black people
 - Latinx people
 questions: 

@@ -40,9 +40,10 @@ tags:
 - Latinx people
 - Black people
 - joy
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Spanish language
-- immigrants & migrants
+- immigrants and migrants
+
 questions: 
 - How do you think students felt about Club Borinquen? What can we tell from the photograph? What questions do you have about the club? 
 - Do you agree with Leonard Covello that students need spaces at school that link home and school culture? Why or why not? Are there spaces like that at your school? Are these joyful spaces? 

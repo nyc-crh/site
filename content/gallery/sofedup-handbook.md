@@ -46,7 +46,7 @@ tags:
 - racist segregation
 - employment
 - curriculum
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - student writing
 - disability labels
 questions: 

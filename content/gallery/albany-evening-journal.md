@@ -41,7 +41,7 @@ tags:
 - Black people 
 - women's activism
 - legislation
-- newspapers & the media
+- newspapers and the media
 - racist segregation
 questions:
 - How did Dr. Johnson mock Mrs. Cisco? How did his language perpetuate harm? Do you see racism, misogyny, and/or ableism here? How? 

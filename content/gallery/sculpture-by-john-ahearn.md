@@ -40,7 +40,7 @@ tags:
 - Black people
 - autonomous educational spaces
 - the arts
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - athletics
 questions: 
 - Why do you think Ahearn and Torres wanted to mount this sculpture on a building in the South Bronx? If you lived in the area, how do you think you would feel about the sculpture? 

@@ -41,7 +41,7 @@ tags:
 - student achievement
 - curriculum
 - teacher quality
-- newspapers & the media
+- newspapers and the media
 - Black people
 - Latinx people
 - disability labels

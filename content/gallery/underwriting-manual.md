@@ -37,7 +37,7 @@ categories:
 tags: 
 - racist segregation 
 - school facilities 
-- zoning & student assignment 
+- zoning andstudent assignment 
 - housing
 questions: 
 - What kind of neighborhoods did the FHA favor for providing federally-insured mortgages? What ideas shaped their judgments about neighborhoods?

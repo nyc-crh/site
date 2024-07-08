@@ -38,7 +38,7 @@ categories:
 - K-12 organizing
 - Manhattan
 tags: 
-- policing & the criminal legal system
+- policing and the criminal legal system
 - protest
 - racist segregation
 - organizing
@@ -47,7 +47,7 @@ tags:
 - Latinx people
 - multiracial organizing
 - employment
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Spanish language
 questions:
 - Why do you think the protesters marched behind the US and Puerto Rican flags? What were they hoping to communicate? 

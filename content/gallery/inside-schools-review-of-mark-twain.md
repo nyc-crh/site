@@ -38,7 +38,7 @@ categories:
 tags: 
 - racist segregation
 - racist segregation
-- zoning & student assignment
+- zoning andstudent assignment
 - admissions
 questions: 
 - How do you think Mark Twain has been able to get so many resources? Why do you think Mark Twain has these resources when other schools lack them? 

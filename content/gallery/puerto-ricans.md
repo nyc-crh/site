@@ -38,7 +38,8 @@ categories:
 tags: 
 - Spanish language
 - racist segregation
-- immigrants & migrants
+- immigrants and migrants
+
 - disability labels
 - Latinx people
 - Black people

@@ -42,7 +42,7 @@ tags:
 - Black people
 - Harlem
 - teachers unions
-- newspapers & the media
+- newspapers and the media
 questions: 
 - How had Reverend Lucas been involved in education in Harlem? 
 - Rev. Lucas named several problems with how Harlem’s Community School District 5 was operating under decentralization. Do you think these are problems that suggest ending, or keeping but reforming, decentralization? 

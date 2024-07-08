@@ -39,7 +39,7 @@ tags:
 - court cases
 - Black people
 - school facilities
-- photography, imagery, & visual representation 
+- photography, imagery, and visual representation 
 - women's activism 
 - legislation
 questions:

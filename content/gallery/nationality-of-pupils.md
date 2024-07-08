@@ -36,7 +36,8 @@ copyright: Public domain
 categories: 
 - K-12 organizing
 tags: 
-- immigrants & migrants
+- immigrants and migrants
+
 - racist segregation
 questions: 
 - Who counts as an American, according to the New York City Board of Education in 1931? How does this definition of American compare to who was in fact a US citizen at the time? 

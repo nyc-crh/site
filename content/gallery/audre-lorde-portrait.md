@@ -36,7 +36,7 @@ categories:
 tags: 
 - women's activism
 - the arts
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Black people
 - queer people
 - Disabled people

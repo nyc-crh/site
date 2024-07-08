@@ -39,7 +39,7 @@ categories:
 tags: 
 - Disabled people
 - physical disabilities
-- newspapers & the media
+- newspapers and the media
 - self-determination
 - institutionalization of Disabled people and people labeled disabled
 - racist segregation

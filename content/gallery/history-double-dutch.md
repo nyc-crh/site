@@ -39,7 +39,7 @@ tags:
 - joy
 - Black people
 - autonomous educational spaces
-- newspapers & the media
+- newspapers and the media
 - athletics
 questions: 
 - Why were these Double Dutch competitions founded? 

@@ -34,7 +34,7 @@ categories:
 - K-12 organizing
 - community activism
 tags: 
-- zoning & student assignment
+- zoning andstudent assignment
 - racist segregation
 questions: 
 - According to the subcommittee’s draft, why were New York City schools segregated? Why was the segregation of New York City schools a problem? What do you think of these explanations? 

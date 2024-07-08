@@ -38,7 +38,7 @@ tags:
 - intellectual disabilities
 - physical disabilities
 - disability labels
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - institutionalization of Disabled people and people labeled disabled
 - school facilities
 questions: 

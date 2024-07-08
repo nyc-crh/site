@@ -37,7 +37,7 @@ categories:
 tags: 
 - racist segregation
 - court cases
-- policing & the criminal legal system
+- policing and the criminal legal system
 - Black people
 - school facilities
 - protest

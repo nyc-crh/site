@@ -38,11 +38,11 @@ categories:
 tags: 
 - racist segregation
 - women's activism
-- policing & the criminal legal system
+- policing and the criminal legal system
 - protest
 - white people
 - multiracial organizing
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 questions:
 - What do you notice about the video and image? What do you wonder?
 - What strategies did groups like Parents and Taxpayers use to maintain segregation?

@@ -40,7 +40,7 @@ tags:
 - protest
 - curriculum
 - organizing
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - multiracial organizing
 - Harlem
 questions: 

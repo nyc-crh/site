@@ -42,7 +42,7 @@ tags:
 - NAACP
 - Black people
 - organizing
-- newspapers & the media
+- newspapers and the media
 questions: 
 - What did parents report was happening to their students? Why did they think this was happening? 
 - >

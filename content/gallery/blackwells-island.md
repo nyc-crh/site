@@ -35,7 +35,8 @@ categories:
 - K-12 organizing
 - adult education
 tags: 
-- blindness & low vision
+- blindness and low vision
+
 - institutionalization of Disabled people and people labeled disabled
 - communication
 - racist segregation

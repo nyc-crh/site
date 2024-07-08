@@ -39,7 +39,7 @@ tags:
 - women's activism
 - protest
 - white people
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 questions:
 - Why do you think it was white mothers who organized and were most visible in this anti-desegregation protest?
 --- 

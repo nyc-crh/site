@@ -37,7 +37,7 @@ categories:
 - K-12 organizing
 tags: 
 - racist segregation
-- zoning & student assignment
+- zoning andstudent assignment
 - housing
 - court cases
 questions: 

@@ -42,11 +42,11 @@ tags:
 - protest
 - organizing
 - racist segregation
-- policing & the criminal legal system
+- policing and the criminal legal system
 - disability labels
 - emotional disabilities
 - Disabled people
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Black people
 - Latinx people
 questions: 

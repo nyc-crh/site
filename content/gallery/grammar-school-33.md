@@ -37,9 +37,10 @@ categories:
 - Manhattan
 - K-12 organizing
 tags: 
-- immigrants & migrants
+- immigrants and migrants
+
 - school facilities
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - childhood
 questions: 
 - Look at the young people in the room in the photograph. What do you notice about them? What do you think it felt like to be a student in this space? Do you think this would have been a supportive environment for the students? Why or why not? 

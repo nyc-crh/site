@@ -37,7 +37,7 @@ categories:
 - student activism
 - community activism
 tags: 
-- newspapers & the media
+- newspapers and the media
 - protest
 - white liberalism
 - North & South 

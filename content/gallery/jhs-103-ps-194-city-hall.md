@@ -37,7 +37,7 @@ categories:
 - teacher activism
 - K-12 organizing
 tags: 
-- newspapers & the media
+- newspapers and the media
 - protest
 - racist segregation
 - organizing

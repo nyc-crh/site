@@ -39,7 +39,7 @@ categories:
 tags: 
 - Black people
 - white people
-- zoning & student assignment
+- zoning andstudent assignment
 - racist segregation
 - Harlem
 questions:

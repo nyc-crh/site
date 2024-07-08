@@ -40,7 +40,7 @@ tags:
 - curriculum 
 - Harlem
 - the arts
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 questions: 
 - Why do you think the community control district in East Harlem wanted to host this event? What connections do you see between community control and Malcom X? 
 - What historical figures and special days get attention at your school? How does it matter? 

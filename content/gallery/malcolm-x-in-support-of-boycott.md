@@ -39,7 +39,7 @@ categories:
 - K-12 organizing
 tags: 
 - protest
-- newspapers & the media
+- newspapers and the media
 - racist segregation
 - Black people
 questions:

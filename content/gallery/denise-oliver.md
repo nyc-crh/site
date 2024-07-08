@@ -38,7 +38,7 @@ tags:
 - racist segregation
 - Latinx people
 - Black people
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - organizing
 - women's activism
 questions: 

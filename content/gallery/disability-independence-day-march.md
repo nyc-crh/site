@@ -32,7 +32,7 @@ tags:
 - physical disabilities
 - self-advocacy
 - protest
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - joy
 - transportation
 - employment

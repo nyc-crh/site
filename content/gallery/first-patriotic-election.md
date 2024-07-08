@@ -37,7 +37,8 @@ categories:
 - Manhattan
 - K-12 organizing
 tags: 
-- immigrants & migrants
+- immigrants and migrants
+
 - curriculum 
 - democracy
 - childhood

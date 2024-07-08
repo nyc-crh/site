@@ -41,8 +41,8 @@ tags:
 - intellectual disabilities
 - disability labels
 - curriculum
-- photography, imagery, & visual representation
-- newspapers & the media
+- photography, imagery, and visual representation
+- newspapers and the media
 - institutionalization of Disabled people and people labeled disabled
 questions: 
 - Look carefully at the illustration of the classroom. What do you notice about who is there and what they are doing? What do you notice about the classroom space? How does it compare to your classrooms today? What questions do you have about this image? 

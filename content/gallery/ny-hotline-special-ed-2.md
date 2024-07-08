@@ -40,7 +40,7 @@ categories:
 - K-12 organizing
 - student activism
 tags: 
-- newspapers & the media
+- newspapers and the media
 - childhood
 questions: 
 - Do you agree with the student who called in that students in special education are treated differently in school today?

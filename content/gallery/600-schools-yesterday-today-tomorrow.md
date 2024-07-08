@@ -35,7 +35,7 @@ categories:
 - special education
 tags: 
 - racist segregation
-- policing & the criminal legal system
+- policing and the criminal legal system
 - Black people
 - Latinx people
 - disability labels

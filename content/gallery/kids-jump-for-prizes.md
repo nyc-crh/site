@@ -39,7 +39,7 @@ tags:
 - joy
 - Black people
 - autonomous educational spaces
-- newspapers & the media
+- newspapers and the media
 - athletics
 questions: 
 - How did Black New Yorkers show their support for Black young people and Double Dutch? 

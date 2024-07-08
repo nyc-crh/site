@@ -37,7 +37,7 @@ categories:
 tags: 
 - Harlem
 - teachers unions
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Black people 
 - women's activism
 questions:

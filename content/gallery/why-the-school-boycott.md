@@ -39,7 +39,7 @@ tags:
 - protest
 - racist segregation
 - organizing
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Black people
 questions:
 - What do you notice about the poster? What do you wonder?

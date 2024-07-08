@@ -36,9 +36,9 @@ categories:
 - parent activism"
 tags: 
 - racist segregation
-- policing & the criminal legal system
+- policing and the criminal legal system
 - protest
-- zoning & student assignment
+- zoning andstudent assignment
 - court cases
 questions: 
 - What evidence did the parents offer to show that their children’s schools were unequal? 

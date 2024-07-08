@@ -41,9 +41,10 @@ tags:
 - Latinx people
 - Black people
 - joy
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Spanish language
-- immigrants & migrants
+- immigrants and migrants
+
 questions: 
 - What do you notice about this photograph? What do you wonder about it? 
 - Who do you think took these photographs and why? How does that affect how we perceive them? 

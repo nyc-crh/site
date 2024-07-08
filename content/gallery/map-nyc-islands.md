@@ -40,7 +40,7 @@ tags:
 - Disabled people
 - intellectual disabilities
 - disability labels
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - institutionalization of Disabled people and people labeled disabled
 questions: 
 - What do you notice about the facilities on these islands? How were residents similar? How were they different? How were their needs similar or different?

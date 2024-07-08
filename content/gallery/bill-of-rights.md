@@ -43,7 +43,7 @@ tags:
 - self-determination
 - curriculum
 - the arts 
-- newspapers & the media
+- newspapers and the media
 questions: 
 - To come 
 - To come 

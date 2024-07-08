@@ -37,7 +37,7 @@ categories:
 - New York State
 tags: 
 - disability labels
-- policing & the criminal legal system
+- policing and the criminal legal system
 - institutionalization of Disabled people and people labeled disabled
 - intellectual disabilities
 - emotional disabilities

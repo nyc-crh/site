@@ -43,8 +43,8 @@ tags:
 - employment
 - white people
 - organizing
-- photography, imagery, & visual representation
-- policing & the criminal legal system
+- photography, imagery, and visual representation
+- policing and the criminal legal system
 questions: 
 - Think about one of the slogans that appears on the signs that protesting teachers are carrying. What is communicated by this slogan? Why are the protesters choosing this message? 
 - How do you think Black and Latinx students and families who supported community control felt when they saw white teachers marching to demonstrate against community control?

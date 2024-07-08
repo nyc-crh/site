@@ -38,8 +38,8 @@ categories:
 tags: 
 - school administration
 - white people
-- photography, imagery, & visual representation
-- newspapers & the media
+- photography, imagery, and visual representation
+- newspapers and the media
 questions: 
 - What do you see in this portrait? What impression of Maxwell do you think this photograph wants to communicate? How does this portrait compare to portraits of other people that you have seen, on this site or elsewhere, including [Elizabeth Cisco](/content/gallery/elizabeth-cisco) and [Two Public School Teachers](/content/gallery/two-public-school-teachers)? 
 - How did William Maxwell’s background and experience relate to common expectations for a civic or government leader in the 1880s, 1890s, and 1900s? Who was excluded by these expectations? 

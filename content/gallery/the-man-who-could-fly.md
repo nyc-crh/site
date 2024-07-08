@@ -35,7 +35,7 @@ categories:
 - K-12 organizing
 - special education
 tags: 
-- policing & the criminal legal system
+- policing and the criminal legal system
 - athletics
 - racist segregation
 - student achievement

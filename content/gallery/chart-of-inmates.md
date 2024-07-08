@@ -38,7 +38,7 @@ tags:
 - racist segregation
 - racist segregation
 - disability labels
-- policing & the criminal legal system
+- policing and the criminal legal system
 - exclusion from schooling
 questions: 
 - What do the categories of people on this pie chart have in common?

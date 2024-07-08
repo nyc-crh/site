@@ -36,9 +36,10 @@ copyright: Public domain
 categories: 
 - K-12 organizing
 tags: 
-- photography, imagery, & visual representation
-- immigrants & migrants
-- newspapers & the media
+- photography, imagery, and visual representation
+- immigrants and migrants
+
+- newspapers and the media
 - childhood
 questions: 
 - Based on what you know about who was attending school in New York at this time, who were these students likely to be? Where might have they come from, and why?  What do you think going to school meant to them? What kind of schooling were they hoping for? 

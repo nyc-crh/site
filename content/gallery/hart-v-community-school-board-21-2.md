@@ -37,7 +37,7 @@ categories:
 - K-12 organizing
 tags: 
 - racist segregation
-- zoning & student assignment
+- zoning andstudent assignment
 questions: 
 - Why do you think Judge Weinstein says that “racism was not a factor” in segregating Mark Twain Junior High School? Do you agree, based on [the evidence here](/topics/how-did-nyc-segregate/)?  Who benefits from such a pronouncement? What problems does this kind of statement create? 
 - Have you learned about the terms “de facto” and “de jure” segregation in school? Based on what you have learned about segregation on Coney Island and at Mark Twain, is it correct to describe segregation in New York City as “de facto”?"

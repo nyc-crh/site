@@ -38,9 +38,9 @@ categories:
 - parent activism
 tags: 
 - racist segregation
-- policing & the criminal legal system
+- policing and the criminal legal system
 - protest
-- zoning & student assignment
+- zoning andstudent assignment
 - court cases
 - women's activism
 - Black people

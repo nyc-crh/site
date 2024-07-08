@@ -42,7 +42,7 @@ tags:
 - democracy
 - organizing
 - joy
-- policing & the criminal legal system
+- policing and the criminal legal system
 - Black people
 - Latinx people
 questions: 

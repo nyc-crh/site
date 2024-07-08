@@ -40,10 +40,10 @@ categories:
 tags: 
 - racist segregation
 - women's activism
-- policing & the criminal legal system
+- policing and the criminal legal system
 - protest
 - white people
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 questions:
 - What do you notice about the video? What do you wonder?
 - Why do you think the marchers chose to carry flags? 

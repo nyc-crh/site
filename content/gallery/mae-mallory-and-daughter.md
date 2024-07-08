@@ -36,11 +36,11 @@ categories:
 - parent activism
 tags: 
 - racist segregation
-- policing & the criminal legal system
+- policing and the criminal legal system
 - protest
-- zoning & student assignment
+- zoning andstudent assignment
 - court cases
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - women's activism
 - childhood
 questions:

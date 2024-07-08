@@ -45,7 +45,7 @@ tags:
 - Black people
 - Latinx people
 - organizing
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 questions: 
 - What do you see in this photo? What questions do you have? 
 - What do you think “self-determination” means in the context of education? How are “self-determination” and community control of schools connected? 

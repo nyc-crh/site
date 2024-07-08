@@ -42,7 +42,7 @@ tags:
 - Black people
 - protest
 - curriculum
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - organizing
 questions: 
 - Based on the fliers, what were the Panthers hoping to achieve through this boycott?

@@ -39,7 +39,7 @@ tags:
 - racist segregation
 - protest
 - Harlem
-- zoning & student assignment
+- zoning andstudent assignment
 - women's activism
 questions:
 - What feelings do you think this flier is trying to convey? How does it do so? What choices - about language, about design - help it communicate? 

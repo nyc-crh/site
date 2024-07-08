@@ -39,14 +39,14 @@ categories:
 tags: 
 - protest
 - organizing
-- newspapers & the media
+- newspapers and the media
 - racist segregation
-- policing & the criminal legal system
+- policing and the criminal legal system
 - curriculum
 - disability labels
 - emotional disabilities
 - Disabled people
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - Black people
 - Latinx people
 questions:

@@ -44,7 +44,7 @@ tags:
 - racist segregation
 - learning disability
 - teacher quality
-- newspapers & the media
+- newspapers and the media
 questions: 
 - Imagine a classroom where every student has what they need to learn. What materials are in the room? Who is in the room? What is happening in the room?  
 - According to the video, what factors led to students being labeled as learning disabled?

@@ -44,7 +44,7 @@ tags:
 - Disabled people
 - autonomous educational spaces
 - athletics
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 questions: 
 - Why was Camp Jened created? What problems did the camp founders want to solve by creating a camp for people, particularly young people, with disabilities?
 - What does the brochure tell you about the environment of Camp Jened? What do you notice about the landscape, and the buildings? What symbols or images do you see? How do you think people with different life experiences might have responded to this brochure? 

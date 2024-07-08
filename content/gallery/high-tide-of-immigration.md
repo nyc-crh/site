@@ -36,10 +36,11 @@ copyright: Public domain
 categories: 
 - national
 tags: 
-- photography, imagery, & visual representation
-- immigrants & migrants
+- photography, imagery, and visual representation
+- immigrants and migrants
+
 - democracy
-- newspapers & the media
+- newspapers and the media
 questions: 
 - What do you think the message of this political cartoon is? Who do you think it was trying to speak to? 
 - What idea of the United States did this political cartoon communicate? What relationship did it suggest between US patriotism (represented by Uncle Sam) and immigration? What does the caption say about how immigration at the time of the cartoon was different from immigration in previous periods? 

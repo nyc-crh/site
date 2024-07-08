@@ -45,17 +45,19 @@
     <a href="{{$relLink}}"><img src="{{ $relImg.RelPermalink }}" class="responsive-figure mx-auto d-print-none" alt="{{with $.Params.relImgAlt}}{{ . }}{{else}}{{$.Title}}{{end}}" style="max-width: 100%;"/></a>
      {{end}}{{ else }}{{ end }}</div>
      <div class="col mx-auto d-print-block">{{ if .Params.categories }}
-        <p class="pt-5 px-3 d-print-none"><strong>Categories: </strong>{{ with .GetTerms "categories" }}
-            {{ range . }}
-            <a class="category-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
-            {{ end }}
-            {{ end }}</p>{{ end }}
+        <p class="pt-5 px-3 d-print-none"><strong>Categories: </strong>
+            {{ range $k, $v:= .GetTerms "categories" }}
+            {{- if $k }}, {{ end }}
+            <a class="category-link" href="{{ .RelPermalink }}">{{ .LinkTitle  }}</a>
+            {{- end }}
+            </p>{{ end }}
         {{ if .Params.tags }}
-        <p class="px-3 d-print-none"><strong>Tags: </strong>{{ with .GetTerms "tags" }}
-            {{ range . }}
-            <a class="tag-link" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>,&nbsp;
-            {{ end }}
-        {{ end }}</p>{{ end }}</div>
+        <p class="px-3 d-print-none"><strong>Tags: </strong>
+            {{ range $k, $v:= .GetTerms "tags" }}
+            {{- if $k }}, {{ end }}
+            <a class="tag-link" href="{{ .RelPermalink }}">{{ .LinkTitle  }}</a>
+            {{- end }}
+        </p>{{ end }}</div>
         {{ if .Params.docset }}<div class="col mx-auto d-print-block"><p class="px-3">This item is part of <a href="/topics/{{.Params.docset}}/{{.Params.bundle}}">"{{.Params.bundleTitle | page.RenderString | safeHTML}}"</a> in <a href="/topics/{{.Params.docset}}">"{{.Params.docsetTitle  | page.RenderString | safeHTML}}"</a></p></div>{{end}}
         <div class="row mx-auto pt-3">
                 <details class="accordion d-print-block">

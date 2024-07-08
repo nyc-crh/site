@@ -39,11 +39,12 @@ categories:
 tags: 
 - bilingual education
 - Spanish language
-- immigrants & migrants
+- immigrants and migrants
+
 - curriculum
 - joy
 - women's activism
-- newspapers & the media
+- newspapers and the media
 - Latinx people
 - Black people
 - the arts

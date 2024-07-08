@@ -44,7 +44,7 @@ tags:
 - democracy
 - organizing
 - women's activism
-- photography, imagery, & visual representation"
+- photography, imagery, and visual representation"
 questions: 
 - How did the community control district on the Lower East Side, called Two Bridges, differ from those in East Harlem and Brooklyn? 
 - What challenges did Goldie Chu face in her activism? How did she respond to them? 

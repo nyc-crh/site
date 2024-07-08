@@ -38,7 +38,7 @@ tags:
 - government reports
 - racist segregation
 - racist segregation
-- policing & the criminal legal system
+- policing and the criminal legal system
 - disability labels
 - curriculum
 - student achievement

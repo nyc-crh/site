@@ -39,7 +39,8 @@ tags:
 - Disabled people
 - Black people
 - queer people
-- blindness & low vision
+- blindness and low vision
+
 - Harlem
 questions:
 - How did Audre Lorde feel about reading? 

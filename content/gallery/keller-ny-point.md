@@ -34,7 +34,8 @@ categories:
 - New York State
 - community activism
 tags: 
-- blindness & low vision
+- blindness and low vision
+
 - self-determination
 - communication
 questions: 

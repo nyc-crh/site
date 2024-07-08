@@ -39,7 +39,7 @@ tags:
 - racist segregation
 - organizing
 - North & South
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 questions:
 - What do you notice about the poster? What do you wonder?
 - Who was the audience for this poster? What strategies did the poster employ to enlist that audience into the demonstration?

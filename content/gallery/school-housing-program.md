@@ -40,8 +40,9 @@ tags:
 - Latinx people
 - Black people
 - joy
-- photography, imagery, & visual representation
-- immigrants & migrants
+- photography, imagery, and visual representation
+- immigrants and migrants
+
 questions: 
 - What did Benjamin Franklin HS students do to improve housing in their neighborhood? 
 - How was joy part of this process? How was struggle part of this process? 

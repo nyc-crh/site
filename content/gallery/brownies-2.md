@@ -37,11 +37,11 @@ categories:
 tags: 
 - Black people
 - curriculum
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - joy
 - childhood 
 - NAACP
-- newspapers & the media
+- newspapers and the media
 - autonomous educational spaces
 - student writing
 - the arts

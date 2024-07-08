@@ -38,7 +38,7 @@ tags:
 - organizing
 - racist segregation
 - student writing
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 questions:
 - What do you notice about this NAACP Youth Council publication? What do you wonder?
 - What kind of stories are included in this issue of the publication? Do these stories and the voices that tell them reflect the perspectives of young people? What examples do you see in the text? 

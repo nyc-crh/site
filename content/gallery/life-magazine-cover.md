@@ -39,7 +39,7 @@ tags:
 - queer people 
 - multiracial organizing
 - legislation
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 questions:
 - Why do you think *Life* magazine featured A. Philip Randolph and Bayard Rustin on the cover, rather than speakers like Dr. Martin Luther King, Jr. and John Lewis?
 - What do you notice about the picture? What do you wonder?

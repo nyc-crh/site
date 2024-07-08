@@ -44,7 +44,7 @@ tags:
 - Black people
 - social and economic class
 - women's activism
-- photography, imagery, & visual representation
+- photography, imagery, and visual representation
 - exclusion from schooling
 questions: 
 - What emotions do you see captured in this photograph? How do those emotions relate to the story of Willie Mae Goodman and Marguerite Goodman shared here? 
