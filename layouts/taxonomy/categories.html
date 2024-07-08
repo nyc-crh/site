@@ -14,7 +14,7 @@
   <ul>
     {{ $data := .Data }}
     {{ range $key, $value := .Site.Taxonomies.categories.Alphabetical }}
-    <li><a href="{{ $data.Plural }}/{{ $value.Name | urlize }}"> {{ replace $value.Name "-" " " }}</a> ({{ $value.Count }}) </li>
+    <li><a href="/categories/{{ $value.Name | urlize }}"> {{ replace $value.Name "-" " " }}</a> ({{ $value.Count }}) </li>
     {{ end }}
     </ul>
   </div>
