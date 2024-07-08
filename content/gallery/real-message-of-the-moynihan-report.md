@@ -34,7 +34,7 @@ source_link:
 copyright: Under copyright. Used with permission.
 categories: 
 - national
-- community activsm
+- community activism
 tags: 
 - racist ideas
 - poverty

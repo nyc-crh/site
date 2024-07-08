@@ -32,11 +32,11 @@ Nearly all of the work of the project was conducted virtually, given the COVID-1
 Because there is a robust published scholarship on activism against racism in education in New York City, multiple archival institutions and collections documenting this history, and project co-directors were most familiar with this history, we started here in Year 1. Youth activists whose efforts initiated this project were most familiar with and already engaged with these histories as well. Out of the first year’s work, we identified themes and topics that remain a focus in the site: the school boycotts, Black and Latina women’s educational activism, and systems and policies that foster segregation. We also got feedback on web interface designs, choosing to present primary sources with supporting text and in topical groups and sub-groups alongside timelines of primary sources and events.
 
 {{< gallery >}}
-- resi-1.jpg
+- /project-history/resi-1.jpg
   Project contributors at the Reimagining Education Summer Institute (RESI), 2023
-- resi-2.jpg
+- /project-history/resi-2.jpg
   Pop-up exhibit at RESI 2023
-- resi-3.jpg
+- /project-history/resi-3.jpg
   ""
 {{</ gallery >}}
 
