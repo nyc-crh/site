@@ -35,7 +35,7 @@ categories:
 - parent activism
 - K-12 organizing"
 tags: 
-- zoning andstudent assignment
+- zoning and student assignment
 - racist segregation
 questions:
 - What does it mean that Mrs. Cisco “rests her case solely on the fact that her children were refused admission to the common school on account of their color”? Was Mrs. Cisco arguing that the segregated schools for Black children were inferior, or that she opposed the rejection of her children because they are Black?

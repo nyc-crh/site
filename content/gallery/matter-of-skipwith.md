@@ -38,7 +38,7 @@ tags:
 - racist segregation
 - policing and the criminal legal system
 - protest
-- zoning andstudent assignment
+- zoning and student assignment
 - court cases
 questions: 
 - What evidence did the parents offer to show that their children’s schools were unequal? 

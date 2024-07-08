@@ -37,7 +37,7 @@ categories:
 - K-12 organizing
 tags: 
 - racist segregation
-- zoning andstudent assignment
+- zoning and student assignment
 - Black people
 - Latinx people
 - white people

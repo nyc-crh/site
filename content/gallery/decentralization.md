@@ -37,7 +37,7 @@ categories:
 - Bronx
 - community activism
 tags: 
-- zoning andstudent assignment
+- zoning and student assignment
 - organizing
 - self-determination
 - democracy

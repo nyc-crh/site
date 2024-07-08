@@ -42,7 +42,7 @@ tags:
 - court cases
 - curriculum
 - disability labels
-- zoning andstudent assignment
+- zoning and student assignment
 - student achievement
 - white liberalism
 - ableist ideas
