@@ -36,7 +36,7 @@ categories:
 - student activism
 tags: 
 - autonomous educational spaces
-- North & South
+- North and South
 questions: 
 - Why do you think the document is titled “North to Freedom”? 
 - After reading this document, what do you think African Americans migrating from the South to the North found when they arrived there? What different forms did racism take in the North? 

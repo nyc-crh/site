@@ -14,13 +14,13 @@ cards:
     btn:
       text: View primary sources
       url: /topics/black-latina-women/
-  - title: Boycotting New York's Segregated Schools
-    img: school-boycott.jpg
-    alt: Flyer for school boycott showing a young Black child looking through a broken window
-    text: In 1964, New York’s schools were highly segregated and unequal. It was ten years after the *Brown v. Board of Education* decision that declared school segregation to be unconstitutional. But little had changed in New York City classrooms.
+  - title: How did NYC Segregate its Schools?
+    img: brooklyn-holc-map.jpg
+    alt: Map of New York City labeled &quot;House Number and Transit Guide&quot;
+    text: Many policies, practices, and ideas are behind school segregation in New York City. Explore them here, with a special focus on one school in Brooklyn.
     btn:
       text: View primary sources
-      url: /topics/boycotting-ny-schools/
+      url: /topics/how-did-nyc-segregate
   - title: Joyful Struggle
     img: kids-jump-for-prizes.jpg
     alt: Black children jump rope in front of a crowd of seated people. A referree watches closely. 
@@ -35,13 +35,13 @@ cards:
     btn:
       text: View primary sources
       url: /topics/seeking-equity-for-disabled-students
-  - title: How did NYC Segregate its Schools?
-    img: brooklyn-holc-map.jpg
-    alt: Map of New York City labeled &quot;House Number and Transit Guide&quot;
-    text: Many policies, practices, and ideas are behind school segregation in New York City. Explore them here, with a special focus on one school in Brooklyn.
+  - title: Boycotting New York's Segregated Schools
+    img: school-boycott.jpg
+    alt: Flyer for school boycott showing a young Black child looking through a broken window
+    text: In 1964, New York’s schools were highly segregated and unequal. It was ten years after the *Brown v. Board of Education* decision that declared school segregation to be unconstitutional. But little had changed in New York City classrooms.
     btn:
       text: View primary sources
-      url: /topics/how-did-nyc-segregate
+      url: /topics/boycotting-ny-schools/
   - title: Who Governs NYC Schools?
     img: who-governs.jpg
     alt: Political cartoon

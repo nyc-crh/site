@@ -40,7 +40,7 @@ tags:
 - newspapers and the media
 - protest
 - white liberalism
-- North & South 
+- North and South 
 - organizing
 - racist segregation
 questions:

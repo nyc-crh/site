@@ -36,7 +36,7 @@ categories:
 tags: 
 - legislation
 - white liberalism
-- North & South
+- North and South
 - racist segregation
 questions:
 - In your own words, describe the document and its significance.

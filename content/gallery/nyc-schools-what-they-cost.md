@@ -39,7 +39,7 @@ tags:
 - intellectual disabilities
 - physical disabilities
 - Deaf culture
-- blindness & low-vision
+- blindness and low-vision
 - emotional disabilities
 - disability labels
 - photography, imagery, and visual representation

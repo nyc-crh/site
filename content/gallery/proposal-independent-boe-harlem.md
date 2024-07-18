@@ -41,7 +41,7 @@ tags:
 - self-determination
 - democracy
 - school administration
-- North & South
+- North and South
 questions: 
 - How does CORE describe segregation in this document? In their view, what makes community control of schools a powerful challenge to segregated schooling?
 - CORE compares segregation in the North to the South. In what ways does CORE describe segregation in the North as different or similar to that of the South?

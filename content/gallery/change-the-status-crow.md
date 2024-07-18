@@ -38,7 +38,7 @@ tags:
 - protest
 - racist segregation
 - organizing
-- North & South
+- North and South
 - photography, imagery, and visual representation
 questions:
 - What do you notice about the poster? What do you wonder?

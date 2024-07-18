@@ -40,7 +40,7 @@ tags:
 - Black people
 - protest
 - curriculum
-- North & South
+- North and South
 - multiracial organizing
 - Asian American people
 - organizing
