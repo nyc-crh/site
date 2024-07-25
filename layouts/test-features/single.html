@@ -2,7 +2,7 @@
 <div id="main" class="col-lg-10 mx-auto justify-content-center my-5 d-print-block" data-pagefind-ignore="all">
         <title>{{ .Title }}</title>
         <h1 class="pb-4">{{ .Title | page.RenderString }}</h1>
-        {{ partial "audio-embed.html" .}}
+        {{ partial "audio.html" .}}
         {{ .Content| page.RenderString | safeHTML }}
         <div class="footer-container">
               </div>
