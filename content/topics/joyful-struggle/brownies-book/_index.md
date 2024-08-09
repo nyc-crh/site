@@ -10,11 +10,11 @@ featuredAlt: A young black girl smiles and poses, arms outstretched and standing
 
 In October 1919, W.E.B. Du Bois and his collaborators at *Crisis* (the NAACP’s official magazine) proposed that they publish a new magazine. They outlined seven objectives (note that they used the language of their time to describe children they would call Black or African-American today):
 
+{{% read-more %}}
+
 > (a) To make colored children realize that being “colored” is a normal, beautiful thing.
 >
 > (b) To make them familiar with the history and achievements of the Negro race.
->
-{{% read-more %}}
 >
 > (c) To make them know that other colored children have grown into beautiful, useful and famous persons.
 >
