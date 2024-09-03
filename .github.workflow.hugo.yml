@@ -45,7 +45,7 @@ jobs:
         if: ${{ env.NODE == 'true' }}
         run: npm run build
       - name: Run Pagefind
-        run: npm run build; npx pagefind --source public
+        run: npx pagefind --site public --output-subdir pagefind
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
