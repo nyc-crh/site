@@ -38,39 +38,39 @@ jobs:
         run: npm ci
       - name: "npm run build"
         run: npm run build
-      - name: Create Extended Release
-        run: |
-          EXEC_NAME="pagefind_extended"
-          ASSET_PATH="$EXEC_NAME-v$GIT_VERSION-${{ matrix.target }}.tar.gz"
-          CHECKSUM_PATH="$ASSET_PATH.sha256"
+          - name: Build Coupled JS
+        working-directory: ./pagefind_web_js
+        run: npm i && npm run build-coupled
 
-          if [ "$RUNNER_OS" == "Windows" ]; then
-            EXEC_NAME="pagefind_extended.exe"
-          fi
+      - name: Build WASM
+        working-directory: ./pagefind_web
+        run: ./local_build.sh
 
-          if command -v gtar &> /dev/null; then
-            echo "Using gtar"
-            gtar czf $ASSET_PATH -C target/${{ matrix.target }}/release $EXEC_NAME
-          else
-            echo "Using system tar"
-            tar czf $ASSET_PATH -C target/${{ matrix.target }}/release $EXEC_NAME
-          fi
+      - name: Build UI
+        working-directory: ./pagefind_ui/default
+        run: npm i && npm run build
 
-          case $RUNNER_OS in
-              Windows)
-                  sha256sum $ASSET_PATH > $CHECKSUM_PATH
-                  ;;
-              Linux)
-                  sha256sum $ASSET_PATH > $CHECKSUM_PATH
-                  ;;
-              macOS)
-                  shasum -a 256 $ASSET_PATH > $CHECKSUM_PATH
-                  ;;
-          esac
+      - name: Build Modular UI
+        working-directory: ./pagefind_ui/modular
+        run: npm i && npm run build
 
-          echo "EXTENDED_ASSET_PATH=$ASSET_PATH" >> $GITHUB_ENV
-          echo "EXTENDED_CHECKSUM_PATH=$CHECKSUM_PATH" >> $GITHUB_ENV
+      - name: Test Web
+        working-directory: ./pagefind_web
+        run: cargo test --release
 
+      - name: Build Testing Binary
+        working-directory: ./pagefind
+        run: cargo build --release --features extended
+
+      - name: Upload Testing Binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: pagefind-${{ matrix.target }}
+          path: target/release/pagefind${{ matrix.build == 'windows' && '.exe' || '' }}
+
+      - name: Test Lib
+        working-directory: ./pagefind
+        run: cargo test --release --lib --features extended
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
