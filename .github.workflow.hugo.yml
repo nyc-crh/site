@@ -8,6 +8,8 @@ on:
 env:
   HUGO_VERSION: 0.114.0 # will get Extended Version below
   DART_SASS_VERSION: 1.63.5
+  PAGEFIND_VERSION: 1.1.1
+  NODE: true
   # if you have other environment variables,
   # enter them here in similar fashion
 
@@ -36,14 +38,14 @@ jobs:
         run: npm ci
       - name: "npm run build"
         run: npm run build
-      - name: Install Pagefind without npm/Node.js
-        if: ${{ env.NODE != 'true' }}
-        uses: supplypike/setup-bin@v3
-        with:
-      - name: Build site with Hugo
-        run: hugo --gc --minify
+      - name: Install Hugo, Pagefind, etc. with npm/Node.js
+        if: ${{ env.NODE == 'true' }}
+        run: npm install
+      - name: Build Hugo site and run Pagefind with npm/Node.js
+        if: ${{ env.NODE == 'true' }}
+        run: npm run build
       - name: Run Pagefind
-        run: npm run build; npx pagefind --source dist
+        run: npm run build; npx pagefind --source public
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
