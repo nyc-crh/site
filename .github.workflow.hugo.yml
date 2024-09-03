@@ -41,7 +41,7 @@ jobs:
       - name: Install Hugo, Pagefind, etc. with npm/Node.js
         run: ./pagefind --site "public"
       - name: Run Pagefind
-        run: npx pagefind --site public --output-subdir pagefind
+        run: npm run build; npx pagefind --source dist
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
