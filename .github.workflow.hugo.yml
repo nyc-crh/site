@@ -39,11 +39,7 @@ jobs:
       - name: "npm run build"
         run: npm run build
       - name: Install Hugo, Pagefind, etc. with npm/Node.js
-        if: ${{ env.NODE == 'true' }}
-        run: npm install
-      - name: Build Hugo site and run Pagefind with npm/Node.js
-        if: ${{ env.NODE == 'true' }}
-        run: npm run build
+        run: ./pagefind --site "public"
       - name: Run Pagefind
         run: npx pagefind --site public --output-subdir pagefind
       - name: Deploy to Server
