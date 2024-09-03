@@ -1,1 +1,8 @@
-
+{
+  "name": "test-cloudflare-deploy",
+  "version": "0..0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler publish",
+    "start": "wrangler dev"
+    }
