@@ -43,7 +43,7 @@ jobs:
       - name: Build site with Hugo
         run: hugo --gc --minify
       - name: Run Pagefind
-        run: npx -y pagefind@latest --site docs/public
+        run: npm run build; npx pagefind --source dist
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
