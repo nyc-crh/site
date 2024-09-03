@@ -38,8 +38,8 @@ jobs:
         run: npm run build
       - name: Build site with Hugo
         run: hugo --gc --minify
-      - name: Create search index wiith pagefind
-        run: npx -y pagefind --source public --serve
+      - name: Run Pagefind
+        run: npm_config_yes=true npx pagefind --site "public"
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
@@ -50,5 +50,4 @@ jobs:
           REMOTE_USER: ${{ secrets.USERNAME }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
           EXCLUDE: "/dist/, /node_modules/"
-      - name: Run Pagefind
-        run: npm_config_yes=true npx pagefind --site "public"
+
