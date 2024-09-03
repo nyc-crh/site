@@ -50,4 +50,5 @@ jobs:
           REMOTE_USER: ${{ secrets.USERNAME }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
           EXCLUDE: "/dist/, /node_modules/"
-        
+      - name: Run Pagefind
+        run: npm_config_yes=true npx pagefind --site "public"
