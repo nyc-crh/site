@@ -38,10 +38,39 @@ jobs:
         run: npm ci
       - name: "npm run build"
         run: npm run build
-      - name: Install Hugo, Pagefind, etc. with npm/Node.js
-        run: ./pagefind --site "public"
-      - name: Run Pagefind
-        run: npm run build; npx pagefind --source dist
+      - name: Create Extended Release
+        run: |
+          EXEC_NAME="pagefind_extended"
+          ASSET_PATH="$EXEC_NAME-v$GIT_VERSION-${{ matrix.target }}.tar.gz"
+          CHECKSUM_PATH="$ASSET_PATH.sha256"
+
+          if [ "$RUNNER_OS" == "Windows" ]; then
+            EXEC_NAME="pagefind_extended.exe"
+          fi
+
+          if command -v gtar &> /dev/null; then
+            echo "Using gtar"
+            gtar czf $ASSET_PATH -C target/${{ matrix.target }}/release $EXEC_NAME
+          else
+            echo "Using system tar"
+            tar czf $ASSET_PATH -C target/${{ matrix.target }}/release $EXEC_NAME
+          fi
+
+          case $RUNNER_OS in
+              Windows)
+                  sha256sum $ASSET_PATH > $CHECKSUM_PATH
+                  ;;
+              Linux)
+                  sha256sum $ASSET_PATH > $CHECKSUM_PATH
+                  ;;
+              macOS)
+                  shasum -a 256 $ASSET_PATH > $CHECKSUM_PATH
+                  ;;
+          esac
+
+          echo "EXTENDED_ASSET_PATH=$ASSET_PATH" >> $GITHUB_ENV
+          echo "EXTENDED_CHECKSUM_PATH=$CHECKSUM_PATH" >> $GITHUB_ENV
+
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
