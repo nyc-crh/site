@@ -8,6 +8,8 @@ on:
 env:
   HUGO_VERSION: 0.114.0 # will get Extended Version below
   DART_SASS_VERSION: 1.63.5
+  PAGEFIND_VERSION: 1.1.1
+  NODE: true
   # if you have other environment variables,
   # enter them here in similar fashion
 
@@ -36,10 +38,39 @@ jobs:
         run: npm ci
       - name: "npm run build"
         run: npm run build
-      - name: Build site with Hugo
-        run: hugo --gc --minify
-      - name: Create search index wiith pagefind
-        run: npx -y pagefind --source public --serve
+          - name: Build Coupled JS
+        working-directory: ./pagefind_web_js
+        run: npm i && npm run build-coupled
+
+      - name: Build WASM
+        working-directory: ./pagefind_web
+        run: ./local_build.sh
+
+      - name: Build UI
+        working-directory: ./pagefind_ui/default
+        run: npm i && npm run build
+
+      - name: Build Modular UI
+        working-directory: ./pagefind_ui/modular
+        run: npm i && npm run build
+
+      - name: Test Web
+        working-directory: ./pagefind_web
+        run: cargo test --release
+
+      - name: Build Testing Binary
+        working-directory: ./pagefind
+        run: cargo build --release --features extended
+
+      - name: Upload Testing Binary
+        uses: actions/upload-artifact@v4
+        with:
+          name: pagefind-${{ matrix.target }}
+          path: target/release/pagefind${{ matrix.build == 'windows' && '.exe' || '' }}
+
+      - name: Test Lib
+        working-directory: ./pagefind
+        run: cargo test --release --lib --features extended
       - name: Deploy to Server
         uses: easingthemes/ssh-deploy@main
         env:
@@ -50,4 +81,4 @@ jobs:
           REMOTE_USER: ${{ secrets.USERNAME }}
           TARGET: ${{ secrets.REMOTE_TARGET }}
           EXCLUDE: "/dist/, /node_modules/"
-        
+

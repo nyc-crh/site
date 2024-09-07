@@ -6,3 +6,12 @@ name = "icy-union-e8e8" compatibility_date = "2024-08-21"
     "deploy": "wrangler publish",
     "start": "wrangler dev"
     }
+
+{
+  "name": "test-cloudflare-deploy",
+  "version": "0..0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler publish",
+    "start": "wrangler dev"
+    }
