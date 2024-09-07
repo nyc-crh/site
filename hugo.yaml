@@ -23,24 +23,27 @@ menu:
   - name: Gallery
     pageRef: /gallery
     weight: 2
+  - name: Timeline
+    pageRef: /timeline
+    weight: 3
   - name: Topics
     pageRef: /topics
-    weight: 3
+    weight: 4
   - name: Key Concepts
     pageRef: /key-concepts
-    weight: 4
+    weight: 5
   - name: Teaching Resources
     pageRef: /teaching-resources
-    weight: 5
+    weight: 6
   - name: Project History
     pageRef: /project-history
-    weight: 6
+    weight: 7
   - name: News and Events
     pageRef: /news-and-events
-    weight: 7
+    weight: 8  
   - name: Search
     pageRef: /search
-    weight: 8
+    weight: 9
 
 markup:
   goldmark:

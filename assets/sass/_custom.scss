@@ -21,6 +21,10 @@ section {
     padding: 10px 0
 }
 
+main a {
+    text-underline-offset: 2px;
+}
+
 .timeline {
     position: relative
 }
