@@ -1,6 +1,6 @@
 <div id="skip"><a href="#main">Skip to Main Content</a></div>
 <div class="col-sm-2 sidebar-offcanvas sidebackground " id="sidebar" role="navigation">
-<div class="col-auto px-0 offcanvas offcanvas-start " tabindex="-1" id="sidebar" aria-labelledby="sidebar">
+<div class="col-auto px-0 offcanvas offcanvas-start " tabindex="-1" aria-labelledby="sidebar">
   <div class="border-end visible-lg offcanvas-header "> 
       <div class="sitelogo offcanvas-body ">
         <a class="navbar-brand" href="/home">
@@ -11,7 +11,7 @@
     <ul class="navbar-nav mb-sm-0">
       {{ range .Site.Menus.main }}
       <li class="nav-item">
-        <a class="px-2 nav-link{{ if $.IsMenuCurrent "main" . }} active" aria-current="page{{ end }}" href="{{ .URL }}">{{ .Pre }}
+        <a class="px-2 nav-link{{ if $.IsMenuCurrent "main" . }} "active aria-current="page{{ end }}" href="{{ .URL }}">{{ .Pre }}
           <span>{{ .Name }}</span></a>
       </li>
       {{ end }}
