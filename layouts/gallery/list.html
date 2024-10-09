@@ -1,6 +1,6 @@
 {{ define "main" }}
 <title>{{ .Params.title }}</title>
-<div id="main" class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="index">
+<div class="col-lg-10 mx-auto justify-content-center py-5 d-print-block" data-pagefind-ignore="index">
    <div class="container-fluid">
     <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <div class="navbar-nav">
@@ -25,7 +25,7 @@
                     {{ end }}
       
       <div class="panel-body pt-3">
-        <h3 class="panel-title pull-left">{{ .Params.title| page.RenderString | safeHTML }}</h3>
+        <h2 class="panel-title pull-left">{{ .Params.title| page.RenderString | safeHTML }}</h2>
       </div>
     </div>
   </a>
