@@ -1,17 +1,17 @@
 --- 
 layout: video
 draft: false
-title: Nelly Luna reads “We Demand”
-featured: nelly-luna-video.jpg
-featuredAlt: Still image of a videotaped reading by Nelly Luna
+title: East Luna reads “We Demand”
+featured: east-luna-video.jpg
+featuredAlt: Still image of a videotaped reading by East Luna
 video: 
   srcType: youtube
   srcLink: fN1r6I_UeRg
-videoTitle: Nelly Luna reads “We Demand”
+videoTitle: East Luna reads “We Demand”
 videoAsl: 
   srcType: youtube
   srcLink: f0tobEnZBFU
-videoAslTitle: Nelly Luna reads “We Demand” (ASL)
+videoAslTitle: East Luna reads “We Demand” (ASL)
 --- 
  
-Nelly Luna does a close reading of [“We Demand”](/gallery/we-demand)
+East Luna does a close reading of [“We Demand”](/gallery/we-demand)
