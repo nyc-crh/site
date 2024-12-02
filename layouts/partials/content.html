@@ -1,4 +1,4 @@
-<img class="d-none"data-pagefind-meta="image[src], image_alt[alt]" src="/images/{{.Params.featured }}"alt="{{with $.Params.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}"/>
+<img class= "d-none" data-pagefind-meta="image[src], image_alt[alt]" src="/images/{{.Params.featured }}"alt="{{with $.Params.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}"/>
 <p><strong>Date:</strong> {{ if .Params.Displaydate }}{{ .Params.Displaydate | page.RenderString | safeHTML}}
     {{ else }}{{ .Params.Date.Format "Jan 2, 2006" | page.RenderString | safeHTML}}{{ end }}</p>
     <p><strong>Caption:</strong> {{ .Params.caption | page.RenderString | safeHTML }}</p>

@@ -1,5 +1,5 @@
 {{ define "main" }}
-<img data-pagefind-meta="image[src], image_alt[alt]" src="/images/{{.Params.featured }}"alt="{{with $.Params.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}"/>
+<img class ="d-none" data-pagefind-meta="image[src], image_alt[alt]" src="/images/{{.Params.featured }}"alt="{{with $.Params.featuredAlt}}{{ . }}{{else}}{{$.Title}}{{end}}"/>
 <div class="main col-lg-6 mx-auto justify-content-center py-5 d-print-block">
                  <p>{{ .Content | page.RenderString | safeHTML }}</p>
                  <title data-pagefind-meta="title">{{ .Title}} </title>
