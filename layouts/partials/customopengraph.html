@@ -1,4 +1,4 @@
-<title meta property="og:title" content="{{ .Title }}"></title>
+<meta property="og:title" content="{{ .Title }}"/>
 <meta property="og:description" content="{{ with .Params.eventname }}{{ . }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}{{ end }}" />
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="fb:app_id" content=" " />
