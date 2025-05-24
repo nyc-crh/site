@@ -126,7 +126,8 @@ _build:
   publishResources: true
   render: always
 
-paginate: 20
+pagination:
+  pagerSize: 20
 summaryLength: 7
 
 outputs:
