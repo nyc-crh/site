@@ -33,7 +33,7 @@ copyright: Public domain
 categories: 
 - K-12 organizing
 - Manhattan
-- community activism"
+- community activism
 tags: 
 - Harlem
 - self-determination
@@ -46,10 +46,8 @@ tags:
 - organizing
 questions: 
 - Why was education important to the Black Panther Party?
-- >
- George Miller signed the letter “yours for unity, power, and self determination.” How do you see these themes reflected in the text of the letter?
-- >
- Why do you think the party chose a “shut down,” or a boycott, of schools as their form of protest?
+- George Miller signed the letter “yours for unity, power, and self determination.” How do you see these themes reflected in the text of the letter?
+- Why do you think the party chose a “shut down,” or a boycott, of schools as their form of protest?
 --- 
 
 The Black Panther Party’s Harlem Branch, founded in 1966, defined Black Power as “having the right to self-determination or the power to decide what should go down in our community,” and “being the decision makers, the policy makers.”[^1]

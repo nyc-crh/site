@@ -8,11 +8,11 @@ bundleTitle: The Less-Known 1965 Boycott
 date: 1966-09-01
 displaydate: "September 1966"
 title: "\"600\" Schools, Yesterday, Today, and Tomorrow, excerpts"
-author: New York City Board of Education"
+author: New York City Board of Education
 citation: >
  "'600' Schools, Yesterday, Today, and Tomorrow, excerpts," New York City Board of Education, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/600-schools-yesterday-today-tomorrow.
 featured: 600-schools-yesterday-today-tomorrow.jpg
-featuredAlt: "Cover of Committee Study: &quot;600&quot; Schools, Yesterday, Today, and Tomorrow"
+featuredAlt: Cover of committee study
 detailedDescr: 
 embed: 600-schools-yesterday-today-tomorrow.pdf
 embedTitle: "\"600\" Schools, Yesterday, Today, and Tomorrow, excerpts"
@@ -25,7 +25,7 @@ video:
 videoTitle: 
 closeRdImg: 
 closeRdLink: 
-eventname: "Report published on \"600\" Schools for NYC DOE"
+eventname: Report published on "600" Schools for NYC DOE
 caption: The Board of Education of the City of New York studied the "600" schools. These were schools that, in the 1960s, kept students labeled “socially maladjusted,” out of regular schools and classes. Most of the students in the “600” schools at the time were Black and Puerto Rican boys.
 archive_source: Municipal Archives
 source_link: 
