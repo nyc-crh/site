@@ -1,7 +1,6 @@
 ---
 title: The Parents’ Movement for Deinstitutionalization and School Access
 layout: bundle-gallery
-type: list
 draft: false
 featured: first-billboard.jpg
 featuredAlt: Parent activists in front of a billboard that reads, &quot;Retarded Children Can be Helped! They need Research, Schools, Clinics. Give to AHRC&quot;

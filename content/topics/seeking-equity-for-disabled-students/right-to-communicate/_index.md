@@ -1,7 +1,6 @@
 ---
 title: The Right to Communicate
 layout: bundle-gallery
-type: list
 draft: false
 featured: lexington-school-for-deaf.jpg
 featuredAlt: Protestors outside of a school holding signs. One says, &quot;Deaf CEO Now!&quot;

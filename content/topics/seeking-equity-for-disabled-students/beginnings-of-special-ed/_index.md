@@ -1,7 +1,6 @@
 ---
 title: The Beginnings of Special Education
 layout: bundle-gallery
-type: list
 draft: false
 featured: idiot-school-randalls-island.jpg
 featuredAlt: Illustration of a 19th Century classroom

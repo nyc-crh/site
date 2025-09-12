@@ -1,7 +1,6 @@
 ---
 title: 'Behavior and Control: Disability and Incarceration'
 layout: bundle-gallery
-type: list
 draft: false
 featured: chart-of-inmates.jpg
 featuredAlt: Pie chart showing the percent of classes of &quot;inmates&quot; at state institutions 

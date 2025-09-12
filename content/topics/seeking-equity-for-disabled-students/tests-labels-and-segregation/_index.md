@@ -1,7 +1,6 @@
 ---
 title: Tests, Labels, and Segregation in New York City
 layout: bundle-gallery
-type: list
 draft: false
 featured: binet-simon.jpg
 featuredAlt: Text from a manual for the Binet-Simon scale

@@ -1,7 +1,6 @@
 ---
 title: 'Fighting to Fit In: Physical Access'
 layout: bundle-gallery
-type: list
 draft: false
 featured: sofedup-handbook.jpg
 featuredAlt: Student handbook cover

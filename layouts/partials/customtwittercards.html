@@ -14,12 +14,12 @@
 
 {{- /* Deprecate site.Social.twitter in favor of site.Params.social.twitter */}}
 {{- $twitterSite := "" }}
-{{- with site.Params.social }}
+{{- with .Site.Params.Social }}
   {{- if reflect.IsMap . }}
     {{- $twitterSite = .twitter }}
   {{- end }}
 {{- else }}
-  {{- with site.Social.twitter }}
+  {{- with site.Params.Social.twitter }}
     {{- $twitterSite = . }}
     {{- warnf "The social key in site configuration is deprecated. Use params.social.twitter instead." }}
   {{- end }}

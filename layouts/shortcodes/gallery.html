@@ -16,7 +16,7 @@
 {{- $durationShrink := .Get "durshrink" | default "0.25s" | safeCSS -}}
 <style>
   {{ $sass := resources.Get "sass/gallery-grid.scss" }}
-  {{ ($sass | resources.ToCSS | minify).Content | safeCSS }}
+  {{ ($sass | css.Sass | minify).Content | safeCSS }}
 </style>
 <section
   class="

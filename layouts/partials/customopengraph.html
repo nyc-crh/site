@@ -36,12 +36,12 @@
 
 {{- /* Deprecate site.Social.facebook_admin in favor of site.Params.social.facebook_admin */}}
 {{- $facebookAdmin := "" }}
-{{- with site.Params.social }}
+{{- with .Site.Params.Social }}
   {{- if reflect.IsMap . }}
     {{- $facebookAdmin = .facebook_admin }}
   {{- end }}
 {{- else }}
-  {{- with site.Social.facebook_admin }}
+  {{- with .Site.Params.Social.facebook_admin }}
     {{- $facebookAdmin = . }}
     {{- warnf "The social key in site configuration is deprecated. Use params.social.facebook_admin instead." }}
   {{- end }}
