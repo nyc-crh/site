@@ -1,9 +1,10 @@
-name = "icy-union-e8e8" compatibility_date = "2024-08-21"
-  "name": "cloudflare-deploy",
-  "pages_build_output_dir": "public",
+name = "cloudflare-deploy"
+compatibility_date = "2025-10-16"
+pages_build_output_dir = "public"
   "version": "0..0",
   "private": true,
   "scripts": {
     "deploy": "wrangler publish",
     "start": "wrangler dev"
     }
+
