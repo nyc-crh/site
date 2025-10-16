@@ -6,7 +6,7 @@ on:
       - main # or whatever you call your production branch
 
 env:
-  HUGO_VERSION: 0.114.0 # will get Extended Version below
+  HUGO_VERSION: 0.147.5+extended+withdeploy # will get Extended Version below
   DART_SASS_VERSION: 1.63.5
   PAGEFIND_VERSION: 1.1.1
   NODE: true
