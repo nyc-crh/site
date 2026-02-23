@@ -62,7 +62,7 @@ main() {
   # Build the site
   echo "Building the site..."
   rm -f node_modules/.bin/sass node_modules/.bin/dart-sass-embedded || true
-  hugo --gc --minify
+  hugo --quiet --gc --minify
 
 }
 
