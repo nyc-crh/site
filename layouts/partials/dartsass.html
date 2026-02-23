@@ -5,7 +5,7 @@
 {{ $optsToCSS = (dict "transpiler" "dartsass" "enableSourceMap" true "includePaths" (slice "node_modules")) }}
 {{ end }}
 <!-- get source file and compile -->
-{{ $scssMain := resources.Get . | css.Sass $optsToCSS }}
-{{ $css := $scssMain | css.Sass (dict "targetPath" "assets/css/main.css") }}
+{{ $scssMain := resources.Get . | toCSS $optsToCSS }}
+{{ $css := $scssMain | toCSS (dict "targetPath" "assets/css/main.css") }}
 <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 <!-- gallery sass compile -->
