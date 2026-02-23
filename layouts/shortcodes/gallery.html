@@ -15,17 +15,24 @@
 {{- $durationExpand := .Get "durexpand" | default "0.5s" | safeCSS -}}
 {{- $durationShrink := .Get "durshrink" | default "0.25s" | safeCSS -}}
 <style>
-  {{ $sass := resources.Get "sass/gallery-grid.scss" }}
-  {{ ($sass | css.Sass | minify).Content | safeCSS }}
+  {
+      {
+      $sass : =resources.Get "sass/gallery-grid.scss"
+    }
+  }
+
+    {
+      {
+      ($sass | toCSS | minify).Content | safeCSS
+    }
+  }
 </style>
-<section
-  class="
+<section class="
     grid-gallery
   {{- with $class }}
     {{ . }}
   {{ end -}}
-  "
-  style="
+  " style="
     --grid-cols: {{ $gridCols }};
     --grid-gallery-background: {{ $gridBackground }};
     --grid-gallery-image-aspect: {{ $imageAspectRatio }};
@@ -39,26 +46,25 @@
     --grid-gallery-scale-factor: {{ $scaleFactor }};
     --grid-gallery-duration-expand: {{ $durationExpand }};
     --grid-gallery-duration-shrink: {{ $durationShrink }};
-  "
->
+  ">
   <ul role="list">
     {{ range $items -}}
-      {{- $fields := split . "\n  " -}}
-      {{- $src := index $fields 0 }}
-      {{- $alt := index $fields 1 }}
-      {{- $cap := index $fields 2 }}
-      {{ with $src -}}
-        <li>
-          <button>
-            <figure>
-              <img src="{{ . }}" {{ with $alt }}alt="{{ . }}"{{ end }} />
-              {{ with $cap -}}
-                <figcaption>{{ . }}</figcaption>
-              {{ end -}}
-            </figure>
-          </button>
-        </li>
-      {{ end -}}
+    {{- $fields := split . "\n " -}}
+    {{- $src := index $fields 0 }}
+    {{- $alt := index $fields 1 }}
+    {{- $cap := index $fields 2 }}
+    {{ with $src -}}
+    <li>
+      <button>
+        <figure>
+          <img src="{{ . }}" {{ with $alt }}alt="{{ . }}" {{ end }} />
+          {{ with $cap -}}
+          <figcaption>{{ . }}</figcaption>
+          {{ end -}}
+        </figure>
+      </button>
+    </li>
+    {{ end -}}
     {{ end -}}
   </ul>
 </section>
