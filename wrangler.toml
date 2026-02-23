@@ -1,10 +1,9 @@
-name = "aged-lake-1065" compatibility_date = "2025-08-21"
-  "name": "cloudflare-deploy",
-  "pages_build_output_dir": "public",
-  "version": "0..0",
-  "private": true,
-  "scripts": {
-    "deploy": "wrangler publish",
-    "start": "wrangler dev"
-    }
+name = "archive-wrangler" 
+compatibility_date = "2026-02-23" 
 
+[build]
+command = "./build.sh"
+
+[assets]
+directory = "./public"
+not_found_handling = "404-page"
