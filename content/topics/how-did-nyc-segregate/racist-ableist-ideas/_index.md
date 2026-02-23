@@ -8,7 +8,6 @@ graphiImgAlt:
 graphicTitle2:
 graphicImg2:
 graphiImgAlt2: 
-draft: false
 ---
 
 Racist and ableist ideas have appeared in education in many forms - from white opposition to Black schooling in the 19th century in the North and the South, [to claims of racial differences in intelligence](/topics/seeking-equity-for-disabled-students/tests-labels-and-segregation/), to [white New Yorkers’ statements that only they counted as “parents and taxpayers.”](/topics/boycotting-ny-schools/responding-to-the-boycott/) Racist and ableist ideas have often been tools of segregation. Historically, these ideas claimed to justify segregation, suggesting that it was appropriate for students in different racial or ability categories to attend school separately or to have unequal educational opportunities.

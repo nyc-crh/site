@@ -1,7 +1,7 @@
 ---
 title: Title in Title Case
 layout: plain-text
-draft: false
+draft: true
 ---
 Statement by Martin H. GerryDirectOr, Office.for Civil RightsDepartment of Health, Educatica andWelfare
 yesterday, I met with Chancellor Irving Anker of the NewYork City schoolsystem to advise him of my conclusionthat the achool system is violating civilrights laws which prohibit discrimination againstminority, female, and handi-capped students.

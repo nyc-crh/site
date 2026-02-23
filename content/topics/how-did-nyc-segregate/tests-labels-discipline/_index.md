@@ -8,7 +8,6 @@ graphiImgAlt:
 graphicTitle2:
 graphicImg2:
 graphiImgAlt2: 
-draft: false
 ---
 Many policies outside of schools – such as in housing – produce segregation between schools. But segregation happens through practices inside schools as well. Black and Latinx students and Disabled students and students labeled as disabled are likely to experience different courses, climates, classrooms, and discipline measures than their white or non-disabled peers. This is not an accident. It is often the result of identifiable policy choices within schools.
 

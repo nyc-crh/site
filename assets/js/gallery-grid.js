@@ -55,7 +55,7 @@ const setDataAttrs = ($elems, $parent) => {
     const t = getTop($elems[i])
     // Check when top offset changes
     if (t != top) {
-      // Set the number of columns and stop the loop
+      // Set the number of columns and stop the 
       $parent.setAttribute('data-cols', i)
       break
     }

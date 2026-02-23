@@ -38,13 +38,13 @@ Historical documents about struggles for educational justice in New York City ar
 
 ## Feedback
 
-History is always a work in progress. Interpretations of the past change as we learn more through finding new sources, and from applying new ideas and questions to the sources we have. The New York City Civil Rights Project is a work in progress in this sense and in others. There is so much yet to learn about how students of color and Disabled students experienced education in New York City, and how they and those who loved them fought for justice. And there is much left to learn about how best to teach these histories.Thank you for keeping this in mind as you explore our work. We look forward to your comments, questions, and ideas. Please feel free to contact us at [feedback@nyccivilrightshistory.org](mailto:feedback@nyccivilrightshistory.org)
+History is always a work in progress. Interpretations of the past change as we learn more through finding new sources, and from applying new ideas and questions to the sources we have. The New York City Civil Rights Project is a work in progress in this sense and in others. There is so much yet to learn about how students of color and Disabled students experienced education in New York City, and how they and those who loved them fought for justice. And there is much left to learn about how best to teach these histories.Thank you for keeping this in mind as you explore our work. We look forward to your comments, questions, and ideas. Please feel free to contact us at [che@tc.columbia.edu](mailto:che@tc.columbia.edu).
 
 ## Copyright
 
 The New York City Civil Rights History Project includes reproductions of materials created by other parties. Some of the materials are in the public domain, and others are protected by copyright. Where we use materials that are under copyright, we do so either under the terms of [fair use](https://guides.library.cornell.edu/ld.php?content_id=63936868) or with the express permission of the copyright holder.
 
-Where we reproduce materials created by other parties, we have made our best effort to secure all necessary rights. If you believe that we have made a mistake, please contact us [feedback@nyccivilrightshistory.org](mailto:feedback@nyccivilrightshistory.org) so that we can correct the oversight.
+Where we reproduce materials created by other parties, we have made our best effort to secure all necessary rights. If you believe that we have made a mistake, please contact us [che@tc.columbia.edu](mailto:che@tc.columbia.edu) so that we can correct the oversight.
 
 If you would like to reproduce materials created by other parties and included on this website, it is your obligation to determine and satisfy copyright or other use restrictions. You are solely responsible for determining whether the use of any digital object requires the permission of any other person or entity, and you are responsible for paying any associated fees.
 
@@ -63,7 +63,7 @@ The New York City Civil Rights History Project is committed to ensuring digital 
 - Create meaningful descriptions for visual content.
 - Test our site for usability by seeking feedback from diverse users and through using freely available software like WebAIM and axe DevTools to test for conformance to the Web Content Accessibility Guidelines (WCAG).
 
-Please let us know if you encounter accessibility barriers when trying to use the site or if you have ideas for how to make the content more accessible: [feedback@nyccivilrightshistory.org](mailto:feedback@nyccivilrightshistory.org)
+Please let us know if you encounter accessibility barriers when trying to use the site or if you have ideas for how to make the content more accessible: [che@tc.columbia.edu](mailto:che@tc.columbia.edu).
 
 ### Conformance status
 

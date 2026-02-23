@@ -8,7 +8,6 @@ graphiImgAlt:
 graphicTitle2:
 graphicImg2:
 graphiImgAlt2: 
-draft: false
 ---
 
 Most Americans live in segregated areas.[^1] And most - but not all - schools enroll students based on where they live. Therefore, residential segregation is one key factor in school segregation.

@@ -8,7 +8,6 @@ graphiImgAlt:
 graphicTitle2:
 graphicImg2:
 graphiImgAlt2: 
-draft: false
 ---
 
 Do school enrollments match the neighborhoods or areas where schools are located? That is, does the school’s student population, in terms of race, language, ability, class, or other factors, look similar to that of the surrounding area? Why or why not?

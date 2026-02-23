@@ -8,7 +8,6 @@ graphiImgAlt:
 graphicTitle2:
 graphicImg2:
 graphiImgAlt2: 
-draft: false
 ---
 
 Who decided what happened at Mark Twain Junior High School? Many of the decisions that produced segregation at the school, including school zone lines, were made by Community School District 21. It’s important to ask not only what decisions fostered segregation, but who was making them.
