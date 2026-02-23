@@ -1,11 +1,12 @@
 <!-- sass options common to dev and production -->
-{{ $optsToCSS := (dict "transpiler" "dartsass" "outputStyle" "compressed" "includePaths" (slice "node_modules")) }}
+{{ $optsToCSS := (dict "transpiler" "dartsass" "targetPath" "assets/css/main.css" "outputStyle" "compressed"
+"includePaths" (slice "node_modules")) }}
 <!-- production options -->
 {{ if eq hugo.Environment "development" }}
-{{ $optsToCSS = (dict "transpiler" "dartsass" "enableSourceMap" true "includePaths" (slice "node_modules")) }}
+{{ $optsToCSS = (dict "transpiler" "dartsass" "targetPath" "assets/css/main.css" "enableSourceMap" true "includePaths"
+(slice "node_modules")) }}
 {{ end }}
 <!-- get source file and compile -->
 {{ $scssMain := resources.Get . | toCSS $optsToCSS }}
-{{ $css := $scssMain | toCSS (dict "targetPath" "assets/css/main.css") }}
-<link rel="stylesheet" href="{{ $css.RelPermalink }}">
+<link rel="stylesheet" href="{{ $scssMain.RelPermalink }}">
 <!-- gallery sass compile -->

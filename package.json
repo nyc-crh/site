@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "exec-bin node_modules/.bin/hugo/hugo server --gc --disableFastRender",
     "dev:preview": "exec-bin node_modules/.bin/hugo/hugo server --gc --disableFastRender --buildFuture --buildDrafts",
-    "build": "exec-bin node_modules/.bin/hugo/hugo --gc --cleanDestinationDir --minify",
+    "build": "chmod -R +rx node_modules/sass-embedded node_modules/.bin || true ; exec-bin node_modules/.bin/hugo/hugo --gc --cleanDestinationDir --minify",
     "renderToDisk:dev": "exec-bin node_modules/.bin/hugo/hugo server --disableFastRender --renderToDisk --cleanDestinationDir",
     "renderToDisk:preview": "exec-bin node_modules/.bin/hugo/hugo server --renderToDisk --cleanDestinationDir --disableFastRender --buildDrafts --buildFuture ",
     "renderToDisk:production": "exec-bin node_modules/.bin/hugo/hugo server --renderToDisk --cleanDestinationDir --disableFastRender --gc --minify --environment production",
