@@ -61,7 +61,7 @@ main() {
 
   # Build the site
   echo "Building the site..."
-  chmod +x node_modules/.bin/sass
+  rm -f node_modules/.bin/sass node_modules/.bin/dart-sass-embedded || true
   hugo --gc --minify
 
 }
