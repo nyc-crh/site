@@ -64,6 +64,9 @@ main() {
   rm -f node_modules/.bin/sass node_modules/.bin/dart-sass-embedded || true
   hugo --quiet --gc --minify
 
+  # Run pagefind
+  echo "Running pagefind..."
+  npx -y pagefind --site public
 }
 
 set -euo pipefail
