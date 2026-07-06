@@ -6,9 +6,9 @@ displaydate:
 title: The Disability Independence Day March
 author: Tari Hartman Squire
 citation: > 
- "The Disability Independence Day March"," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/disability-independence-day-march.
+ "The Disability Independence Day March," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/disability-independence-day-march.
 featured: disability-independence-day-march.jpg
-featuredAlt: Several wheelchair users and a little person marchi in a parade with a banner
+featuredAlt: Wheelchair users and a little person march in a parade with a banner
 embed: 
 embedTitle: 
 text: 
@@ -43,15 +43,15 @@ questions:
 - What connections do you see between this photograph and what you have learned  about Camp Jened?
 --- 
 
-After Camp Jened closed in 1977, many former campers stayed connected to one another. The sense of community and possibility they built at camp became an inspiration and source of strength for the developing disability rights movement.[^1]  
+After Camp Jened closed in 1977, many former campers stayed connected to one another. The sense of community and possibility they built at the camp became an inspiration and source of strength for the developing disability rights movement.[^1]  
 
-Through the Great Depression, World War II, and into the Cold War, Disabled people and their allies laid important groundwork that later disability activists built on. Activists began to identify disability as a social category linked to and used to justify inequality. They sought connection across people with different kinds of disabilities, although racism, classism, sexism, and other divisions hindered cross-disability organizing. Civil rights wins led by African Americans and other people of color provided the movement a language of rights. Disability rights activists turned to legal victories like *Brown v. Board of Education* (ending racial segregation in schools) as resources in making their own claims against segregation and for access for Disabled people.[^2]
+Through the Great Depression, World War II, and into the Cold War, Disabled people and their allies laid important groundwork that later disability activists built on. Activists began to identify disability as a social category linked to and used to justify inequality. They sought connection across people with different kinds of disabilities, although racism, classism, sexism, and other divisions sometimes hindered cross-disability organizing. Civil rights wins led by African Americans and other people of color provided the movement with a language of rights. Disability rights activists turned to legal victories like *Brown v. Board of Education* (ending racial segregation in schools) as resources in making their own claims against segregation, and for access for Disabled people.[^2]
 
-In the 1960s and 1970s, earlier strands of disability rights activism became a more unified movement. Activism by Disabled people and their allies secured legislation against discrimination and for funding and legal requirements for accessibility. Activists criticized oppressive institutions (as in the struggle against New York City’s [Willowbrook](gallery/your-child-and-willowbrook)) and expanded educational access from early childhood through university.[^3] Camp Jened alumni including Judy Heumann and others were visible leaders of this movement.
+In the 1960s and 1970s, earlier strands of disability rights activism became a more unified movement. Activism by Disabled people and their allies secured legislation against discrimination and for funding and legal requirements for accessibility. Activists criticized oppressive institutions (as in the struggle against New York’s [Willowbrook State School](gallery/your-child-and-willowbrook)) and expanded educational access from early childhood through university.[^3] Camp Jened alumni, including Judy Heumann and others, were visible leaders of this movement.
 
-In one key victory, the Americans with Disabilities Act (ADA) became law on July 26, 1990. Disabled people and those in solidarity with them launched the first-ever Disability Pride Parade in New York City that year. Organizers including Nadina LaSpina and Danny Roberts helped establish the tradition of marking the passage of the ADA with a parade in New York City.
+In one key victory, the Americans with Disabilities Act (ADA) became law on July 26, 1990. Disabled people and those in solidarity with them launched the Disability Independence Day March in New York City once all of the provisions of the law were in effect two years later. Organizers including Nadina LaSpina and Danny Robert helped establish the tradition of marking the passage of the ADA with a parade in New York City.
 
-This is a photograph from the second parade, in the summer of 1993. That year, Tari Sue Hartman Squire and photographers Justin and Yoshiko Dart traveled to the city to participate. Dart appears in the photo, along with Paul Steven Miller, who was the commissioner for the Equal Opportunity Employment Commission (EEOC) and a professor. Judy Heumann appears in the white shirt and baseball cap at the center of the photograph.
+This is a photograph from the second parade, in the summer of 1993. That year, photographer Tari Sue Hartman Squire, Justin Dart (often called the "father" of the ADA), and his wife Yoshiko Dart traveled to the city to participate. Dart appears in the photo, along with Paul Steven Miller, who was the commissioner for the Equal Opportunity Employment Commission (EEOC) and a professor. Judy Heumann appears in the white shirt and baseball cap at the center of the photograph.
 
 Many of Camp Jened’s alumni, like many of the leaders of the disability rights movement in the 1970s and 1980s, were white people with physical disabilities. While they recognized the importance of the African American civil rights movement as an influence on their work, the movement did not fully include all Disabled people or respond to the ways that people’s experiences of disability varied depending on their race, class, gender, and sexuality.[^4]
 
