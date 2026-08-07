@@ -1,0 +1,23 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    groups:
+      # Group 1: Low Risk (Safe to merge quickly)
+      safe-security-updates:
+        applies-to: security-updates
+        patterns:
+          - "*"
+        update-types:
+          - "patch"
+          - "minor"
+
+      # Group 2: High Risk (Requires careful manual testing)
+      breaking-security-updates:
+        applies-to: security-updates
+        patterns:
+          - "*"
+        update-types:
+          - "major"
