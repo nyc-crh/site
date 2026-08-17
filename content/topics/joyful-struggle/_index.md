@@ -12,35 +12,35 @@ cards:
   text: The NAACP published *The Brownies’ Book* magazine to teach Black children the history, achievements, and beauty of Black people in the United States.
   btn:
     text: View primary sources
-    url: /topics/joyful-struggle/brownies-book
+    url: /topics/joyful-struggle/brownies-book/
 - title: Benjamin Franklin High School
   img: club-borinquen.jpg
   alt: A group of Black and white children sit on steps beside a large stack of paper, making V signs with their hands and holding campaign signs.
   text: New programs support East Harlem’s immigrant and migrant communities.
   btn:
     text: View primary sources
-    url: /topics/joyful-struggle/ben-franklin-hs
+    url: /topics/joyful-struggle/ben-franklin-hs/
 - title: Deaf Social Spaces
   img: thomas-samuels-interview.jpg
   alt: Still image from video interview with Thomas Samuels, an older Black man, who signs.
   text: When sign language was banned in schools, Deaf students found a social space to communicate freely.
   btn:
     text: View primary sources
-    url: /topics/joyful-struggle/deaf-social-spaces
+    url: /topics/joyful-struggle/deaf-social-spaces/
 - title: Camp Jened
   img: baseball.jpg
   alt: A young man pitches a ball to a boy sitting in a wheelchair and holding a bat. Other children and young adults look ready to react.
   text: Camp Jened was the first camp of its kind in the United States designed for Disabled young people.
   btn:
     text: View primary sources
-    url: /topics/joyful-struggle/camp-jened
+    url: /topics/joyful-struggle/camp-jened/
 - title: Double Dutch
   img: history-double-dutch.jpg
   alt: Newspaper clipping
   text: Black New Yorkers created spaces for safe and joyful play for Black children through double dutch jump rope.
   btn:
     text: View primary sources
-    url: /topics/joyful-struggle/double-dutch
+    url: /topics/joyful-struggle/double-dutch/
 ---
 
 When you imagine a movement or a protest, what do you see? What are people doing? What kinds of activities are they involved in?

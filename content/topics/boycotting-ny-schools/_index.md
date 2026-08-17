@@ -13,7 +13,7 @@ cards:
   text: A decade after *Brown v. Board of Education*, 500,000 New York City students boycotted schools in one of the largest mass demonstrations in U.S. history. 
   btn:
     text: View primary sources
-    url: /topics/boycotting-ny-schools/1964-boycotts
+    url: /topics/boycotting-ny-schools/1964-boycotts/
 - title: "Before the Boycotts: Organizing and Direct Action"
   img: life-magazine-cover.jpg
   text: The networks, strategies, and knowledge that earlier organizers cultivated helped make the New York City school boycotts possible.
@@ -43,13 +43,13 @@ cards:
   text: "\"Operation Shutdown\" began on January 19, 1965 and took aim at the \"600\" schools, which were segregated schools for students labeled \"socially maladjusted\" and/or \"emotionally disturbed.\""
   btn:
     text: View primary sources
-    url: /topics/boycotting-ny-schools/1965-boycott
+    url: /topics/boycotting-ny-schools/1965-boycott/
 - title: The Black Panthers
   img: black-panthers-1.jpg
   text: The Black Panther Party calls for Operation Shut Down to boycott Harlem schools.
   btn:
     text: View primary sources
-    url: /topics/boycotting-ny-schools/black-panthers
+    url: /topics/boycotting-ny-schools/black-panthers/
 ---
 
 In 1964, New York’s schools were highly segregated and unequal. It was ten years after the *Brown v. Board of Education* decision that declared school segregation to be unconstitutional. But despite a decade of protests, rallies, and meetings, little had changed in New York City classrooms. If anything, schools had grown more segregated and unequal. Segregation in housing and employment contributed to school segregation. Yet many decisions made by the Board of Education helped segregate New York City’s schools as well: which students were zoned or assigned to which schools, where schools were built or not built, which teachers worked at which schools, and how students were grouped or divided within classrooms and schools.

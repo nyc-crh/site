@@ -33,7 +33,7 @@ cards:
   text: Practices within schools can encourage segregation. Decisions about academics, discipline, disability labels, and more divide students within schools – or exclude them altogether. 
   btn:
     text: View primary sources
-    url: /topics/how-did-nyc-segregate/tests-labels-discipline
+    url: /topics/how-did-nyc-segregate/tests-labels-discipline/
 - title: School Governance and Democratic Control
   img: clark-hits-integration-plan.jpg
   alt: Newspaper clipping

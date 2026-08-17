@@ -36,5 +36,21 @@
     "flatted": "^3.2.7",
     "minimatch": "^3.1.2",
     "js-yaml": "^4.1.0"
+  },
+  "allowScripts": {
+    "nanoid@3.3.18": true,
+    "lodash@4.18.1": true,
+    "decompress@4.2.1": true,
+    "semver@6.3.1": true,
+    "semver@7.8.5": true,
+    "semver@5.7.2": true,
+    "semver@7.3.8": true,
+    "tmp@0.0.33": true,
+    "postcss@8.5.26": true,
+    "brace-expansion@1.1.18": true,
+    "brace-expansion@2.1.4": true,
+    "minimatch@7.4.7": true,
+    "minimatch@5.1.7": true,
+    "minimatch@3.1.5": true
   }
 }
