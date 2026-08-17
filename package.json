@@ -25,7 +25,7 @@
     "hugo-installer": "^4.0.1",
     "linkinator": "^8.0.4",
     "npm-check": "^6.0.1",
-    "postcss": "^8.4.24",
+    "postcss": "^8.5.26",
     "postcss-cli": "^10.1.0"
   },
   "otherDependencies": {
