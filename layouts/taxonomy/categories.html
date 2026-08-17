@@ -13,26 +13,26 @@
   <h1 class="py-4">{{ .Title }}</h1>
   <h2 class="py-3">Location</h2>
   <ul>
-    <li><a href="/categories/bronx">Bronx</a> </li>
-    <li><a href="/categories/brooklyn">Brooklyn</a></li>
-    <li><a href="/categories/manhattan">Manhattan</a></li>
-    <li><a href="/categories/new-york-state">New York State</a></li>
-    <li><a href="/categories/queens">Queens</a></li>
-    <li><a href="/categories/staten-island">Staten Island</a></li>
+    <li><a href="{{ with site.GetPage "categories/Bronx" }}{{ .RelPermalink }}{{ else }}/categories/Bronx/{{ end }}">Bronx</a></li>
+    <li><a href="{{ with site.GetPage "categories/Brooklyn" }}{{ .RelPermalink }}{{ else }}/categories/Brooklyn/{{ end }}">Brooklyn</a></li>
+    <li><a href="{{ with site.GetPage "categories/Manhattan" }}{{ .RelPermalink }}{{ else }}/categories/Manhattan/{{ end }}">Manhattan</a></li>
+    <li><a href="{{ with site.GetPage "categories/New-York-State" }}{{ .RelPermalink }}{{ else }}/categories/New-York-State/{{ end }}">New York State</a></li>
+    <li><a href="{{ with site.GetPage "categories/Queens" }}{{ .RelPermalink }}{{ else }}/categories/Queens/{{ end }}">Queens</a></li>
+    <li><a href="{{ with site.GetPage "categories/Staten-Island" }}{{ .RelPermalink }}{{ else }}/categories/Staten-Island/{{ end }}">Staten Island</a></li>
   </ul>
   <h2 class="py-3">School level or type</h2>
   <ul>
-    <li><a href="/categories/adult-education">adult education</a></li>
-    <li><a href="/categories/higher-education">higher education</a></li>
-    <li><a href="/categories/special-education">special education</a></li>
+    <li><a href="{{ with site.GetPage "categories/adult-education" }}{{ .RelPermalink }}{{ else }}/categories/adult-education/{{ end }}">adult education</a></li>
+    <li><a href="{{ with site.GetPage "categories/higher-education" }}{{ .RelPermalink }}{{ else }}/categories/higher-education/{{ end }}">higher education</a></li>
+    <li><a href="{{ with site.GetPage "categories/special-education" }}{{ .RelPermalink }}{{ else }}/categories/special-education/{{ end }}">special education</a></li>
   </ul>
   <h2 class="py-3">Type of activism</h2>
   <ul>
-    <li><a href="/categories/community-activism">community activism</a></li>
-    <li><a href="/categories/k-12-organizing">K-12 organizing</a></li>
-    <li><a href="/categories/parent-activism">parent activism</a></li>
-    <li><a href="/categories/student-activism">student activism</a></li>
-    <li><a href="/categories/teacher-activism">teacher activism</a></li>
+    <li><a href="{{ with site.GetPage "categories/community-activism" }}{{ .RelPermalink }}{{ else }}/categories/community-activism/{{ end }}">community activism</a></li>
+    <li><a href="{{ with site.GetPage "categories/K-12-organizing" }}{{ .RelPermalink }}{{ else }}/categories/K-12-organizing/{{ end }}">K-12 organizing</a></li>
+    <li><a href="{{ with site.GetPage "categories/parent-activism" }}{{ .RelPermalink }}{{ else }}/categories/parent-activism/{{ end }}">parent activism</a></li>
+    <li><a href="{{ with site.GetPage "categories/student-activism" }}{{ .RelPermalink }}{{ else }}/categories/student-activism/{{ end }}">student activism</a></li>
+    <li><a href="{{ with site.GetPage "categories/teacher-activism" }}{{ .RelPermalink }}{{ else }}/categories/teacher-activism/{{ end }}">teacher activism</a></li>
   </ul>
   </div>
   {{ end }}

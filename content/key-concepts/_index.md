@@ -41,7 +41,7 @@ While we recognize that Black men and Latinos - as attorneys, ministers, educato
 
 [^3]: Baumgartner, *In the Pursuit of Knowledge.*
 
-[^4]: [Elizabeth Cisco](/topics/black-latina-women/elizabeth-cisco); Zoë Burkholder, *An African American Dilemma: A History of School Integration and Civil Rights in the North* (New York: Oxford University Press, 2021).
+[^4]: [Elizabeth Cisco](/topics/black-latina-women/cisco-resisting-segregation); Zoë Burkholder, *An African American Dilemma: A History of School Integration and Civil Rights in the North* (New York: Oxford University Press, 2021).
 
 [^5]: [Willie Mae Goodman](/topics/black-latina-women/gouverneur-parents-association/); “Our History - AHRC New York," accessed February 9, 2023, [https://www.ahrcnyc.org/about/history/](https://www.ahrcnyc.org/about/history/).
 
