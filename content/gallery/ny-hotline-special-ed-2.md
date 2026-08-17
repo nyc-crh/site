@@ -32,7 +32,7 @@ closeRdLink:
 eventname: A New York City student asks why students in special education are treated differently than other students.
 caption: A student called in to a local New York City news show to ask why students in special education are treated differently in school. Their question prompted a discussion among a Board of Education official, a parent advocate, and an attorney who represents Disabled students and students labeled with disabilities.
 archive_source: Municipal Archives of the City of New York Digital Collections
-source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~23~23~977~1294471:New-York-Hotline--Special-Ed-#304
+source_link: https://nycrecords.access.preservica.com/uncategorized/IO_88f9550f-5b41-486c-b758-64ec0adc5810/
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives of the City of New York.
 categories: 
 - community activism

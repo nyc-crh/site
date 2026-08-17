@@ -32,7 +32,7 @@ relLink:
 eventname: United Federation of Teachers members march in protest.
 caption: Members of the United Federation of Teachers marched at City Hall during the 1968 teachers strike in opposition to community control.
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Film
-source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~771~1232939:City-Hall--Teachers-Demonstration
+source_link: https://nycrecords.access.preservica.com/uncategorized/IO_60ead4ba-497a-415b-8d32-67a200ffb313/
 copyright: Under copyright. Used with permission
 categories: 
 - K-12 organizing

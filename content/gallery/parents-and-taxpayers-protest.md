@@ -30,7 +30,7 @@ closeRdLink:
 eventname: White parents organize and protest in favor of segregation.
 caption: This film footage shows a Parents and Taxpayers protest at City Hall Park against desegregation, and a counter-protest across the street.
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
-source_link: https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3
+source_link: https://nycrecords.access.preservica.com/uncategorized/IO_90672f9a-535a-42a4-a205-79efbef24044/
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives, City of New York
 categories: 
 - Manhattan
@@ -89,6 +89,6 @@ This footage helps us see this moment in history. But it was not created for thi
 
 [^1]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016). See also: Matthew Delmont, Why Busing Failed, accessed April 10, 2024, [whybusingfailed.com](https://whybusingfailed.com).
 
-[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed February 7, 2023, [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3).
+[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed August 17, 2026, [https://nycrecords.access.preservica.com/?s=NYPD+Surveillance+Films](https://nycrecords.access.preservica.com/?s=NYPD+Surveillance+Films).
 
 [^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).

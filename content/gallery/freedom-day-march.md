@@ -30,7 +30,7 @@ closeRdLink:
 eventname: A silent film recorded by the New York Police Department showing protesters at the Board of Education headquarters and marching during the February 3, 1964 boycott. 
 caption: A film recorded by the New York Police Department showing protesters at Board of Education headquarters and marching during the February 3, 1964 boycott.
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
-source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~210~1233413:110-Livingston-St--and-Bernum-Place?sort=identifier%2Ctitle%2Cdate&qvq=q:0163;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=11
+source_link: https://nycrecords.access.preservica.com/uncategorized/IO_73e35be9-ed51-48ae-b740-798476fd1c40/
 copyright: Under copyright. Used with Permission. Courtesy of the Municipal Archives, City of New York
 categories: 
 - parent activism
@@ -68,6 +68,6 @@ The signs that protesters carried included slogans like:
 
 This footage provides us a record of what the boycott looked like. But it was not created for this purpose. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program: “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt [or visible] and covert [or hidden] surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.”[^1] That “broad range” of groups includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. Based on their decision to send the surveillance film team to the boycotts, we can see that the police perceived the school boycotters as “potential security threats.” This is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^2]
 
-[^1]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed February 7, 2023,  [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3).
+[^1]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed February 7, 2023,  [https://nycrecords.access.preservica.com/uncategorized/SO_d38f95d3-7081-4cca-bb9b-8813a04c351f/](https://nycrecords.access.preservica.com/uncategorized/SO_d38f95d3-7081-4cca-bb9b-8813a04c351f/).
 
 [^2]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).

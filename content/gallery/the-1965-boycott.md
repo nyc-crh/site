@@ -30,7 +30,7 @@ closeRdLink:
 eventname: "The Operation Shut Down boycott begins, including three junior high schools and one \"600\" school for children labeled as \"socially maladjusted\" or \"emotionally disturbed.\" The boycott continues for seven weeks."
 caption: "The New York Police Department filmed a 1965 protest for integrated schools. The date suggests that this footage comes from the 1965 boycott of junior high schools and \"600\" schools." 
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
-source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~364~1232309:-Protest-for-better-integrated-scho?sort=identifier%2Ctitle%2Cdate&qvq=q:0274;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
+source_link: https://nycrecords.access.preservica.com/uncategorized/IO_60ead4ba-497a-415b-8d32-67a200ffb313/
 copyright: Under copyright. Courtesy of the Municipal Archives of the City of New York
 categories: 
 - K-12 organizing
@@ -60,7 +60,7 @@ This protest for school desegregation, in front of the Board of Education headqu
 
 This footage provides us a record of what one protest related to the 1965 boycott looked like. But it was not created for this purpose. According to the New York City Municipal Archives, this footage was recorded as part of the New York City Police Department’s surveillance program. “Throughout the 20th century, the New York City Police Department (NYPD) conducted overt [or visible] and covert [or hidden]  surveillance on groups and individuals identified as potential security threats to the City… The subjects include a broad range of political activist groups and events from 1960 to 1980.”[^1] That “broad range” includes many activists of color who were challenging racism and other kinds of injustice. The NYPD filmed protests against police brutality, against the Vietnam War, against racism in hiring construction workers, and more. The police perceived the activists at these protests, including the school boycotters, as “potential security threats.” That is one example of how Black and Latinx people, and those white people in solidarity with them, have been “criminalized” - or understood as criminals - in the US.[^2] This criminalization was frequently experienced by Black and Puerto Rican boys who were labeled as “maladjusted” or “delinquent” - terms that mixed racism, ableism, and criminalization - and then assigned to “600” schools.[^3]
 
-[^1]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed February 7, 2023, [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3).
+[^1]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed August 17, 2026, [https://nycrecords.access.preservica.com/uncategorized/SO_d38f95d3-7081-4cca-bb9b-8813a04c351f/](https://nycrecords.access.preservica.com/uncategorized/SO_d38f95d3-7081-4cca-bb9b-8813a04c351f/).
 
 [^2]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).
 

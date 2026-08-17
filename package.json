@@ -23,6 +23,7 @@
     "exec-bin": "^1.0.0",
     "fuse.js": "^6.6.2",
     "hugo-installer": "^4.0.1",
+    "linkinator": "^8.0.4",
     "npm-check": "^6.0.1",
     "postcss": "^8.4.24",
     "postcss-cli": "^10.1.0"

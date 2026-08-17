@@ -30,7 +30,7 @@ closeRdLink:
 eventname: "A group of white parents calling themselves \"Parents and Taxpayers\" lead a march from the Board of Education building in Brooklyn to City Hall in Manhattan."
 caption: "A group of white parents calling themselves \"Parents and Taxpayers\" led a march near City Hall to protest desegregation efforts."
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
-source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~232~1233389:City-Hall,-Police-Department--Paren?sort=identifier%2Ctitle%2Cdate&qvq=q:0171;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
+source_link: https://nycrecords.access.preservica.com/uncategorized/IO_f4f3f0f4-729f-4018-86e5-972e284e42f6/
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives, City of New York
 categories: 
 - parent activism
@@ -70,6 +70,6 @@ This footage helps us see this moment in history. But it was not created for thi
 
 [^1]: Matthew Delmont, *Why Busing Failed: Race, Media, and the National Resistance to School Desegregation* (Oakland: University of California Press, 2016). See also: Matthew Delmont, Why Busing Failed, accessed April 10, 2024, [whybusingfailed.com](https://whybusingfailed.com).
 
-[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed February 7, 2023, [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3).
+[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed August 17, 2026, [https://nycrecords.access.preservica.com/?s=NYPD+Surveillance+Films](https://nycrecords.access.preservica.com/?s=NYPD+Surveillance+Films).
 
 [^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).

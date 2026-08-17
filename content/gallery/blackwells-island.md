@@ -28,7 +28,7 @@ closeRdLink:
 eventname: An educator for the deaf brings three boys from the blind ward on Blackwell’s Island to be educated in Manhattan in the first New York school for the blind.
 caption: Section of a diagram of institutions on Blackwell’s Island (now called Roosevelt Island) that includes a building for “Male Blind” ward, and other buildings to house poor people.
 archive_source: New York City Municipal Archives
-source_link: https://nycma.lunaimaging.com/luna/servlet/detail/RECORDSPHOTOUNITARC~24~24~1350176~136240:Survey-of-Blackwell-s-Island
+source_link: https://nycrecords.access.preservica.com/uncategorized/IO_9d0df5b5-7f02-4004-ba07-ce1d6c405ff3/
 copyright: Public domain. Courtesy of the Municipal Archives of the City of New York. 
 categories: 
 - Manhattan

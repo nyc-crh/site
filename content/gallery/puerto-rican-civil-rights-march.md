@@ -30,7 +30,7 @@ closeRdLink:
 eventname: Puerto Rican community organizations are joined by others who are in solidarity with them marching at City Hall.
 caption: A film recorded by the New York Police Department showing the Puerto Rican Civil Rights march on March 1, 1964. Puerto Rican community organizations were joined by others who were in solidarity with them marching at City Hall. 
 archive_source: Municipal Archives of the City of New York, NYPD Surveillance Films
-source_link: https://nycma.lunaimaging.com/luna/servlet/detail/NYCMA~3~3~234~1233385:City-Hall-Puerto-Rican-March--Demon?sort=identifier%2Ctitle%2Cdate&qvq=q:0173;sort:identifier%2Ctitle%2Cdate;lc:NYCMA~3~3&mi=0&trs=1
+source_link: https://nycrecords.access.preservica.com/uncategorized/IO_2079a553-a707-4edb-9b31-d480b7b8d0b4/
 copyright: Under copyright. Used with permission. Courtesy of the Municipal Archives, City of New York
 categories: 
 - parent activism
@@ -73,6 +73,6 @@ This footage gives us a glimpse of one march led by Puerto Ricans and participat
 
 [^1]: For more on Puerto Rican organizing in New York City, see Sonya Song-Ha Lee, *Building a Latino Civil Rights Movement: Puerto Ricans, African Americans, and the Struggle for Racial Justice in New York City* (Chapel Hill: University of North Carolina Press, 2016) and Lorrin Thomas, *Puerto Rican Citizen: History and Political Identity in 20th Century New York City* (Chicago: University of Chicago Press, 2010).
 
-[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed February 7, 2023, [https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3](https://nycma.lunaimaging.com/luna/servlet/NYCMA~3~3).
+[^2]: NYPD Surveillance Films, NYC Municipal Archives Collection, New York City Departments of Records and Information Services, accessed August 17, 2026, [https://nycrecords.access.preservica.com/uncategorized/SO_d38f95d3-7081-4cca-bb9b-8813a04c351f/](https://nycrecords.access.preservica.com/uncategorized/SO_d38f95d3-7081-4cca-bb9b-8813a04c351f/).
 
 [^3]: Elizabeth Hinton, *From the War on Poverty to the War on Crime: The Making of Mass Incarceration in America* (Cambridge, MA: Harvard University Press, 2016).
