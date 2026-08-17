@@ -236,7 +236,7 @@ Since 1970, New York has operated District 75, a separate school district only f
 
 [^52]:Cheri Fancsali, [“Special Education in New York City,](https://steinhardt.nyu.edu/research-alliance/research/publications/special-education-new-york-city). 
 
-[^53]: John Cuscera with Gary Orfield, “New York State’s Extreme School Segregation: Inequality, Inaction, and a Damaged Future” (Los Angeles: UCLA Center for Civil Rights/Proyecto Derechos Civiles, 2014), [https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf](https://www.civilrightsproject.ucla.edu/research/k-12-education/integration-and-diversity/ny-norflet-report-placeholder/Kucsera-New-York-Extreme-Segregation-2014.pdf)
+[^53]: John Cuscera with Gary Orfield, “New York State’s Extreme School Segregation: Inequality, Inaction, and a Damaged Future” (Los Angeles: UCLA Center for Civil Rights/Proyecto Derechos Civiles, 2014), [https://escholarship.org/uc/item/5nh6t08r](https://escholarship.org/uc/item/5nh6t08r)
 
 </details>
 

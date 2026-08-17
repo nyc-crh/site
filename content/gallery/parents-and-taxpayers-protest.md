@@ -54,7 +54,7 @@ questions:
  No –  IGC classes [or “intellectually gifted children” classes]
  No – “600” schools [for children with emotional disabilities]
  No – IQ tests
- Yes – Lower Requirements.You can read more about the “600” schools in [The Less-Known 1965 Boycott](https://nyccivilrightshistory.org/teaching-collections/boycotting-ny-schools/1965-boycott). What did this protester think linked gifted classes, separate “600” schools, and IQ tests? Why did a PAT member seem to support these, while claiming the Board of Education has “lower requirements”?
+ Yes – Lower Requirements.You can read more about the “600” schools in [The Less-Known 1965 Boycott](/topics/boycotting-ny-schools/1965-boycott/). What did this protester think linked gifted classes, separate “600” schools, and IQ tests? Why did a PAT member seem to support these, while claiming the Board of Education has “lower requirements”?
 - What difference does it make, to you as a viewer, to know that this footage was recorded by the New York Police Department? Why do you think it was recorded? How does that affect what we can learn from it? How do you think the participating students and adults would have felt, if they knew they were being recorded by the police? 
 - Do you see similar activism today, from the protesters or counter-protesters? Why or why not? 
 --- 

@@ -7,7 +7,7 @@ draft: false
 
 Except where noted, these resources are open-access.
 
-- [Sins Invalid, *Skin, Tooth, Bone: A Disability Justice Primer*](https://www.flipcause.com/secure/reward_step2/OTMxNQ==/65827) *purchase required*
+- [Sins Invalid, *Skin, Tooth, Bone: A Disability Justice Primer*](https://www.sinsinvalid.org/books-and-merchandise) *purchase required*
 
 - [Sins Invalid, 10 Principles of Disability Justice](https://static1.squarespace.com/static/5bed3674f8370ad8c02efd9a/t/5f1f0783916d8a179c46126d/1595869064521/10_Principles_of_DJ-2ndEd.pdf)
 

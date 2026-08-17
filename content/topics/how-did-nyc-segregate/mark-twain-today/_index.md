@@ -26,4 +26,4 @@ Mark Twain’s enrollment today shows that screened admissions at Mark Twain wor
 
 [^3]: Alexandra Freidus and Pedro Noguera, “From ‘Good Will’ to ‘Anachronism’: Racial Discourse, Shifting Demographics, and the Role of School Desegregation in the Public Good,” *Humanity and Society* 39, no. 4 (2015): 394-418.
 
-[^4]: For data from one Brooklyn school district, see WXY Studio, “District 15 Diversity Plan,” 2018, p. 35, [https://www.wxystudio.com/uploads/2300023/1537391998612/180919_D15DiversityPlan_FinalReport.pdf](https://d15diversityplan.com/wp-content/uploads/2019/06/190620_D15DiversityPlan_FinalReport.pdf).
+[^4]: For data from one Brooklyn school district, see WXY Studio, “District 15 Diversity Plan,” 2018, [https://d15diversityplan.com/](https://d15diversityplan.com/).

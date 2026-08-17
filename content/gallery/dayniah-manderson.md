@@ -19,8 +19,8 @@ video:
 videoTitle: 
 eventname: A teacher in the Bronx sues her school for not providing a wheelchair accessible bathroom after years of requests. 
 caption:  Portrait of Dayniah Manderson, a black woman sitting in a wheelchair in a classroom. 
-archive_source: https://dayniahmanderson.com/about-dayniah
-source_link: https://dayniahmanderson.com/about-dayniah
+archive_source: https://dayniahmanderson.com/
+source_link: https://dayniahmanderson.com/
 copyright: Under copyright.
 categories: 
 tags: 

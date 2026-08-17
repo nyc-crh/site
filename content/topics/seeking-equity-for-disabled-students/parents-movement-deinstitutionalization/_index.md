@@ -22,4 +22,4 @@ The parents’ movement helped lead to the 1975 “Education for All Handicapped
 
 [^2]: Keith Mayes, *The Unteachables: Disability Rights and the Invention of Black Special Education* (Minneapolis: University of Minnesota Press, 2023).
 
-[^3]:  *Jose P. v. Ambach*, Judgement, December 1979, US Circuit Court for the Eastern District of New York, [https://www.advocatesforchildren.org/sites/default/files/on_page/jose_p_judgment_december_1979.pdf?pt=1](https://www.advocatesforchildren.org/sites/default/files/on_page/jose_p_judgment_december_1979.pdf?pt=1).
+[^3]:  *Jose P. v. Ambach*, Judgement, December 1979, US Circuit Court for the Eastern District of New York, [https://advocatesforchildren.org/policy-resource/jose-p/](https://advocatesforchildren.org/policy-resource/jose-p/).

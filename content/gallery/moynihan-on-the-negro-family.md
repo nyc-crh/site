@@ -99,6 +99,6 @@ Moynihan’s thinking blamed Black families for their poverty and turned the att
 
 The NAACP and other civil rights and Black organizations condemned the findings of the Moynihan Report when they were made public. However, despite these condemnations, the report continued to influence how many white Americans viewed Black Americans. It also shaped how policymakers attempted to address educational inequality.
 
-[^1]: President Lyndon B. Johnson, “Annual Message to Congress on the State of the Union,” January 8, 1964, [http://www.lbjlibrary.net/collections/selected-speeches/november-1963-1964/01-08-1964.html](http://www.lbjlibrary.net/collections/selected-speeches/november-1963-1964/01-08-1964.html).
+[^1]: President Lyndon B. Johnson, “Annual Message to Congress on the State of the Union,” January 8, 1964, [https://www.presidency.ucsb.edu/documents/annual-message-the-congress-the-state-the-union-25](https://www.presidency.ucsb.edu/documents/annual-message-the-congress-the-state-the-union-25).
 
 [^2]: Special Master Charles Berger, quoted in Alexandra Freidus and Pedro Noguera, “From ‘Good Will’ to ‘Anachronism’: Racial Discourse, Shifting Demographics, and the Role of School Desegregation in the Public Good,” *Humanity and Society* 39, no. 4 (2015): 394-418.

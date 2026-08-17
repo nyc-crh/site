@@ -26,6 +26,6 @@ Physical access to schools is still a struggle today. As of March 2023, about 25
 
 [^3]: NYC Department of Education, “Building Accessibility,” accessed July 28, 2023, [https://www.schools.nyc.gov/school-life/space-and-facilities/building-accessibility](https://www.schools.nyc.gov/school-life/space-and-facilities/building-accessibility).
 
-[^4]: Advocates for Children - Oversight of 5-year Budget, accessed July 28, 2023, [https://www.advocatesforchildren.org/sites/default/files/on_page/testimony_capital_plan_121818.pdf?pt=1](https://www.advocatesforchildren.org/sites/default/files/on_page/testimony_capital_plan_121818.pdf?pt=1).
+[^4]: Advocates for Children - Oversight of 5-year Budget, accessed July 28, 2023, [https://advocatesforchildren.org/policy-resource/](https://advocatesforchildren.org/policy-resource/).
 
 [^5]: Disability Rights Advocates, “Manderson v. New York City Department of Education,” accessed July 28, 2023, [https://dralegal.org/case/manderson-v-new-york-city-department-of-education/](https://dralegal.org/case/manderson-v-new-york-city-department-of-education/).

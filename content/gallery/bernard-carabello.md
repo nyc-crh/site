@@ -31,7 +31,7 @@ eventname: Geraldo Rivera’s exposé of Willowbrook and Letchworth State school
 caption: >
  A clip of an interview with Bernard Carabello from Geraldo Rivera’s exposé, “The Last Great Disgrace.”
 archive_source: Geraldo Rivera
-source_link: https://www.geraldo.com/willowbrook-the-last-great-disgrace20221008000226/
+source_link: https://geraldo.com/video/willowbrook-the-last-great-disgrace/
 copyright: Under copyright.
 categories: 
 - Staten Island
