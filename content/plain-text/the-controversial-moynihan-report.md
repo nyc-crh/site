@@ -1,7 +1,7 @@
 ---
 title: The Controversial Moynihan Report (text)
 layout: plain-text
-draft: true
+draft: false
 ---
 
 The Core Of It!

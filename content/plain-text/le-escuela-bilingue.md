@@ -1,5 +1,5 @@
 ---
-title: “La Escuela Bilinguë Numeró 24 del Distrito Escolar 7” (text)
+title: "“La Escuela Bilinguë Numeró 24 del Distrito Escolar 7” (text)"
 layout: plain-text
 draft: false
 ---

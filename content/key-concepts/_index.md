@@ -31,7 +31,7 @@ Black women activists and Latina activists played major roles in securing import
 
 While we recognize that Black men and Latinos - as attorneys, ministers, educators, and fathers - contributed enormously to fights for a better education in New York City, Black and Latina women’s contributions to civil rights organizing are often overlooked.[^10] Therefore, we highlight them here.
 
-<h3>Suggested Primary source: <a href="https://nyccivilrightshistory.org//gallery/elizabeth-cisco">Elizabeth Cisco</a></h3>
+<h3>Suggested Primary source: <a href="https://nyccivilrightshistory.org/gallery/elizabeth-cisco/">Elizabeth Cisco</a></h3>
 
 </details>
 

@@ -16,7 +16,7 @@ featuredAlt: A. Philip Randolph and Bayard Rustin in front of the Lincoln Memori
 detailedDescr: 
 embed: 
 embedTitle: 
-text: life-magazine-cover
+text:
 mapembed: 
 audio: 
 audioTitle: 
@@ -28,7 +28,7 @@ closeRdLink:
 eventname: "*Life* magazine features A. Philip Randolph and Bayard Rustin."
 caption: This cover from *Life* magazine featured A. Philip Randolph and Bayard Rustin, the lead organizers for the March on Washington for Jobs and Freedom. 
 archive_source: "*Life*"
-source_link: www.loc.gov/exhibits/brown/brown-aftermath.html#obj217
+source_link: https://www.loc.gov/exhibits/brown/brown-aftermath.html#obj217
 copyright: Under copyright. Used with permission.
 categories: 
 - national

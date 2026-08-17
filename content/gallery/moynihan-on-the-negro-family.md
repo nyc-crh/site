@@ -10,7 +10,7 @@ displaydate: "1965"
 title: "The Negro Family: The Case for National Action, excerpt"
 author: United States Department of Labor, Office of Policy Planning and Research
 citation: >
- "The Negro Family: The Case for National Action, excerpt," United States Department of Labor, Office of Policy Planning and Research, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-negro-family/
+ "The Negro Family: The Case for National Action, excerpt," United States Department of Labor, Office of Policy Planning and Research, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/moynihan-on-the-negro-family/
 featured: moynihan-on-the-negro-family.jpg
 featuredAlt: Black and white photo of Patrick Moynihan
 detailedDescr: 
@@ -43,7 +43,7 @@ tags:
 - government reports
 questions: 
 - According to the Moynihan Report, is inequality the result of “deepseated structural distortions in the life of the Negro American” or the “tangle of pathology”? Do you find this argument persuasive? 
-- How do white New Yorkers, like those in [the video](/topics/how-did-nyc-segregate/racist-ideas-public-discourse/mark-twain-on-51st-state-2), use the racist ideas expressed in the Moynihan Report in their attempts to justify segregation and antiblack racism?
+- How do white New Yorkers, like those in [the video](/topics/how-did-nyc-segregate/racist-ableist-ideas/mark-twain-on-51st-state-2/), use the racist ideas expressed in the Moynihan Report in their attempts to justify segregation and antiblack racism?
 - Do you think the ideas in the Moynihan Report are still present today?
 --- 
 
