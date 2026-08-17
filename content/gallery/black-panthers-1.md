@@ -10,7 +10,7 @@ displaydate: "undated, c. September 1966"
 title: Operation Shut Down Flier
 author: Black Panther Party Harlem Branch
 citation: >
- "Operation Shut Down flier," Black Panther Party Harlem Branch, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/black-panthers-1.
+ "Operation Shut Down flier," Black Panther Party Harlem Branch, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/black-panthers-1/
 featured: black-panthers-1.jpg
 featuredAlt: Flier for boycott
 detailedDescr: 

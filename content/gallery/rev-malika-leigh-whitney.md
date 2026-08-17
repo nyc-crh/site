@@ -10,7 +10,7 @@ displaydate: "December 2019"
 title: Rev. Malika Leigh Whitney and Double Dutch Dreamz
 author: The Grandparents Storylab
 citation: >
- "Rev. Malika Leigh Whitney and Double Dutch Dreamz," The Grandparents Storylab, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/rev-malika-leigh-whitney.
+ "Rev. Malika Leigh Whitney and Double Dutch Dreamz," The Grandparents Storylab, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/rev-malika-leigh-whitney/
 featured: rev-malika-leigh-whitney.jpg
 featuredAlt: Reverand Malika Leigh Whitney, an older black woman, jumps rope with two women swinging two ropes.
 detailedDescr: 

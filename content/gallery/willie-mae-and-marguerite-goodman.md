@@ -10,7 +10,7 @@ displaydate: "undated"
 title: Willie Mae Goodman and Marguerite Goodman
 author: 
 citation: >
- "Willie Mae Goodman and Marguerite Goodman," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/willie-mae-and-marguerite-goodman.
+ "Willie Mae Goodman and Marguerite Goodman," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/willie-mae-and-marguerite-goodman/
 featured: willie-mae-and-marguerite-goodman.jpg
 featuredAlt: Marguerite Goodman and Willie Mae Goodman sit next to each other. Both are smiling. 
 detailedDescr: 

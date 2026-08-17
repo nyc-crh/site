@@ -10,7 +10,7 @@ displaydate:
 title: The Will and the Way of the Boycotters
 author: Gertrude Wilson
 citation: >
- "The Will and the Way of the Boycotters," Gertrude Wilson, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/will-and-way-of-boycotters.
+ "The Will and the Way of the Boycotters," Gertrude Wilson, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/will-and-way-of-boycotters/
 featured: will-and-way-of-boycotters.jpg
 featuredAlt: Newspaper clipping
 detailedDescr: 

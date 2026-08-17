@@ -10,7 +10,7 @@ displaydate: "1964"
 title: School Boycott!
 author: City-Wide Committee for Integrated Schools
 citation: >
- "School Boycott!," City-Wide Committee for Integrated Schools, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/school-boycott.
+ "School Boycott!," City-Wide Committee for Integrated Schools, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/school-boycott/
 featured: school-boycott.jpg
 featuredAlt: Flyer for school boycott showing a young Black child looking through a broken window
 detailedDescr: 

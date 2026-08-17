@@ -10,7 +10,7 @@ displaydate: "2011"
 title: Evelina López Antonetty Mural
 author: Mural by Tats Cru, Inc.; Photography by Joe Conzo, Jr. 
 citation: >
- "Evelina López Antonetty Mural," Tats Cru, Inc., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/evelina-antonetty-mural.
+ "Evelina López Antonetty Mural," Tats Cru, Inc., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/evelina-antonetty-mural/
 featured: evelina-antonetty-mural.jpg
 featuredAlt: Mural painting on a building
 detailedDescr: evelina-antonetty-mural

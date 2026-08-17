@@ -10,7 +10,7 @@ displaydate: "October 1985"
 title: Focus on Learning, excerpt
 author: Norm Fruchter, Robert Berne, Ann Marcus, Mark Alter, and Jay Gottleib
 citation: >
- "Focus on Learning, excerpt," Norm Fruchter, Robert Berne, Ann Marcus, Mark Alter, and Jay Gottleib, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/focus-on-learning.
+ "Focus on Learning, excerpt," Norm Fruchter, Robert Berne, Ann Marcus, Mark Alter, and Jay Gottleib, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/focus-on-learning/
 featured: focus-on-learning.jpg
 featuredAlt: Text icon
 detailedDescr: 

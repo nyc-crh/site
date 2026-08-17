@@ -10,7 +10,7 @@ displaydate: "March 2019"
 title: Inside Schools Review of Mark Twain
 author: Gail Robinson
 citation: >
- "Inside Schools Review of Mark Twain," Gail Robinson, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/inside-schools-review-of-mark-twain.
+ "Inside Schools Review of Mark Twain," Gail Robinson, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/inside-schools-review-of-mark-twain/
 featured: inside-schools-review-of-mark-twain.jpg
 featuredAlt: Report heading
 detailedDescr: 

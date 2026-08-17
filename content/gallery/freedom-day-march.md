@@ -10,7 +10,7 @@ displaydate:
 title: Freedom Day March on Film
 author: New York Police Department Surveillance Unit
 citation: >
- "Freedom Day March on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/freedom-day-march.
+ "Freedom Day March on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/freedom-day-march/
 featured: freedom-day-march.jpg
 featuredAlt: Black school boycotters holding signs in a protest march in downtown Brooklyn. 
 detailedDescr: 

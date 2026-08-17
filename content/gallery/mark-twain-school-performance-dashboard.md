@@ -10,7 +10,7 @@ displaydate: "2023"
 title: 2022-23 School Performance Dashboard, Mark Twain I.S. 239
 author: New York City Department of Education
 citation: >
- "2022-23 School Performance Dashboard, Mark Twain I.S. 239," New York City Department of Education, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mark-twain-school-performance-dashboard.
+ "2022-23 School Performance Dashboard, Mark Twain I.S. 239," New York City Department of Education, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mark-twain-school-performance-dashboard/
 featured: mark-twain-school-performance-dashboard.jpg
 featuredAlt: Report with graphs
 detailedDescr: 

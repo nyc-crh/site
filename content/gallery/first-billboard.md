@@ -10,7 +10,7 @@ displaydate: "1951"
 title: AHRC First Fundraising Billboard
 author: AHRC of New York City
 citation: >
- "AHRC First Fundraising Billboard," AHRC of New York City, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/first-billboard.
+ "AHRC First Fundraising Billboard," AHRC of New York City, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/first-billboard/
 featured: first-billboard.jpg
 featuredAlt: Parent activists in front of a billboard that reads, &quot;Retarded Children Can be Helped! They need Research, Schools, Clinics. Give to AHRC&quot;
 detailedDescription: 

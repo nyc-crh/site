@@ -10,7 +10,7 @@ displaydate:
 title: Testimony to the Uniform Type Committee
 author: Helen Keller
 citation: >
- "Testimony to the Uniform Type Committee," Helen Keller, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/keller-ny-point.
+ "Testimony to the Uniform Type Committee," Helen Keller, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/keller-ny-point/
 featured: keller-ny-point.jpg
 featuredAlt: A typed letter
 detailedDescription: 

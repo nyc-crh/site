@@ -10,7 +10,7 @@ displaydate: "1968"
 title: Parents Speaking on Ocean Hill-Brownsville
 author: WNYC-TV
 citation: >
- "Parents Speaking on Ocean Hill-Brownsville," WNYC-TV, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/ocean-hill-brownsville-parents.
+ "Parents Speaking on Ocean Hill-Brownsville," WNYC-TV, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/ocean-hill-brownsville-parents/
 featured: ocean-hill-brownsville-parents.jpg
 featuredAlt: A panel of Black and Latinx parent advocates sit in front of microphones in a TV studio. Some parents read written remarks and some listen. 
 detailedDescr: 

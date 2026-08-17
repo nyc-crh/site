@@ -10,7 +10,7 @@ displaydate: "1965"
 title: The 1965 Boycott on Film
 author: New York Police Department Surveillance Unit
 citation: >
- "The 1965 Boycott on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-1965-boycott.
+ "The 1965 Boycott on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-1965-boycott/
 featured: the-1965-boycott.jpg
 featuredAlt: Protestors march, carrying signs
 detailedDescr: 

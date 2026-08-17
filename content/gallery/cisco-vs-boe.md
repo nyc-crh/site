@@ -10,7 +10,7 @@ displaydate:
 title: "*People ex rel. Cisco v. School Board of Queens*, excerpt"
 author: 
 citation: >
- "*People ex rel. Cisco v. School Board of Queens*, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/cisco-vs-boe.
+ "*People ex rel. Cisco v. School Board of Queens*, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/cisco-vs-boe/
 featured: cisco-vs-boe.jpg
 featuredAlt: Text of a court decision
 detailedDescr: 

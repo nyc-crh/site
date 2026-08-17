@@ -10,7 +10,7 @@ displaydate: "February 1920"
 title: "*The Brownies’ Book*, February 1920, cover"
 author: National Association for the Advancement of Colored People
 citation: >
- "*The Brownies’ Book*, February 1920, cover," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies2.
+ "*The Brownies’ Book*, February 1920, cover," National Association for the Advancement of Colored People, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/brownies2/
 featured: brownies-2.jpg
 featuredAlt: Book cover featuring a bust sculpture (head and neck) of a young black boy
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate: "undated, c. mid-1950s to early 1960s"
 title: Camp Jened - Real Camping for the Handicapped, cover
 author: Camp Jened
 citation: >
- "Camp Jened - Real Camping for the Handicapped, cover," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/real-camping-for-handicapped.
+ "Camp Jened - Real Camping for the Handicapped, cover," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/real-camping-for-handicapped/
 featured: real-camping-for-handicapped.jpg
 featuredAlt: Summer camp brochure cover
 detailedDescr: real-camping-for-handicapped

@@ -10,7 +10,7 @@ displaydate: "c. August 1966"
 title: Black Panther Party letter about Operation Shut Down
 author: Black Panther Party Harlem Branch
 citation: >
- "Black Panther Party letter about Operation Shut Down," Black Panther Party Harlem Branch, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/black-panthers-2.
+ "Black Panther Party letter about Operation Shut Down," Black Panther Party Harlem Branch, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/black-panthers-2/
 featured: black-panthers-2.jpg
 featuredAlt: Letter
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate: "1974"
 title: Mark Twain on the 51st State, excerpt 2
 author: "WNET/Channel 13: The 51st State"
 citation: >
- "Mark Twain on the 51st State, excerpt 2," WNET/Channel 13: The 51st State, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mark-twain-on-51st-state-2.
+ "Mark Twain on the 51st State, excerpt 2," WNET/Channel 13: The 51st State, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mark-twain-on-51st-state-2/
 featured: mark-twain-on-51st-state-2.jpg
 featuredAlt: Still image from a news report showing a young Puerto Rican woman being interviewed
 detailedDescr: 

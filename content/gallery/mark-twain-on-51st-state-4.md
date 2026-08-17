@@ -10,7 +10,7 @@ displaydate: "1974"
 title: Mark Twain on The 51st State, excerpt 4
 author: "WNET/Channel 13: The 51st State"
 citation: >
- "Mark Twain on The 51st State, excerpt 4," "WNET/Channel 13: The 51st State", in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mark-twain-on-51st-state-4.
+ "Mark Twain on The 51st State, excerpt 4," "WNET/Channel 13: The 51st State", in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mark-twain-on-51st-state-4/
 featured: mark-twain-on-51st-state-4.jpg
 featuredAlt: Still image from a news report showing white parents in the audience of a town hall meeting
 detailedDescr: 

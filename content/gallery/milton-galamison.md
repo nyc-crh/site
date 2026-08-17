@@ -10,7 +10,7 @@ displaydate:
 title: Milton Galamison Oral History, excerpt
 author: Milton Galamison
 citation: >
- "Milton Galamison Oral History, excerpt," Milton Galamison, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/milton-galamison.
+ "Milton Galamison Oral History, excerpt," Milton Galamison, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/milton-galamison/
 featured: audio-recording.jpg
 featuredAlt: Audio icon
 detailedDescr: 

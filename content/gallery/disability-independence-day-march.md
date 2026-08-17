@@ -6,7 +6,7 @@ displaydate:
 title: The Disability Independence Day March
 author: Tari Hartman Squire
 citation: > 
- "The Disability Independence Day March," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/disability-independence-day-march.
+ "The Disability Independence Day March," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/disability-independence-day-march/
 featured: disability-independence-day-march.jpg
 featuredAlt: Wheelchair users and a little person march in a parade with a banner
 embed: 

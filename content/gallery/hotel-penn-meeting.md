@@ -10,7 +10,7 @@ displaydate:
 title: Hotel Pennsylvania Meeting Learns of Harlem School Ills
 author: 
 citation: >
- "Hotel Pennsylvania Meeting Learns of Harlem School Ills," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hotel-penn-meeting.
+ "Hotel Pennsylvania Meeting Learns of Harlem School Ills," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hotel-penn-meeting/
 featured: hotel-penn-meeting.jpg
 featuredAlt: Newspaper clipping
 detailedDescr: 

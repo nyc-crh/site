@@ -10,7 +10,7 @@ displaydate: "1938"
 title: HOLC Map and Area Description
 author: Home Owners’ Loan Corporation
 citation: >
- "HOLC Map and Area Description," Home Owners’ Loan Corporation, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/holc-map.
+ "HOLC Map and Area Description," Home Owners’ Loan Corporation, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/holc-map/
 featured: holc-map.jpg
 featuredAlt: Map of Brooklyn showing different neighborhoods as good or bad investments
 detailedDescr: 

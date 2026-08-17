@@ -10,7 +10,7 @@ displaydate:
 title: Puerto Rican Civil Rights March on Film
 author: New York Police Department Surveillance Unit
 citation: >
- "Puerto Rican Civil Rights March on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/puerto-rican-civil-rights-march.
+ "Puerto Rican Civil Rights March on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/puerto-rican-civil-rights-march/
 featured: puerto-rican-civil-rights-march.jpg
 featuredAlt: Protestors march, carrying signs and the Puerto Rican flag
 detailedDescr: 

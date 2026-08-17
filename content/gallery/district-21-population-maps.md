@@ -10,7 +10,7 @@ displaydate: "1970"
 title: District 21 Population Maps
 author: Matt Kautz
 citation: >
- "District 21 Population Maps," Matt Kautz, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/district-21-population-maps.
+ "District 21 Population Maps," Matt Kautz, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/district-21-population-maps/
 featured: district-21-population-maps.jpg
 featuredAlt: Map showing segregation of of Black students in school districts
 detailedDescr: 

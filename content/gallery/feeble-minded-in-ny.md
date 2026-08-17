@@ -10,7 +10,7 @@ displaydate: "1911"
 title: The Feeble Minded in New York, excerpts
 author: Anne Moore
 citation: >
- "The Feeble Minded in New York, excerpts," Anne Moore, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/feeble-minded-in-ny.
+ "The Feeble Minded in New York, excerpts," Anne Moore, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/feeble-minded-in-ny/
 featured: feeble-minded-in-ny.jpg
 featuredAlt: Table of children withdrawn from Randall's Island
 detailedDescription: 

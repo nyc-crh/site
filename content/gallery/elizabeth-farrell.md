@@ -10,7 +10,7 @@ displaydate: "undated"
 title: Elizabeth Farrell and Ungraded Classes
 author: Board of Education of the City of New York
 citation: >
- "Elizabeth Farrell and Ungraded Classes," Board of Education of the City of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elizabeth-farrell.
+ "Elizabeth Farrell and Ungraded Classes," Board of Education of the City of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elizabeth-farrell/
 featured: elizabeth-farrell.jpg
 featuredAlt: A white middle-aged woman teaches a classroom of boys of various ages making chairs
 detailedDescription: 
@@ -56,7 +56,7 @@ Elizabeth Farrell believed that all children should have access to public educat
 
 Farrell later found herself defending her classes against criticism from Henry H. Goddard and Mary Dunphy, both of whom directed institutions for Disabled people. They argued for complete segregation of Disabled children into institutions like theirs.[^6]
 
-By the early 1930s, after an expansion in the use of [intelligence testing](/topics/seeking-equity/tests-labels-and-segregation/), there were 11,000 students in ungraded classes throughout New York City public schools.[^7]  
+By the early 1930s, after an expansion in the use of [intelligence testing](/topics/seeking-equity-for-disabled-students/tests-labels-and-segregation/), there were 11,000 students in ungraded classes throughout New York City public schools.[^7]  
 
 [^1]: Kimberly E. Kode, *Elizabeth Farrell and the History of Special Education* (Arlington, VA: Council for Exceptional Children, 2002), 33, [https://eric.ed.gov/?id=ED474364](https://eric.ed.gov/?id=ED474364).
 

@@ -10,7 +10,7 @@ displaydate: "December 1947"
 title: NAACP Youth Council News Bulletin, excerpts
 author: 
 citation: >
- "NAACP Youth Council News Bulletin, excerpts," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/naacp-youth-council.
+ "NAACP Youth Council News Bulletin, excerpts," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/naacp-youth-council/
 featured: naacp-youth-council.jpg
 featuredAlt: Hand-drawn cover of a newsletter that shows a boy kneeling and praying next to his bed
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate:
 title: Mayor LaGuardia’s Commission on the Harlem Riot, excerpt
 author: 
 citation: >
- "Mayor LaGuardia’s Commission on the Harlem Riot, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/harlem-riot-report.
+ "Mayor LaGuardia’s Commission on the Harlem Riot, excerpt," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/harlem-riot-report/
 featured: harlem-riot-report.jpg
 featuredAlt: Report cover
 detailedDescr: 

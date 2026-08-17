@@ -10,7 +10,7 @@ displaydate:
 title: "*Hart v. Community School Board 21*, excerpt 1"
 author: US District Court for the Eastern District of New York
 citation: >
- "\"*Hart v. Community School Board 21*, excerpt 1," U.S. District Court for the Eastern District of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hart-v-community-school-board-21-1."
+ "\"*Hart v. Community School Board 21*, excerpt 1," U.S. District Court for the Eastern District of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hart-v-community-school-board-21-1/
 featured: hart-v-community-school-board-21-1.jpg
 featuredAlt: Text of a court decision
 detailedDescr: 

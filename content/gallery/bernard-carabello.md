@@ -10,7 +10,7 @@ displaydate:
 title: Bernard Carabello Interview
 author: Geraldo Rivera and Bernard Carabello
 citation: >
- "Bernard Carabello Interview," Geraldo Rivera and Bernard Carabello, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/bernard-carabello.
+ "Bernard Carabello Interview," Geraldo Rivera and Bernard Carabello, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/bernard-carabello/
 featured: bernard-carabello.jpg
 featuredAlt: Video still from a news broadcast showing Bernard Carabello speaking.
 detailedDescription: 

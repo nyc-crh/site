@@ -11,7 +11,7 @@ title: >
  Claim Teachers Used Pupils as Shoe Shine Boys: DA Calls Charges "Serious"
 author: Sara Slack
 citation: >
- "Claim Teachers Used Pupils As Shoe Shine Boys: DA Calls Charges 'Serious,'" Sara Slack, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/shoe-shine-boys.
+ "Claim Teachers Used Pupils As Shoe Shine Boys: DA Calls Charges 'Serious,'" Sara Slack, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/shoe-shine-boys/
 featured: shoe-shine-boys.jpg
 featuredAlt: Newspaper clipping
 detailedDescr: 

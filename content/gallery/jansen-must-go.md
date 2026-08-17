@@ -10,7 +10,7 @@ displaydate: "July 1957"
 title: Jansen Must Go!
 author: Parents in Action Against Educational Discrimination
 citation: >
- "Jansen Must Go!," Parents in Action Against Educational Discrimination, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jansen-must-go.
+ "Jansen Must Go!," Parents in Action Against Educational Discrimination, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jansen-must-go/
 featured: jansen-must-go.jpg
 featuredAlt: Flyer calling for the resignation of William Jansen, Superintendent of Schools
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate:
 title: Parents and Taxpayers Protest and Counter-Protest on Film
 author: New York Police Department Surveillance Unit
 citation: >
- "Parents and Taxpayers Protest and Counter-Protest on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/parents-and-taxpayers-protest.
+ "Parents and Taxpayers Protest and Counter-Protest on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/parents-and-taxpayers-protest/
 featured: parents-and-taxpayers-protest.jpg
 featuredAlt: White women carry signs protesting desegregation
 detailedDescr: 

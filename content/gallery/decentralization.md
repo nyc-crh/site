@@ -10,7 +10,7 @@ displaydate: "1969"
 title: Community Control is Not Decentralization
 author: United Bronx Parents
 citation: >
- "Community Control is Not Decentralization," United Bronx Parents, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/decentralization.
+ "Community Control is Not Decentralization," United Bronx Parents, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/decentralization/
 featured: decentralization.jpg
 featuredAlt: Typed memo
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate:
 title: The Elsberg Bill Signed
 author: 
 citation: >
- "The Elsberg Bill Signed," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elsberg-bill-signed.
+ "The Elsberg Bill Signed," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elsberg-bill-signed/
 featured: elsberg-bill-signed.jpg
 featuredAlt: Newspaper clipping
 detailedDescr: 

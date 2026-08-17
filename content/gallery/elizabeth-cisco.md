@@ -10,7 +10,7 @@ displaydate: "undated"
 title: Mrs. Elizabeth Cisco
 author: 
 citation: >
- "Mrs. Elizabeth Cisco," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elizabeth-cisco.
+ "Mrs. Elizabeth Cisco," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/elizabeth-cisco/
 featured: elizabeth-cisco.jpg
 featuredAlt: Mrs. Elizabeth Cisco is a Black woman seated in an ornate chair and wearing a formal full-length dress
 detailedDescr: 

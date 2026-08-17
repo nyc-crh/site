@@ -10,7 +10,7 @@ displaydate: "August 1967"
 title: Reflections - August, 1967, excerpt
 author: Camp Jened
 citation: >
- "Reflections - August, 1967, excerpt," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/reflections-1967.
+ "Reflections - August, 1967, excerpt," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/reflections-1967/
 featured: reflections-1967.jpg
 featuredAlt: Typed newsletter for Camp Jened
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate: "1867"
 title: The Idiot School
 author: Harper’s Magazine
 citation: >
- "The Idiot School," Harper’s Magazine, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/idiot-school-randalls-island.
+ "The Idiot School," Harper’s Magazine, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/idiot-school-randalls-island/
 featured: idiot-school-randalls-island.jpg
 featuredAlt: Illustration of a 19th Century classroom
 detailedDescription: 

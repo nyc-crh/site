@@ -10,7 +10,7 @@ displaydate:
 title: Deaf Students Protest New School Head
 author: David Firestone
 citation: >
- "Deaf Students Protest New School Head," David Firestone, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/lexington-school-for-deaf.
+ "Deaf Students Protest New School Head," David Firestone, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/lexington-school-for-deaf/
 featured: lexington-school-for-deaf.jpg
 featuredAlt: Protestors outside of a school holding signs. One says, &quot;Deaf CEO Now!&quot;
 detailedDescription: 

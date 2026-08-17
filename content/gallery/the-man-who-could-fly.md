@@ -11,7 +11,7 @@ title: >
  The Man Who Could Fly: The Bob Beamon Story, excerpt
 author: Bob Beamon
 citation: >
- "The Man Who Could Fly: the Bob Beamon Story, excerpt," Bob Beamon, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-man-who-could-fly.
+ "The Man Who Could Fly: the Bob Beamon Story, excerpt," Bob Beamon, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-man-who-could-fly/
 featured: the-man-who-could-fly.jpg
 featuredAlt: Page from a yearbook
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate:
 title: The Controversial Moynihan Report
 author: James Farmer
 citation: >
- "The Controversial Moynihan Report," James Farmer, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-controversial-moynihan-report.
+ "The Controversial Moynihan Report," James Farmer, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-controversial-moynihan-report/
 featured: the-controversial-moynihan-report.jpg
 featuredAlt: Newspaper clipping
 detailedDescr: 

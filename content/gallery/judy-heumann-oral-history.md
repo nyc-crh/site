@@ -10,7 +10,7 @@ displaydate: "2004"
 title: Judy Heumann Oral History
 author: Judith Heumann and Jonathan Young
 citation: >
- "Judy Heumann Oral History," Judith Heumann and Jonathan Young, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/judy-heumann-oral-history.
+ "Judy Heumann Oral History," Judith Heumann and Jonathan Young, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/judy-heumann-oral-history/
 featured: text-icon.jpg
 featuredAlt: Text icon
 detailedDescription: 

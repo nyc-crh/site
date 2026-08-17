@@ -10,7 +10,7 @@ displaydate: "July 1920"
 title: Race Intelligence, excerpt
 author: W.E.B. DuBois
 citation: >
- "Race Intelligence, excerpt," W.E.B. DuBois, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/race-intelligence.
+ "Race Intelligence, excerpt," W.E.B. DuBois, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/race-intelligence/
 featured: race-intelligence.jpg
 featuredAlt: Newspaper clipping
 detailedDescription: 

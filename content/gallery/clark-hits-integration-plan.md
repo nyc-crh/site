@@ -10,7 +10,7 @@ displaydate:
 title: Clark Hits Integration Plan at Mark Twain JHS
 author: "*New York Amsterdam News*"
 citation: >
- "Clark Hits Integration Plan at Mark Twain JHS," *New York Amsterdam News*, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/clark-hits-integration-plan.
+ "Clark Hits Integration Plan at Mark Twain JHS," *New York Amsterdam News*, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/clark-hits-integration-plan/
 featured: clark-hits-integration-plan.jpg
 featuredAlt: Newspaper clipping
 detailedDescr: 

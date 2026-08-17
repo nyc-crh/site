@@ -10,7 +10,7 @@ displaydate:
 title: We Kept Our Retarded Child At Home, excerpt
 author: Frank Piccola, as told to Ralph Bass
 citation: >
- "We Kept Our Retarded Child At Home, excerpt," Frank Piccola, as told to Ralph Bass, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/we-kept-our-child-at-home.
+ "We Kept Our Retarded Child At Home, excerpt," Frank Piccola, as told to Ralph Bass, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/we-kept-our-child-at-home/
 featured: we-kept-our-child-at-home.jpg
 featuredAlt: A white middle-aged man sits next to his son. They hold drinks and look at each other. The father has his arm around his son, and both are smiling.
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate:
 title: “*Hart v. Community School Board 21*, excerpt 2”
 author: Hon. Jack Weinstein, US District Court for the Eastern District of New York
 citation: >
- "\"*Hart v. Community School Board 21*, excerpt 2,\" Hon. Jack Weinstein, U.S. District Court for the Eastern District of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hart-v-community-school-board-21-2."
+ "\"*Hart v. Community School Board 21*, excerpt 2,\" Hon. Jack Weinstein, U.S. District Court for the Eastern District of New York, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hart-v-community-school-board-21-2/
 featured: hart-v-community-school-board-21-2.jpg
 featuredAlt: Text of a court decision
 detailedDescr: 

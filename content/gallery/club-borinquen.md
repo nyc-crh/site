@@ -10,7 +10,7 @@ displaydate: "undated, c. 1940s-1950s"
 title: Club Borinquen
 author: 
 citation: >
- "Club Borinquen," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/club-borinquen.
+ "Club Borinquen," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/club-borinquen/
 featured: club-borinquen.jpg
 featuredAlt: Students lined up for a group photo in front of a "Club Borinquen Benjamin Franklin H.S." banner
 detailedDescr: 

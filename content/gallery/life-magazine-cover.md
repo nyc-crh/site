@@ -10,7 +10,7 @@ displaydate: "1963"
 title: "*Life* Magazine Cover"
 author: 
 citation: >
- "*Life* Magazine Cover," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/life-magazine-cover.
+ "*Life* Magazine Cover," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/life-magazine-cover/
 featured: life-magazine-cover.jpg
 featuredAlt: A. Philip Randolph and Bayard Rustin in front of the Lincoln Memorial
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate: "undated c. 1978"
 title: A Bill of Rights for Gay Teachers and Students
 author: Gay Teachers Association
 citation: > 
- "A Bill of Rights for Gay Teachers and Students," Gay Teachers Association, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/bill-of-rights.
+ "A Bill of Rights for Gay Teachers and Students," Gay Teachers Association, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/bill-of-rights/
 featured: bill-of-rights.jpg
 featuredAlt: Typed document listing rights
 detailedDescr: 

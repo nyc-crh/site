@@ -10,7 +10,7 @@ displaydate:
 title: Cisco on Trial in Queens
 author: 
 citation: >
- "Cisco on Trial in Queens," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/cisco-on-trial.
+ "Cisco on Trial in Queens," in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/cisco-on-trial/
 featured: cisco-on-trial.jpg
 featuredAlt: Newspaper clipping
 detailedDescr: 

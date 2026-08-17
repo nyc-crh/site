@@ -10,7 +10,7 @@ displaydate:
 title: "*Jose P. vs. Ambach,* excerpt"
 author: John C. Gray, Esq. and Harold Adler, Esq.
 citation: >
- "*Jose P. vs. Ambach,* excerpt," John C. Gray, Esq. and Harold Adler, Esq., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jose-p-vs-ambach.
+ "*Jose P. vs. Ambach,* excerpt," John C. Gray, Esq. and Harold Adler, Esq., in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jose-p-vs-ambach/
 featured: jose-p-vs-ambach.jpg
 featuredAlt: Legal document
 detailedDescription: 

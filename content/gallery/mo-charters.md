@@ -6,7 +6,7 @@ displaydate:
 title: Mo' Charters Mo' Problems
 author: Max Freedman and Mark Winston Griffith
 citation: >
- "Mo' Charters Mo' Problems," Max Freedman and Mark Winston Griffith, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mo-charters.
+ "Mo' Charters Mo' Problems," Max Freedman and Mark Winston Griffith, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mo-charters/
 featured: audio-recording.jpg
 featuredAlt: Audio recording icon
 detailedDescr: 

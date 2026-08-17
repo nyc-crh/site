@@ -10,7 +10,7 @@ displaydate: "1914"
 title: The Binet-Simon Scale, excerpt
 author: Raymond A. Schwegler
 citation: >
- "The Binet-Simon Scale, excerpt," Raymond A. Schwegler, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/binet-simon.
+ "The Binet-Simon Scale, excerpt," Raymond A. Schwegler, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/binet-simon/
 featured: binet-simon.jpg
 featuredAlt: Text from a manual for the Binet-Simon scale
 detailedDescription: 

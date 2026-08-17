@@ -10,7 +10,7 @@ displaydate:
 title: Parents and Taxpayers March to City Hall on Film
 author: New York Police Department Surveillance Unit
 citation: >
- "Parents and Taxpayers March to City Hall on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/parents-and-taxpayers-march.
+ "Parents and Taxpayers March to City Hall on Film," New York Police Department Surveillance Unit, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/parents-and-taxpayers-march/
 featured: parents-and-taxpayers-march.jpg
 featuredAlt: White women carry signs protesting desegregation
 detailedDescr: 

@@ -6,7 +6,7 @@ displaydate:
 title: The State of the City (excerpt) 
 author: Michael Bloomberg
 citation: >
- "The State of the City (excerpt)," Michael Bloomberg, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/state-of-the-city.
+ "The State of the City (excerpt)," Michael Bloomberg, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/state-of-the-city/
 featured: text-icon.jpg
 featuredAlt: Text icon
 detailedDescr: 

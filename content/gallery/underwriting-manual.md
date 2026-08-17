@@ -10,7 +10,7 @@ displaydate: "1938"
 title: Underwriting Manual, excerpt
 author: Federal Housing Administration
 citation: >
- "Underwriting Manual, excerpt," Federal Housing Administration, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/underwriting-manual.
+ "Underwriting Manual, excerpt," Federal Housing Administration, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/underwriting-manual/
 featured: underwriting-manual.jpg
 featuredAlt: Manual cover page
 detailedDescr: 

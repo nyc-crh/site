@@ -10,7 +10,7 @@ displaydate:
 title: Survey of Blackwell's Island
 author: John S. Van Heorne
 citation: >
- "Survey of Blackwell's Island," John S. Van Heorne, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/blackwells-island.
+ "Survey of Blackwell's Island," John S. Van Heorne, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/blackwells-island/
 featured: blackwells-island.jpg
 featuredAlt: A planning diagram of buildings for housing different groups of people on Blackwell's Island
 detailedDescription: 

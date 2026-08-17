@@ -10,7 +10,7 @@ displaydate: "1964"
 title: A Boycott Solves Nothing
 author: "The *New York Times* Editorial Board"
 citation: >
- "A Boycott Solves Nothing," The New York Times Editorial Board, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/a-boycott-solves-nothing.
+ "A Boycott Solves Nothing," The New York Times Editorial Board, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/a-boycott-solves-nothing/
 featured: a-boycott-solves-nothing.jpg
 featuredAlt: Newspaper clipping
 detailedDescr: 

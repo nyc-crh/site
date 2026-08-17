@@ -10,7 +10,7 @@ displaydate:
 title: New York Kids Jump for Prizes in Double Dutch Tourney
 author: Howie Evans
 citation: >
- "New York Kids Jump for Prizes in Double Dutch Tourney," Howie Evans, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/kids-jump-for-prizes.
+ "New York Kids Jump for Prizes in Double Dutch Tourney," Howie Evans, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/kids-jump-for-prizes/
 featured: kids-jump-for-prizes.jpg
 featuredAlt: Black children jump rope in front of a crowd of seated people. A referree watches closely. 
 detailedDescr: 

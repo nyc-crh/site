@@ -10,7 +10,7 @@ displaydate:
 title: Jim Crow School Kids as Mentally Unfit
 author: Constance Curtis
 citation: >
- "Jim Crow School Kids as Mentally Unfit," Constance Curtis, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jim-crow-school-kids.
+ "Jim Crow School Kids as Mentally Unfit," Constance Curtis, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/jim-crow-school-kids/
 featured: jim-crow-school-kids.jpg
 featuredAlt: Newspaper clipping
 detailedDescription: 
@@ -48,7 +48,7 @@ questions:
 - >
  What does the term “Jim Crow” mean? Why do you think parents were using it here? 
 - >
- What criticisms did the parents have of intelligence tests? What criticisms did they have of how the tests were used in their children’s schools? How did their criticisms compare to those made by [W.E.B. DuBois](/gallery/race-intelligence), [Horace Mann Bond](/topics/seeking-equity/tests-labels-and-segregation), and [Elizabeth Farrell](/gallery/elizabeth-farrell)? 
+ What criticisms did the parents have of intelligence tests? What criticisms did they have of how the tests were used in their children’s schools? How did their criticisms compare to those made by [W.E.B. DuBois](/gallery/race-intelligence), [Horace Mann Bond](/topics/seeking-equity-for-disabled-students/tests-labels-and-segregation), and [Elizabeth Farrell](/gallery/elizabeth-farrell)? 
 - What do you think of the parents’ recommendations? Do you think these ideas would make for a fair educational environment for Disabled and non-disabled students?
 --- 
 

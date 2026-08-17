@@ -10,7 +10,7 @@ displaydate: "1970"
 title: I.S. 55 Graduation Speech
 author: June Jordan
 citation: >
- "I.S. 55 Graduation Speech," June Jordan, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/june-jordan-graduation.
+ "I.S. 55 Graduation Speech," June Jordan, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/june-jordan-graduation/
 featured: june-jordan-graduation.jpg
 featuredAlt: Text excerpt
 detailedDescr: 

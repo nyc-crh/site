@@ -10,7 +10,7 @@ displaydate: "undated"
 title: Memorandum to Counselors
 author: Camp Jened
 citation: >
- "Memorandum to Counselors," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/memorandum-to-counselors.
+ "Memorandum to Counselors," Camp Jened, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/memorandum-to-counselors/
 featured: memorandum-to-counselors.jpg
 featuredAlt: Typed handout for camp counselors
 detailedDescr: 

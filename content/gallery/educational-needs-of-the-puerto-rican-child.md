@@ -10,7 +10,7 @@ displaydate:
 title: The Educational Needs of the Puerto Rican Child, excerpts
 author: United Bronx Parents/Padres Unidos del Bronx
 citation: >
- "The Educational Needs of the Puerto Rican Child, excerpts," United Bronx Parents/Padres Unidos del Bronx, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/educational-needs-of-the-puerto-rican-child.
+ "The Educational Needs of the Puerto Rican Child, excerpts," United Bronx Parents/Padres Unidos del Bronx, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/educational-needs-of-the-puerto-rican-child/
 featured: educational-needs-of-the-puerto-rican-child.jpg
 featuredAlt: Report cover page
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate:
 title: Statement by Martin H. Gerry, Director, Office for Civil Rights, Department of Health, Education, and Welfare, excerpts
 author: U.S. Department of Health, Education, and Welfare, Office of Civil Rights
 citation: >
- "Statement by Martin H. Gerry, Director, Office for Civil Rights, Department of Health, Education, and Welfare, excerpts," US Department of Health, Education, and Welfare, Office of Civil Rights, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hew-report.
+ "Statement by Martin H. Gerry, Director, Office for Civil Rights, Department of Health, Education, and Welfare, excerpts," US Department of Health, Education, and Welfare, Office of Civil Rights, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/hew-report/
 featured: hew-report.jpg
 featuredAlt: Bar chart showing enrollments, suspensions, and suspension days by race
 detailedDescription: 

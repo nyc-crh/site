@@ -10,7 +10,7 @@ displaydate:
 title: A Proposal for an Independent Board of Education in Harlem
 author: Harlem CORE
 citation: >
- "A Proposal for an Independent Board of Education in Harlem," Harlem CORE, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/proposal-independent-boe-harlem.
+ "A Proposal for an Independent Board of Education in Harlem," Harlem CORE, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/proposal-independent-boe-harlem/
 featured: proposal-independent-boe-harlem.jpg
 featuredAlt: First page of a typewritten proposal
 detailedDescr: 

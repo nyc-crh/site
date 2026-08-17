@@ -10,7 +10,7 @@ displaydate:
 title: Mom is Worthy Opponent for State
 author: Lawrie Mifflin
 citation: >
- "Mom is Worthy Opponent for State," Lawrie Mifflin, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mom-worthy-opponent-for-state.
+ "Mom is Worthy Opponent for State," Lawrie Mifflin, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mom-worthy-opponent-for-state/
 featured: mom-worthy-opponent-for-state.jpg
 featuredAlt: Newspaper clipping that includes a photo of Willie Mae Goodman, who is a Black woman, visiting her 18-year old daughter Marguerite in the Gouverneur State School.
 detailedDescr: 

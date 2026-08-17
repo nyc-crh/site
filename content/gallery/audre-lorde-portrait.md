@@ -10,7 +10,7 @@ displaydate: "1981"
 title: Audre Lorde
 author: Joan E. Biren
 citation: >
- "Audre Lorde," Joan E. Biren, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/audre-lorde-portrait.
+ "Audre Lorde," Joan E. Biren, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/audre-lorde-portrait/
 featured: audre-lorde-portrait.jpg
 featuredAlt: Audre Lorde, a Black woman, is seated at a desk in an office surrounded by books and papers. Her face tilts down toward a document she is reading.
 detailedDescr: 

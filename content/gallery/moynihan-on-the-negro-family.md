@@ -10,7 +10,7 @@ displaydate: "1965"
 title: "The Negro Family: The Case for National Action, excerpt"
 author: United States Department of Labor, Office of Policy Planning and Research
 citation: >
- "The Negro Family: The Case for National Action, excerpt," United States Department of Labor, Office of Policy Planning and Research, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-negro-family.
+ "The Negro Family: The Case for National Action, excerpt," United States Department of Labor, Office of Policy Planning and Research, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/the-negro-family/
 featured: moynihan-on-the-negro-family.jpg
 featuredAlt: Black and white photo of Patrick Moynihan
 detailedDescr: 

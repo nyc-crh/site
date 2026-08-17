@@ -10,7 +10,7 @@ displaydate: "Mid-to-late 1960s"
 title: Baseball
 author: Sheldon “Shelly” Koy
 citation: >
- "Baseball" by Sheldon “Shelly” Koy, n.d, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/baseball.
+ "Baseball" by Sheldon “Shelly” Koy, n.d, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/baseball/
 featured: baseball.jpg
 featuredAlt: A young man pitches a ball to a boy sitting in a wheelchair and holding a bat. Other children and young adults look ready to react.
 embed: 

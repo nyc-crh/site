@@ -10,7 +10,7 @@ displaydate:
 title: Denise Oliver
 author: Jesse Steve Rose
 citation: >
- "Denise Oliver," Jesse Steve Rose, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/denise-oliver.
+ "Denise Oliver," Jesse Steve Rose, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/denise-oliver/
 featured: denise-oliver.jpg
 featuredAlt: A young black woman with a somber expression wearing a beret with political buttons and a leather jacket. She's holding a disposable coffee cup and a cigarette.
 detailedDescr: 

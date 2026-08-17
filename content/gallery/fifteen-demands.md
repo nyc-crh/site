@@ -10,7 +10,7 @@ displaydate: "1969"
 title: Fifteen Demands of Black and Puerto Rican Students
 author: Black and Puerto Rican Citywide High School Committee
 citation: >
- "Fifteen Demands of Black and Puerto Rican Students," Black and Puerto Rican Citywide High School Committee, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/fifteen-demands.
+ "Fifteen Demands of Black and Puerto Rican Students," Black and Puerto Rican Citywide High School Committee, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/fifteen-demands/
 featured: fifteen-demands.jpg
 featuredAlt: A typewritten list of demands of Black and Puerto Rican high-school students
 detailedDescr: 

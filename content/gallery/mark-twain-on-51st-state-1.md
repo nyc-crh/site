@@ -10,7 +10,7 @@ displaydate: "1974"
 title: Mark Twain on The 51st State, excerpt 1
 author: "WNET/Channel 13: The 51st State"
 citation: >
- "Mark Twain on The 51st State, excerpt 1," "WNET/Channel 13: The 51st State", in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mark-twain-on-51st-state-1.
+ "Mark Twain on The 51st State, excerpt 1," "WNET/Channel 13: The 51st State", in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/mark-twain-on-51st-state-1/
 featured: mark-twain-on-51st-state-1.jpg
 featuredAlt: Still image from a video news report showing students walking around the front entrance of Mark Twain Junior High School
 detailedDescr: 

@@ -10,7 +10,7 @@ displaydate:
 title:  Real Message of the Moynihan Report
 author: Whitney Young
 citation: >
- "Real Message of the Moynihan Report," Whitney Young, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/real-message-of-the-moynihan-report.
+ "Real Message of the Moynihan Report," Whitney Young, in New York City Civil Rights History Project, Accessed: [Month Day, Year], https://nyccivilrightshistory.org/gallery/real-message-of-the-moynihan-report/
 featured: real-message-of-the-moynihan-report.jpg
 featuredAlt: 
 detailedDescr: 
