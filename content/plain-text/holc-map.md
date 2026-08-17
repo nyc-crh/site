@@ -26,7 +26,7 @@ d. Percentage of land improved 85%; e. Res 55%. Trend of desirability next 10-15
 2. INHABITANTS: Merchants, shop
 a. Occupation keepers, laborers ; b. Estimated annual family income $!800-2500
 c. Foreign-born families_75 4%; Jowish - Italian predominating; d. Negro ~°8 2 4
-e. Infiltration of Jewish - Italian ; f£. Relief families Many,
+e. Infiltration of Jewish - Italian ; f£. Relief families Many
 g. Population is increasing ; decreasing > static eS
 BUILDINGS :
 
