@@ -49,7 +49,7 @@ questions:
 - >
  One of the fliers calls for unity, including “candy store owners, beauticians, barbers, restaurants, street gangs, organized black community youth, welfare, black community fathers and mothers, pool hall managers.” Why do you think this call for unity was important, and why did they mention these groups in particular?
 - >
- How does this example of Black educational activism organized by the Black Panther Party compare to the [1964](/topics/boycotting-ny-schools/1964-boycotts/school-boycott/) and [1965](topics/boycotting-ny-schools/1965-boycott/boycott-hits-problem-school) school boycotts?
+ How does this example of Black educational activism organized by the Black Panther Party compare to the [1964](/topics/boycotting-ny-schools/1964-boycotts/school-boycott/) and [1965](/topics/boycotting-ny-schools/1965-boycott/boycott-hits-problem-school) school boycotts?
 - What connections do you see between the Panther’s 1966 boycott and the present day?
 --- 
 

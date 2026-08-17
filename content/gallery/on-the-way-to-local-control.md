@@ -30,7 +30,7 @@ relLink:
 eventname: Preston Wilcox advocates for community control of schools.
 caption: Preston Wilcox advocated for local, community-controlled schools by comparing community control with centralized school governance. 
 archive_source: Preston Wilcox Papers
-source_link: Preston Wilcox Papers
+source_link: https://archives.nypl.org/scm/20926
 copyright: Under copyright
 categories: 
 - K-12 organizing

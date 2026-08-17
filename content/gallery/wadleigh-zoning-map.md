@@ -29,7 +29,7 @@ eventname: The NYC Board of Education draws school zones to segregate Wadleigh a
 caption: This map shows the New York Board of Education’s 1930s-1940s school zone for Wadleigh High School and US Census data for the area’s racial population as of 1940.
 archive_source: >
  Data for this map comes from David Ment, “Racial Segregation in the Public Schools of New England and New York, 1840-1940,” (Dissertation: Teachers College, Columbia University), 256 and Social Explorer; U.S. Census Bureau. Total Population: White; Total Population: Black, 1940. Prepared by Social Explorer. www.socialexplorer.com (accessed October 30 2021).
-source_link: www.socialexplorer.com
+source_link: https://www.socialexplorer.com
 copyright: Public domain
 categories: 
 - Manhattan

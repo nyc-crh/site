@@ -1,7 +1,7 @@
 ---
 title: Underwriting Manual, excerpt (text)
 layout: plain-text
-draft: true
+draft: false
 ---
 
 ## Underwriting Manual

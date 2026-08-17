@@ -4,63 +4,26 @@ layout: plain-text
 draft: true
 ---
 
-Page # 1
-GOVEENMENT
-ateeanon
-
-RESIDENTIAL SECURITY MAP *
-SLEGEND =
-Gk rinst crave
-G6 secono crace
-(Sc rar crave
-FOURTH GRADE
-
-Veo
-
-Sa
-
-z —
-7 ciel -" -
-Armin. 1038 a
-
-Cavern by WACSROM CSDANT. NE NE Mae Mitry Me
-
 HAGSTROM'S
 Map of
-
 BROOKLYN
-
 NEW YORK CITY
 
 HOUSE NUMBER
-
 AND
-
-PIPITRIDE Sec cececescens
+TRANSIT GUIDE
 
 Page # 2
+Form 8
+10-1-37
+AREA DESCRIPTION - SECURITY MAP OF New York City, N.Y.
 
-FORM 8 @
-10~1-37 '
-
-AREA DESCRIPTION - SECURITY MAP oFNCW York City, N.Y.
-
-AREA CHARACTERISTICS:
+1. AREA CHARACTERISTICS:
 a. Description of Terrain. Flat
-
-b. Favorable Influences. All city facilitios. Good transportation. Occan
-bathing bonache
-
-c. Detrimental Influences. Business and residence intermingled. Mixed population.
-Surrounded by a large amusement center with consequent
-
-- noise, crowds, and confusion. Congestion in summer.
-
-d. Percentage of land improved %; e. Trend of desirability next 10-15 yrs. -v2t#°
-
-Rose 55% __
-
-INHABITANTS: Merchants, shop
+b. Favorable Influences. All city facilities. Good transportation. Ocean bathing beach.
+c. Detrimental Influences. Business and residence intermingled. Mixed population. Surrounded by a large amusement center with consequent noise, crowds, and confusion. Congestion in summer.
+d. Percentage of land improved 85%; e. Res 55%. Trend of desirability next 10-15 yrs. Static
+2. INHABITANTS: Merchants, shop
 a. Occupation keepers, laborers ; b. Estimated annual family income $!800-2500
 c. Foreign-born families_75 4%; Jowish - Italian predominating; d. Negro ~°8 2 4
 e. Infiltration of Jewish - Italian ; f£. Relief families Many,

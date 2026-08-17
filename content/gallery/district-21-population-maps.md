@@ -30,7 +30,7 @@ relLink:
 eventname: US Census data shows segregation in Brooklyn’s Community School District 21.
 caption: These maps illustrate the population of Brooklyn’s Community School District 21, which includes the Coney Island and Brighton Beach neighborhoods of Brooklyn, and shows the junior high (or intermediate) schools within the district. The data comes from the 1970 US Census.
 archive_source: Social Explorer, (based on data from U.S. Census Bureau; accessed July 2022).
-source_link: www.socialexplorer.com
+source_link: https://www.socialexplorer.com
 copyright: Public domain
 categories: 
 - Brooklyn

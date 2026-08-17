@@ -1,7 +1,7 @@
 ---
 title: “*Hart v. Community School Board 21*, excerpt 1” (text)
 layout: plain-text
-draft: true
+draft: false
 ---
 Hart v. Community School Bd., 383 F. Supp. 699
 U.S. District Court for the Eastern District of New York, April 2, 1974

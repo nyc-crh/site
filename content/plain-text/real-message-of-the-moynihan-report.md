@@ -1,7 +1,7 @@
 ---
 title:  Real Message of the Moynihan Report (text)
 layout: plain-text
-draft: true
+draft: false
 ---
 
 To Be Equal
