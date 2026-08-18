@@ -24,7 +24,7 @@
     "fuse.js": "^6.6.2",
     "hugo-installer": "^4.0.1",
     "postcss": "^8.4.24",
-    "postcss-cli": "^10.1.0"
+    "postcss-cli": "^11.0.1"
   },
   "devDependencies": {
     "linkinator": "^8.0.4"
