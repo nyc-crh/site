@@ -29,7 +29,7 @@ eventname: Social welfare reformers create institutions for the poor, like hospi
 caption: >
  A map of Blackwell's Island (now called Roosevelt Island), Wards Island, and Randall's Island in the East River. The map shows buildings labeled: "Hospital," "Alms Houses," "Work House," "Lunatic Asylum," "Emigrant Refuge & Hosp.," "Inebriate Asylum," "Foundling Asylum” (for infant children), "House of Refuge," and "Idiot Asylum."
 archive_source: David Rumsey Historical Map Collection
-source_link: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31479~1150435:New-York-N-
+source_link: https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~31479~1150435:New-York-N---North-
 copyright: Public domain
 categories: 
 - Manhattan
