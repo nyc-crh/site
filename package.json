@@ -27,8 +27,7 @@
     "postcss-cli": "^10.1.0"
   },
   "devDependencies": {
-    "linkinator": "^8.0.4",
-    "npm-check": "^6.0.1"
+    "linkinator": "^8.0.4"
   },
   "otherDependencies": {
     "hugo": "0.114.0"
@@ -38,7 +37,8 @@
     "flatted": "^3.2.7",
     "minimatch": "^3.1.2",
     "js-yaml": "^4.1.0",
-    "semver": "^7.5.2"
+    "semver": "^7.5.2",
+    "decompress": "npm:@xhmikosr/decompress@^11.1.3"
   },
   "allowScripts": {
     "nanoid@3.3.18": true,
