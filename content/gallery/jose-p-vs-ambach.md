@@ -28,7 +28,7 @@ closeRdLink:
 eventname: New York City parents file suit to get access to schooling for Disabled students. 
 caption: A group of New York City parents sought legal help and sued to stop the New York City Board of Education from excluding their Disabled children from school.
 archive_source: Advocates for Children of New York 
-source_link: https://advocatesforchildren.org/policy-resource/jose-p/
+source_link: https://www.advocatesforchildren.org/
 copyright: Public domain
 categories: 
 - Bronx
@@ -58,7 +58,7 @@ That’s what happened in New York City with a new piece of legislation about Di
 
 But as of 1979, there were thousands of Disabled students in New York City who had asked for access to education in New York and nothing had happened.
 
-A group of parents in the Bronx and Manhattan found lawyers from Brooklyn who helped them bring a lawsuit. This document shows excerpts from their formal legal complaint. It explains how the parents and their children argued that New York education officials, including the Board of Education, were violating the law. [(Here is more information about the complaint, as preserved by Advocates for Children.)](https://advocatesforchildren.org/policy-resource/jose-p/)
+A group of parents in the Bronx and Manhattan found lawyers from Brooklyn who helped them bring a lawsuit. This document shows excerpts from their formal legal complaint. It explains how the parents and their children argued that New York education officials, including the Board of Education, were violating the law. [(Here is more information about the complaint, as preserved by Advocates for Children.)](https://www.advocatesforchildren.org/)
 
 Lawsuits aren’t always successful, but this one was. Federal Judge Eugene Nickerson ordered the Board of Education to locate, evaluate, and create placements for New York’s Disabled students. He required the Board of Education to design processes to ensure that students were evaluated and placed in the “free appropriate public education” that the law provided them.[^1]  
 
@@ -66,4 +66,4 @@ The *José P. v. Ambach* case continued for decades, as many Disabled students c
 
 The *José P. v. Ambach* case affected tens thousands of New York students immediately, and millions since. But it is known by the name of one child – José P. Unfortunately, we know very little about José P.’s life before or after he was involved in this case. What did he think of having been excluded from school, and of his family members’ effort to get him access to education? What schooling did he receive after the case? What did he look like, and how did he communicate? There are many thousands of pages of documents related the legal case called *José P. v. Ambach*, but no images and very few details about José P. as a person. The difficulty of finding José P. in history is one example of a broader problem. Existing historical records make it difficult to see, hear, and understand Disabled people’s lives as they lived and understood them.  
 
-[^1]: Jose P. v. Ambach, 557 F. Supp. 1230 (E.D.N.Y. 1983), [https://advocatesforchildren.org/policy-resource/jose-p/](https://advocatesforchildren.org/policy-resource/jose-p/).
+[^1]: Jose P. v. Ambach, 557 F. Supp. 1230 (E.D.N.Y. 1983), [https://www.advocatesforchildren.org/](https://www.advocatesforchildren.org/).
