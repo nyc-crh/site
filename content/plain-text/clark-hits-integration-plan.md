@@ -1,7 +1,7 @@
 ---
 title: Clark Hits Integration Plan at Mark Twain JHS
 layout: plain-text
-draft: true
+draft: false
 ---
 
 ## Clark hits integration plan at Mark Twain JHS
