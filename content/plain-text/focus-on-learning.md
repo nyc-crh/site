@@ -40,27 +40,36 @@ JAY GOTTLIEB Prcfessor of Special Education, NYU School of Education
 
 Support for this report was provided by the W. T. Grant Foundation
 
-Table of Contents
-| |Executive Summary|i|
-|I.|Introduction|1|
-|II.|Why the Current System Doesn't Work|11|
-|III.|Guiding Assumptions|18|
-|IV.|The School-Based Model|20|
-|V.|Implications for High Schools|34|
-|VI.|Implications for District 75/Citywide Programs|37|
-|VII.|Implications for Pre-Schools|40|
-|VIII.|Conclusion|44|
+### Table of Contents
 
-Notes
-|Accountability|51|
-|Federal and State Requirements and Other Legal Issues|53|
-|Funding and Cost Savings|56|
-|Transition|62|
+| Section | Chapter | Page |
+| :--- | :--- | :--- |
+| | Executive Summary | i |
+| I. | Introduction | 1 |
+| II. | Why the Current System Doesn't Work | 11 |
+| III. | Guiding Assumptions | 18 |
+| IV. | The School-Based Model | 20 |
+| V. | Implications for High Schools | 34 |
+| VI. | Implications for District 75/Citywide Programs | 37 |
+| VII. | Implications for Pre-Schools | 40 |
+| VIII. | Conclusion | 44 |
 
-Appendices
-|Appendix A: Public Reaction to *Focus on Learning*|*Appendix-1*|
-|Appendix B: A Legal Analysis of *Focus on Learning* Perry A. Zirkel, University Professor of Law and Education, Lehigh University|*Appendix-24*
-|Appendix C: Review of Financing Dimensions from *Focus on Learning* Thomas B. Parrish, Co-Director of the Center for Special Education Finance, The American Institutes for Research, Palo Allo, California |*Appendix-35*
+### Notes
+
+| Topic | Page |
+| :--- | :--- |
+| Accountability | 51 |
+| Federal and State Requirements and Other Legal Issues | 53 |
+| Funding and Cost Savings | 56 |
+| Transition | 62 |
+
+### Appendices
+
+| Appendix | Page |
+| :--- | :--- |
+| Appendix A: Public Reaction to *Focus on Learning* | *Appendix-1* |
+| Appendix B: A Legal Analysis of *Focus on Learning* (Perry A. Zirkel, University Professor of Law and Education, Lehigh University) | *Appendix-24* |
+| Appendix C: Review of Financing Dimensions from *Focus on Learning* (Thomas B. Parrish, Co-Director of the Center for Special Education Finance, American Institutes for Research) | *Appendix-35* |
 
 *Focus on Learning: A Report on Reorganizing General and Special Education in New York City*
 © 1995 by the Institute for Education and Social Policy of New York University, 285 Mercer Street, New York, New York 10003 (212) 998-5880

@@ -45,19 +45,18 @@ I. The major findings of Part I are summarized below. To facilitate the comparis
 
 Table. JHS Achievement (continued)
 
-|   |Elementary Schools|    |   | Junior high schools  |
-|---|---|---|---|---|
-|   |Group A|Group B|Group A|Group B|
-|Average arithmetic test scores for school| |   |   |   |
-|  Sixth grade|6.4|4.8| — | — |
-|  Eighth grade| — | — |8.7|6.0|
-|Average reading test scores (third grade) per school with| |   |   |   |
-|  0% free lunch|3.8| — | — | — |
-|  1-2% free lunch|3.8| — | — | — |
-|  3% free lunch|3.5| — | — | — |
-|  5% or more free lunch|3.3| — | — | — |
-|  11-32% free lunch| — |2.6| — | — |
-|  33-89% free lunch| — |2.3| — | — |
+| Metric | Elementary: Group A | Elementary: Group B | JHS: Group A | JHS: Group B |
+| :--- | :--- | :--- | :--- | :--- |
+| **Average arithmetic test scores for school:** | | | | |
+| &emsp;Sixth grade | 6.4 | 4.8 | — | — |
+| &emsp;Eighth grade | — | — | 8.7 | 6.0 |
+| **Average reading test scores (third grade) per school with:** | | | | |
+| &emsp;0% free lunch | 3.8 | — | — | — |
+| &emsp;1–2% free lunch | 3.8 | — | — | — |
+| &emsp;3% free lunch | 3.5 | — | — | — |
+| &emsp;5% or more free lunch | 3.3 | — | — | — |
+| &emsp;11–32% free lunch | — | 2.6 | — | — |
+| &emsp;33–89% free lunch | — | 2.3 | — | — |
 
 This is the overall picture; the quality of educational facilities in Group B schools is inferior, although less markedly so on the junior high school level than that in Group A schools. Group B schools are older. Fewer of them are fireproof. Though they are larger, they provide less space for child, indoors and outdoors—in other words they are overcrowded. Group B schools are less well-equipped than Group A schools; they have less experienced faculties;  expenditures per child or lower and Group B schools. Achievement school scores are lower in Group B schools.
 

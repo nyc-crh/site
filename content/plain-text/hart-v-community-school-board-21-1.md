@@ -30,6 +30,7 @@ To put the racial imbalance at Mark Twain in perspective, we must examine the ex
 …
 
 | Schools in District 21 | 1973-1974 Utilization Rate |
+| :--- | :--- |
 | J.H.S. 239 (Mark Twain) | 41% |
 | J.H.S. 228 | 100% |
 | J.H.S. 43 | 80% |

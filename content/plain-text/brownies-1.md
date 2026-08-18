@@ -21,7 +21,7 @@ Vol. 1, January, 1920. No. 1
 |Frontispiece-The Empress Zaouditou|2   |
 |Pumpkin Land, A story. *Peggy Poe*, Illustrated by *Hilda Wilkinson*|3 |
 |The Wishing Game. A poem. *Annette Browne*|7   |
-|The Origin of White Folks. A poem. *Annie Virginia Culbertson| 7|
+|The Origin of White Folks. A poem. *Annie Virginia Culbertson*| 7|
 |A Boy Scout Troop of Philadelphia. A picture|  8|
 |Over the Ocean Wave. A Geography Story. Illustrated|   9|
 |Whole Duty of Children. A Poem. Reprinted from *Robert Louis Stevenson.*|  10|

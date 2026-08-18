@@ -52,14 +52,14 @@ As of September 11, 1958, the average percentage of vacancies in the "X" schools
 
 ## Vacancies in "X" [over 85% Negro and Puerto Rican students] and "Y" \[over 85% white students\] schools
 
-|   |  X schools| | Y schools | |
-|---|---|---|---|---
-| | Number of schools | % \[of faculty positions that are vacant of filled by unlicensed teachers\]| Number of schools | % \[of faculty positions that are vacant of filled by unlicensed teachers\]|
-|Manhattan  |7  |48.8   |2  |28|
-|Brooklyn   |3  |55.0   |22 |31.6|
-|Queens |2  |33.0   |18 |27.8|
-|Bronx  |4  |55.0   |10 |29.0|
-|Total  |16 |49.5   |52 |29.6|
+| Borough | "X" Schools (Count) | "X" Schools (% Vacancies / Unlicensed) | "Y" Schools (Count) | "Y" Schools (% Vacancies / Unlicensed) |
+| :--- | :--- | :--- | :--- | :--- |
+| **Manhattan** | 7 | 48.8% | 2 | 28.0% |
+| **Brooklyn** | 3 | 55.0% | 22 | 31.6% |
+| **Queens** | 2 | 33.0% | 18 | 27.8% |
+| **Bronx** | 4 | 50.5% | 9 | 23.5% |
+| **Richmond** | 0 | 0% | 1 | 32.4% |
+| **Total** | 16 | 49.5% (average) | 52 | 29.6% (average) |
 
 ***
 

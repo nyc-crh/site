@@ -731,3 +731,33 @@ a.px-2.nav-link:hover {
 div.footnotes hr {
     display: none;
 }
+
+table {
+    width: 100%;
+    margin-top: 1.5rem;
+    margin-bottom: 2rem;
+    border-collapse: collapse;
+    font-size: 1.05rem;
+    line-height: 1.5;
+
+    th, td {
+        padding: 0.6rem 0.85rem;
+        vertical-align: top;
+        border: 1px solid #dee2e6;
+    }
+
+    th {
+        background-color: #f1f3f5;
+        font-weight: 600;
+        color: #212529;
+        text-align: left;
+    }
+
+    tr:nth-child(even) td {
+        background-color: #f8f9fa;
+    }
+
+    tr:hover td {
+        background-color: #edf2f7;
+    }
+}
