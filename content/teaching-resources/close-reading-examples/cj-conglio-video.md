@@ -17,4 +17,4 @@ videoAslTitle: >
  CJ Conglio reads "S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY" (ASL)
 --- 
  
-CJ Conglio does a close reading of [S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY](/gallery/sofedup-handbook)
+CJ Conglio does a close reading of [S.O. F.E.D. U.P. Handbook for the Disabled Students of Brooklyn College, CUNY](/gallery/sofedup-handbook/)

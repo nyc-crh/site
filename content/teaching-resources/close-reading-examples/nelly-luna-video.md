@@ -14,4 +14,4 @@ videoAsl:
 videoAslTitle: East Luna reads “We Demand” (ASL)
 --- 
  
-East Luna does a close reading of [“We Demand”](/gallery/we-demand)
+East Luna does a close reading of [“We Demand”](/gallery/we-demand/)

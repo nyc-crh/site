@@ -48,7 +48,7 @@ tags:
 questions: 
 - How did these student activists' demands compare to those of adults advocating for community control? Where were they similar and where were they different?
 - Which of these demands feel like they still apply today, and which no longer apply to schools, in your view? 
-- Do you agree with the 14th demand? Would this structure be helpful in your school? How would it be similar to or different from the governance structure of the [community control districts](/topics/who-governs-schools/community-control)?
+- Do you agree with the 14th demand? Would this structure be helpful in your school? How would it be similar to or different from the governance structure of the [community control districts](/topics/who-governs-schools/community-control/)?
 --- 
  
 {{< in-progress >}}

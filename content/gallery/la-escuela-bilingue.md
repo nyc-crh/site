@@ -50,7 +50,7 @@ tags:
 - the arts
 questions: 
 - Do you think P.S. 25 met its goal of celebrating the Spanish language and Latinx cultures? What evidence can you find in the article? 
-- Parents at the school are mentioned in both the text and the article. How does this article’s discussion of parents compare to the approach to parents taken in [A Day’s Work in a New York Public School](/gallery/a-days-work)?
+- Parents at the school are mentioned in both the text and the article. How does this article’s discussion of parents compare to the approach to parents taken in [A Day’s Work in a New York Public School](/gallery/a-days-work/)?
 - The education provided at P.S. 25 appears to be an early example of what educators today call “culturally sustaining pedagogy,” or teaching that respects and builds on the cultures that children bring with them to school. Has your school been culturally sustaining for you? What suggestions do you have to make it more so?
 --- 
 
@@ -60,7 +60,7 @@ Many Puerto Rican families migrating to New York from the island in the 1950s an
 
 How did New York City’s schools respond? Too many schools thought of [students’ native Spanish language](/gallery/puerto-ricans/) as a deficit rather than as an asset. But small groups of educators and parents in neighborhoods with large Puerto Rican populations created ways to help students learn English and adjust to their new home while maintaining their Spanish language and celebrating their home culture.
 
-One of the first of these new Spanish-English bilingual schools in the US opened in the South Bronx during the decentralization period. Community School District 7 supported the creation of the new school. Evelina López Antonetty and the organization she founded, [United Bronx Parents](/topics/black-latina-women/united-bronx-parents), also supported the effort. Community School District 4 in East Harlem, where many Puerto Ricans lived, also developed bilingual education programs.[^1]  
+One of the first of these new Spanish-English bilingual schools in the US opened in the South Bronx during the decentralization period. Community School District 7 supported the creation of the new school. Evelina López Antonetty and the organization she founded, [United Bronx Parents](/topics/black-latina-women/united-bronx-parents/), also supported the effort. Community School District 4 in East Harlem, where many Puerto Ricans lived, also developed bilingual education programs.[^1]  
 
 A small Spanish language newspaper, *Noticias del Mundo*, published this article about the school. Historian Laura J. Kaplan located this article in her research on bilingual education at P.S. 25.[^2]
 

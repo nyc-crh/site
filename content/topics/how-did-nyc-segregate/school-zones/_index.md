@@ -22,7 +22,7 @@ How did that come to be? Doris Hart, mother of Mark Twain student Jeffery Hart, 
 
 In January 1974, the United States District Court of the Eastern District of New York issued its ruling in *Hart.*[^3] Judge Weinstein found that housing segregation led to school segregation, but also that the school district’s decisions about school zones made segregation worse. Zones were the geographical areas where students who attended a given school lived. Zones were lines on a map that the school district had the power to change if it wanted. The district could draw zone lines that included white, Black, and Puerto Rican neighborhoods, for example.
 
-Judge Weinstein ordered that the district change its school zones, cooperate with housing officials, and otherwise work to achieve a larger white enrollment at Mark Twain. But he later narrowed the scope of his original decision and agreed instead to [a proposal that turned Mark Twain into a “gifted and talented” school](/gallery/mark-twain-on-51st-state-3). He thought this would attract white families to the school and therefore desegregate it.
+Judge Weinstein ordered that the district change its school zones, cooperate with housing officials, and otherwise work to achieve a larger white enrollment at Mark Twain. But he later narrowed the scope of his original decision and agreed instead to [a proposal that turned Mark Twain into a “gifted and talented” school](/gallery/mark-twain-on-51st-state-3/). He thought this would attract white families to the school and therefore desegregate it.
 
 [^1]:  Hart v. Community Sch. Bd. of Brooklyn, NY Sch. D. 21, 383 F. Supp. 699 (E.D.N.Y. 1974)
 

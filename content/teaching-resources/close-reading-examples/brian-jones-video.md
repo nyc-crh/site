@@ -14,4 +14,4 @@ videoAsl:
 videoAslTitle: Brian Jones reads "A Boycott Solves Nothing"(ASL)
 --- 
 
-Brian Jones does a close reading of [“A Boycott Solves Nothing”](/gallery/a-boycott-solves-nothing)
+Brian Jones does a close reading of [“A Boycott Solves Nothing”](/gallery/a-boycott-solves-nothing/)

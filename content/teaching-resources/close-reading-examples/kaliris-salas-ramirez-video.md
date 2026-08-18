@@ -14,4 +14,4 @@ videoAsl:
 videoAslTitle: Kaliris Salas-Ramirez reads “We’d Rather Go to Jail” (ASL)
 --- 
  
-Kaliris Salas-Ramirez does a close reading of [“We’d Rather Go to Jail”](/gallery/rather-go-to-jail)
+Kaliris Salas-Ramirez does a close reading of [“We’d Rather Go to Jail”](/gallery/rather-go-to-jail/)

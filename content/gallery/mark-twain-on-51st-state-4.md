@@ -50,7 +50,7 @@ tags:
 - ableist ideas
 - democracy
 questions: 
-- How do the attitudes expressed by white parents in this section of the video compare to those in other excerpts of the video? How do the attitudes reflect other ideas or policies that you have encountered in [this collection of documents](/topics/how-did-nyc-segregate)? 
+- How do the attitudes expressed by white parents in this section of the video compare to those in other excerpts of the video? How do the attitudes reflect other ideas or policies that you have encountered in [this collection of documents](/topics/how-did-nyc-segregate/)? 
 - The video closes with comments from two parents - one white and one Black. How do their opinions differ? Do these two arguments continue to exist today? Who holds them, and why? 
 - Black activist Stokely Carmichael, like [other community control activists](/topics/who-governs-schools/community-control/), focused less on desegregation and more on the importance of Black communities having control over their own schools. What do you think Carmichael would have said if he had seen this film from Community School District 21? 
 --- 

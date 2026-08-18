@@ -49,7 +49,7 @@ questions:
 - >
  One of the fliers calls for unity, including “candy store owners, beauticians, barbers, restaurants, street gangs, organized black community youth, welfare, black community fathers and mothers, pool hall managers.” Why do you think this call for unity was important, and why did they mention these groups in particular?
 - >
- How does this example of Black educational activism organized by the Black Panther Party compare to the [1964](/topics/boycotting-ny-schools/1964-boycotts/school-boycott/) and [1965](/topics/boycotting-ny-schools/1965-boycott/boycott-hits-problem-school) school boycotts?
+ How does this example of Black educational activism organized by the Black Panther Party compare to the [1964](/topics/boycotting-ny-schools/1964-boycotts/school-boycott/) and [1965](/topics/boycotting-ny-schools/1965-boycott/boycott-hits-problem-school/) school boycotts?
 - What connections do you see between the Panther’s 1966 boycott and the present day?
 --- 
 
@@ -63,6 +63,6 @@ When Intermediate School 201 opened in the fall of 1966, the Black Panther Party
 
 [^1]: To read more, see "Black Power," in *#SchomburgSyllabus*, ed. Schomburg Center for Research in Black Culture, [https://www.nypl.org/schomburgsyllabus/black-panther-party](https://www.nypl.org/schomburgsyllabus/black-panther-party).
 
-[^2]: [Black Panther Party letter about Operation Shut Down](/topics/boycotting-ny-schools/black-panthers/black-panthers-2).
+[^2]: [Black Panther Party letter about Operation Shut Down](/topics/boycotting-ny-schools/black-panthers/black-panthers-2/).
 
 [^3]: Black Panther Party, Harlem Branch, ”All Power to the People,” undated, Black Panther Party Harlem Branch Files, Schomburg Center for Research in Black Culture, New York Public Library, Box 1, Folder 8, [https://archives.nypl.org/scm/20948](https://archives.nypl.org/scm/20948).

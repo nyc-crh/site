@@ -49,7 +49,7 @@ questions:
 - How did the community control district on the Lower East Side, called Two Bridges, differ from those in East Harlem and Brooklyn? 
 - What challenges did Goldie Chu face in her activism? How did she respond to them? 
 - How did participating in the community control district impact Goldie Chu’s later work? 
-- How does this photograph of activist Goldie Chu compare to other portraits and photographs of activists on this site, like [William Maxwell](/gallery/william-maxwell) and [Black and Latina Women](/topics/black-latina-women/)?
+- How does this photograph of activist Goldie Chu compare to other portraits and photographs of activists on this site, like [William Maxwell](/gallery/william-maxwell/) and [Black and Latina Women](/topics/black-latina-women/)?
 --- 
  
 {{< in-progress >}}

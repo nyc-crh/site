@@ -48,7 +48,7 @@ questions:
 - >
  DuBois points out one kind of question on the IQ test and implies - but does not state why - it is unfair. Why is it unfair to ask test takers to “complete pictures where the net was missing in the tennis court or the ball in the bowling alley”?  
 - >
- What criticisms do you have of the other items on the [test](/gallery/army-test)?
+ What criticisms do you have of the other items on the [test](/gallery/army-test/)?
 --- 
 
 Scholar W.E.B. DuBois was an editor of *The Crisis*, a magazine of the National Association for the Advancement of Colored People (or NAACP). DuBois wrote a short editorial in the magazine, responding to claims that intelligence test scores showed Black people to be less intelligent than white people.
