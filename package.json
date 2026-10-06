@@ -27,7 +27,7 @@
     "postcss-cli": "^10.1.0"
   },
   "devDependencies": {
-    "linkinator": "^8.0.4"
+    "linkinator": "^8.1.0"
   },
   "otherDependencies": {
     "hugo": "0.114.0"
