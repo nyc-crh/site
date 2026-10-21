@@ -44,7 +44,7 @@
     "source-map-js": "^1.2.0",
     "http-cache-semantics": "^4.1.1",
     "brace-expansion": "^2.0.1",
-    "postcss-selector-parser": "^6.1.2"
+    "postcss-selector-parser": "^7.1.6"
   },
   "allowScripts": {
     "nanoid@3.3.18": true,
